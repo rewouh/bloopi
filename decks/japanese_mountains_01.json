@@ -1,0 +1,44 @@
+{
+  "id": "japanese_mountains_01",
+  "name": "Japanese Mountains 01",
+  "description": "Important geography, culture, risks, and natural facts about Japanese mountains",
+  "author": "Pierre",
+  "items": [
+    {
+      "id": "japanese_mountains_01_percent_mountainous",
+      "title": "percentage of Japan covered by mountains",
+      "answers": ["73%", "73 percent", "around 73%"],
+      "mnemonic": "They are pretty unlucky, they got earthquakes, tsunamis, tropical storms and nearly three quarters of the country is mountainous! How did they make it?"
+    },
+    {
+      "id": "japanese_mountains_01_mt_fuji_height",
+      "title": "height of Mount Fuji",
+      "answers": ["3776 meters", "3776m", "3,776 meters"],
+      "mnemonic": "Fuji stands at 3-7-7-6. Imagine climbing stairs labeled 3 → 7 → 7 → 6 leading directly to the highest viewpoint in Japan. Yup, four steps is all it takes."
+    },
+    {
+      "id": "japanese_mountains_01_second_highest_mountain",
+      "title": "second highest mountain in Japan",
+      "answers": ["mount kita", "kita", "mount kita-dake", "kita-dake"],
+      "mnemonic": "Fuji is first. Kita is jealous so he eats kitkats."
+    },
+    {
+      "id": "japanese_mountains_01_fuji_active",
+      "title": "is Mount Fuji active or extinct",
+      "answers": ["active", "an active volcano"],
+      "mnemonic": "Fuji is sleeping, not dead. Imagine the mountain with one eye open while Tokyo nervously watches from afar."
+    },
+    {
+      "id": "japanese_mountains_01_three_holy_mountains",
+      "title": "what are the three holy mountains of Japan ?",
+      "answers": ["Fuji Haku Tate", "Fuji, Haku, Tate", "Fuji, Haku and Tate"],
+      "mnemonic": "Forming the Holy Trio : Fuji Haku Tate (same letters!)."
+    },
+    {
+      "id": "japanese_mountains_01_volcanic_percentage",
+      "title": "percentage of the world's active volcanoes located in Japan",
+      "answers": ["10%", "10 percent", "around 10%"],
+      "mnemonic": "Picture all the volcanoes in the world erupting at the same time, Japan would be in way more trouble than everyone with 10% of all volcanoes!"
+    }
+  ]
+}

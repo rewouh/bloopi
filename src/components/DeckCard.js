@@ -16,13 +16,10 @@ export function DeckCard({ deck, progress, onAdd, onRemove, onPreview }) {
   return html`
     <article class="deck-card deck-card--clickable" onClick=${onPreview}>
       <header class="deck-header">
-        <div>
-          <strong>${deck.name}</strong>
-          ${deck.author && html`<div class="deck-author">by ${deck.author}</div>`}
-        </div>
-        <div class="deck-header-meta">
+        <strong>${deck.name}</strong>
+        <div class="deck-header-sub">
           ${newCount > 0 && html`<span class="deck-new-badge">${newCount} new</span>`}
-          <small>${items.length} items</small>
+          <small>${items.length} item${items.length !== 1 ? 's' : ''}${deck.author ? ` · by ${deck.author}` : ''}</small>
         </div>
       </header>
       <p>${deck.description}</p>

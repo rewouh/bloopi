@@ -324,7 +324,9 @@ article:not(.stat-card):hover { transform: translateY(-4px); box-shadow: 0 12px 
   border-color: #dc2626 !important; box-shadow: none !important;
 }
 .deck-remove-yes:hover { background: #b91c1c !important; transform: translateY(-2px) !important; }
-.deck-header { background: linear-gradient(135deg,var(--c-purple),var(--c-sky)); margin: -1rem -1rem .75rem; padding: .8rem 1rem; display: flex; justify-content: space-between; align-items: center; }
+.deck-header { background: linear-gradient(135deg,var(--c-purple),var(--c-sky)); margin: -1rem -1rem .75rem; padding: .8rem 1rem; }
+.deck-header strong { display: block; }
+.deck-header-sub { display: flex; align-items: center; gap: .4rem; margin-top: .2rem; }
 
 /* ── Deck preview modal ── */
 .deck-preview-overlay {
@@ -378,8 +380,6 @@ article:not(.stat-card):hover { transform: translateY(-4px); box-shadow: 0 12px 
 .deck-preview-mnemonic { margin: .35rem 0 0; font-size: .8rem; color: var(--pico-muted-color); font-style: italic; }
 .deck-preview-notes    { margin: .4rem 0 0; font-size: .8rem; color: var(--pico-muted-color); }
 .deck-preview-tap      { margin: .25rem 0 0; font-size: .78rem; color: var(--pico-muted-color); font-style: italic; }
-.deck-author { margin-top: .15rem; font-size: .72rem; font-weight: 700; opacity: .7; }
-.deck-header-meta { display: flex; flex-direction: column; align-items: flex-end; gap: .2rem; }
 .deck-new-badge {
   font-size: .65rem; font-weight: 900; padding: .1rem .45rem;
   border-radius: 50em; background: #f59e0b; color: #fff;

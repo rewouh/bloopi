@@ -6,7 +6,7 @@
   "items": [
     {
       "id": "animal_facts_01_true_flight_bat",
-      "title": "only animal capable of true flight",
+      "title": "only mammal capable of true flight",
       "answers": ["bat"],
       "mnemonic": "BAT = “Born Airborne Truly.” Imagine a bat laughing at penguins and ostriches because it is the only mammal truly flying through the night sky."
     },
