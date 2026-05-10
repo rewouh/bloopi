@@ -4,6 +4,39 @@ import { getState, setState, subscribe } from '../store/store.js';
 import { getSessionItems } from '../logic/scheduler.js';
 import { DataPorter } from '../components/DataPorter.js';
 
+function formatCountdown(ms) {
+  if (ms <= 0) return null;
+  const h = Math.floor(ms / 3_600_000);
+  const m = Math.floor((ms % 3_600_000) / 60_000);
+  const s = Math.floor((ms % 60_000) / 1_000);
+  if (h >= 24) {
+    const d = Math.floor(h / 24);
+    return `${d}d ${h % 24}h ${String(m).padStart(2, '0')}m`;
+  }
+  if (h > 0) return `${h}h ${String(m).padStart(2, '0')}m ${String(s).padStart(2, '0')}s`;
+  if (m > 0) return `${m}m ${String(s).padStart(2, '0')}s`;
+  return `${s}s`;
+}
+
+function NextReviewTimer({ progress }) {
+  const [now, setNow] = useState(Date.now());
+  useEffect(() => {
+    const id = setInterval(() => setNow(Date.now()), 1_000);
+    return () => clearInterval(id);
+  }, []);
+
+  const next = Object.values(progress.items || {})
+    .filter(it => it.nextReview && it.stage >= 1 && it.stage < 9)
+    .map(it => new Date(it.nextReview).getTime())
+    .filter(t => t > now)
+    .sort((a, b) => a - b)[0];
+
+  if (!next) return null;
+  const label = formatCountdown(next - now);
+  if (!label) return null;
+  return html`<span class="next-review-timer">${label}</span>`;
+}
+
 function buildCalendar(progress) {
   const items = Object.values(progress.items || {});
   return Array.from({ length: 7 }, (_, i) => {
@@ -129,7 +162,10 @@ export function HomeView() {
       </div>
 
       <div class="calendar-section">
-        <p class="calendar-title">Upcoming reviews</p>
+        <div class="calendar-header">
+          <p class="calendar-title">Upcoming reviews</p>
+          <${NextReviewTimer} progress=${state.progress} />
+        </div>
         <div class="calendar-row">
           ${calendar.map(({ label, count, isToday }, i) => html`
             <div
