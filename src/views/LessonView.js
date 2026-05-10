@@ -119,12 +119,12 @@ export function LessonView({ session }) {
           <h2>Lesson Complete!</h2>
           <p><strong>${passed}</strong> items learned</p>
           ${failed > 0 && html`<p class="muted-note">${failed} answer(s) needed more than one try.</p>`}
-          ${remaining.length > 0 && html`
-            <button type="button" onClick=${startNextBatch}>
-              Next batch (${Math.min(remaining.length, LESSON_BATCH)} more)
-            </button>
-          `}
-          <button type="button" class="secondary outline" onClick=${exit}>Done</button>
+          <div class="summary-actions">
+            ${remaining.length > 0 && html`
+              <button type="button" onClick=${startNextBatch}>Next batch</button>
+            `}
+            <button type="button" class="summary-done-btn" onClick=${exit}>Done</button>
+          </div>
         </div>
       </div>
     `;
