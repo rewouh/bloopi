@@ -109,7 +109,7 @@ export function LessonView({ session }) {
 
     function startNextBatch() {
       const batch = remaining.slice(0, LESSON_BATCH);
-      setState({ activeSession: { type: 'lesson', items: batch } });
+      setState({ activeSession: { type: 'lesson', items: batch, id: Date.now() } });
     }
 
     return html`

@@ -67,8 +67,8 @@ function App() {
       </button>
     </nav>
 
-    ${activeSession && activeSession.type === 'lesson' && html`<${LessonView} session=${activeSession} />`}
-    ${activeSession && activeSession.type === 'review' && html`<${ReviewView} session=${activeSession} />`}
+    ${activeSession && activeSession.type === 'lesson' && html`<${LessonView} key=${activeSession.id} session=${activeSession} />`}
+    ${activeSession && activeSession.type === 'review' && html`<${ReviewView} key=${activeSession.id} session=${activeSession} />`}
     ${!state.progress.welcomed && html`<${WelcomeView} />`}
   `;
 }

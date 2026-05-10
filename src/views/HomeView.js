@@ -83,11 +83,11 @@ export function HomeView() {
   const LESSON_BATCH = 5;
 
   function startReviews() {
-    setState({ activeSession: { type: 'review', items: shuffle(reviews) } });
+    setState({ activeSession: { type: 'review', items: shuffle(reviews), id: Date.now() } });
   }
 
   function startLessons() {
-    setState({ activeSession: { type: 'lesson', items: shuffle(lessons).slice(0, LESSON_BATCH) } });
+    setState({ activeSession: { type: 'lesson', items: shuffle(lessons).slice(0, LESSON_BATCH), id: Date.now() } });
   }
 
   function handleCalendarClick(i) {
