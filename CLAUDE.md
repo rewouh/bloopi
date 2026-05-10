@@ -58,8 +58,8 @@ src/
   ]
 }
 ```
-To add a deck: create `decks/<id>.json` and add the id to `decks/index.json`.
-To remove a deck: delete the file and remove the id from `decks/index.json`.
+To add a deck: create `decks/<id>.json` — discovery is automatic (GitHub API on Pages, directory listing locally).
+To remove a deck: delete the file.
 
 ## localStorage schema (`bloopi_progress`)
 ```json

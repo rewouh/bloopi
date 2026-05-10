@@ -16,8 +16,7 @@ The best way to contribute is to **add a deck**. The codebase itself is simple a
 
 1. Fork the repository
 2. Create `decks/<your-deck-id>.json` following the format below
-3. Add your deck id to `decks/index.json`
-4. Open a pull request
+3. Open a pull request
 
 That's it — no build step, no dependencies to install.
 
