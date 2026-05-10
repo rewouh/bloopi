@@ -80,7 +80,7 @@ export function GuideView() {
 
       <section class="guide-contributing">
         <h3>Contributing</h3>
-        <p>Want to add a deck? See the <a href="https://github.com/rewouh/bloopi#readme" target="_blank" rel="noopener noreferrer">repository README</a> for the format and instructions.</p>
+        <p>Want to add a deck? Use the <a href="https://rewouh.github.io/bloopi-deck-builder" target="_blank" rel="noopener noreferrer">Deck Builder</a> — a visual tool to build and export a deck without editing JSON directly. Then open a pull request on the <a href="https://github.com/rewouh/bloopi#readme" target="_blank" rel="noopener noreferrer">repository</a>.</p>
         <p class="guide-contributing-alt">Not familiar with GitHub? Send a <a href="mailto:pbraudcontact@gmail.com">mail</a> with a <a href="https://pastebin.com" target="_blank" rel="noopener noreferrer">Pastebin</a> link — no file attachments. List your questions, each with a mnemonic. Format is flexible, I'll handle the rest.</p>
       </section>
 

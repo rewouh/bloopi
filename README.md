@@ -14,9 +14,10 @@ The best way to contribute is to **add a deck**. The codebase itself is simple a
 
 ### How to add a deck
 
-1. Fork the repository
-2. Create `decks/<your-deck-id>.json` following the format below
-3. Open a pull request
+1. Use the **[Deck Builder](https://rewouh.github.io/bloopi-deck-builder)** to create your deck visually and export it as JSON
+2. Fork the repository
+3. Drop the file in `decks/<your-deck-id>.json`
+4. Open a pull request
 
 That's it — no build step, no dependencies to install.
 
@@ -48,8 +49,8 @@ That's it — no build step, no dependencies to install.
 
 | Field | Required | Notes |
 |---|---|---|
-| `id` | ✓ | Snake_case, unique across all decks |
-| `name` | ✓ | Short, title-cased |
+| `id` | ✓ | Snake_case, unique across all decks · include a numeric suffix (e.g. `world_geography_01`) |
+| `name` | ✓ | Short, title-cased · always end with a two-digit index (e.g. `World Geography 01`) so related decks can be added later |
 | `description` | ✓ | One sentence |
 | `author` | ✓ | Your GitHub username |
 | `language` | ✓ | 2-letter country code: `us`, `fr`, `de`, `jp`… |
@@ -58,6 +59,12 @@ That's it — no build step, no dependencies to install.
 | `items[].answers` | ✓ | First entry is the displayed answer; add variants for fuzzy matching |
 | `items[].mnemonic` | ✓ | Required — this is the core of the learning experience |
 | `items[].notes` | — | Optional fun fact, shown after the answer |
+
+### Content rules
+
+- **Write direct prompts, not full questions** — "Longest river in the world" not "What is the longest river in the world?" Skip filler words that waste time during review.
+- **One clear correct answer per item** — if multiple answers are plausible, reframe the question.
+- The **mnemonic is required** — it's the core of the experience. A bad mnemonic is worse than none.
 
 ### Size
 
