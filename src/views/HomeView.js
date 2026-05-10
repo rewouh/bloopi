@@ -59,8 +59,15 @@ function getDayBreakdown(progress, dayStart, dayEnd, isToday) {
 export function HomeView() {
   const [state, setLocalState] = useState(getState());
   const [selectedDayIdx, setSelectedDayIdx] = useState(null);
+  const [, setTick] = useState(0);
 
   useEffect(() => subscribe(setLocalState), []);
+
+  // Re-evaluate due items every minute so the UI updates when a review window opens
+  useEffect(() => {
+    const id = setInterval(() => setTick(t => t + 1), 60_000);
+    return () => clearInterval(id);
+  }, []);
 
   const allItems = (state.loadedDecks || []).flatMap(d => d.items || []);
   const { lessons, reviews } = getSessionItems(state.progress, allItems);
