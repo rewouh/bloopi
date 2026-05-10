@@ -54,14 +54,14 @@ export function DeckPreviewModal({ deck, progress, onClose }) {
         <div class="deck-preview-list">
           ${items.map((item, i) => {
             const itemProgress = (progress && progress.items) ? progress.items[item.id] : null;
-            const itemLevel = itemProgress ? itemProgress.level : 0;
+            const itemStage = itemProgress ? (itemProgress.stage || 0) : 0;
             return html`
             <div key=${item.id} class=${'deck-preview-item' + (revealed.has(item.id) ? ' revealed' : '')} onClick=${() => toggle(item.id)}>
               <span class="deck-preview-num">${i + 1}</span>
               <div class="deck-preview-content">
                 <div class="deck-preview-q-row">
                   <p class="deck-preview-q">${item.title}</p>
-                  ${itemLevel >= 1 && html`<${RankBadge} level=${itemLevel} size="sm" interactive=${false} />`}
+                  ${itemStage >= 1 && html`<${RankBadge} stage=${itemStage} size="sm" interactive=${false} />`}
                 </div>
                 ${revealed.has(item.id)
                   ? html`

@@ -1,44 +1,48 @@
-const LEVEL_CONFIG = {
-  1: { successesNeeded: 2, intervalDays: 1 },
-  2: { successesNeeded: 2, intervalDays: 3 },
-  3: { successesNeeded: 3, intervalDays: 7 },
-  4: { successesNeeded: 3, intervalDays: 14 },
-  5: { successesNeeded: Infinity, intervalDays: null },
+// Intervals in milliseconds for each stage (1-9)
+const INTERVALS = {
+  1: 4   * 60 * 60 * 1000,   // 4 h
+  2: 8   * 60 * 60 * 1000,   // 8 h
+  3: 24  * 60 * 60 * 1000,   // 1 day
+  4: 48  * 60 * 60 * 1000,   // 2 days
+  5: 7   * 24 * 60 * 60 * 1000, // 1 week
+  6: 14  * 24 * 60 * 60 * 1000, // 2 weeks
+  7: 30  * 24 * 60 * 60 * 1000, // ~1 month
+  8: 120 * 24 * 60 * 60 * 1000, // ~4 months
+  9: null, // mastered — never reviewed again
 };
 
-export function getNextReviewDate(level) {
-  const config = LEVEL_CONFIG[level];
-  if (!config || !config.intervalDays) return null;
-  const d = new Date();
-  d.setDate(d.getDate() + config.intervalDays);
-  return d.toISOString().split('T')[0];
+export function getNextReviewDate(stage) {
+  const ms = INTERVALS[stage];
+  if (!ms) return null;
+  return new Date(Date.now() + ms).toISOString();
 }
 
-export function isDueToday(itemState) {
-  if (!itemState || !itemState.nextReview) return false;
-  if (itemState.level >= 5) return false;
-  const today = new Date().toISOString().split('T')[0];
-  return itemState.nextReview <= today;
+export function isDue(itemState) {
+  if (!itemState?.nextReview) return false;
+  if (itemState.stage >= 9) return false;
+  return new Date(itemState.nextReview) <= new Date();
 }
 
-export function processAnswer(itemState, correct) {
+// Called once, when an item is finally answered correctly in a review.
+// incorrectCount: total wrong answers for this item in the session.
+// WaniKani rule:
+//   - 0 incorrect → stage + 1
+//   - ≥1 incorrect → stage - ceil(incorrectCount/2) * penaltyFactor (no +1)
+//     penaltyFactor = 2 if stage ≥ 5, else 1; minimum stage = 1
+export function processAnswer(itemState, incorrectCount = 0) {
   const state = { ...itemState };
-
-  if (correct) {
-    if (!state.failedToday) {
-      state.streak = (state.streak || 0) + 1;
-      const config = LEVEL_CONFIG[state.level];
-      if (config && state.streak >= config.successesNeeded && state.level < 5) {
-        state.level = state.level + 1;
-        state.streak = 0;
-      }
-    }
-    state.nextReview = getNextReviewDate(state.level);
+  if (incorrectCount === 0) {
+    state.stage = Math.min(state.stage + 1, 9);
   } else {
-    state.streak = 0;
-    state.failedToday = true;
-    state.nextReview = getNextReviewDate(state.level);
+    const penaltyFactor = state.stage >= 5 ? 2 : 1;
+    const adjustment    = Math.ceil(incorrectCount / 2) * penaltyFactor;
+    state.stage = Math.max(state.stage - adjustment, 1);
   }
-
+  state.nextReview = getNextReviewDate(state.stage);
   return state;
+}
+
+// Returns the initial state for an item right after its lesson is passed.
+export function initItemState() {
+  return { stage: 1, nextReview: getNextReviewDate(1) };
 }

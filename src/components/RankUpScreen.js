@@ -1,9 +1,9 @@
 import { html } from 'https://esm.sh/htm/preact';
 import { useEffect } from 'https://esm.sh/preact/hooks';
-import { RANKS } from './RankBadge.js';
+import { stageInfo } from './RankBadge.js';
 
-export function RankUpScreen({ level, onContinue }) {
-  const rank = RANKS[level];
+export function RankUpScreen({ stage, onContinue }) {
+  const info = stageInfo(stage);
 
   useEffect(() => {
     const onKey = (e) => { if (e.key === 'Enter') onContinue(); };
@@ -11,16 +11,18 @@ export function RankUpScreen({ level, onContinue }) {
     return () => window.removeEventListener('keydown', onKey);
   }, []);
 
+  if (!info) return null;
+
   return html`
     <div class="rankup-screen">
       <p class="rankup-label">Rank Up!</p>
       <img
-        src=${rank.img}
-        alt=${rank.name}
+        src=${info.img}
+        alt=${info.fullName}
         class="rankup-img"
         onClick=${onContinue}
       />
-      <h2 class="rankup-name">${rank.name}</h2>
+      <h2 class="rankup-name">${info.fullName}</h2>
       <button type="button" onClick=${onContinue}>Continue →</button>
       <p class="hint-enter">or press Enter</p>
     </div>

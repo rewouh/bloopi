@@ -20,7 +20,7 @@ function deckStatus(deck, progressItems) {
   const items = deck.items || [];
   if (items.length === 0) return 'new';
   const added    = items.filter(it => progressItems[it.id]).length;
-  const mastered = items.filter(it => (progressItems[it.id] || {}).level >= 5).length;
+  const mastered = items.filter(it => (progressItems[it.id] || {}).stage >= 9).length;
   if (added === 0)               return 'new';
   if (mastered === items.length) return 'done';
   return 'learning';
@@ -67,7 +67,7 @@ export function DecksView() {
     const progress = { ...state.progress, items: { ...progressItems } };
     for (const item of deck.items || []) {
       if (!progress.items[item.id]) {
-        progress.items[item.id] = { level: 0, streak: 0, nextReview: null, failedToday: false };
+        progress.items[item.id] = { stage: 0, nextReview: null };
       }
     }
     setState({ progress });

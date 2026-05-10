@@ -4,10 +4,10 @@ import { getState, subscribe } from '../store/store.js';
 import { RankBadge, RANKS } from '../components/RankBadge.js';
 
 const RANK_DETAILS = {
-  1: '1 day',
-  2: '3 days',
-  3: '7 days',
-  4: '14 days',
+  1: '4 h → 8 h',
+  2: '1 day → 2 days',
+  3: '1 week → 2 weeks',
+  4: '~1 month → ~4 months',
   5: 'never — mastered',
 };
 
@@ -56,7 +56,7 @@ export function GuideView() {
             <div class="rank-ladder">
               ${[1, 2, 3, 4, 5].map(level => html`
                 <div key=${level} class=${'rank-ladder-row rank-ladder-row--' + level}>
-                  <${RankBadge} level=${level} size="md" interactive=${true} />
+                  <${RankBadge} rankLevel=${level} size="md" interactive=${true} />
                   <div class="rank-ladder-info">
                     <strong>${RANKS[level].name}</strong>
                     <span>Review every ${RANK_DETAILS[level]}</span>

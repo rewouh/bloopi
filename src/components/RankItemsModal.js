@@ -43,7 +43,7 @@ export function RankItemsModal({ level, entries, onClose }) {
       <div class="deck-preview-modal" onClick=${e => e.stopPropagation()}>
         <header class="deck-preview-header">
           <div class="deck-preview-title-block rank-items-header">
-            <${RankBadge} level=${level} size="lg" interactive=${false} />
+            <${RankBadge} rankLevel=${level} size="lg" interactive=${false} />
             <div>
               <h2 class="deck-preview-title">${RANKS[level].name}</h2>
               <p class="deck-preview-desc">${entries.length} item${entries.length !== 1 ? 's' : ''} at this rank</p>

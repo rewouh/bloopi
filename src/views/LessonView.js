@@ -2,6 +2,7 @@ import { html } from 'https://esm.sh/htm/preact';
 import { useState, useEffect, useRef } from 'https://esm.sh/preact/hooks';
 import { getState, setState } from '../store/store.js';
 import { checkAnswer } from '../logic/fuzzy.js';
+import { initItemState } from '../logic/srs.js';
 import { AnswerInput } from '../components/AnswerInput.js';
 import { MnemonicHint } from '../components/MnemonicHint.js';
 import { NotesBlock } from '../components/NotesBlock.js';
@@ -79,13 +80,12 @@ export function LessonView({ session }) {
     setPhase('feedback');
     if (correct) {
       const s = getState();
-      const today = new Date().toISOString().split('T')[0];
       setState({
         progress: {
           ...s.progress,
           items: {
             ...s.progress.items,
-            [quizItem.id]: { ...s.progress.items[quizItem.id], level: 1, streak: 0, nextReview: today, failedToday: false },
+            [quizItem.id]: initItemState(),
           },
         },
       });
@@ -155,7 +155,7 @@ export function LessonView({ session }) {
         `}
 
         ${phase === 'feedback' && showRankUp && html`
-          <${RankUpScreen} level=${1} onContinue=${advance} />
+          <${RankUpScreen} stage=${1} onContinue=${advance} />
           <${NotesBlock} text=${quizItem.notes} />
         `}
 

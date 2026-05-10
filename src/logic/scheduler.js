@@ -1,4 +1,4 @@
-import { isDueToday } from './srs.js';
+import { isDue } from './srs.js';
 
 export function getSessionItems(progress, allKnownItems) {
   const lessons = [];
@@ -8,9 +8,9 @@ export function getSessionItems(progress, allKnownItems) {
     const state = (progress.items || {})[item.id];
     if (!state) continue;
 
-    if (state.level === 0 && !state.nextReview) {
+    if (state.stage === 0 && !state.nextReview) {
       lessons.push(item);
-    } else if (state.level >= 1 && state.level < 5 && isDueToday(state)) {
+    } else if (state.stage >= 1 && state.stage < 9 && isDue(state)) {
       reviews.push(item);
     }
   }

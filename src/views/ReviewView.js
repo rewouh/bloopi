@@ -15,14 +15,17 @@ export function ReviewView({ session }) {
   const [current, setCurrent]   = useState(0);
   const [phase, setPhase]       = useState('question'); // question | feedback | summary
   const [feedback, setFeedback] = useState(null);
-  const [rankUpLevel, setRankUpLevel] = useState(null);
+  const [rankUpStage, setRankUpStage] = useState(null);
   const [stats, setStats]       = useState({ correct: 0, failed: 0, leveledUp: 0 });
+
+  // Tracks how many times each item was answered incorrectly this session
+  const incorrectCounts = useRef({});
 
   const item     = queue[current];
   const deckName = getState().loadedDecks.find(d => (d.items || []).some(it => it.id === item?.id))?.name;
 
   function next() {
-    setRankUpLevel(null);
+    setRankUpStage(null);
     const nextIdx = current + 1;
     if (nextIdx >= queue.length) {
       setPhase('summary');
@@ -36,32 +39,37 @@ export function ReviewView({ session }) {
   const nextRef = useRef(next);
   useEffect(() => { nextRef.current = next; });
 
-  // Enter only fires for non-rankup feedback (RankUpScreen manages its own listener)
   useEffect(() => {
-    if (phase !== 'feedback' || rankUpLevel) return;
+    if (phase !== 'feedback' || rankUpStage) return;
     const onKey = (e) => { if (e.key === 'Enter') nextRef.current(); };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [phase, rankUpLevel]);
+  }, [phase, rankUpStage]);
 
   function handleAnswer(value) {
     const { correct } = checkAnswer(value, item.answers);
-    const s = getState();
-    const prevState  = s.progress.items[item.id] || { level: 1, streak: 0, nextReview: null, failedToday: false };
-    const prevLevel  = prevState.level;
-    const newState   = processAnswer(prevState, correct);
-    const leveledUp  = newState.level > prevLevel;
-
-    setState({ progress: { ...s.progress, items: { ...s.progress.items, [item.id]: newState } } });
     setFeedback(correct ? 'correct' : 'incorrect');
     setPhase('feedback');
-    if (leveledUp) setRankUpLevel(newState.level);
-    setStats(st => ({
-      correct:   st.correct   + (correct   ? 1 : 0),
-      failed:    st.failed    + (correct   ? 0 : 1),
-      leveledUp: st.leveledUp + (leveledUp ? 1 : 0),
-    }));
-    if (!correct) setQueue(q => [...q, item]);
+
+    if (correct) {
+      const s = getState();
+      const prevState  = s.progress.items[item.id] || { stage: 1, nextReview: null };
+      const prevStage  = prevState.stage;
+      const newState   = processAnswer(prevState, incorrectCounts.current[item.id] || 0);
+      const leveledUp  = newState.stage > prevStage;
+
+      setState({ progress: { ...s.progress, items: { ...s.progress.items, [item.id]: newState } } });
+      if (leveledUp) setRankUpStage(newState.stage);
+      setStats(st => ({
+        correct:   st.correct + 1,
+        failed:    st.failed,
+        leveledUp: st.leveledUp + (leveledUp ? 1 : 0),
+      }));
+    } else {
+      incorrectCounts.current[item.id] = (incorrectCounts.current[item.id] || 0) + 1;
+      setQueue(q => [...q, item]);
+      setStats(st => ({ ...st, failed: st.failed + 1 }));
+    }
   }
 
   function complete() {
@@ -110,12 +118,12 @@ export function ReviewView({ session }) {
           <${AnswerInput} onSubmit=${handleAnswer} />
         `}
 
-        ${phase === 'feedback' && rankUpLevel && html`
-          <${RankUpScreen} level=${rankUpLevel} onContinue=${next} />
+        ${phase === 'feedback' && rankUpStage && html`
+          <${RankUpScreen} stage=${rankUpStage} onContinue=${next} />
           <${NotesBlock} text=${item.notes} />
         `}
 
-        ${phase === 'feedback' && !rankUpLevel && html`
+        ${phase === 'feedback' && !rankUpStage && html`
           <div class=${feedback === 'correct' ? 'feedback-banner correct' : 'feedback-banner incorrect'}>
             ${feedback === 'correct' ? '✓ Correct!' : '✗ Incorrect'}
           </div>

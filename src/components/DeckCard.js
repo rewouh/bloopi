@@ -8,7 +8,7 @@ export function DeckCard({ deck, progress, onAdd, onRemove, onPreview }) {
   const items         = deck.items || [];
   const progressItems = progress.items || {};
 
-  const masteredCount = items.filter(it => (progressItems[it.id] || {}).level >= 5).length;
+  const masteredCount = items.filter(it => (progressItems[it.id] || {}).stage >= 9).length;
   const addedCount    = items.filter(it => progressItems[it.id]).length;
   const newCount      = addedCount > 0 ? items.length - addedCount : 0;
   const allAdded      = items.length > 0 && addedCount === items.length;

@@ -2,22 +2,11 @@ import { migrate, defaultProgress } from './migrations.js';
 
 const STORAGE_KEY = 'bloopi_progress';
 
-function resetDailyFlags(progress) {
-  const today = new Date().toISOString().split('T')[0];
-  if (progress.lastResetDate === today) return progress;
-  const items = {};
-  for (const [id, item] of Object.entries(progress.items || {})) {
-    items[id] = { ...item, failedToday: false };
-  }
-  return { ...progress, items, lastResetDate: today };
-}
-
 export function load() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return defaultProgress();
-    const migrated = migrate(JSON.parse(raw));
-    return resetDailyFlags(migrated);
+    return migrate(JSON.parse(raw));
   } catch {
     return defaultProgress();
   }

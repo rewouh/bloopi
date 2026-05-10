@@ -3,26 +3,25 @@ export function migrate(rawData) {
     return defaultProgress();
   }
 
-  let data = { ...rawData };
+  // v1 used level/streak/failedToday — incompatible with v2 stage system; wipe and start fresh
+  if (!rawData.version || rawData.version < 2) {
+    const fresh = defaultProgress();
+    fresh.welcomed = rawData.welcomed ?? true;
+    return fresh;
+  }
 
-  if (!data.version) data.version = 1;
-  if (!data.items) data.items = {};
-  if (data.reviewStreak === undefined) data.reviewStreak = 0;
-  if (data.lastReviewDate === undefined) data.lastReviewDate = null;
-  if (data.welcomed === undefined) data.welcomed = true; // existing users skip the welcome screen
-
-  // Future: if (data.version === 1) { ...transforms...; data.version = 2; }
+  const data = { ...rawData };
+  if (data.welcomed === undefined) data.welcomed = true;
 
   return data;
 }
 
 export function defaultProgress() {
   return {
-    version: 1,
+    version: 2,
     items: {},
     reviewStreak: 0,
     lastReviewDate: null,
-    lastResetDate: null,
     welcomed: false,
   };
 }

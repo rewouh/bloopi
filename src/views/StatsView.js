@@ -4,30 +4,37 @@ import { getState, subscribe } from '../store/store.js';
 import { RankBadge, RANKS } from '../components/RankBadge.js';
 import { RankItemsModal } from '../components/RankItemsModal.js';
 
+// rankLevel 1-5 → which stages belong to it
+function stagesToRankLevel(stage) {
+  if (stage <= 0) return 0;
+  if (stage >= 9) return 5;
+  return Math.ceil(stage / 2);
+}
+
 export function StatsView() {
   const [state, setLocalState] = useState(getState());
-  const [selectedLevel, setSelectedLevel] = useState(null);
+  const [selectedRank, setSelectedRank] = useState(null);
 
   useEffect(() => subscribe(setLocalState), []);
 
   const progressItems = state.progress.items || {};
 
-  // Only count items that still exist in a loaded deck — orphaned entries (removed items) are excluded
   const knownIds = new Set(
     (state.loadedDecks || []).flatMap(d => (d.items || []).map(it => it.id))
   );
   const trackedEntries = Object.entries(progressItems).filter(([id]) => knownIds.has(id));
   const total = trackedEntries.length;
 
-  const levelCounts = [0, 0, 0, 0, 0, 0];
+  // Count items per rank level (1-5); stage 0 items are unlearned (not shown in rank ladder)
+  const rankCounts = [0, 0, 0, 0, 0, 0]; // index 0 unused, 1-5 are ranks
   for (const [, it] of trackedEntries) {
-    levelCounts[Math.min(it.level, 5)]++;
+    const r = stagesToRankLevel(it.stage || 0);
+    if (r >= 1) rankCounts[r]++;
   }
 
-  const mastered = levelCounts[5];
+  const mastered = rankCounts[5];
   const streak   = state.progress.reviewStreak || 0;
 
-  // Build a flat map of id → { item, deckName } from loaded decks
   const itemMap = {};
   for (const deck of (state.loadedDecks || [])) {
     for (const item of (deck.items || [])) {
@@ -35,25 +42,28 @@ export function StatsView() {
     }
   }
 
-  function entriesForLevel(level) {
+  function entriesForRank(rankLevel) {
     return trackedEntries
-      .filter(([, p]) => Math.min(p.level, 5) === level)
+      .filter(([, p]) => stagesToRankLevel(p.stage || 0) === rankLevel)
       .map(([id]) => itemMap[id])
       .filter(Boolean);
   }
 
-  function openLevel(level) {
-    if ((levelCounts[level] || 0) === 0) return;
-    setSelectedLevel(level);
+  function openRank(rankLevel) {
+    if ((rankCounts[rankLevel] || 0) === 0) return;
+    setSelectedRank(rankLevel);
   }
+
+  // Items in ranks (stages 1-9) for bar percentage denominator
+  const inRanks = rankCounts.reduce((s, c) => s + c, 0);
 
   return html`
     <div class="stats-view">
-      ${selectedLevel !== null && html`
+      ${selectedRank !== null && html`
         <${RankItemsModal}
-          level=${selectedLevel}
-          entries=${entriesForLevel(selectedLevel)}
-          onClose=${() => setSelectedLevel(null)}
+          level=${selectedRank}
+          entries=${entriesForRank(selectedRank)}
+          onClose=${() => setSelectedRank(null)}
         />
       `}
 
@@ -76,18 +86,18 @@ export function StatsView() {
 
       <h3>Ranks</h3>
       <div class="level-breakdown">
-        ${[1, 2, 3, 4, 5].map(level => {
-          const count = levelCounts[level] || 0;
+        ${[1, 2, 3, 4, 5].map(rankLevel => {
+          const count = rankCounts[rankLevel] || 0;
           return html`
             <div
-              key=${level}
+              key=${rankLevel}
               class=${'level-row' + (count > 0 ? ' level-row--clickable' : '')}
-              onClick=${() => openLevel(level)}
+              onClick=${() => openRank(rankLevel)}
             >
-              <${RankBadge} level=${level} size="md" interactive=${count > 0} />
-              <span class="level-label">${RANKS[level].name}</span>
+              <${RankBadge} rankLevel=${rankLevel} size="md" interactive=${count > 0} />
+              <span class="level-label">${RANKS[rankLevel].name}</span>
               <div class="level-bar-wrap">
-                <div class="level-bar" style=${{ width: total > 0 ? `${(count / total) * 100}%` : '0%' }}></div>
+                <div class="level-bar" style=${{ width: inRanks > 0 ? `${(count / inRanks) * 100}%` : '0%' }}></div>
               </div>
               <span class="level-count">${count}</span>
             </div>

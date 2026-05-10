@@ -156,6 +156,7 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 .answer-incorrect { border-color: var(--bloopi-incorrect) !important; box-shadow: 0 0 0 4px rgba(220,38,38,.15)  !important; }
 
 /* ── Rank badges ── */
+.rank-badge-wrap { position: relative; display: inline-flex; align-items: flex-end; flex-shrink: 0; }
 .rank-badge { object-fit: contain; display: inline-block; vertical-align: middle; }
 .rank-badge--sm  { width: 28px;  height: 28px;  }
 .rank-badge--md  { width: 44px;  height: 44px;  }
@@ -167,6 +168,15 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 }
 .rank-badge--interactive:hover  { transform: scale(1.25) rotate(8deg);  filter: drop-shadow(0 4px 10px rgba(139,92,246,.45)); }
 .rank-badge--interactive:active { transform: scale(.88)  rotate(-6deg); }
+.rank-sub-badge {
+  position: absolute; bottom: -3px; right: -5px;
+  background: var(--pico-primary); color: #fff;
+  font-size: .55rem; font-weight: 900; line-height: 1;
+  min-width: .95rem; height: .95rem; border-radius: 50em;
+  display: flex; align-items: center; justify-content: center;
+  border: 2px solid var(--pico-background-color);
+  pointer-events: none;
+}
 
 /* ── Rank-up celebration ── */
 @keyframes rank-bounce {
@@ -240,12 +250,27 @@ article:not(.stat-card):hover { transform: translateY(-4px); box-shadow: 0 12px 
 .calendar-section { margin: 1.5rem 0 .5rem; }
 .calendar-title { font-size: .8rem; font-weight: 800; color: var(--pico-muted-color); text-transform: uppercase; letter-spacing: .05em; margin-bottom: .5rem; }
 .calendar-row { display: flex; gap: .4rem; }
-.calendar-day { flex: 1; text-align: center; padding: .55rem .2rem; border-radius: .9rem; background: var(--pico-card-background-color); border: 2px solid var(--pico-muted-border-color); transition: transform .15s var(--spring); }
+.calendar-day { flex: 1; text-align: center; padding: .55rem .2rem; border-radius: .9rem; background: var(--pico-card-background-color); border: 2px solid var(--pico-muted-border-color); transition: transform .15s var(--spring), border-color .15s, background .15s; cursor: pointer; user-select: none; }
 .calendar-day:hover { transform: translateY(-2px); }
 .cal-today { border-color: var(--pico-primary); background: var(--c-purple); }
 .cal-has .cal-count { color: var(--pico-primary); font-weight: 900; }
+.cal-selected { border-color: var(--pico-primary) !important; background: var(--c-purple) !important; }
 .cal-label { display: block; font-size: .6rem; font-weight: 700; color: var(--pico-muted-color); text-transform: uppercase; }
 .cal-count { display: block; font-size: 1rem; font-weight: 800; margin-top: .1rem; }
+
+/* ── Calendar breakdown panel ── */
+.cal-breakdown {
+  margin-top: .6rem; padding: .75rem 1rem; border-radius: 1rem;
+  background: var(--pico-card-background-color);
+  border: 2px solid var(--pico-muted-border-color);
+  animation: float-in .2s var(--spring);
+}
+.cal-breakdown-title { font-size: .75rem; font-weight: 800; color: var(--pico-muted-color); text-transform: uppercase; letter-spacing: .05em; margin: 0 0 .5rem; }
+.cal-breakdown-row { display: flex; justify-content: space-between; align-items: center; padding: .3rem 0; border-bottom: 1px solid var(--pico-muted-border-color); }
+.cal-breakdown-row:last-child { border-bottom: none; }
+.cal-breakdown-hour { font-size: .88rem; font-weight: 700; }
+.cal-breakdown-count { font-size: .88rem; font-weight: 900; color: var(--pico-primary); }
+.cal-breakdown-empty { font-size: .85rem; color: var(--pico-muted-color); font-style: italic; margin: 0; }
 
 /* ── Deck tag in sessions ── */
 .deck-tag { display: inline-block; font-size: .7rem; font-weight: 800; padding: .2rem .65rem; border-radius: 50em; background: var(--c-sky); color: var(--pico-muted-color); margin-bottom: .75rem; text-transform: uppercase; letter-spacing: .04em; }
