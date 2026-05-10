@@ -18,6 +18,26 @@
 
 body, button, input, select, textarea { font-family: 'Nunito', sans-serif; }
 
+/* ── Update banner ── */
+.update-banner {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 999;
+  display: flex; align-items: center; justify-content: center; gap: .75rem;
+  padding: .5rem 1rem;
+  background: linear-gradient(90deg, rgba(103,232,249,.18), rgba(168,85,247,.18));
+  backdrop-filter: blur(10px);
+  border-bottom: 1.5px solid rgba(139,92,246,.2);
+  font-size: .8rem; font-weight: 700;
+  animation: float-in .3s var(--spring);
+}
+.update-banner kbd { color: var(--pico-primary); background: rgba(139,92,246,.15); border-color: rgba(139,92,246,.3); }
+.update-banner-close {
+  background: none !important; border: none !important; box-shadow: none !important;
+  padding: .1rem .35rem !important; font-size: .75rem;
+  color: var(--pico-muted-color); flex-shrink: 0;
+  line-height: 1;
+}
+.update-banner-close:hover { color: var(--pico-color) !important; transform: none !important; box-shadow: none !important; }
+
 /* ── Scrollbar rainbow ── */
 :root { --scrollbar-thumb: #67e8f9; }
 html { scrollbar-color: var(--scrollbar-thumb) transparent; scrollbar-width: thin; }

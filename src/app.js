@@ -73,6 +73,27 @@ function App() {
 
 render(h(App, null), document.getElementById('app'));
 
+// ── Version check ──
+(async function checkVersion() {
+  try {
+    const { v } = await fetch('version.json', { cache: 'no-store' }).then(r => r.json());
+    const stored = localStorage.getItem('bloopi_ver');
+    if (stored !== null && stored !== String(v)) {
+      const isMac = /Mac|iPhone|iPad/i.test(navigator.userAgent);
+      const shortcut = isMac ? '⌘ Shift R' : 'Ctrl Shift R';
+      const banner = document.createElement('div');
+      banner.className = 'update-banner';
+      banner.innerHTML = `
+        <span>A new version is available — hard refresh to update: <kbd>${shortcut}</kbd></span>
+        <button class="update-banner-close" aria-label="Dismiss">✕</button>
+      `;
+      banner.querySelector('.update-banner-close').addEventListener('click', () => banner.remove());
+      document.body.prepend(banner);
+    }
+    localStorage.setItem('bloopi_ver', String(v));
+  } catch {}
+})();
+
 // ── Scrollbar rainbow ──
 const SCROLL_COLORS = [
   [103, 232, 249], // cyan  (rank 1)
