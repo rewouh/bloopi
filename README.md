@@ -98,11 +98,8 @@ By submitting a contribution (deck, fix, or anything else), you agree that your 
 
 ---
 
-## Local setup
+## FAQ
 
-Serve the project over HTTP — `fetch()` for deck JSON breaks on `file://`.
+**Can I sync my progress across devices?**
 
-```bash
-python -m http.server
-# then open http://localhost:8000
-```
+Not yet. All data is stored in your browser's localStorage, so it stays on the device you're using. I'm considering options for this — if I find a convenient, open-source, and free API storage provider, a simple key → data system could work to keep progress in sync across devices. This may come later on.
