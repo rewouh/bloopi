@@ -1,6 +1,7 @@
 import { html } from 'https://esm.sh/htm/preact';
 import { useState, useEffect, useRef } from 'https://esm.sh/preact/hooks';
 import { getState, setState } from '../store/store.js';
+import { getSessionItems } from '../logic/scheduler.js';
 import { checkAnswer } from '../logic/fuzzy.js';
 import { initItemState } from '../logic/srs.js';
 import { AnswerInput } from '../components/AnswerInput.js';
@@ -8,6 +9,8 @@ import { MnemonicHint } from '../components/MnemonicHint.js';
 import { NotesBlock } from '../components/NotesBlock.js';
 import { ProgressBar } from '../components/ProgressBar.js';
 import { RankUpScreen } from '../components/RankUpScreen.js';
+
+const LESSON_BATCH = 5;
 
 export function LessonView({ session }) {
   const items = session.items;
@@ -100,6 +103,15 @@ export function LessonView({ session }) {
 
   // ── Summary ──────────────────────────────────────────────────
   if (phase === 'summary') {
+    const s = getState();
+    const allItems = (s.loadedDecks || []).flatMap(d => d.items || []);
+    const { lessons: remaining } = getSessionItems(s.progress, allItems);
+
+    function startNextBatch() {
+      const batch = remaining.slice(0, LESSON_BATCH);
+      setState({ activeSession: { type: 'lesson', items: batch } });
+    }
+
     return html`
       <div class="session-overlay">
         <div class="summary">
@@ -107,7 +119,12 @@ export function LessonView({ session }) {
           <h2>Lesson Complete!</h2>
           <p><strong>${passed}</strong> items learned</p>
           ${failed > 0 && html`<p class="muted-note">${failed} answer(s) needed more than one try.</p>`}
-          <button type="button" onClick=${exit}>Done</button>
+          ${remaining.length > 0 && html`
+            <button type="button" onClick=${startNextBatch}>
+              Next batch (${Math.min(remaining.length, LESSON_BATCH)} more)
+            </button>
+          `}
+          <button type="button" class="secondary outline" onClick=${exit}>Done</button>
         </div>
       </div>
     `;
