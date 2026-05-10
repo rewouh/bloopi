@@ -74,7 +74,7 @@ AI tools can help brainstorm a deck structure, but they are not reliable enough 
 - **Mnemonics don't hold up** — they sound plausible but don't actually help recall
 - **Facts are wrong or outdated** — especially for records, statistics, and niche topics
 
-If you use AI as a starting point, treat everything it produces as a first draft. Triple-check facts against primary sources, rewrite every mnemonic from scratch if needed, and make sure each question has one clear correct answer. A deck that ships with bad mnemonics or wrong answers is worse than no deck at all.
+If you use AI as a starting point, treat everything it produces as a first draft. Triple-check facts against primary sources, rewrite every mnemonic from scratch if needed, and make sure each question has one clear correct answer.
 
 ---
 
