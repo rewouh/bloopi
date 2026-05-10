@@ -6,7 +6,6 @@ import { DataPorter } from '../components/DataPorter.js';
 
 function buildCalendar(progress) {
   const items = Object.values(progress.items || {});
-  const now = new Date();
   return Array.from({ length: 7 }, (_, i) => {
     const dayStart = new Date();
     dayStart.setHours(0, 0, 0, 0);
@@ -16,16 +15,12 @@ function buildCalendar(progress) {
 
     const label = i === 0 ? 'Today' : dayStart.toLocaleDateString('en', { weekday: 'short' });
 
-    let count;
-    if (i === 0) {
-      count = items.filter(it => it.nextReview && new Date(it.nextReview) <= now && it.stage >= 1 && it.stage < 9).length;
-    } else {
-      count = items.filter(it => {
-        if (!it.nextReview || it.stage < 1 || it.stage >= 9) return false;
-        const nr = new Date(it.nextReview);
-        return nr >= dayStart && nr < dayEnd;
-      }).length;
-    }
+    // Today: overdue + due later today. Future days: scheduled for that day.
+    const count = items.filter(it => {
+      if (!it.nextReview || it.stage < 1 || it.stage >= 9) return false;
+      const nr = new Date(it.nextReview);
+      return i === 0 ? nr < dayEnd : nr >= dayStart && nr < dayEnd;
+    }).length;
 
     return { label, count, isToday: i === 0, dayStart, dayEnd };
   });
@@ -33,30 +28,32 @@ function buildCalendar(progress) {
 
 function getDayBreakdown(progress, dayStart, dayEnd, isToday) {
   const now = new Date();
+  let overdueCount = 0;
   const byHour = {};
 
   for (const it of Object.values(progress.items || {})) {
     if (!it.nextReview || it.stage < 1 || it.stage >= 9) continue;
     const nr = new Date(it.nextReview);
+    if (nr >= dayEnd) continue;
 
     if (isToday) {
-      if (nr > now) continue;
-      byHour['overdue'] = (byHour['overdue'] || 0) + 1;
+      if (nr < dayStart) { overdueCount++; continue; } // overdue from a previous day
+      if (nr <= now) { overdueCount++; continue; }     // due earlier today
+      const h = nr.getHours();
+      byHour[h] = (byHour[h] || 0) + 1;               // due later today
     } else {
-      if (nr < dayStart || nr >= dayEnd) continue;
+      if (nr < dayStart) continue;
       const h = nr.getHours();
       byHour[h] = (byHour[h] || 0) + 1;
     }
   }
 
-  if (isToday) {
-    const count = byHour['overdue'] || 0;
-    return count > 0 ? [{ label: 'Due now', count }] : [];
-  }
-
-  return Object.entries(byHour)
-    .sort(([a], [b]) => Number(a) - Number(b))
-    .map(([h, count]) => ({ label: `${String(h).padStart(2, '0')}:00`, count }));
+  const result = overdueCount > 0 ? [{ label: 'Due now', count: overdueCount }] : [];
+  return result.concat(
+    Object.entries(byHour)
+      .sort(([a], [b]) => Number(a) - Number(b))
+      .map(([h, count]) => ({ label: `${String(h).padStart(2, '0')}:00`, count }))
+  );
 }
 
 export function HomeView() {
