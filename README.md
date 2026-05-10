@@ -102,4 +102,4 @@ By submitting a contribution (deck, fix, or anything else), you agree that your 
 
 **Can I sync my progress across devices?**
 
-Not yet. All data is stored in your browser's localStorage, so it stays on the device you're using. I'm considering options for this — if I find a convenient, open-source, and free API storage provider, a simple key → data system could work to keep progress in sync across devices. This may come later on.
+Not yet. All data is stored in your browser's localStorage, so it stays on the device you're using. For now, the only way to transfer progress is to export your data from one device and import it on the other — the option is available in the Import / Export section on the home screen. I'm considering options for automatic sync — if I find a convenient, open-source, and free API storage provider, a simple key → data system could work. This may come later on.
