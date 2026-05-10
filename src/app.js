@@ -9,6 +9,7 @@ import { StatsView } from './views/StatsView.js';
 import { GuideView } from './views/GuideView.js';
 import { LessonView } from './views/LessonView.js';
 import { ReviewView } from './views/ReviewView.js';
+import { WelcomeView } from './views/WelcomeView.js';
 
 function App() {
   const [state, setLocalState] = useState(getState());
@@ -68,6 +69,7 @@ function App() {
 
     ${activeSession && activeSession.type === 'lesson' && html`<${LessonView} session=${activeSession} />`}
     ${activeSession && activeSession.type === 'review' && html`<${ReviewView} session=${activeSession} />`}
+    ${!state.progress.welcomed && html`<${WelcomeView} />`}
   `;
 }
 

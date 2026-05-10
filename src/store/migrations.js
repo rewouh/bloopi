@@ -9,6 +9,7 @@ export function migrate(rawData) {
   if (!data.items) data.items = {};
   if (data.reviewStreak === undefined) data.reviewStreak = 0;
   if (data.lastReviewDate === undefined) data.lastReviewDate = null;
+  if (data.welcomed === undefined) data.welcomed = true; // existing users skip the welcome screen
 
   // Future: if (data.version === 1) { ...transforms...; data.version = 2; }
 
@@ -22,5 +23,6 @@ export function defaultProgress() {
     reviewStreak: 0,
     lastReviewDate: null,
     lastResetDate: null,
+    welcomed: false,
   };
 }
