@@ -15,6 +15,9 @@ const LESSON_BATCH = 5;
 export function LessonView({ session }) {
   const items = session.items;
 
+  // steal focus from whatever launched the session (e.g. the "Start lessons" button)
+  useEffect(() => { document.activeElement?.blur(); }, []);
+
   // study phase: browse all items first
   const [studyIndex, setStudyIndex] = useState(0);
 

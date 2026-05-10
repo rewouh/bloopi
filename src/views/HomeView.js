@@ -83,10 +83,12 @@ export function HomeView() {
   const LESSON_BATCH = 5;
 
   function startReviews() {
+    document.activeElement?.blur();
     setState({ activeSession: { type: 'review', items: shuffle(reviews), id: Date.now() } });
   }
 
   function startLessons() {
+    document.activeElement?.blur();
     setState({ activeSession: { type: 'lesson', items: shuffle(lessons).slice(0, LESSON_BATCH), id: Date.now() } });
   }
 

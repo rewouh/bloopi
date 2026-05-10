@@ -10,6 +10,8 @@ import { ProgressBar } from '../components/ProgressBar.js';
 import { RankUpScreen } from '../components/RankUpScreen.js';
 
 export function ReviewView({ session }) {
+  useEffect(() => { document.activeElement?.blur(); }, []);
+
   const total = session.items.length;
   const [queue, setQueue]       = useState([...session.items]);
   const [current, setCurrent]   = useState(0);
