@@ -10,13 +10,13 @@
       "id": "animal_facts_01_true_flight_bat",
       "title": "only mammal capable of true flight",
       "answers": ["bat"],
-      "mnemonic": "BAT = “Born Airborne Truly.” Imagine a bat laughing at penguins and ostriches because it is the only mammal truly flying through the night sky."
+      "mnemonic": "BAT = “Born Airborne Truly.” That bat's laughing at penguins and ostriches because it can truly fly and they can't. Noobs."
     },
     {
       "id": "animal_facts_01_fastest_bird_peregrine_falcon",
       "title": "world's fastest bird",
       "answers": ["peregrine falcon"],
-      "mnemonic": "Peregrine = rapid PEREGRINation (“peregrination” = traveling fast far). See that falcon going faster than planes? It's peregrinating!"
+      "mnemonic": "Peregrine = rapid PEREGRINation (“peregrination” = traveling fast far). How is that falcon going faster than planes? It's peregrinating!"
     },
     {
       "id": "animal_facts_01_octopus_three_hearts",
@@ -28,13 +28,13 @@
       "id": "animal_facts_01_longest_tongue_giraffe",
       "title": "animal with the longest tongue",
       "answers": ["giraffe"],
-      "mnemonic": "GI-RAFFE = “GIant ReAch.” Picture a giraffe licking leaves of absurdly high trees with a tongue longer than a ladder."
+      "mnemonic": "GI-RAFFE = “GIant ReAch.” See that giraffe licking leaves of absurdly high trees with a tongue longer than a ladder."
     },
     {
       "id": "animal_facts_01_loudest_animal_sperm_whale",
       "title": "loudest animal on Earth",
       "answers": ["sperm whale"],
-      "mnemonic": "Imagine a sperm whale opening its mouth and producing a shockwave so loud it cracks submarine windows and vibrates the entire ocean. Maybe the Titanic did not sink because of iceberg, uh?"
+      "mnemonic": "Picture a sperm whale opening its mouth and producing a shockwave so loud it cracks submarine windows and vibrates the entire ocean. Maybe the Titanic did not sink because of iceberg, uh?"
     },
     {
       "id": "animal_facts_01_largest_relative_brain_dolphin",
@@ -58,13 +58,13 @@
       "id": "animal_facts_01_cancer_immune_naked_mole_rat",
       "title": "animal immune to cancer",
       "answers": ["naked mole rat", "naked mole rats"],
-      "mnemonic": "They're so small they could probably be fighting the cancer cells themselves. See those tiny wrinkled naked mole rats punching away cancer cells?"
+      "mnemonic": "They're so small they could probably be fighting the cancer cells themselves. Here they go with tiny swords, fighting tiny cancer cells who also have swords!"
     },
     {
       "id": "animal_facts_01_yak_large_lungs_heart",
       "title": "bovine that has larger lungs and heart to endure higher altitudes",
       "answers": ["yak", "yaks"],
-      "mnemonic": "A yak definitely does not need a sherpa. Picture it climbing the Himalayas effortlessly while humans collapse from lack of oxygen. Its heart pounds like an engine that can be heard from everywhere."
+      "mnemonic": "A yak definitely does not need a sherpa. It climbs the Himalayas effortlessly while all humans on its way collapse from the lack of oxygen. Its heart pounds like an engine that can be heard throughout the mountain."
     }
   ]
 }

@@ -10,13 +10,13 @@
       "id": "japanese_mountains_01_percent_mountainous",
       "title": "percentage of Japan covered by mountains",
       "answers": ["73%", "73 percent", "around 73%"],
-      "mnemonic": "They are pretty unlucky, they got earthquakes, tsunamis, tropical storms and nearly three quarters of the country is mountainous! How did they make it?"
+      "mnemonic": "7+3 = 10, which is also the proportion of the world's active volcanoes located in Japan, link those knowledge together!"
     },
     {
       "id": "japanese_mountains_01_mt_fuji_height",
       "title": "height of Mount Fuji",
       "answers": ["3776 meters", "3776m", "3,776 meters"],
-      "mnemonic": "Fuji stands at 3-7-7-6. Imagine climbing stairs labeled 3 → 7 → 7 → 6 leading directly to the highest viewpoint in Japan. Yup, four steps is all it takes."
+      "mnemonic": "Fuji stands at 3-7-7-6. Visualize yourself climbing stairs labeled 3 → 7 → 7 → 6 leading directly to the highest viewpoint in Japan. Those are biiiiig steps, giant even, who can actually use those ?"
     },
     {
       "id": "japanese_mountains_01_second_highest_mountain",
@@ -26,13 +26,13 @@
     },
     {
       "id": "japanese_mountains_01_fuji_active",
-      "title": "is Mount Fuji active or extinct",
+      "title": "Mt. Fuji active or extinct ?",
       "answers": ["active", "an active volcano"],
       "mnemonic": "Fuji is sleeping, not dead. Imagine the mountain with one eye open while Tokyo nervously watches from afar."
     },
     {
       "id": "japanese_mountains_01_three_holy_mountains",
-      "title": "what are the three holy mountains of Japan ?",
+      "title": "the three holy mountains of Japan ?",
       "answers": ["Fuji Haku Tate", "Fuji, Haku, Tate", "Fuji, Haku and Tate"],
       "mnemonic": "Forming the Holy Trio : Fuji Haku Tate (same letters!)."
     },
@@ -40,7 +40,7 @@
       "id": "japanese_mountains_01_volcanic_percentage",
       "title": "percentage of the world's active volcanoes located in Japan",
       "answers": ["10%", "10 percent", "around 10%"],
-      "mnemonic": "Picture all the volcanoes in the world erupting at the same time, Japan would be in way more trouble than everyone with 10% of all volcanoes!"
+      "mnemonic": "If all the volcanoes in the world were to erupt at the same time, Japan would be in way more trouble than everyone with 10% of them!"
     }
   ]
 }
