@@ -121,8 +121,7 @@ export function ReviewView({ session }) {
         `}
 
         ${phase === 'feedback' && rankUpStage && html`
-          <${RankUpScreen} stage=${rankUpStage} onContinue=${next} />
-          <p class="answer-hint">${item.answers[0]}</p>
+          <${RankUpScreen} stage=${rankUpStage} answer=${item.answers[0]} onContinue=${next} />
           <${NotesBlock} text=${item.notes} />
         `}
 
@@ -131,7 +130,7 @@ export function ReviewView({ session }) {
             ${feedback === 'correct' ? '✓ Correct!' : '✗ Incorrect'}
           </div>
           ${feedback === 'correct' && html`
-            <p class="answer-hint">${item.answers[0]}</p>
+            <p class="answer-reveal"><strong>Answer</strong> : ${item.answers[0]}</p>
           `}
           ${feedback === 'incorrect' && html`
             <p class="correct-answer">Answer: <strong>${item.answers[0]}</strong></p>

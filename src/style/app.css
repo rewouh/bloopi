@@ -194,7 +194,9 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
   100% { transform: translateY(0);    opacity: 1; }
 }
 .rankup-screen { text-align: center; padding: 1.5rem 1rem; animation: float-in .3s cubic-bezier(.34,1.56,.64,1); }
-.rankup-label  { font-size: .75rem; font-weight: 900; text-transform: uppercase; letter-spacing: .12em; color: var(--pico-muted-color); margin: 0 0 .5rem; animation: rankup-words .35s .05s both; }
+.rankup-header { display: flex; align-items: center; justify-content: center; gap: .55rem; margin-bottom: 1rem; animation: rankup-words .35s .05s both; }
+.rankup-label  { font-size: 1rem; font-weight: 900; text-transform: uppercase; letter-spacing: .08em; color: var(--pico-muted-color); }
+.rankup-name   { font-size: 1rem; font-weight: 900; color: var(--pico-primary); }
 .rankup-img    {
   display: block; margin: 0 auto .75rem;
   width: 150px; height: 150px; object-fit: contain; cursor: pointer;
@@ -203,7 +205,6 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 }
 .rankup-img:hover  { transform: scale(1.12) rotate(6deg);  filter: drop-shadow(0 6px 14px rgba(139,92,246,.55)); }
 .rankup-img:active { transform: scale(.9)   rotate(-4deg); }
-.rankup-name { font-size: 3rem; font-weight: 900; color: var(--pico-primary); margin: 0 0 1.5rem; animation: rankup-words .35s .15s both; }
 
 /* ── Feedback ── */
 @keyframes pop-in   { from { transform: scale(.7) rotate(-3deg); opacity:0; } to { transform: scale(1) rotate(0); opacity:1; } }
@@ -212,7 +213,13 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 .feedback-banner.correct   { background: var(--bloopi-correct-bg);   color: var(--bloopi-correct); }
 .feedback-banner.incorrect { background: var(--bloopi-incorrect-bg); color: var(--bloopi-incorrect); }
 .correct-answer { margin: .5rem 0 1rem; }
-.answer-hint { font-size: .82rem; color: var(--pico-muted-color); margin: .2rem 0 .6rem; }
+.answer-reveal {
+  background: var(--bloopi-correct-bg); color: var(--bloopi-correct);
+  border-radius: 1rem; padding: .5rem .9rem;
+  font-size: .88rem; margin: .75rem 0;
+  animation: pop-in .25s var(--spring);
+}
+.rankup-screen > button { width: 100%; }
 .mnemonic-hint { text-align: left; border-left: 4px solid var(--pico-primary); background: var(--c-purple); border-radius: 1rem; }
 
 /* ── Notes (fun facts) ── */
