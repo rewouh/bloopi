@@ -35,7 +35,11 @@ export function DeckPreviewModal({ deck, progress, onClose }) {
           <div class="deck-preview-title-block">
             <h2 class="deck-preview-title">${deck.name}</h2>
             ${deck.description && html`<p class="deck-preview-desc">${deck.description}</p>`}
-            ${deck.author && html`<p class="deck-preview-author">✦ ${deck.author}</p>`}
+            ${deck.author && html`<p class="deck-preview-author">✦ <a
+              href=${'https://github.com/' + deck.author}
+              target="_blank"
+              rel="noopener noreferrer"
+            >${deck.author}</a></p>`}
           </div>
           <button type="button" class="outline secondary exit-btn" onClick=${onClose}>✕</button>
         </header>

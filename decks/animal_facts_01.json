@@ -2,7 +2,9 @@
   "id": "animal_facts_01",
   "name": "Animal Facts 01",
   "description": "Extreme animal abilities, biology, and strange natural records",
-  "author": "Pierre",
+  "author": "rewouh",
+  "language": "us",
+  "tags": ["animals", "biology", "nature", "science"],
   "items": [
     {
       "id": "animal_facts_01_true_flight_bat",

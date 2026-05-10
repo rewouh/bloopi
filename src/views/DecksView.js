@@ -2,31 +2,19 @@ import { html } from 'https://esm.sh/htm/preact';
 import { useState, useEffect, useMemo } from 'https://esm.sh/preact/hooks';
 import Fuse from 'https://esm.sh/fuse.js@7';
 import { getState, setState, subscribe } from '../store/store.js';
+import { langFlagUrl } from '../logic/lang.js';
 import { DeckCard } from '../components/DeckCard.js';
 import { DeckPreviewModal } from '../components/DeckPreviewModal.js';
+import { FilterDropdown } from '../components/FilterDropdown.js';
 
-const FILTERS = [
+const DECK_LIMIT = 30;
+
+const STATUS_FILTERS = [
   { id: 'all',      label: 'All' },
   { id: 'new',      label: '✦ New' },
   { id: 'learning', label: '🫧 Learning' },
   { id: 'done',     label: '⭐ Bloopi' },
 ];
-
-const STOP = new Set(['a','an','the','of','in','on','at','to','and','or','for','with','by','from','its','are','was','key']);
-
-function extractKeywords(decks) {
-  const freq = {};
-  for (const deck of decks) {
-    // pull unique words from the name only — descriptions are too noisy
-    const words = deck.name.split(/\W+/).filter(w => w.length >= 4 && !STOP.has(w.toLowerCase()));
-    for (const w of new Set(words.map(w => w.toLowerCase()))) {
-      freq[w] = (freq[w] || 0) + 1;
-    }
-  }
-  return Object.keys(freq)
-    .sort((a, b) => freq[b] - freq[a] || a.localeCompare(b))
-    .map(w => w.charAt(0).toUpperCase() + w.slice(1));
-}
 
 function deckStatus(deck, progressItems) {
   const items = deck.items || [];
@@ -41,7 +29,9 @@ function deckStatus(deck, progressItems) {
 export function DecksView() {
   const [state, setLocalState] = useState(getState());
   const [query,       setQuery]       = useState('');
-  const [filter,      setFilter]      = useState('all');
+  const [status,      setStatus]      = useState('all');
+  const [langFilter,  setLangFilter]  = useState(null);
+  const [tagFilter,   setTagFilter]   = useState(null);
   const [previewDeck, setPreviewDeck] = useState(null);
 
   useEffect(() => subscribe(setLocalState), []);
@@ -49,12 +39,29 @@ export function DecksView() {
   const decks         = state.loadedDecks || [];
   const progressItems = state.progress.items || {};
 
-  const keywords = useMemo(() => extractKeywords(decks), [decks]);
-
   const fuse = useMemo(
     () => new Fuse(decks, { keys: [{ name: 'name', weight: 2 }, { name: 'description', weight: 1 }], threshold: 0.35, ignoreLocation: true }),
     [decks]
   );
+
+  const langOptions = useMemo(() => {
+    const seen = new Set();
+    return decks
+      .filter(d => d.language && !seen.has(d.language) && seen.add(d.language))
+      .map(d => ({ id: d.language, label: d.language.toUpperCase(), icon: html`<img src=${langFlagUrl(d.language)} alt=${d.language.toUpperCase()} class="lang-flag-img" />` }));
+  }, [decks]);
+
+  const tagOptions = useMemo(() => {
+    const freq = {};
+    for (const deck of decks) {
+      for (const tag of (deck.tags || [])) {
+        freq[tag] = (freq[tag] || 0) + 1;
+      }
+    }
+    return Object.keys(freq)
+      .sort((a, b) => freq[b] - freq[a] || a.localeCompare(b))
+      .map(tag => ({ id: tag, label: tag.charAt(0).toUpperCase() + tag.slice(1) }));
+  }, [decks]);
 
   function addDeck(deck) {
     const progress = { ...state.progress, items: { ...progressItems } };
@@ -74,11 +81,13 @@ export function DecksView() {
 
   const q = query.trim();
   const searched = q ? fuse.search(q).map(r => r.item) : decks;
-  const visible  = searched.filter(d => filter === 'all' || deckStatus(d, progressItems) === filter);
+  const filtered = searched
+    .filter(d => status === 'all' || deckStatus(d, progressItems) === status)
+    .filter(d => !langFilter || d.language === langFilter)
+    .filter(d => !tagFilter  || (d.tags || []).includes(tagFilter));
 
-  function toggleKeyword(kw) {
-    setQuery(q.toLowerCase() === kw.toLowerCase() ? '' : kw);
-  }
+  const visible = filtered.slice(0, DECK_LIMIT);
+  const hasMore = filtered.length > DECK_LIMIT;
 
   return html`
     <div class="decks-view">
@@ -94,30 +103,34 @@ export function DecksView() {
         />
       </div>
 
-      ${keywords.length > 0 && html`
-        <div class="keyword-chips">
-          ${keywords.map(kw => html`
-            <button
-              key=${kw}
-              type="button"
-              class=${'keyword-chip' + (q.toLowerCase() === kw.toLowerCase() ? ' keyword-chip--active' : '')}
-              onClick=${() => toggleKeyword(kw)}
-            >${kw}</button>
-          `)}
-        </div>
-      `}
-
       <div class="filter-pills">
-        ${FILTERS.map(f => html`
+        ${STATUS_FILTERS.map(f => html`
           <button
             key=${f.id}
             type="button"
-            class=${'filter-pill' + (filter === f.id ? ' filter-pill--active' : '')}
-            onClick=${() => setFilter(f.id)}
+            class=${'filter-pill' + (status === f.id ? ' filter-pill--active' : '')}
+            onClick=${() => setStatus(f.id)}
           >
             ${f.label}
           </button>
         `)}
+        ${langOptions.length > 0 && html`
+          <${FilterDropdown}
+            label="Language"
+            options=${langOptions}
+            value=${langFilter}
+            onChange=${setLangFilter}
+          />
+        `}
+        ${tagOptions.length > 0 && html`
+          <${FilterDropdown}
+            label="Tags"
+            options=${tagOptions}
+            value=${tagFilter}
+            onChange=${setTagFilter}
+            defaultMax=${50}
+          />
+        `}
       </div>
 
       ${state.deckLoadError && html`
@@ -129,7 +142,7 @@ export function DecksView() {
       ${!state.deckLoadError && decks.length === 0 && html`
         <p aria-busy="true">Loading decks…</p>
       `}
-      ${visible.length === 0 && decks.length > 0 && html`
+      ${filtered.length === 0 && decks.length > 0 && html`
         <p class="muted-note">No decks match — try a different search or filter.</p>
       `}
 
@@ -145,6 +158,12 @@ export function DecksView() {
           />
         `)}
       </div>
+
+      ${hasMore && html`
+        <p class="decks-overflow-note">
+          Showing ${DECK_LIMIT} of ${filtered.length} decks — refine your search or filters to see more.
+        </p>
+      `}
     </div>
   `;
 }

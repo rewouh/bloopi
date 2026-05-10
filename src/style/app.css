@@ -272,22 +272,7 @@ article:not(.stat-card):hover { transform: translateY(-4px); box-shadow: 0 12px 
 /* ── Decks search + filter ── */
 .decks-search input { border-radius: 50em !important; margin-bottom: .5rem; }
 
-.keyword-chips { display: flex; gap: .35rem; flex-wrap: wrap; margin-bottom: .65rem; }
-.keyword-chip {
-  padding: .2rem .7rem; font-size: .75rem; font-weight: 700;
-  background: var(--pico-card-background-color);
-  border: 1.5px solid var(--pico-muted-border-color) !important;
-  color: var(--pico-muted-color); box-shadow: none !important;
-  transition: background .15s, color .15s, border-color .15s, transform .12s var(--spring) !important;
-}
-.keyword-chip:hover { background: var(--c-sky); transform: translateY(-1px) !important; color: var(--pico-color); }
-.keyword-chip--active {
-  background: var(--pico-primary) !important; color: #fff !important;
-  border-color: var(--pico-primary) !important;
-}
-.keyword-chip--active:hover { opacity: .85; }
-
-.filter-pills { display: flex; gap: .45rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
+.filter-pills { display: flex; gap: .45rem; flex-wrap: wrap; margin-bottom: 1.25rem; align-items: center; }
 .filter-pill {
   padding: .3rem .9rem; font-size: .8rem; font-weight: 700;
   background: var(--pico-card-background-color);
@@ -303,6 +288,38 @@ article:not(.stat-card):hover { transform: translateY(-4px); box-shadow: 0 12px 
 }
 .filter-pill--active:hover { transform: translateY(-2px) !important; box-shadow: 0 5px 0 #6d28d9 !important; }
 .filter-pill--active:active { transform: translateY(2px) !important; box-shadow: 0 1px 0 #6d28d9 !important; }
+
+/* ── Filter dropdown ── */
+.filter-dropdown { position: relative; }
+.fdd-caret { font-size: .6rem; margin-left: .3rem; opacity: .7; }
+.filter-dropdown-panel {
+  position: absolute; top: calc(100% + .4rem); left: 0; z-index: 50;
+  min-width: 190px; max-width: 260px;
+  background: var(--pico-card-background-color);
+  border: 2px solid var(--pico-muted-border-color);
+  border-radius: 1.25rem; padding: .6rem;
+  box-shadow: 0 10px 36px rgba(0,0,0,.16);
+  animation: float-in .2s var(--spring);
+}
+.filter-dropdown-search { border-radius: 50em !important; margin-bottom: .35rem; padding: .35rem .75rem !important; font-size: .82rem !important; }
+.fdd-list { list-style: none; padding: 0; margin: 0; max-height: 220px; overflow-y: auto; }
+.fdd-option {
+  display: flex; align-items: center; gap: .45rem;
+  padding: .38rem .6rem; border-radius: .75rem; cursor: pointer;
+  font-size: .85rem; font-weight: 600; color: var(--pico-color);
+  transition: background .1s;
+}
+.fdd-option:hover { background: var(--c-purple); }
+.fdd-option--active { background: var(--pico-primary) !important; color: #fff; }
+.fdd-option--active:hover { opacity: .88; }
+.fdd-clear { color: #dc2626; font-weight: 700; }
+.fdd-empty, .fdd-hint { padding: .35rem .6rem; font-size: .78rem; color: var(--pico-muted-color); font-style: italic; }
+.fdd-icon { font-size: 1rem; line-height: 1; flex-shrink: 0; }
+
+/* ── Deck language flag ── */
+.deck-lang-flag { height: 11px; margin-left: .35rem; vertical-align: middle; border-radius: 1px; }
+.lang-flag-img  { height: 11px; vertical-align: middle; border-radius: 1px; }
+.decks-overflow-note { text-align: center; font-size: .82rem; color: var(--pico-muted-color); margin-top: .75rem; }
 
 /* ── Decks ── */
 .deck-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap: 1rem; }
@@ -447,6 +464,26 @@ kbd {
   font-size: .75rem; font-weight: 800; font-family: monospace;
   white-space: nowrap; flex-shrink: 0;
 }
+
+/* ── Guide contributing ── */
+.guide-contributing { margin-top: 1.5rem; }
+.guide-contributing h3 { text-align: center; margin-bottom: .5rem; }
+.guide-contributing p { margin: 0 0 .4rem; font-size: .9rem; color: var(--pico-muted-color); }
+.guide-contributing-alt { font-size: .82rem !important; }
+
+/* ── Guide contributors ── */
+.guide-contributors { margin-top: 1.5rem; }
+.guide-contributors h3 { text-align: center; margin-bottom: .75rem; }
+.contributors-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: .5rem; }
+.contributor-row {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: .75rem 1rem; border-radius: 1.1rem;
+  background: var(--pico-card-background-color);
+  border: 2px solid var(--pico-muted-border-color);
+}
+.contributor-name { font-weight: 800; color: var(--pico-primary); text-decoration: none; }
+.contributor-name:hover { text-decoration: underline; }
+.contributor-stats { font-size: .82rem; font-weight: 600; color: var(--pico-muted-color); }
 
 /* ── Summary ── */
 .summary { max-width: 400px; margin: 5rem auto; text-align: center; animation: float-in .4s var(--spring); }

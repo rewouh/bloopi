@@ -2,7 +2,9 @@
   "id": "japanese_mountains_01",
   "name": "Japanese Mountains 01",
   "description": "Important geography, culture, risks, and natural facts about Japanese mountains",
-  "author": "Pierre",
+  "author": "rewouh",
+  "language": "us",
+  "tags": ["geography", "japan", "mountains", "nature"],
   "items": [
     {
       "id": "japanese_mountains_01_percent_mountainous",

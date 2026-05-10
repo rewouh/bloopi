@@ -18,7 +18,10 @@ export function RankItemsModal({ level, entries, onClose }) {
     [entries]
   );
 
-  const filtered = query.trim() ? fuse.search(query.trim()).map(r => r.item) : entries;
+  const ITEM_LIMIT = 50;
+  const allFiltered = query.trim() ? fuse.search(query.trim()).map(r => r.item) : entries;
+  const filtered  = query.trim() ? allFiltered : allFiltered.slice(0, ITEM_LIMIT);
+  const hasMore   = !query.trim() && allFiltered.length > ITEM_LIMIT;
 
   function toggle(id) {
     setRevealed(s => {
@@ -60,7 +63,10 @@ export function RankItemsModal({ level, entries, onClose }) {
 
         <div class="deck-preview-toolbar">
           <span class="deck-preview-count">
-            ${query.trim() ? `${filtered.length} of ${entries.length}` : `${entries.length}`} item${entries.length !== 1 ? 's' : ''}
+            ${query.trim()
+              ? `${filtered.length} of ${entries.length}`
+              : hasMore ? `${ITEM_LIMIT} of ${entries.length}` : `${entries.length}`
+            } item${entries.length !== 1 ? 's' : ''}
           </span>
           <button type="button" class="secondary outline" onClick=${toggleAll} disabled=${filtered.length === 0}>
             ${allRevealed ? 'Hide all' : 'Reveal all'}
@@ -86,6 +92,7 @@ export function RankItemsModal({ level, entries, onClose }) {
               </div>
             </div>
           `)}
+          ${hasMore && html`<p class="muted-note" style="text-align:center;padding:.75rem 0 0">Search to see remaining ${allFiltered.length - ITEM_LIMIT} items.</p>`}
         </div>
       </div>
     </div>

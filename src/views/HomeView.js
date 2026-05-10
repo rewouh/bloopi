@@ -11,7 +11,9 @@ function upcomingCalendar(progress) {
     d.setDate(d.getDate() + i);
     const dateStr = d.toISOString().split('T')[0];
     const label = i === 0 ? 'Today' : d.toLocaleDateString('en', { weekday: 'short' });
-    const count = items.filter(it => it.nextReview === dateStr && it.level > 0 && it.level < 5).length;
+    const count = i === 0
+      ? items.filter(it => it.nextReview && it.nextReview <= dateStr && it.level > 0 && it.level < 5).length
+      : items.filter(it => it.nextReview === dateStr && it.level > 0 && it.level < 5).length;
     return { label, count, isToday: i === 0 };
   });
 }

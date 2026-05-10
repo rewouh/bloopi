@@ -1,6 +1,7 @@
 import { html } from 'https://esm.sh/htm/preact';
 import { useState } from 'https://esm.sh/preact/hooks';
 import { ProgressBar } from './ProgressBar.js';
+import { langFlagUrl } from '../logic/lang.js';
 
 export function DeckCard({ deck, progress, onAdd, onRemove, onPreview }) {
   const [confirming, setConfirming] = useState(false);
@@ -16,10 +17,21 @@ export function DeckCard({ deck, progress, onAdd, onRemove, onPreview }) {
   return html`
     <article class="deck-card deck-card--clickable" onClick=${onPreview}>
       <header class="deck-header">
-        <strong>${deck.name}</strong>
+        <strong>
+          ${deck.name}
+          ${deck.language && langFlagUrl(deck.language) && html`<img src=${langFlagUrl(deck.language)} class="deck-lang-flag" alt=${deck.language.toUpperCase()} />`}
+        </strong>
         <div class="deck-header-sub">
           ${newCount > 0 && html`<span class="deck-new-badge">${newCount} new</span>`}
-          <small>${items.length} item${items.length !== 1 ? 's' : ''}${deck.author ? ` · by ${deck.author}` : ''}</small>
+          <small>
+            ${items.length} item${items.length !== 1 ? 's' : ''}
+            ${deck.author ? html` · by <a
+              href=${'https://github.com/' + deck.author}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick=${e => e.stopPropagation()}
+            >${deck.author}</a>` : ''}
+          </small>
         </div>
       </header>
       <p>${deck.description}</p>

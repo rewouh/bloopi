@@ -1,4 +1,6 @@
 import { html } from 'https://esm.sh/htm/preact';
+import { useState, useEffect } from 'https://esm.sh/preact/hooks';
+import { getState, subscribe } from '../store/store.js';
 import { RankBadge, RANKS } from '../components/RankBadge.js';
 
 const RANK_DETAILS = {
@@ -9,7 +11,25 @@ const RANK_DETAILS = {
   5: 'never — mastered',
 };
 
+function buildContributors(loadedDecks) {
+  const map = {};
+  for (const deck of (loadedDecks || [])) {
+    if (!deck.author) continue;
+    if (!map[deck.author]) map[deck.author] = { decks: 0, cards: 0 };
+    map[deck.author].decks += 1;
+    map[deck.author].cards += (deck.items || []).length;
+  }
+  return Object.entries(map)
+    .map(([username, { decks, cards }]) => ({ username, decks, cards }))
+    .sort((a, b) => b.cards - a.cards || b.decks - a.decks);
+}
+
 export function GuideView() {
+  const [state, setLocalState] = useState(getState());
+  useEffect(() => subscribe(setLocalState), []);
+
+  const contributors = buildContributors(state.loadedDecks);
+
   return html`
     <div class="guide-view">
       <h2>How it works</h2>
@@ -57,6 +77,31 @@ export function GuideView() {
           </div>
         </section>
       </div>
+
+      <section class="guide-contributing">
+        <h3>Contributing</h3>
+        <p>Want to add a deck? See the <a href="https://github.com/rewouh/bloopi#readme" target="_blank" rel="noopener noreferrer">repository README</a> for the format and instructions.</p>
+        <p class="guide-contributing-alt">Not familiar with GitHub? Send a <a href="mailto:pbraudcontact@gmail.com">mail</a> with a <a href="https://pastebin.com" target="_blank" rel="noopener noreferrer">Pastebin</a> link — no file attachments. List your questions, each with a mnemonic. Format is flexible, I'll handle the rest.</p>
+      </section>
+
+      ${contributors.length > 0 && html`
+        <section class="guide-contributors">
+          <h3>Contributors</h3>
+          <ul class="contributors-list">
+            ${contributors.map(({ username, decks, cards }) => html`
+              <li key=${username} class="contributor-row">
+                <a
+                  href=${'https://github.com/' + username}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="contributor-name"
+                >@${username}</a>
+                <span class="contributor-stats">${cards} card${cards !== 1 ? 's' : ''} · ${decks} deck${decks !== 1 ? 's' : ''}</span>
+              </li>
+            `)}
+          </ul>
+        </section>
+      `}
     </div>
   `;
 }
