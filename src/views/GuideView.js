@@ -79,9 +79,9 @@ export function GuideView() {
       </div>
 
       <section class="guide-contributing">
-        <h3>Contributing</h3>
-        <p>Want to add a deck? Use the <a href="https://rewouh.github.io/bloopi-deck-builder" target="_blank" rel="noopener noreferrer">Deck Builder</a> — a visual tool to build and export a deck without editing JSON directly. Then open a pull request on the <a href="https://github.com/rewouh/bloopi#readme" target="_blank" rel="noopener noreferrer">repository</a>.</p>
-        <p class="guide-contributing-alt">Not familiar with GitHub? Send a <a href="mailto:pbraudcontact@gmail.com">mail</a> with a <a href="https://pastebin.com" target="_blank" rel="noopener noreferrer">Pastebin</a> link — no file attachments. List your questions, each with a mnemonic. Format is flexible, I'll handle the rest.</p>
+        <h3>Add a deck</h3>
+        <p>Got a topic you know well? Build a deck — it takes a few minutes with the <a href="https://rewouh.github.io/bloopi-deck-builder" target="_blank" rel="noopener noreferrer">Deck Builder</a> and helps everyone who uses Bloopi. Drop the exported file in the <a href="https://github.com/rewouh/bloopi" target="_blank" rel="noopener noreferrer">repository</a> and open a pull request. Seriously, thank you.</p>
+        <p class="guide-contributing-alt">Not on GitHub? No problem — paste your content on <a href="https://pastebin.com" target="_blank" rel="noopener noreferrer">Pastebin</a> and <a href="mailto:pbraudcontact@gmail.com">send the link</a>. Questions with mnemonics, format is flexible, I'll take it from there.</p>
       </section>
 
       ${contributors.length > 0 && html`

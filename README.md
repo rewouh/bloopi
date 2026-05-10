@@ -10,16 +10,18 @@ No build step, no server, no accounts. Just a static page and localStorage.
 
 ## Contributing
 
-The best way to contribute is to **add a deck**. The codebase itself is simple and I manage it directly — if you have a feature idea or a suggestion, reach out and we'll talk about it together rather than opening a PR for it. For anything code-related, contact me at [pbraudcontact@gmail.com](mailto:pbraudcontact@gmail.com).
+The best way to contribute is to **add a deck** — and if you do, genuinely: thank you. Every deck makes Bloopi more useful for everyone.
+
+The codebase itself is simple and I manage it directly. If you have a feature idea or a suggestion, reach out and we'll talk — [pbraudcontact@gmail.com](mailto:pbraudcontact@gmail.com).
 
 ### How to add a deck
 
-1. Use the **[Deck Builder](https://rewouh.github.io/bloopi-deck-builder)** to create your deck visually and export it as JSON
+1. Use the **[Deck Builder](https://rewouh.github.io/bloopi-deck-builder)** to build your deck visually and export it as JSON
 2. Fork the repository
 3. Drop the file in `decks/<your-deck-id>.json`
 4. Open a pull request
 
-That's it — no build step, no dependencies to install.
+That's it — no build step, no dependencies to install. Really.
 
 ---
 
@@ -62,26 +64,25 @@ That's it — no build step, no dependencies to install.
 
 ### Content rules
 
-- **Write direct prompts, not full questions** — "longest river in the world" not "What is the longest river in the world?" Skip filler words that waste time during review. No capital letter at the start.
-- **One clear correct answer per item** — if multiple answers are plausible, reframe the question.
-- The **mnemonic is required** — it's the core of the experience. A bad mnemonic is worse than none.
+- **Keep prompts direct** — "longest river in the world", not "What is the longest river in the world?". No capital at the start, cut the filler.
+- **One unambiguous answer** — if multiple answers could work, reframe until only one does.
+- **The mnemonic is the whole point** — don't skip it and don't phone it in. A lazy mnemonic is worse than none.
 
 ### Size
 
-- **Minimum 20 items**, maximum ~40–50.
-- Below 20 the deck feels thin. Above 50 it becomes a grind.
+- **20–50 items is the sweet spot.** Below 20 feels thin. Above 50 becomes a grind for whoever's reviewing.
 
 ---
 
 ## A note on AI-generated content
 
-AI tools can help brainstorm a deck structure, but they are not reliable enough to use directly. Common problems:
+AI can be a useful starting point for brainstorming a deck, but don't trust it directly. Common failure modes:
 
-- **Questions are too vague** — multiple valid answers exist, or the prompt is ambiguous
-- **Mnemonics don't hold up** — they sound plausible but don't actually help recall
+- **Questions are too vague** — multiple valid answers, or the prompt is ambiguous
+- **Mnemonics don't hold up** — plausible-sounding but they don't actually help recall
 - **Facts are wrong or outdated** — especially for records, statistics, and niche topics
 
-If you use AI as a starting point, treat everything it produces as a first draft. Triple-check facts against primary sources, rewrite every mnemonic from scratch if needed, and make sure each question has one clear correct answer.
+Treat everything AI produces as a rough draft. Triple-check facts, rewrite mnemonics from scratch, make sure each question has exactly one right answer.
 
 ---
 
