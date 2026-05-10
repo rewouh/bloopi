@@ -33,7 +33,7 @@ export function GuideView() {
   return html`
     <div class="guide-view">
       <h2>How it works</h2>
-      <p class="guide-intro">Bloopi uses spaced repetition — items come back right before you'd forget them. The better you know something, the longer it waits before returning.</p>
+      <p class="guide-intro">Bloopi uses a proven spaced-repetition algorithm. Items come back right before you'd forget them — the better you know something, the longer it waits before returning.</p>
 
       <div class="guide-sections">
         <section class="guide-section">

@@ -11,11 +11,9 @@ export function WelcomeView() {
   return html`
     <div class="welcome-overlay">
       <div class="welcome-card">
-        <h1 class="welcome-title">Hey there, future Bloopi!</h1>
-        <p class="welcome-body">Welcome.</p>
+        <h1 class="welcome-title">Welcome to Bloopi.</h1>
         <p class="welcome-body">
-          You're starting as a <strong>Drip</strong>. That's fine — everyone does.
-          Answer questions, and watch the blob grow.
+          Your collection is empty for now. Add decks, answer questions, and watch your items climb from <strong>Drip</strong> all the way to <strong>Bloopi</strong>.
         </p>
         <button type="button" onClick=${handleContinue}>
           Let's blob

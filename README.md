@@ -82,6 +82,8 @@ If you use AI as a starting point, treat everything it produces as a first draft
 
 Bloopi was inspired by [WaniKani](https://www.wanikani.com), a Japanese learning app built around mnemonics. Learning kanji with WaniKani made the whole process genuinely fun — the mnemonic-first approach turned what is usually painful memorization into something that actually sticks. I wanted to bring that same experience to general knowledge topics beyond Japanese.
 
+The spaced-repetition algorithm follows [WaniKani's SRS stage system](https://knowledge.wanikani.com/wanikani/srs-stages/) — same interval and demotion rules, adapted to general knowledge with different rank names.
+
 This app does not intend to compete with WaniKani or anyone else. No proprietary content will ever be hosted here.
 
 ---
