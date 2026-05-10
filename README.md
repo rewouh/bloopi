@@ -62,7 +62,7 @@ That's it — no build step, no dependencies to install.
 
 ### Content rules
 
-- **Write direct prompts, not full questions** — "Longest river in the world" not "What is the longest river in the world?" Skip filler words that waste time during review.
+- **Write direct prompts, not full questions** — "longest river in the world" not "What is the longest river in the world?" Skip filler words that waste time during review. No capital letter at the start.
 - **One clear correct answer per item** — if multiple answers are plausible, reframe the question.
 - The **mnemonic is required** — it's the core of the experience. A bad mnemonic is worse than none.
 
