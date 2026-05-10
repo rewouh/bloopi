@@ -78,6 +78,16 @@ If you use AI as a starting point, treat everything it produces as a first draft
 
 ---
 
+## License
+
+This project is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)** (Attribution-NonCommercial).
+
+You can freely share, adapt, and build on anything here — code, decks, or content — as long as you credit the source and don't use it commercially.
+
+By submitting a contribution (deck, fix, or anything else), you agree that your work is released under the same license.
+
+---
+
 ## Local setup
 
 Serve the project over HTTP — `fetch()` for deck JSON breaks on `file://`.
