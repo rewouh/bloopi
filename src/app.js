@@ -72,3 +72,30 @@ function App() {
 }
 
 render(h(App, null), document.getElementById('app'));
+
+// ── Scrollbar rainbow ──
+const SCROLL_COLORS = [
+  [103, 232, 249], // cyan  (rank 1)
+  [ 74, 222, 128], // lime  (rank 2)
+  [251, 191,  36], // amber (rank 3)
+  [244, 114, 182], // pink  (rank 4)
+  [168,  85, 247], // purple(rank 5)
+];
+
+function updateScrollbarColor() {
+  const max = document.documentElement.scrollHeight - window.innerHeight;
+  const pct = max > 0 ? window.scrollY / max : 0;
+  const n = SCROLL_COLORS.length - 1;
+  const scaled = pct * n;
+  const i = Math.min(Math.floor(scaled), n - 1);
+  const t = scaled - i;
+  const [r1, g1, b1] = SCROLL_COLORS[i];
+  const [r2, g2, b2] = SCROLL_COLORS[i + 1];
+  const r = Math.round(r1 + (r2 - r1) * t);
+  const g = Math.round(g1 + (g2 - g1) * t);
+  const b = Math.round(b1 + (b2 - b1) * t);
+  document.documentElement.style.setProperty('--scrollbar-thumb', `rgb(${r},${g},${b})`);
+}
+
+window.addEventListener('scroll', updateScrollbarColor, { passive: true });
+updateScrollbarColor();

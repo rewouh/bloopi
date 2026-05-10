@@ -17,6 +17,13 @@
 }
 
 body, button, input, select, textarea { font-family: 'Nunito', sans-serif; }
+
+/* ── Scrollbar rainbow ── */
+:root { --scrollbar-thumb: #67e8f9; }
+html { scrollbar-color: var(--scrollbar-thumb) transparent; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 50em; transition: background-color .12s ease; }
 .app-content {
   width: 100%;
   max-width: 680px;
