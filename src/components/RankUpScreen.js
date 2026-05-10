@@ -25,8 +25,10 @@ export function RankUpScreen({ stage, answer, onContinue }) {
         class="rankup-img"
         onClick=${onContinue}
       />
-      ${answer && html`<p class="answer-reveal"><strong>Answer</strong> : ${answer}</p>`}
-      <button type="button" onClick=${onContinue}>Continue</button>
+      <div class="rankup-actions">
+        ${answer && html`<p class="answer-reveal"><strong>Answer</strong> : ${answer}</p>`}
+        <button type="button" onClick=${onContinue}>Continue</button>
+      </div>
       <p class="hint-enter">or press Enter</p>
     </div>
   `;

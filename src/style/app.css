@@ -219,7 +219,8 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
   font-size: .88rem; margin: .75rem 0;
   animation: pop-in .25s var(--spring);
 }
-.rankup-screen > button { width: 100%; }
+.rankup-actions { display: inline-flex; flex-direction: column; gap: .6rem; margin: .75rem 0; }
+.rankup-actions .answer-reveal { margin: 0; }
 .mnemonic-hint { text-align: left; border-left: 4px solid var(--pico-primary); background: var(--c-purple); border-radius: 1rem; }
 
 /* ── Notes (fun facts) ── */
