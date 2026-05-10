@@ -212,6 +212,7 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 .feedback-banner.correct   { background: var(--bloopi-correct-bg);   color: var(--bloopi-correct); }
 .feedback-banner.incorrect { background: var(--bloopi-incorrect-bg); color: var(--bloopi-incorrect); }
 .correct-answer { margin: .5rem 0 1rem; }
+.answer-hint { font-size: .82rem; color: var(--pico-muted-color); margin: .2rem 0 .6rem; }
 .mnemonic-hint { text-align: left; border-left: 4px solid var(--pico-primary); background: var(--c-purple); border-radius: 1rem; }
 
 /* ── Notes (fun facts) ── */

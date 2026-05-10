@@ -176,6 +176,7 @@ export function LessonView({ session }) {
 
         ${phase === 'feedback' && showRankUp && html`
           <${RankUpScreen} stage=${1} onContinue=${advance} />
+          <p class="answer-hint">${quizItem.answers[0]}</p>
           <${NotesBlock} text=${quizItem.notes} />
         `}
 
