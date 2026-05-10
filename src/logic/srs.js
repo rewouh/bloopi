@@ -14,7 +14,9 @@ const INTERVALS = {
 export function getNextReviewDate(stage) {
   const ms = INTERVALS[stage];
   if (!ms) return null;
-  return new Date(Date.now() + ms).toISOString();
+  const d = new Date(Date.now() + ms);
+  d.setMinutes(0, 0, 0); // floor to top of hour so batches cluster
+  return d.toISOString();
 }
 
 export function isDue(itemState) {
