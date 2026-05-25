@@ -168,20 +168,16 @@ export function HomeView() {
         return;
       }
 
-      const localEmpty  = !local.lastModified && Object.keys(local.items || {}).length === 0;
-      const remoteNewer = remote.lastModified && (!local.lastModified || remote.lastModified > local.lastModified);
+      const localHasData = Object.keys(local.items || {}).length > 0;
+      const remoteNewer  = remote.lastModified && (!local.lastModified || remote.lastModified > local.lastModified);
 
-      if (localEmpty || remoteNewer) {
-        // Ask the user what to do — unless local is completely empty (auto-pull)
-        if (localEmpty) {
-          applyRemote(remote);
-        } else {
-          setConflict({ remote });
-        }
+      if (!localHasData || remoteNewer) {
+        // Remote has data and local has nothing real (or is stale) — prompt the user
+        setConflict({ remote });
         return;
       }
 
-      // Local is newer — push
+      // Local has real data and is newer — push
       await pushToRemote(syncConfig.keyHash, local);
       const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
       saveSyncConfig(updated);
