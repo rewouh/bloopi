@@ -158,7 +158,13 @@ export function HomeView() {
       const remote = await fetchRemote(syncConfig.keyHash);
       const local  = getState().progress;
 
+      const localHasData = Object.values(local.items || {}).some(it => it.stage > 0);
+
       if (!remote) {
+        if (!localHasData) {
+          showToast('No cloud data found — check your passphrase.', 'error');
+          return;
+        }
         // Nothing in the cloud yet — push local
         await pushToRemote(syncConfig.keyHash, local);
         const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
@@ -168,11 +174,9 @@ export function HomeView() {
         return;
       }
 
-      const localHasData = Object.values(local.items || {}).some(it => it.stage > 0);
-      const remoteNewer  = remote.lastModified && (!local.lastModified || remote.lastModified > local.lastModified);
+      const remoteNewer = remote.lastModified && (!local.lastModified || remote.lastModified > local.lastModified);
 
       if (!localHasData || remoteNewer) {
-        // Remote has data and local has nothing real (or is stale) — prompt the user
         setConflict({ remote });
         return;
       }
