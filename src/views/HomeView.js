@@ -168,7 +168,7 @@ export function HomeView() {
         return;
       }
 
-      const localHasData = Object.keys(local.items || {}).length > 0;
+      const localHasData = Object.values(local.items || {}).some(it => it.stage > 0);
       const remoteNewer  = remote.lastModified && (!local.lastModified || remote.lastModified > local.lastModified);
 
       if (!localHasData || remoteNewer) {
