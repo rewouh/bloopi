@@ -28,6 +28,7 @@ export function NotesBlock({ text, onSave }) {
             value=${draft}
             onInput=${e => setDraft(e.target.value)}
             placeholder="Add a personal note…"
+            autoFocus
           />
           <div class="notes-edit-actions">
             <button type="button" class="outline secondary notes-action-btn" onClick=${cancel}>Cancel</button>
@@ -41,12 +42,14 @@ export function NotesBlock({ text, onSave }) {
   if (!text && !onSave) return null;
 
   return html`
-    <aside class="notes-block ${!text ? 'notes-block--empty' : ''}">
+    <aside
+      class=${'notes-block' + (!text ? ' notes-block--empty' : '') + (onSave ? ' notes-block--editable' : '')}
+      onClick=${onSave ? startEdit : undefined}
+      title=${onSave ? 'Click to edit note' : undefined}
+    >
       <span class="notes-icon">💡</span>
       <p>${text || html`<span class="notes-placeholder">Add a personal note…</span>`}</p>
-      ${onSave && html`
-        <button type="button" class="notes-edit-btn" onClick=${startEdit} title="Edit note">✏</button>
-      `}
+      ${onSave && html`<span class="notes-edit-hint">✏</span>`}
     </aside>
   `;
 }

@@ -240,12 +240,9 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 .notes-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: .1rem; }
 .notes-placeholder { opacity: .45; font-style: italic; }
 .notes-block--empty { opacity: .6; }
-.notes-edit-btn {
-  background: none !important; border: none !important; box-shadow: none !important;
-  padding: .15rem .3rem !important; margin: 0 0 0 auto !important;
-  font-size: .85rem; opacity: .5; cursor: pointer; flex-shrink: 0; align-self: flex-start;
-}
-.notes-edit-btn:hover { opacity: 1; }
+.notes-block--editable { cursor: pointer; transition: filter .15s; }
+.notes-block--editable:hover { filter: brightness(1.08); }
+.notes-edit-hint { font-size: .8rem; opacity: .4; flex-shrink: 0; align-self: flex-start; margin-left: auto; pointer-events: none; }
 .notes-block--editing { flex-direction: column; align-items: stretch; gap: .5rem; }
 .notes-block--editing .notes-icon { display: none; }
 .notes-edit-body { display: flex; flex-direction: column; gap: .5rem; width: 100%; }
