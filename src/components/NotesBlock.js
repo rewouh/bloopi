@@ -1,55 +1,47 @@
 import { html } from 'https://esm.sh/htm/preact';
-import { useState } from 'https://esm.sh/preact/hooks';
+import { useState, useRef } from 'https://esm.sh/preact/hooks';
 
 export function NotesBlock({ text, onSave }) {
-  const [editing, setEditing] = useState(false);
-  const [draft,   setDraft]   = useState('');
-
-  function startEdit() {
-    setDraft(text || '');
-    setEditing(true);
-  }
+  const [draft,  setDraft]  = useState(text || '');
+  const [saved,  setSaved]  = useState(false);
+  const lastSaved = useRef(text || '');
 
   function save() {
-    onSave(draft.trim());
-    setEditing(false);
+    const val = draft.trim();
+    if (val === lastSaved.current) return;
+    onSave(val);
+    lastSaved.current = val;
+    setSaved(true);
+    setTimeout(() => setSaved(false), 1800);
   }
 
-  function cancel() { setEditing(false); }
-
-  if (editing) {
-    return html`
-      <aside class="notes-block notes-block--editing">
-        <span class="notes-icon">💡</span>
-        <div class="notes-edit-body">
-          <textarea
-            class="notes-textarea"
-            rows="3"
-            value=${draft}
-            onInput=${e => setDraft(e.target.value)}
-            placeholder="Add a personal note…"
-            autoFocus
-          />
-          <div class="notes-edit-actions">
-            <button type="button" class="outline secondary notes-action-btn" onClick=${cancel}>Cancel</button>
-            <button type="button" class="notes-action-btn" onClick=${save}>Save</button>
-          </div>
-        </div>
-      </aside>
-    `;
+  function onKeyDown(e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      save();
+      e.target.blur();
+    }
   }
 
   if (!text && !onSave) return null;
 
   return html`
-    <aside
-      class=${'notes-block' + (!text ? ' notes-block--empty' : '') + (onSave ? ' notes-block--editable' : '')}
-      onClick=${onSave ? startEdit : undefined}
-      title=${onSave ? 'Click to edit note' : undefined}
-    >
+    <aside class="notes-block">
       <span class="notes-icon">💡</span>
-      <p>${text || html`<span class="notes-placeholder">Add a personal note…</span>`}</p>
-      ${onSave && html`<span class="notes-edit-hint">✏</span>`}
+      ${onSave
+        ? html`
+            <textarea
+              class="notes-inline-editor"
+              rows="1"
+              value=${draft}
+              placeholder="Add a personal note…"
+              onInput=${e => setDraft(e.target.value)}
+              onBlur=${save}
+              onKeyDown=${onKeyDown}
+            />`
+        : html`<p>${text}</p>`
+      }
+      ${saved && html`<span class="notes-saved-flash">✓</span>`}
     </aside>
   `;
 }
