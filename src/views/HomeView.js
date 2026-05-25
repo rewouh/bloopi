@@ -153,7 +153,7 @@ export function HomeView() {
   async function handleSync() {
     if (!syncConfig?.enabled) return;
     setSyncing(true);
-    setSyncMsg(null);
+    setToast(null);
     try {
       const remote = await fetchRemote(syncConfig.keyHash);
       const local  = getState().progress;
