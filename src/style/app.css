@@ -223,14 +223,39 @@ button.outline:not(.porter-card):not(:disabled):active { transform: scale(.92)  
 .rankup-actions .answer-reveal { margin: 0; }
 .mnemonic-hint { text-align: left; border-left: 4px solid var(--pico-primary); background: var(--c-purple); border-radius: 1rem; }
 
+/* ── Question image ── */
+.question-image {
+  display: block; max-width: 100%; max-height: 220px; width: auto;
+  margin: 0 auto .75rem; border-radius: 1rem;
+  object-fit: contain;
+}
+
 /* ── Notes (fun facts) ── */
 .notes-block {
   display: flex; gap: .65rem; align-items: flex-start; text-align: left;
   background: var(--c-gold); border-left: 4px solid rgba(245,158,11,.55);
   border-radius: 1rem; padding: .75rem 1rem; margin: .75rem 0;
 }
-.notes-block p { margin: 0; font-size: .9rem; line-height: 1.55; }
+.notes-block p { margin: 0; font-size: .9rem; line-height: 1.55; flex: 1; }
 .notes-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: .1rem; }
+.notes-placeholder { opacity: .45; font-style: italic; }
+.notes-block--empty { opacity: .6; }
+.notes-edit-btn {
+  background: none !important; border: none !important; box-shadow: none !important;
+  padding: .15rem .3rem !important; margin: 0 0 0 auto !important;
+  font-size: .85rem; opacity: .5; cursor: pointer; flex-shrink: 0; align-self: flex-start;
+}
+.notes-edit-btn:hover { opacity: 1; }
+.notes-block--editing { flex-direction: column; align-items: stretch; gap: .5rem; }
+.notes-block--editing .notes-icon { display: none; }
+.notes-edit-body { display: flex; flex-direction: column; gap: .5rem; width: 100%; }
+.notes-textarea {
+  width: 100%; font-size: .9rem; line-height: 1.55; resize: vertical;
+  border-radius: .6rem; padding: .5rem .75rem; margin: 0;
+  background: rgba(0,0,0,.1); border: 1px solid rgba(245,158,11,.55);
+}
+.notes-edit-actions { display: flex; gap: .5rem; justify-content: flex-end; }
+.notes-action-btn { padding: .35rem .85rem !important; font-size: .85rem !important; }
 
 /* ── Card hover lift ── */
 article:not(.stat-card) { transition: transform .18s ease, box-shadow .18s; }
@@ -460,7 +485,9 @@ article:not(.stat-card):hover { transform: translateY(-4px); box-shadow: 0 12px 
   margin-bottom: 1rem; padding-bottom: .75rem;
   border-bottom: 2px solid var(--pico-muted-border-color);
 }
+.deck-preview-toolbar-left { display: flex; align-items: center; gap: .5rem; }
 .deck-preview-count { font-size: .8rem; font-weight: 800; color: var(--pico-muted-color); text-transform: uppercase; letter-spacing: .05em; }
+.deck-preview-mnemonic-count { font-size: .8rem; font-weight: 700; color: var(--pico-muted-color); }
 .deck-preview-list { display: flex; flex-direction: column; gap: .6rem; }
 .deck-preview-item {
   display: flex; gap: .85rem; align-items: flex-start;

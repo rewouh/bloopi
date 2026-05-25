@@ -7,26 +7,9 @@ export async function loadAllDecks() {
 }
 
 async function discoverDeckIds() {
-  // GitHub Contents API — works on GitHub Pages (public repo, no auth needed)
-  try {
-    const r = await fetch(
-      'https://api.github.com/repos/rewouh/bloopi/contents/decks',
-      { headers: { Accept: 'application/vnd.github.v3+json' } }
-    );
-    if (r.ok) {
-      const files = await r.json();
-      return files
-        .filter(f => f.type === 'file' && f.name.endsWith('.json'))
-        .map(f => f.name.replace(/\.json$/, ''));
-    }
-  } catch {}
-
-  // Directory listing fallback — works with `python -m http.server`
-  const r = await fetch('decks/');
-  if (!r.ok) throw new Error('Could not discover decks');
-  const html = await r.text();
-  return [...html.matchAll(/href="([a-z0-9][a-z0-9_-]*\.json)"/gi)]
-    .map(m => m[1].replace(/\.json$/, ''));
+  const r = await fetch('decks/index.json');
+  if (!r.ok) throw new Error('Could not load decks/index.json');
+  return (await r.text()).split('\n').map(s => s.trim()).filter(Boolean);
 }
 
 async function loadDeck(id) {

@@ -39,6 +39,15 @@ export function DecksView() {
   const decks         = state.loadedDecks || [];
   const progressItems = state.progress.items || {};
 
+  const shuffledDecks = useMemo(() => {
+    const arr = [...decks];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [decks]);
+
   const fuse = useMemo(
     () => new Fuse(decks, { keys: [{ name: 'name', weight: 2 }, { name: 'description', weight: 1 }], threshold: 0.35, ignoreLocation: true }),
     [decks]
@@ -80,7 +89,7 @@ export function DecksView() {
   }
 
   const q = query.trim();
-  const searched = q ? fuse.search(q).map(r => r.item) : decks;
+  const searched = q ? fuse.search(q).map(r => r.item) : shuffledDecks;
   const filtered = searched
     .filter(d => status === 'all' || deckStatus(d, progressItems) === status)
     .filter(d => !langFilter || d.language === langFilter)

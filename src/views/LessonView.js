@@ -34,6 +34,18 @@ export function LessonView({ session }) {
   const item      = phase === 'study' ? studyItem : quizItem;
   const deckName  = getState().loadedDecks.find(d => (d.items || []).some(it => it.id === item?.id))?.name;
 
+  function effectiveNote(it) {
+    const notes = getState().progress.userNotes || {};
+    return it.id in notes ? notes[it.id] : (it.notes || '');
+  }
+
+  function saveNote(it, text) {
+    const s     = getState();
+    const notes = { ...(s.progress.userNotes || {}) };
+    if (text) notes[it.id] = text; else delete notes[it.id];
+    setState({ progress: { ...s.progress, userNotes: notes } });
+  }
+
   // ── Study phase ──────────────────────────────────────────────
   function nextStudy() {
     if (studyIndex + 1 >= items.length) {
@@ -145,10 +157,11 @@ export function LessonView({ session }) {
         <div class="session-content">
           <span class="session-phase-label">Study</span>
           ${deckName && html`<span class="deck-tag">${deckName}</span>`}
+          ${studyItem.image && html`<img class="question-image" src=${studyItem.image} alt="" />`}
           <h2 class="question-title">${studyItem.title}</h2>
           <div class="study-answer">${studyItem.answers[0]}</div>
           <${MnemonicHint} text=${studyItem.mnemonic} />
-          <${NotesBlock} text=${studyItem.notes} />
+          <${NotesBlock} key=${studyItem.id} text=${effectiveNote(studyItem)} onSave=${t => saveNote(studyItem, t)} />
           <button type="button" onClick=${nextStudy}>
             ${isLast ? 'Start quiz' : 'Next'}
           </button>
@@ -168,6 +181,7 @@ export function LessonView({ session }) {
       <div class="session-content">
         <span class="session-phase-label">Quiz</span>
         ${deckName && html`<span class="deck-tag">${deckName}</span>`}
+        ${quizItem.image && html`<img class="question-image" src=${quizItem.image} alt="" />`}
         <h2 class="question-title">${quizItem.title}</h2>
 
         ${phase === 'answer' && html`
@@ -176,14 +190,14 @@ export function LessonView({ session }) {
 
         ${phase === 'feedback' && showRankUp && html`
           <${RankUpScreen} stage=${1} answer=${quizItem.answers[0]} onContinue=${advance} />
-          <${NotesBlock} text=${quizItem.notes} />
+          <${NotesBlock} key=${quizItem.id} text=${effectiveNote(quizItem)} onSave=${t => saveNote(quizItem, t)} />
         `}
 
         ${phase === 'feedback' && !showRankUp && html`
           <div class="feedback-banner incorrect">✗ Not quite</div>
           <p class="correct-answer">Answer: <strong>${quizItem.answers[0]}</strong></p>
           <${MnemonicHint} text=${quizItem.mnemonic} />
-          <${NotesBlock} text=${quizItem.notes} />
+          <${NotesBlock} key=${quizItem.id} text=${effectiveNote(quizItem)} onSave=${t => saveNote(quizItem, t)} />
           <button type="button" onClick=${advance}>Try again</button>
           <p class="hint-enter">or press Enter</p>
         `}

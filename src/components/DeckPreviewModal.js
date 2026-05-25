@@ -45,7 +45,13 @@ export function DeckPreviewModal({ deck, progress, onClose }) {
         </header>
 
         <div class="deck-preview-toolbar">
-          <span class="deck-preview-count">${items.length} item${items.length !== 1 ? 's' : ''}</span>
+          <div class="deck-preview-toolbar-left">
+            <span class="deck-preview-count">${items.length} item${items.length !== 1 ? 's' : ''}</span>
+            ${(() => {
+              const mnemonicCount = items.filter(it => it.mnemonic?.trim()).length;
+              return mnemonicCount > 0 && html`<span class="deck-preview-mnemonic-count" title="Items with a mnemonic">· 🧠 ${mnemonicCount}/${items.length}</span>`;
+            })()}
+          </div>
           <button type="button" class="secondary outline" onClick=${toggleAll}>
             ${allRevealed ? 'Hide all answers' : 'Reveal all answers'}
           </button>

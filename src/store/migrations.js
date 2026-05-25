@@ -20,6 +20,7 @@ export function defaultProgress() {
   return {
     version: 2,
     items: {},
+    userNotes: {},
     reviewStreak: 0,
     lastReviewDate: null,
     welcomed: false,

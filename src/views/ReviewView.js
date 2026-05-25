@@ -106,6 +106,17 @@ export function ReviewView({ session }) {
   const displayIndex = Math.min(current, total - 1);
   const progressVal  = Math.min(current / total, 1);
 
+  const s            = getState();
+  const userNotes    = s.progress.userNotes || {};
+  const effectiveNote = item.id in userNotes ? userNotes[item.id] : (item.notes || '');
+
+  function saveNote(text) {
+    const state  = getState();
+    const notes  = { ...(state.progress.userNotes || {}) };
+    if (text) notes[item.id] = text; else delete notes[item.id];
+    setState({ progress: { ...state.progress, userNotes: notes } });
+  }
+
   return html`
     <div class="session-overlay">
       <header class="session-header">
@@ -114,6 +125,7 @@ export function ReviewView({ session }) {
       </header>
       <div class="session-content">
         ${deckName && html`<span class="deck-tag">${deckName}</span>`}
+        ${item.image && html`<img class="question-image" src=${item.image} alt="" />`}
         <h2 class="question-title">${item.title}</h2>
 
         ${phase === 'question' && html`
@@ -122,7 +134,7 @@ export function ReviewView({ session }) {
 
         ${phase === 'feedback' && rankUpStage && html`
           <${RankUpScreen} stage=${rankUpStage} answer=${item.answers[0]} onContinue=${next} />
-          <${NotesBlock} text=${item.notes} />
+          <${NotesBlock} key=${item.id} text=${effectiveNote} onSave=${saveNote} />
         `}
 
         ${phase === 'feedback' && !rankUpStage && html`
@@ -136,7 +148,7 @@ export function ReviewView({ session }) {
             <p class="correct-answer">Answer: <strong>${item.answers[0]}</strong></p>
             <${MnemonicHint} text=${item.mnemonic} />
           `}
-          <${NotesBlock} text=${item.notes} />
+          <${NotesBlock} key=${item.id} text=${effectiveNote} onSave=${saveNote} />
           <button type="button" onClick=${next}>Next →</button>
           <p class="hint-enter">or press Enter</p>
         `}
