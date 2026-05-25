@@ -12,25 +12,33 @@ import { RankUpScreen } from '../components/RankUpScreen.js';
 
 const LESSON_BATCH = 5;
 
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export function LessonView({ session }) {
   const items = session.items;
 
-  // steal focus from whatever launched the session (e.g. the "Start lessons" button)
   useEffect(() => { document.activeElement?.blur(); }, []);
 
-  // study phase: browse all items first
+  // study phase
   const [studyIndex, setStudyIndex] = useState(0);
 
-  // quiz phase
-  const [phase,      setPhase]      = useState('study'); // study | answer | feedback | summary
-  const [quizIndex,  setQuizIndex]  = useState(0);
+  // quiz phase — queue-based so we can reshuffle on mistakes
+  const [phase,      setPhase]      = useState('study');
+  const [quizQueue,  setQuizQueue]  = useState([]);
   const [feedback,   setFeedback]   = useState(null);
   const [showRankUp, setShowRankUp] = useState(false);
   const [passed,     setPassed]     = useState(0);
   const [failed,     setFailed]     = useState(0);
 
   const studyItem = items[studyIndex];
-  const quizItem  = items[quizIndex];
+  const quizItem  = quizQueue[0];
   const item      = phase === 'study' ? studyItem : quizItem;
   const deckName  = getState().loadedDecks.find(d => (d.items || []).some(it => it.id === item?.id))?.name;
 
@@ -49,6 +57,7 @@ export function LessonView({ session }) {
   // ── Study phase ──────────────────────────────────────────────
   function nextStudy() {
     if (studyIndex + 1 >= items.length) {
+      setQuizQueue(shuffle([...items]));
       setPhase('answer');
     } else {
       setStudyIndex(i => i + 1);
@@ -69,14 +78,17 @@ export function LessonView({ session }) {
   function advance() {
     setShowRankUp(false);
     if (feedback === 'correct') {
-      if (quizIndex + 1 >= items.length) {
+      const remaining = quizQueue.slice(1);
+      if (remaining.length === 0) {
         setPhase('summary');
       } else {
-        setQuizIndex(i => i + 1);
+        setQuizQueue(remaining);
         setPhase('answer');
         setFeedback(null);
       }
     } else {
+      // Reshuffle all remaining items (including the current wrong one)
+      setQuizQueue(q => shuffle([...q]));
       setPhase('answer');
       setFeedback(null);
     }
@@ -101,10 +113,7 @@ export function LessonView({ session }) {
       setState({
         progress: {
           ...s.progress,
-          items: {
-            ...s.progress.items,
-            [quizItem.id]: initItemState(),
-          },
+          items: { ...s.progress.items, [quizItem.id]: initItemState() },
         },
       });
       setPassed(p => p + 1);
@@ -172,11 +181,13 @@ export function LessonView({ session }) {
   }
 
   // ── Quiz phase render ─────────────────────────────────────────
+  if (!quizItem) return null;
+
   return html`
     <div class="session-overlay">
       <header class="session-header">
         <button type="button" class="outline secondary exit-btn" onClick=${exit}>✕ Exit</button>
-        <${ProgressBar} value=${quizIndex / items.length} label="${quizIndex + 1} / ${items.length}" />
+        <${ProgressBar} value=${passed / items.length} label="${passed + 1} / ${items.length}" />
       </header>
       <div class="session-content">
         <span class="session-phase-label">Quiz</span>

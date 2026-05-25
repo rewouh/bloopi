@@ -101,8 +101,13 @@ export function HomeView() {
   const [,             setTick]        = useState(0);
   const [syncConfig,   setSyncConfig]  = useState(() => getSyncConfig());
   const [syncing,      setSyncing]     = useState(false);
-  const [syncMsg,      setSyncMsg]     = useState(null); // { type: 'ok'|'error', text }
+  const [toast,        setToast]       = useState(null);
   const [conflict,     setConflict]    = useState(null); // { remote }
+
+  function showToast(text, type = 'ok') {
+    setToast({ text, type });
+    setTimeout(() => setToast(null), 2800);
+  }
 
   useEffect(() => subscribe(setLocalState), []);
 
@@ -159,7 +164,7 @@ export function HomeView() {
         const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
         saveSyncConfig(updated);
         setSyncConfig(updated);
-        setSyncMsg({ type: 'ok', text: 'Saved to cloud.' });
+        showToast('Saved to cloud.');
         return;
       }
 
@@ -181,9 +186,9 @@ export function HomeView() {
       const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
       saveSyncConfig(updated);
       setSyncConfig(updated);
-      setSyncMsg({ type: 'ok', text: 'Cloud updated.' });
+      showToast('Cloud updated.');
     } catch (err) {
-      setSyncMsg({ type: 'error', text: err.message || 'Sync failed.' });
+      showToast(err.message || 'Sync failed.', 'error');
     } finally {
       setSyncing(false);
     }
@@ -196,7 +201,7 @@ export function HomeView() {
       const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
       saveSyncConfig(updated);
       setSyncConfig(updated);
-      setSyncMsg({ type: 'ok', text: 'Progress loaded from cloud.' });
+      showToast('Progress loaded from cloud.');
     } finally {
       setConflict(null);
       setSyncing(false);
@@ -211,9 +216,9 @@ export function HomeView() {
       const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
       saveSyncConfig(updated);
       setSyncConfig(updated);
-      setSyncMsg({ type: 'ok', text: 'Local data kept and saved to cloud.' });
+      showToast('Local data kept and saved to cloud.');
     } catch (err) {
-      setSyncMsg({ type: 'error', text: err.message || 'Sync failed.' });
+      showToast(err.message || 'Sync failed.', 'error');
     } finally {
       setConflict(null);
       setSyncing(false);
@@ -264,16 +269,17 @@ export function HomeView() {
         <div class="sync-bar">
           <button
             type="button"
-            class="outline secondary sync-btn"
+            class="sync-btn"
             onClick=${handleSync}
             disabled=${syncing}
           >
             ${syncing ? '⟳ Syncing…' : '☁ Sync'}
           </button>
-          ${syncMsg && html`
-            <span class="sync-msg sync-msg--${syncMsg.type}">${syncMsg.text}</span>
-          `}
         </div>
+      `}
+
+      ${toast && html`
+        <div class=${'toast' + (toast.type === 'error' ? ' toast--err' : '')}>${toast.text}</div>
       `}
 
       <div class="calendar-section">
@@ -324,7 +330,7 @@ export function HomeView() {
         <hr class="porter-divider" />
         <${SyncPanel}
           config=${syncConfig}
-          onConfigChange=${cfg => { setSyncConfig(cfg); setSyncMsg(null); }}
+          onConfigChange=${cfg => { setSyncConfig(cfg); setToast(null); }}
         />
       </details>
     </div>
