@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_84",
+  "name": "General Trivia 26K 84",
+  "description": "General 4151 - 4200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_84_01",
+      "title": "What baseball team was known as the \"Gashouse Gang\"?",
+      "answers": [
+        "The St. Louis Cardinals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_02",
+      "title": "What is entamaphobia?",
+      "answers": [
+        "Fear of doors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_03",
+      "title": "What type of foodstuff is traditionally eaten on Shrove Tuesday?",
+      "answers": [
+        "Pancakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_04",
+      "title": "What basketball superstar is nicknamed \"His Airness\"?",
+      "answers": [
+        "Michael Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_05",
+      "title": "What was the first Major League Baseball team to play in a stadium with a fully retractable roof?",
+      "answers": [
+        "The Toronto Blue Jays"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_06",
+      "title": "In golf what would you put in your shag bag?",
+      "answers": [
+        "Practice balls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_07",
+      "title": "Which dessert has a custard base and a burnt caramelised top?",
+      "answers": [
+        "Creme Brulee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_08",
+      "title": "What fruit was originally called the \"Chinese Gooseberry\"?",
+      "answers": [
+        "Kiwi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_09",
+      "title": "What do you need to send a semaphore message?",
+      "answers": [
+        "Small flags"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_10",
+      "title": "What year did Valve release the Steam platform?",
+      "answers": [
+        "2003"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_11",
+      "title": "How many wheels does a pair of roller skates have?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_12",
+      "title": "Pteromerhanophobia, also known as aerophobia, is the fear of what?",
+      "answers": [
+        "Flying"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_13",
+      "title": "Which numbers are either side of the number sixteen on a dart board?",
+      "answers": [
+        "7 and 8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_14",
+      "title": "Who would typically use a Punnett square?",
+      "answers": [
+        "A biologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_15",
+      "title": "Which side of a ship is \"starboard\"?",
+      "answers": [
+        "Right"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_16",
+      "title": "What is the fear of the number 13 known as?",
+      "answers": [
+        "Triskaidekaphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_17",
+      "title": "Doraphobia is the fear of what?",
+      "answers": [
+        "Fur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_18",
+      "title": "Who eats Christpsomo when they return home from mass at 4 a.m. Christmas morning?",
+      "answers": [
+        "Greek Christians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_19",
+      "title": "What is the lowest ranking ace in bridge?",
+      "answers": [
+        "Clubs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_20",
+      "title": "What letter is displayed on a typical hot-water tap in France?",
+      "answers": [
+        "C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_21",
+      "title": "What sport's lingo uses the term \"Scrum\"?",
+      "answers": [
+        "Rugby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_22",
+      "title": "What are the names of the lion statues outside the New York Public Library?",
+      "answers": [
+        "Patience and Fortitude"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_23",
+      "title": "What do the words \"auld lang syne\" mean?",
+      "answers": [
+        "Old long since"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_24",
+      "title": "What is the maximum number of points one can achieve in the video game \"Pac-Man\"?",
+      "answers": [
+        "3,333,360 points"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_25",
+      "title": "In the 1950s, the NFL experimented with what new color for their footballs?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_26",
+      "title": "What is the first animal of the Chinese zodiac?",
+      "answers": [
+        "Rat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_27",
+      "title": "Who is known as \"Big Mama\" in ladies pro golf?",
+      "answers": [
+        "JoAnne Carner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_28",
+      "title": "What Marvel superhero was created to sell orange juice?",
+      "answers": [
+        "Captain Citrus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_29",
+      "title": "The tiles used in which game have dots that are called \"Pips\"?",
+      "answers": [
+        "Dominoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_30",
+      "title": "What gas makes up approximately 74 percent of the Sun's mass?",
+      "answers": [
+        "Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_31",
+      "title": "What sport did hall-of-famer Honus Wagner play?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_32",
+      "title": "What is the eigth sign of the Zodiac?",
+      "answers": [
+        "Scorpio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_33",
+      "title": "The sousaphone is a marching-band version of what symphony instrument?",
+      "answers": [
+        "The tuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_34",
+      "title": "What clothier was the first American retailer to manufacture argyle hose?",
+      "answers": [
+        "Brooks Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_35",
+      "title": "What iconic Hawaiian object was based on the Portuguese braguinha?",
+      "answers": [
+        "The ukulele"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_36",
+      "title": "In the famous logo, what is the Morton Salt girl holding in her right hand?",
+      "answers": [
+        "An umbrella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_37",
+      "title": "Pratt, Windsor and \"four-in-hand\" all make reference to what piece of men's attire?",
+      "answers": [
+        "Neckties"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_38",
+      "title": "Which car company produced a model named the Celica?",
+      "answers": [
+        "Toyota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_39",
+      "title": "What is the Bicycle brand famous for making?",
+      "answers": [
+        "Playing cards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_40",
+      "title": "French Silk Pie is most commonly flavored with what?",
+      "answers": [
+        "Chocolate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_41",
+      "title": "For what mysterious figure is the latch on the inside of some Boeing passenger jet doors named?",
+      "answers": [
+        "D. B. Cooper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_42",
+      "title": "What year were Reese's Peanut Butter Cups first introduced to the US market?",
+      "answers": [
+        "1928"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_43",
+      "title": "What are the dots on dominoes called?",
+      "answers": [
+        "Pips, nips or dobs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_44",
+      "title": "Who coached the Chicago Bulls to their first NBA championship in 1991?",
+      "answers": [
+        "Phil Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_45",
+      "title": "The Arabic word for \"season\" gave us what name for South Asia's rainy season?",
+      "answers": [
+        "Monsoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_46",
+      "title": "What did the letters “C” and “N” originally stand for in Toronto’s CN Tower",
+      "answers": [
+        "Canadian National"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_47",
+      "title": "Which NBA team plays its home games at Madison Square Gardens?",
+      "answers": [
+        "New York Knicks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_48",
+      "title": "What year did tennis player Martina Navratilova retire?",
+      "answers": [
+        "2006"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_49",
+      "title": "The design of the package of which cigarette manufacturer reminds of the Japanese flag?",
+      "answers": [
+        "Lucky Strike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_84_50",
+      "title": "What won the MotorTrend SUV of the Year award for 2020?",
+      "answers": [
+        "Kia Telluride"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

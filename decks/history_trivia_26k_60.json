@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_60",
+  "name": "History Trivia 26K 60",
+  "description": "History 2951 - 3000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_60_01",
+      "title": "Which President's face is on the U.S. two-dollar bill?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_02",
+      "title": "Who was the Reich Minister of Propaganda of Nazi Germany from 1933 to 1945.",
+      "answers": [
+        "Joseph Goebbels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_03",
+      "title": "Who was the only president of the Confederate States of America?",
+      "answers": [
+        "Jefferson Davis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_04",
+      "title": "In ancient times, what were professional writers called?",
+      "answers": [
+        "Scribes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_05",
+      "title": "What nation switched sides in World War II on September 8, 1943?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_06",
+      "title": "What US state is represented by the figures of Andrew Jackson and John Sevier in the Capitol's Statuary Hall?",
+      "answers": [
+        "Tennessee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_07",
+      "title": "Which automotive company introduced the Phaeton in 2002?",
+      "answers": [
+        "Volkswagen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_08",
+      "title": "Who was the US president at the end of the Great Depression?",
+      "answers": [
+        "Franklin D. Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_09",
+      "title": "Which US president lived at the Monticello mansion?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_10",
+      "title": "When did Arizona and New Mexico become states?",
+      "answers": [
+        "1912"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_11",
+      "title": "Who was the third president of the US?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_12",
+      "title": "What doctrine stated the policy of the U.S. regarding European colonialism in the Americas?",
+      "answers": [
+        "Monroe Doctrine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_13",
+      "title": "Which famous tapestry commemorates the Norman conquest of England?",
+      "answers": [
+        "The Bayeux Tapestry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_14",
+      "title": "Approximatly when did construction of the Colosseum finish?",
+      "answers": [
+        "80 AD"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_15",
+      "title": "What did Benjamin Franklin do on April 17, 1790?",
+      "answers": [
+        "He died"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_16",
+      "title": "What did Gideon Sundback patent in 1914?",
+      "answers": [
+        "Zipper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_17",
+      "title": "The Hope diamond was donated to the Smithsonian by what company?",
+      "answers": [
+        "Henry Winston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_18",
+      "title": "In World War II, who was Lyudmila Pavlichenko?",
+      "answers": [
+        "Top female Soviet sniper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_19",
+      "title": "Which company produced the World War II fighter plane \"Spitfire\"?",
+      "answers": [
+        "Triumph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_20",
+      "title": "John F. Kennedy was a member of which political party?",
+      "answers": [
+        "Democratic Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_21",
+      "title": "Who was Ronald Reagan's first wife?",
+      "answers": [
+        "Jane Wyman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_22",
+      "title": "What Nazi Field Marshall was known as \"The Desert Fox\"?",
+      "answers": [
+        "Erwin Rommel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_23",
+      "title": "What invention caused the Pony Express to be discontinued?",
+      "answers": [
+        "Telegraph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_24",
+      "title": "Who said, \"You only live once, but if you do it right, once is good enough.\"?",
+      "answers": [
+        "Mae West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_25",
+      "title": "Who was Japan's supreme military leader during World War II?",
+      "answers": [
+        "Tōjō Hideki"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_26",
+      "title": "What war ended in 1898 with the Battle of Manila Bay?",
+      "answers": [
+        "Spanish-American War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_27",
+      "title": "What former Governor of Pennsylvania became the first Secretary of Homeland Security in 2003?",
+      "answers": [
+        "Tom Ridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_28",
+      "title": "What company did Henry Ford found in 1899?",
+      "answers": [
+        "The Detroit Automobile Company"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_29",
+      "title": "Which country had an Orange Revolution between 2004 and 2005?",
+      "answers": [
+        "Ukraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_30",
+      "title": "In which decade was the Berlin Wall erected?",
+      "answers": [
+        "1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_31",
+      "title": "Which empire was the first empire in history?",
+      "answers": [
+        "The Akkadians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_32",
+      "title": "By what name was the first Duke of Wellington previously known?",
+      "answers": [
+        "Sir Arthur Wellesley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_33",
+      "title": "What was eBay.com originally called?",
+      "answers": [
+        "AuctionWeb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_34",
+      "title": "Which Joseph Glidden invention put an end to open-range cattle drives?",
+      "answers": [
+        "Barbed wire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_35",
+      "title": "Which serving president was the first to have his photograph taken inside the White House?",
+      "answers": [
+        "James K. Polk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_36",
+      "title": "In what year did Nazi Germany open its first concentration camp?",
+      "answers": [
+        "1933"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_37",
+      "title": "What was the name for the German mercenaries who fought against the American rebels during the Revolutionary War?",
+      "answers": [
+        "Hessians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_38",
+      "title": "The launch of the first liquid fueled rocket in the world is attributed to which country?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_39",
+      "title": "Who designed the Vietnam Veterans memorial in Washington DC?",
+      "answers": [
+        "Maya Lin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_40",
+      "title": "Over which islands did the UK and Argentina fight in 1982?",
+      "answers": [
+        "Falkland Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_41",
+      "title": "What country did the U.S. declare war against in 1846?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_42",
+      "title": "Which president had the most pets at the White House?",
+      "answers": [
+        "Calvin Coolidge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_43",
+      "title": "Where will you find these ruins of a temple for Hercules?",
+      "answers": [
+        "Amman, Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_44",
+      "title": "What was the highest value of U.S. currency ever put into circulation?",
+      "answers": [
+        "$10,000 bill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_45",
+      "title": "Constance Markievicz, became the first ever what In 1918?",
+      "answers": [
+        "British female MP"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_46",
+      "title": "What flavor of Kool-Aid was used at Jonestown?",
+      "answers": [
+        "Grape"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_47",
+      "title": "During World War II, Spain fought for which side - Axis or Allies?",
+      "answers": [
+        "Neither, Spain was neutral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_48",
+      "title": "What general led the Mexicans in the siege against the Alamo?",
+      "answers": [
+        "Santa Ana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_49",
+      "title": "What was Princess Diana's maiden name?",
+      "answers": [
+        "Spencer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_60_50",
+      "title": "What year did the Han Dynasty come into power?",
+      "answers": [
+        "206 BC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_14",
+  "name": "General Trivia 26K 14",
+  "description": "General 651 - 700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_14_01",
+      "title": "In the military, what does the abbreviation G.I. stand for?",
+      "answers": [
+        "Government Issue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_02",
+      "title": "What basketball hall-of-famer was nicknamed \"Wilt the Stilt\"?",
+      "answers": [
+        "Wilt Chamberlain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_03",
+      "title": "Who lost part of his ear to the teeth of Mike Tyson in 1997?",
+      "answers": [
+        "Evander Holyfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_04",
+      "title": "Where in New York is the 30 Rock building located?",
+      "answers": [
+        "30 Rockefeller Center"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_05",
+      "title": "What brand is known as PFK in French-speaking Quebec?",
+      "answers": [
+        "KFC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_06",
+      "title": "What Canadian city was Mill Street beer originally brewed in?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_07",
+      "title": "In pool, what color is the 1-ball?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_08",
+      "title": "What South American country was a former member of OPEC?",
+      "answers": [
+        "Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_09",
+      "title": "What is the common name for enuresis?",
+      "answers": [
+        "Bedwetting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_10",
+      "title": "In motor racing, what color flag is used to communicate stopping of the racing session?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_11",
+      "title": "Arthur Ashe is best known for his career in what sport?",
+      "answers": [
+        "Tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_12",
+      "title": "Selaphobia is the fear of what?",
+      "answers": [
+        "Flashes of light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_13",
+      "title": "Bill Cosby is an alumnus of what Philadelphia university?",
+      "answers": [
+        "Temple University"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_14",
+      "title": "What is Port Salut?",
+      "answers": [
+        "A type of cheese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_15",
+      "title": "How many stars are there on the New Zealand flag?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_16",
+      "title": "Which type of restaurant popularized the use of conveyor belts?",
+      "answers": [
+        "Sushi Restaurants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_17",
+      "title": "What car company introduced the Pinto in the 1970s?",
+      "answers": [
+        "Ford Motor Company"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_18",
+      "title": "In which athletics event are competitors known as either \"Spinners\" or \"Shifters''?",
+      "answers": [
+        "Shot Putt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_19",
+      "title": "What North American Soccer League team signed Pele in 1975?",
+      "answers": [
+        "The New York Cosmos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_20",
+      "title": "Electric, Perse and smalt are shades of which color?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_21",
+      "title": "What is the first event in a Men's Heptathalon?",
+      "answers": [
+        "60 Metres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_22",
+      "title": "Over which distance did Steve Ovett win Olympic gold?",
+      "answers": [
+        "800 meters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_23",
+      "title": "A silhouette of which player is widely recognized as the inspiration behind the official NBA logo designed in 1969?",
+      "answers": [
+        "Jerry West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_24",
+      "title": "How many secret herbs and spices are in the original recipe chicken at KFC?",
+      "answers": [
+        "11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_25",
+      "title": "What citrus beverage has used the ad slogan \"Open a Bottle of Sunshine\"?",
+      "answers": [
+        "Sunny Delight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_26",
+      "title": "What is the point scored immediately after deuce in tennis?",
+      "answers": [
+        "Advantage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_27",
+      "title": "What year was fashion designer Gianni Versace killed?",
+      "answers": [
+        "1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_28",
+      "title": "How long is a fortnight?",
+      "answers": [
+        "Two weeks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_29",
+      "title": "Who spoke the first recorded message “Mary had a Little lamb”?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_30",
+      "title": "A person who has been canonized has been granted what status?",
+      "answers": [
+        "Sainthood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_31",
+      "title": "What part of a chocolate bunny should be eaten first according to a majority of Americans?",
+      "answers": [
+        "Ears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_32",
+      "title": "When was the game \"Scrabble\" first released?",
+      "answers": [
+        "1948"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_33",
+      "title": "Which celebrity launched a perfume range entitled \"M\" in 2007?",
+      "answers": [
+        "Mariah Carey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_34",
+      "title": "What distance did the Romans once define as a thousand paces?",
+      "answers": [
+        "A mile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_35",
+      "title": "What do you call filo pastry stuffed with chopped nuts and honey, or syrup?",
+      "answers": [
+        "Baklava"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_36",
+      "title": "What nickname was given to baseball hall-of-famer Honus Wagner?",
+      "answers": [
+        "Flying Dutchman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_37",
+      "title": "Which golfer had a massive band of followers called “Arnie's Army”?",
+      "answers": [
+        "Arnold Palmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_38",
+      "title": "How many worlds were in the original Super Mario Bros?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_39",
+      "title": "Which US state is home to the Augusta National Golf Club?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_40",
+      "title": "Which US government branch includes the President and Vice President?",
+      "answers": [
+        "Executive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_41",
+      "title": "What cake is also known as a \"Domino cake\"?",
+      "answers": [
+        "Battenberg cake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_42",
+      "title": "What can you sit on that has a pommel, cantle and flap?",
+      "answers": [
+        "A saddle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_43",
+      "title": "\"En masse\" translates to what?",
+      "answers": [
+        "In a group"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_44",
+      "title": "What is the fear of the color black?",
+      "answers": [
+        "Melanophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_45",
+      "title": "What is the Minute Maid Park also known as?",
+      "answers": [
+        "The Juice Box"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_46",
+      "title": "What do sumo wrestlers call their hair topknots?",
+      "answers": [
+        "Chonmage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_47",
+      "title": "What bird is Britain's VTOL \"jump jet\" named for?",
+      "answers": [
+        "The Harrier hawk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_48",
+      "title": "What were the New England Patriots named prior to the 1971 season?",
+      "answers": [
+        "Boston Patriots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_49",
+      "title": "Who was the NBA's most valuable player in 1976, 1977 and 1980?",
+      "answers": [
+        "Kareem Abdul-Jabbar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_14_50",
+      "title": "H.J. Heinz Company is based in which American City?",
+      "answers": [
+        "Pittsburgh, Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

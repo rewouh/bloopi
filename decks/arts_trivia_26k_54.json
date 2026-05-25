@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_54",
+  "name": "Arts Trivia 26K 54",
+  "description": "Arts 2651 - 2700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_54_01",
+      "title": "George Orwell's \"Animal Farm\" is a roman à clef for what historical event?",
+      "answers": [
+        "The Russian Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_02",
+      "title": "In Shakespeare's \"Merchant of Venice\", with whom does Portia fall in love?",
+      "answers": [
+        "Bassanio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_03",
+      "title": "In Greek mythology, who was the god of the underworld?",
+      "answers": [
+        "Hades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_04",
+      "title": "What is the Roman name of the Greek goddess Hestia?",
+      "answers": [
+        "Vesta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_05",
+      "title": "Who had a best seller at age 84 with her autobiography \"Me: Stories of My Life\"?",
+      "answers": [
+        "Katharine Hepburn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_06",
+      "title": "Who wrote \"The Da Vinci Code\"?",
+      "answers": [
+        "Dan Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_07",
+      "title": "From what language did English borrow the word \"schmaltz\"?",
+      "answers": [
+        "Yiddish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_08",
+      "title": "In what comic strip would you find siblings Alexander and Cookie?",
+      "answers": [
+        "Blondie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_09",
+      "title": "Whose \"Small House\" is the subject of the play acted out during \"The King and I\"?",
+      "answers": [
+        "Uncle Thomas'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_10",
+      "title": "According to the poem, how many spectators saw Mighty Casey strike out?",
+      "answers": [
+        "Five thousand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_11",
+      "title": "Which book begins with the words \"It was a bright cold day in April, and the clocks were striking thirteen\"?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_12",
+      "title": "Who wrote the 1969 novel \"The Godfather\"?",
+      "answers": [
+        "Mario Puzo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_13",
+      "title": "What form of writing is literally translated to \"sacred writings\"?",
+      "answers": [
+        "Hieroglyphics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_14",
+      "title": "Which of Edgar Allen Poe's works was written in honor of his wife?",
+      "answers": [
+        "Annabel Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_15",
+      "title": "Which US author penned the novels \"Of Mice and Men\" and \"East Of Eden\"?",
+      "answers": [
+        "John Steinbeck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_16",
+      "title": "What is the name of King Kong's home island?",
+      "answers": [
+        "Skull Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_17",
+      "title": "Whose novel is the basis for the Lloyd Webber musical \"The Phantom of the Opera\"?",
+      "answers": [
+        "Gaston Leroux's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_18",
+      "title": "Which Russian writer composed \"Peter and the Wolf\"?",
+      "answers": [
+        "Sergei Prokofiev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_19",
+      "title": "Who is Dinah, whom Alice thinks about nostalgically as she falls down the rabbit hole to Wonderland?",
+      "answers": [
+        "Her cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_20",
+      "title": "What has no reflection, no shadow and cannot stand the smell of garlic?",
+      "answers": [
+        "A vampire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_21",
+      "title": "What Post-Impressionist painter of cabaret and brother life was dubbed the soul of Montmartre?",
+      "answers": [
+        "Henri de Toulouse-Lautrec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_22",
+      "title": "In a 6-string, ordinarily tuned guitar, what are the 6 open notes?",
+      "answers": [
+        "EADGBE"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_23",
+      "title": "What is Jean Valjean's prison number in the novel \"Les Miserables\"?",
+      "answers": [
+        "24601"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_24",
+      "title": "Who is the Roman equivalent of the Greek goddess Aphrodite?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_25",
+      "title": "In the comic book series \"Strangers in Paradise\", what name does Yousaka Takahashi adopt following a personal tragedy?",
+      "answers": [
+        "David Qin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_26",
+      "title": "Who wrote the novel \"Dragon Seed\"?",
+      "answers": [
+        "Pearl S. Buck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_27",
+      "title": "In the nursery rhyme \"The Cat and the Fiddle\", what runs away with the spoon?",
+      "answers": [
+        "The dish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_28",
+      "title": "What literary work inspired Sting's \"Moon Over Bourbon Street\" song?",
+      "answers": [
+        "Interview with a Vampire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_29",
+      "title": "Who ferries the dead across the river Acheron in Greek mythology?",
+      "answers": [
+        "Charon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_30",
+      "title": "In the Harry Potter books, what name is given to non-magicians?",
+      "answers": [
+        "Muggles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_31",
+      "title": "What nationality was Pablo Picasso?",
+      "answers": [
+        "Spanish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_32",
+      "title": "What famous horse belonged to Gandalf?",
+      "answers": [
+        "Shadowfax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_33",
+      "title": "Whose tombstone bears the inscription \"Here Lies One Whose Name Was Writ in Water\"?",
+      "answers": [
+        "John Keats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_34",
+      "title": "Who is credited with writing the first detective story, \"The Murders in the Rue Morgue\"?",
+      "answers": [
+        "Edgar Allan Poe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_35",
+      "title": "Who wrote the book \"Fahrenheit 451\"?",
+      "answers": [
+        "Ray Bradbury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_36",
+      "title": "How many of the gifts in the song \"The Twelve Days of Christmas\" do not involve birds?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_37",
+      "title": "What word can be a measurement of six feet of water, and can also mean \"to comprehend\"?",
+      "answers": [
+        "Fathom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_38",
+      "title": "What author's name means \"two fathoms deep\"?",
+      "answers": [
+        "Mark Twain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_39",
+      "title": "In what Puccini opera does Scarpia appear?",
+      "answers": [
+        "Tosca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_40",
+      "title": "Who composed \"Invitation to the Dance\" in 1819?",
+      "answers": [
+        "Carl Maria von Weber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_41",
+      "title": "What American writer published the poem \"Al Aaraaf\"?",
+      "answers": [
+        "Edgar Allan Poe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_42",
+      "title": "Emily Bronte’s \"Wuthering Heights\" famously described which English naturescape?",
+      "answers": [
+        "Yorkshire moorlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_43",
+      "title": "Which English author created Inspector Morse?",
+      "answers": [
+        "Colin Dexter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_44",
+      "title": "Pablo Picasso said that the best work was made for what moment in time?",
+      "answers": [
+        "Present"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_45",
+      "title": "Which fantasy author’s first book was a Duran Duran biography?",
+      "answers": [
+        "Neil Gaiman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_46",
+      "title": "In Greek mythology, who was Jason's wife?",
+      "answers": [
+        "Medea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_47",
+      "title": "Who has a heart \"two sizes too small\"?",
+      "answers": [
+        "The Grinch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_48",
+      "title": "Which movie star published an autobiography in 2002 entitled \"Lucky Man\"?",
+      "answers": [
+        "Michael J. Fox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_49",
+      "title": "According to the Bible, how many people were on the Ark?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_54_50",
+      "title": "What author created the character of Father Brown?",
+      "answers": [
+        "G. K. Chesterton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

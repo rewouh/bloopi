@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_02",
+  "name": "Entertainment Trivia 26K 02",
+  "description": "Entertainment 51 - 100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_02_01",
+      "title": "What color was Tweety Bird originally?",
+      "answers": [
+        "Pink"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_02",
+      "title": "Who sang the title theme of the James Bond film \"A View to a Kill\"?",
+      "answers": [
+        "Duran Duran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_03",
+      "title": "In the game \"Portal\" what did GLaDOS flood the enrichment center with?",
+      "answers": [
+        "Deadly neurotoxins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_04",
+      "title": "Who replaced Curly of the Three Stooges after he had a stroke in 1946?",
+      "answers": [
+        "Shemp Howard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_05",
+      "title": "Which Bavarian castle did Walt Disney sculpt Cinderella's after?",
+      "answers": [
+        "Neuschwanstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_06",
+      "title": "What future celebrity made an appearance as Kyra in \"The Sixth Sense\"?",
+      "answers": [
+        "Mischa Barton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_07",
+      "title": "What famous rapper's real name is Chris Bridges?",
+      "answers": [
+        "Ludacris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_08",
+      "title": "In the movie \"Goodfellas\", who played the role of Henry Hill?",
+      "answers": [
+        "Ray Liotta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_09",
+      "title": "In the film \"Ghostbusters\", what was the name of Bill Murray's character?",
+      "answers": [
+        "Peter Venkman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_10",
+      "title": "Who directed the movie \"Apocalypse Now\"?",
+      "answers": [
+        "Francis Ford Coppola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_11",
+      "title": "What was Billie Holiday's nickname?",
+      "answers": [
+        "Lady Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_12",
+      "title": "Who filled in for Ringo Starr on the Beatles' 1964 world tour?",
+      "answers": [
+        "Jimmie Nicol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_13",
+      "title": "What year did Anna Nicole Smith die from a drug overdose?",
+      "answers": [
+        "2007"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_14",
+      "title": "In what year did the TV show \"The Hills\" premier on TV?",
+      "answers": [
+        "2007"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_15",
+      "title": "Ben Kingsley won an Oscar in 1982 for which movie directed by Richard Attenborough?",
+      "answers": [
+        "Gandhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_16",
+      "title": "Eddie Murphy was the voice of which character in the Shrek movies?",
+      "answers": [
+        "Donkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_17",
+      "title": "What is the name of the highly-entertaining main villain of \"The Matrix\"?",
+      "answers": [
+        "Agent Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_18",
+      "title": "What actor played \"Shoeless Joe\" Jackson in the movie \"Field of Dreams\"?",
+      "answers": [
+        "Ray Liotta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_19",
+      "title": "What was Barbra Streisand's character's occupation in the movie \"Meet the Fockers\"?",
+      "answers": [
+        "Sex therapist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_20",
+      "title": "What Green Day hit spent a record sixteen weeks atop the Billboard Modern Rock chart?",
+      "answers": [
+        "Boulevard of Broken Dreams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_21",
+      "title": "In the film \"The Sixth Sense\", how old is Cole Sear when Dr. Malcolm Crowe begins working with him?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_22",
+      "title": "Who played the role of Thad Greenwood in the TV show \"Gunsmoke\"?",
+      "answers": [
+        "Roger Ewing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_23",
+      "title": "Who's responsible for \"The Ballad of Billy the Kid\"?",
+      "answers": [
+        "Billy Joel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_24",
+      "title": "What was Shari Lewis' hand puppet called?",
+      "answers": [
+        "Lamb Chop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_25",
+      "title": "Who played the electric piano on the Beatles track \"Get Back\"?",
+      "answers": [
+        "Billy Preston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_26",
+      "title": "What pop star originally began her career as Christian singer \"Katherine Hudson\"?",
+      "answers": [
+        "Katy Perry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_27",
+      "title": "Who played the role of Alfred in the 2005 movie \"Batman Begins\"?",
+      "answers": [
+        "Michael Caine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_28",
+      "title": "The singer Shakira comes from what country?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_29",
+      "title": "What name does the Simpsons' dog answer to?",
+      "answers": [
+        "Santa's Little Helper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_30",
+      "title": "Which famous actress was the first Tool Time Girl on \"Home Improvement\"?",
+      "answers": [
+        "Pamela Anderson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_31",
+      "title": "\"Nightmare at 20,000 Feet\" is a classic episode of which television series?",
+      "answers": [
+        "\"The Twilight Zone\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_32",
+      "title": "What kind of animal is the title character in the 1998 movie \"Mighty Joe Young\"?",
+      "answers": [
+        "Gorilla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_33",
+      "title": "What road film highlights two buddies' search for freedom on their way to Mardi Gras?",
+      "answers": [
+        "Easy Rider"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_34",
+      "title": "Who played the Bishop in the 1947 film \"The Bishop's Wife\"?",
+      "answers": [
+        "David Niven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_35",
+      "title": "Who was the first person to say the words \"Live from New York, it's Saturday Night!\"?",
+      "answers": [
+        "Chevy Chase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_36",
+      "title": "In which movie did Billie Burke portray a witch?",
+      "answers": [
+        "The Wizard of Oz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_37",
+      "title": "Who had 1960's hits with \"Glad All Over\" and \"Bits and Pieces\"?",
+      "answers": [
+        "The Dave Clark Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_38",
+      "title": "In which 1949 film does Alec Guinness portray nine members of the D'Ascoyne family?",
+      "answers": [
+        "Kind Hearts and Coronets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_39",
+      "title": "What film introduced the fraternity Lambda Lambda Lambda?",
+      "answers": [
+        "Revenge of the Nerds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_40",
+      "title": "What time are all the clocks stuck on in the movie, \"Pulp Fiction\"?",
+      "answers": [
+        "4:20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_41",
+      "title": "Which actress or actor has won the most Oscars?",
+      "answers": [
+        "Katherine Hepburn (4)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_42",
+      "title": "What 1977 Commodores song tells us of a woman whose measurements are 36-24-36?",
+      "answers": [
+        "Brick House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_43",
+      "title": "What TV show's cops operate out of a converted church they call \"the Barn\"?",
+      "answers": [
+        "The Shield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_44",
+      "title": "Robert De Niro and Al Pacino acted together for the first time in which film?",
+      "answers": [
+        "Heat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_45",
+      "title": "What is Walter White's middle name?",
+      "answers": [
+        "Hartwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_46",
+      "title": "What opera star sang with John Denver on the album \"Perhaps Love\"?",
+      "answers": [
+        "Placido Domingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_47",
+      "title": "What is the name of the \"Brady Bunch\" dog?",
+      "answers": [
+        "Tiger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_48",
+      "title": "What is James Dean's middle name?",
+      "answers": [
+        "Byron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_49",
+      "title": "Where was the maiden edition of the tennis World Team Cup held?",
+      "answers": [
+        "Jamaica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_02_50",
+      "title": "Michael Jackson was called the King of what?",
+      "answers": [
+        "Pop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

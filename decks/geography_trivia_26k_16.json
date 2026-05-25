@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_16",
+  "name": "Geography Trivia 26K 16",
+  "description": "Geography 751 - 800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_16_01",
+      "title": "The Kissimmee River flows into what lake?",
+      "answers": [
+        "Lake Okeechobee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_02",
+      "title": "Freetown is the capital of which country?",
+      "answers": [
+        "Sierra Leone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_03",
+      "title": "Which countries border Chile?",
+      "answers": [
+        "Peru, Bolivia and Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_04",
+      "title": "\"Eureka!\" is the official motto of which US state?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_05",
+      "title": "What is the capital of the Canadian Province of Quebec?",
+      "answers": [
+        "Quebec City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_06",
+      "title": "The Catedral de Sal, a cathedral carved entirely out of salt, is located in what country?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_07",
+      "title": "What is the longest river in the US?",
+      "answers": [
+        "Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_08",
+      "title": "In what country would you find \"The Strand Arcade\", a covered shopping destination?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_09",
+      "title": "What country is home to \"Snake Island\"?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_10",
+      "title": "Which large Canadian city is named after a fruit-bearing shrub native to western Canada, Alaska and northern United States?",
+      "answers": [
+        "Saskatoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_11",
+      "title": "What is the second largest continent?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_12",
+      "title": "What is the only major city located on two continents?",
+      "answers": [
+        "Istanbul, Türkiye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_13",
+      "title": "Dodoma is the capital of which country?",
+      "answers": [
+        "Tanzania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_14",
+      "title": "In which US state is Mount Vernon?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_15",
+      "title": "Which African nation gained its independence on July 9, 2011?",
+      "answers": [
+        "South Sudan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_16",
+      "title": "What is the two letter postal abbreviation for Massachusetts?",
+      "answers": [
+        "MA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_17",
+      "title": "Until 1820, Maine was part of which US state?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_18",
+      "title": "What is the capital of Burkina Faso?",
+      "answers": [
+        "Ouagadougou"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_19",
+      "title": "In what non-Spanish-speaking city would you find the Spanish Steps?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_20",
+      "title": "The \"nene\" is the official bird of which state?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_21",
+      "title": "What city features Asia's largest spice market?",
+      "answers": [
+        "Delhi, India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_22",
+      "title": "Cape Fear River flows into what body of water?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_23",
+      "title": "What is the tallest mountain in the world that is not part of the Himalayas or the Andes?",
+      "answers": [
+        "K2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_24",
+      "title": "Hawaii's tallest mountain is on which island?",
+      "answers": [
+        "Hawai'i"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_25",
+      "title": "Which country borders Kyrgystan to the east?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_26",
+      "title": "The ruins of the ancient city of Ephesus are located in what present day country?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_27",
+      "title": "Which coast of Australia is Sydney located on?",
+      "answers": [
+        "East"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_28",
+      "title": "The San Blas Islands are part of which Central American nation?",
+      "answers": [
+        "Panama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_29",
+      "title": "Andorra is landlocked by what two countries?",
+      "answers": [
+        "France and Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_30",
+      "title": "Where does the 156-mile \"Marathon des Sables\" take place?",
+      "answers": [
+        "Sahara Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_31",
+      "title": "What two Canadian provinces have capitals named for the same person?",
+      "answers": [
+        "British Columbia and Saskatchewan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_32",
+      "title": "What was the first country to make broadband internet access a legal right?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_33",
+      "title": "What is the largest city in the contiguous United States in terms of area?",
+      "answers": [
+        "Jacksonville, Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_34",
+      "title": "In what sort of landscape would you find an erg?",
+      "answers": [
+        "Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_35",
+      "title": "What mountain chain extends from western Canada down through Northern California?",
+      "answers": [
+        "The Cascades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_36",
+      "title": "Which is Europe's second largest island after Great Britain?",
+      "answers": [
+        "Iceland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_37",
+      "title": "Utah's Great Salt Lake is the largest remnant of what enormous prehistoric lake?",
+      "answers": [
+        "Lake Bonneville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_38",
+      "title": "Bissau is the capital of which West African country?",
+      "answers": [
+        "Guinea-Bissau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_39",
+      "title": "Which US state is Baltimore located in?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_40",
+      "title": "Which state-chartered university is located in a town called Chapel Hill?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_41",
+      "title": "What nation is divided in two by the Cook Strait?",
+      "answers": [
+        "New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_42",
+      "title": "Which of Monaco's four quarters is best known for casinos?",
+      "answers": [
+        "Monte Carlo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_43",
+      "title": "Which US state was nicknamed \"Old Dominion\"?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_44",
+      "title": "What country has the highest average rainfall in the world?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_45",
+      "title": "Which country does South Africa completely surround?",
+      "answers": [
+        "Lesotho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_46",
+      "title": "What mountain is the tallest point in Australia?",
+      "answers": [
+        "Kosciusko"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_47",
+      "title": "In which country would you find the world's oldest golf course?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_48",
+      "title": "Where is the world’s largest Buddhist temple?",
+      "answers": [
+        "Borobudur, Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_49",
+      "title": "Which country borders Rwanda to the west?",
+      "answers": [
+        "Congo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_16_50",
+      "title": "Khartoum is the capital of which African country?",
+      "answers": [
+        "Sudan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

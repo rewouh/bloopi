@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_28",
+  "name": "Arts Trivia 26K 28",
+  "description": "Arts 1351 - 1400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_28_01",
+      "title": "Who wrote the 1897 horror novel \"Dracula\"?",
+      "answers": [
+        "Bram Stoker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_02",
+      "title": "Who painted \"The 3rd of May\"?",
+      "answers": [
+        "Francisco de Goya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_03",
+      "title": "Who was the Greek god of sleep?",
+      "answers": [
+        "Hypnos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_04",
+      "title": "Where did Gulliver find a race of tiny people?",
+      "answers": [
+        "Lilliput"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_05",
+      "title": "What children's book character was introduced by Hans and Margret Rey in 1941?",
+      "answers": [
+        "Curious George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_06",
+      "title": "What island was home to the Minotaur's Labyrinth?",
+      "answers": [
+        "Crete"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_07",
+      "title": "What form of verse is \"Paradise Lost\" written in?",
+      "answers": [
+        "Blank verse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_08",
+      "title": "What is the first name of writer H. G. Wells?",
+      "answers": [
+        "Herbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_09",
+      "title": "What city saw the debut of the 1875 opera \"Carmen\"?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_10",
+      "title": "Who discovered Odysseus when he washed up on Phaeacia?",
+      "answers": [
+        "Princess Nausicaa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_11",
+      "title": "What is the name of the sailboat that is  featured in the book \"The Perfect Storm\"?",
+      "answers": [
+        "The Satori"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_12",
+      "title": "In Greek literature, Chronos is the personification of what?",
+      "answers": [
+        "Time"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_13",
+      "title": "What forest was home to Robin Hood and his band of Merry Men?",
+      "answers": [
+        "Sherwood Forest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_14",
+      "title": "Who is credited as the designer of the many statues which decorated the Parthenon?",
+      "answers": [
+        "Phidias"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_15",
+      "title": "What \"Lady of the Lamp\" was named for the Italian city where she was born?",
+      "answers": [
+        "Florence Nightingale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_16",
+      "title": "What is the name of the vampire hunter and animator in Laurell K. Hamilton's \"The Harlequin\"?",
+      "answers": [
+        "Anita Blake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_17",
+      "title": "Who wrote the novel \"The Day of the Jackal\"?",
+      "answers": [
+        "Frederick Forsyth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_18",
+      "title": "In Greek mythology, what did the cyclops forge for Zeus?",
+      "answers": [
+        "Thunderbolts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_19",
+      "title": "What Steinbeck novel takes its title from a poem by Julia Ward Howe?",
+      "answers": [
+        "The Grapes of Wrath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_20",
+      "title": "What comic strip character’s favorite baseball player was Joe Shlabotnik?",
+      "answers": [
+        "Charlie Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_21",
+      "title": "In the novel \"Goldfinger\", who is the boss of \"The Cement Mixers\" gang?",
+      "answers": [
+        "Pussy Galore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_22",
+      "title": "What author created the character of Tom Bombadil?",
+      "answers": [
+        "J.R.R. Tolkien"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_23",
+      "title": "Rodin's \"The Thinker\" is believed to be a portrait of what Italian poet?",
+      "answers": [
+        "Dante"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_24",
+      "title": "What classic novel's subtitle is \"Life Among the Lowly\"?",
+      "answers": [
+        "Uncle Tom's Cabin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_25",
+      "title": "From what language did English borrow the word \"canyon\"?",
+      "answers": [
+        "Spanish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_26",
+      "title": "What year did Jean Anouilh write the play \"L'Alouette\"?",
+      "answers": [
+        "1952"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_27",
+      "title": "In which Dickens novel would you find the characters John Jarndyce and Mrs. Jellyby?",
+      "answers": [
+        "Bleak House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_28",
+      "title": "What musical is based on a series of children's books by P.L. Travers?",
+      "answers": [
+        "Mary Poppins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_29",
+      "title": "What poet coined the phrase \"candy is dandy, but liquor is quicker\"?",
+      "answers": [
+        "Ogden Nash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_30",
+      "title": "In Botticelli's \"The Birth of Venus\", what is Venus standing on as she rides to shore?",
+      "answers": [
+        "A seashell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_31",
+      "title": "How long did it take Michelangelo to paint the ceiling of the Sistine Chapel?",
+      "answers": [
+        "4 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_32",
+      "title": "Who is the Roman goddess of the hearth, home and family?",
+      "answers": [
+        "Vesta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_33",
+      "title": "Who named a urinal \"Fountain\" and exhibited it in 1917?",
+      "answers": [
+        "Marcel Duchamp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_34",
+      "title": "What artist's largest work is called \"The Night Watch\"?",
+      "answers": [
+        "Rembrandt's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_35",
+      "title": "Thor is the son of which Norse god?",
+      "answers": [
+        "Odin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_36",
+      "title": "How many books are there in a trilogy?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_37",
+      "title": "In Greek mythology, Hephaestus was the god of what?",
+      "answers": [
+        "Fire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_38",
+      "title": "Exposure to what turned Bruce Banner into The Hulk?",
+      "answers": [
+        "Gamma radiation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_39",
+      "title": "What facial feature is the Mona Lisa missing?",
+      "answers": [
+        "Eyebrows"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_40",
+      "title": "In Greek mythology, who is responsible for giving fire to humans?",
+      "answers": [
+        "Prometheus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_41",
+      "title": "Who was married to Andrew Lloyd Webber when he composed \"The Phantom of the Opera\" for her voice?",
+      "answers": [
+        "Sarah Brightman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_42",
+      "title": "What Soviet dancer defected to the West in 1974, joining the New York City Ballet?",
+      "answers": [
+        "Mikhail Baryshnikov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_43",
+      "title": "Author Margaret Atwood hails from what country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_44",
+      "title": "Who became the first person to become a billionaire by writing books?",
+      "answers": [
+        "J.K. Rowling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_45",
+      "title": "Where was the graveyard located where Lord Voldemort made his return?",
+      "answers": [
+        "Little Hangleton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_46",
+      "title": "Who wrote \"A History of the English-Speaking Peoples\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_47",
+      "title": "Which 19th century French artist painted \"Bathers at Asnieres\"?",
+      "answers": [
+        "Georges Seurat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_48",
+      "title": "In \"The Hunchback of Notre Dame\", what is the name of the gypsy girl who befriends Quasimodo?",
+      "answers": [
+        "Esmeralda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_49",
+      "title": "Which baseball player did a female Stephen King character loved?",
+      "answers": [
+        "Tom Gordon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_28_50",
+      "title": "What sport was most frequently featured in Degas' paintings?",
+      "answers": [
+        "Horseracing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_84",
+  "name": "Entertainment Trivia 26K 84",
+  "description": "Entertainment 4151 - 4200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_84_01",
+      "title": "What pastime is the subject of the Christian Slater movie \"Gleaming the Cube\"?",
+      "answers": [
+        "Skateboarding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_02",
+      "title": "Who recorded the albums \"Into the Fire\" and \"Waking Up the Neighbours\"?",
+      "answers": [
+        "Bryan Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_03",
+      "title": "What is the name of the movie trilogy that \"the Good, the Bad and the Ugly\" was a part of?",
+      "answers": [
+        "The Dollars Trilogy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_04",
+      "title": "Robert De Niro auditioned for which character in the film \"The Godfather\"?",
+      "answers": [
+        "Sonny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_05",
+      "title": "What is the name of the French ship in the film \"Master and Commander: Far Side of the World\"?",
+      "answers": [
+        "Acheron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_06",
+      "title": "In the cartoon \"Wacky Races\", who drove the Convert-a-Car?",
+      "answers": [
+        "Professor Pat Pending"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_07",
+      "title": "The Great Gazoo was an alien in which cartoon series?",
+      "answers": [
+        "The Flintstones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_08",
+      "title": "On the sitcom \"Happy Days\", the character of Matsuo Takahashi was better known by what name?",
+      "answers": [
+        "Arnold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_09",
+      "title": "Mitch Mitchell and Noel Redding were the two lesser-known members of what rock trio?",
+      "answers": [
+        "Jimi Hendrix Experience"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_10",
+      "title": "What future celebrity made an appearance as Opie in \"Andy Griffith\"?",
+      "answers": [
+        "Ron Howard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_11",
+      "title": "What is tramp's nickname for the lady in \"Lady and the Tramp\"?",
+      "answers": [
+        "Pidge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_12",
+      "title": "In 1996, Nintendo celebrated a milestone in the number of game cartridges sold with how many?",
+      "answers": [
+        "One billion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_13",
+      "title": "What year was actor Mel Gibson born?",
+      "answers": [
+        "1956"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_14",
+      "title": "In what year were the first Academy Awards ceremony held?",
+      "answers": [
+        "1929"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_15",
+      "title": "Who played the main character in the 1997 movie \"Mr. Magoo\"?",
+      "answers": [
+        "Leslie Nielsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_16",
+      "title": "Which Rolling Stones song has been used the most in Martin Scorsese films?",
+      "answers": [
+        "\"Gimme Shelter\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_17",
+      "title": "What actor is synonymous with the Indiana Jones character?",
+      "answers": [
+        "Harrison Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_18",
+      "title": "What TV veteran originated the role of neat freak Felix Unger in \"The Odd Couple\" on Broadway?",
+      "answers": [
+        "Art Carney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_19",
+      "title": "What TV show starred Frankie Muniz playing the role of Malcolm?",
+      "answers": [
+        "Malcolm in the Middle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_20",
+      "title": "What US state is the setting for \"The Cleveland Show\"?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_21",
+      "title": "The film \"Four Weddings and a Funeral\" was released in which year?",
+      "answers": [
+        "1994"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_22",
+      "title": "What athlete had a part in the movie \"Mitchell\"?",
+      "answers": [
+        "Merlin Olsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_23",
+      "title": "In the song where was \"The House of the Rising Sun\" located?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_24",
+      "title": "What was the call sign of Tom Cruise's fighter pilot character in the movie \"Top Gun\"?",
+      "answers": [
+        "Maverick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_25",
+      "title": "The 1994 \"Leon\" was the motion-picture debut of which one of its stars?",
+      "answers": [
+        "Natalie Portman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_26",
+      "title": "What are the names of the male and female archenemies of Rocky and Bullwinkle?",
+      "answers": [
+        "Boris and Natasha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_27",
+      "title": "In Disney's \"Pinocchio\", what is the name of Geppetto's cat?",
+      "answers": [
+        "Figaro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_28",
+      "title": "Who recorded the song \"Material Girl\"?",
+      "answers": [
+        "Madonna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_29",
+      "title": "Who directed the 1996 movie \"Mars Attacks!\"?",
+      "answers": [
+        "Tim Burton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_30",
+      "title": "Who originally recorded the song \"Blue Bayou\"?",
+      "answers": [
+        "Roy Orbison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_31",
+      "title": "Who played the role of Cora in the 1966 film \"Fantastic Voyage\"?",
+      "answers": [
+        "Raquel Welch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_32",
+      "title": "Who did Han Solo call an \"old smoothie\"?",
+      "answers": [
+        "Lando Calrissian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_33",
+      "title": "Where were The Bee Gees from originally?",
+      "answers": [
+        "Isle of Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_34",
+      "title": "The novel \"Flowers for Algernon\" became which major motion picture?",
+      "answers": [
+        "\"Charly\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_35",
+      "title": "Which BTS member said their favorite hair color was red?",
+      "answers": [
+        "V (Kim Tae-hyung)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_36",
+      "title": "Which cast member from the TV show \"Friends\" has a father who is a cast member on \"Days of Our Lives\"?",
+      "answers": [
+        "Jennifer Aniston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_37",
+      "title": "The last two surviving jurors from the film \"12 Angry Men\" were actors who shared what first name?",
+      "answers": [
+        "Jack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_38",
+      "title": "Who is the first member of the group LOONA to debut?",
+      "answers": [
+        "Heejin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_39",
+      "title": "What is Sean Connery's real first name?",
+      "answers": [
+        "Thomas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_40",
+      "title": "What Best Picture-winning film was adapted from the short story collection \"Rope Burns\"?",
+      "answers": [
+        "Million Dollar Baby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_41",
+      "title": "What TV show takes place in the fictional city of Raytown?",
+      "answers": [
+        "Mama's Family"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_42",
+      "title": "What does the acronym \"SCTV\" stand for?",
+      "answers": [
+        "Second City Television"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_43",
+      "title": "Who was nominated for Best Supporting Actor for the 1995 movie \"Apollo 13\"?",
+      "answers": [
+        "Ed Harris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_44",
+      "title": "What does the \"PJ\" stand for in the name PJ Harvey?",
+      "answers": [
+        "Polly Jean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_45",
+      "title": "Who is Mufasa's son in Disney's movie \"The Lion King\"?",
+      "answers": [
+        "Simba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_46",
+      "title": "What movie won an Oscar for \"Best Picture\" in 1991?",
+      "answers": [
+        "Dances With Wolves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_47",
+      "title": "What country does \"The Hunger Games\" take place in?",
+      "answers": [
+        "Panem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_48",
+      "title": "On what vehicle was the Mutt Cutts Van based on in the 1994 film \"Dumb and Dumber\"?",
+      "answers": [
+        "1984 Ford Econoline"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_49",
+      "title": "What actor was born Marion Robert Morrison?",
+      "answers": [
+        "John Wayne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_84_50",
+      "title": "What was Captain McIntyre's nickname on M*A*S*H?",
+      "answers": [
+        "Trapper John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

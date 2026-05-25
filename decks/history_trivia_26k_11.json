@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_11",
+  "name": "History Trivia 26K 11",
+  "description": "History 501 - 550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_11_01",
+      "title": "How long did Pope John Paul I serve?",
+      "answers": [
+        "33 days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_02",
+      "title": "Which city was the first capital of Japan?",
+      "answers": [
+        "Nara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_03",
+      "title": "What is the real first name of the former First Lady known as Lady Bird Johnson?",
+      "answers": [
+        "Claudia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_04",
+      "title": "When was the printing press first invented?",
+      "answers": [
+        "Around 1440"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_05",
+      "title": "Which of America's \"big four\" sports leagues is the oldest?",
+      "answers": [
+        "Major League Baseball (MLB)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_06",
+      "title": "Which Gabor sister, who passed away in December of 2016, was crowned Miss Hungary in 1936?",
+      "answers": [
+        "Zsa Zsa Gabor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_07",
+      "title": "What did Keats call a \"season of mists and mellow fruitfulness\"?",
+      "answers": [
+        "Autumn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_08",
+      "title": "Sharpshooter Phoebe Ann Mosey was better known as who?",
+      "answers": [
+        "Annie Oakley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_09",
+      "title": "In what year did Konrad Adenauer become the first Chancellor of West Germany?",
+      "answers": [
+        "1949"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_10",
+      "title": "Britain annexed Hong Kong as a result of which war?",
+      "answers": [
+        "The Opium War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_11",
+      "title": "What amusement park was home to America’s first roller coaster?",
+      "answers": [
+        "Coney Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_12",
+      "title": "What is the world’s oldest writing system?",
+      "answers": [
+        "Cuneiform"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_13",
+      "title": "What is the better known name of the Spanish mission San Antonio de Valero?",
+      "answers": [
+        "The Alamo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_14",
+      "title": "Who said, \"Pleasure is the bait of sin\"?",
+      "answers": [
+        "Plato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_15",
+      "title": "What naval battle between Mark Antony and Octavian is often said to mark the beginning of the Roman Empire?",
+      "answers": [
+        "The Battle of Actium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_16",
+      "title": "What did Ira Remsen discover in 1879?",
+      "answers": [
+        "Saccharine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_17",
+      "title": "What was the nickname of the son of Cleopatra and Julius Caesar?",
+      "answers": [
+        "Caesarion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_18",
+      "title": "Who said By all means marry. If you get a good wife you will become happy, and if you get a bad one you will become a philosopher?",
+      "answers": [
+        "Socrates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_19",
+      "title": "What world leader sold the Louisiana Territory to the US?",
+      "answers": [
+        "Napoleon Bonaparte"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_20",
+      "title": "Who caused the collapse of Barings Bank and inspired the film \"Rogue Trader\"?",
+      "answers": [
+        "Nick Leeson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_21",
+      "title": "What was Ronald Reagan’s Secret Service code name?",
+      "answers": [
+        "Rawhide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_22",
+      "title": "What was banned in Mississippi in 1907 that didn't become legal there again until 1966?",
+      "answers": [
+        "Alcohol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_23",
+      "title": "Who was president of the US when Congress passed the first Clean Air Act?",
+      "answers": [
+        "John F. Kennedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_24",
+      "title": "Who developed the first modern set of headphones?",
+      "answers": [
+        "Nathaniel Baldwin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_25",
+      "title": "What military legend was nicknamed \"The Swamp Fox\"?",
+      "answers": [
+        "Francis Marion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_26",
+      "title": "What year was the Battle of Bannockburn?",
+      "answers": [
+        "1314"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_27",
+      "title": "The name \"Australia\" was formally adopted in which year?",
+      "answers": [
+        "1824"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_28",
+      "title": "How many days was Skylab III in space?",
+      "answers": [
+        "84"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_29",
+      "title": "Architect Walter Gropius founded what famous German art school in Weimar in 1919?",
+      "answers": [
+        "The Bauhaus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_30",
+      "title": "What animal was the Egyptian God Horus depicted as?",
+      "answers": [
+        "Falcon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_31",
+      "title": "What was the better known name of outlaw Harry Longabaugh?",
+      "answers": [
+        "The Sundance Kid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_32",
+      "title": "How much did it cost to take the New York City subway when it began in 1904?",
+      "answers": [
+        "Five cents"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_33",
+      "title": "In what year was the March of Dimes founded?",
+      "answers": [
+        "1938"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_34",
+      "title": "What year were the first Winter Olympic Games held?",
+      "answers": [
+        "1924"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_35",
+      "title": "Michelle Bachelet was the leader of what country?",
+      "answers": [
+        "Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_36",
+      "title": "Which company manufactured the film for NASA’s Apollo 11 moon mission?",
+      "answers": [
+        "Kodak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_37",
+      "title": "Peter the Great is considered the founding father of what country?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_38",
+      "title": "What was the name of the uprising that took place in Kenya between 1952 and 1960?",
+      "answers": [
+        "Mau Mau Uprising"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_39",
+      "title": "Authorities in which country released gas into a theater, killing 116 hostages in 2002?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_40",
+      "title": "During World War II, who was Norway's leader and chief Nazi collaborator?",
+      "answers": [
+        "Vidkun Quisling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_41",
+      "title": "What war ended with the Treaty of Ghent?",
+      "answers": [
+        "War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_42",
+      "title": "What was the infamous pseudonym of William Bonney?",
+      "answers": [
+        "Billy the Kid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_43",
+      "title": "Who was the first US presidential candidate to speak at a political convention?",
+      "answers": [
+        "Franklin D. Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_44",
+      "title": "Where was the Liberty Bell hidden during the Revolutionary War?",
+      "answers": [
+        "Allentown, Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_45",
+      "title": "What city in Idaho was the first in the world to use electricity generated by nuclear power?",
+      "answers": [
+        "Arco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_46",
+      "title": "What did the Texan army shout during the Battle of San Jacinto?",
+      "answers": [
+        "Remember the Alamo!"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_47",
+      "title": "What was the first US state to have two female senators at the same time?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_48",
+      "title": "The Richard Nixon Presidential Library is located in which California city?",
+      "answers": [
+        "Yorba Linda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_49",
+      "title": "What are the earliest-known Christmas tree decorations?",
+      "answers": [
+        "Apples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_11_50",
+      "title": "What year was the computer worm, \"Father Christmas\", released into the world?",
+      "answers": [
+        "1988"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_39",
+  "name": "Science Trivia 26K 39",
+  "description": "Science 1901 - 1950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_39_01",
+      "title": "What planet has the shortest day, at 10 hours?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_02",
+      "title": "What fruit comes in Eureka and Meyer variety?",
+      "answers": [
+        "Lemons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_03",
+      "title": "What animal lives in a holt or couch?",
+      "answers": [
+        "An otter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_04",
+      "title": "What word, beginning with M, is the unit measurement for the brightness of stars?",
+      "answers": [
+        "Magnitude"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_05",
+      "title": "Something that is described as \"vespine\" resembles what type of insect?",
+      "answers": [
+        "Wasp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_06",
+      "title": "Which two elements are the most common in the universe?",
+      "answers": [
+        "Hydrogen and Helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_07",
+      "title": "Who won a Nobel Prize for discovering Penicillin?",
+      "answers": [
+        "Alexander Fleming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_08",
+      "title": "Who took a leave of absence in the mid 1940's from his position at Cal Tech to direct the Manhattan Project?",
+      "answers": [
+        "Robert Oppenheimer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_09",
+      "title": "A jellyfish is made up of 95% of what?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_10",
+      "title": "What animal always gives birth to same sex twins?",
+      "answers": [
+        "Armadillo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_11",
+      "title": "What lemon-scented oil is derived from dried grasses and used as an insect repellent?",
+      "answers": [
+        "Citronella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_12",
+      "title": "What is the fear of getting wrinkles known as?",
+      "answers": [
+        "Rhytiphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_13",
+      "title": "A phytotoxin is a poison produced from what?",
+      "answers": [
+        "Plants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_14",
+      "title": "Winesap, Cortland, McIntosh and Rome are all types of what?",
+      "answers": [
+        "Apples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_15",
+      "title": "Which element of the periodic table is named after the sun?",
+      "answers": [
+        "Helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_16",
+      "title": "What name is given to the salted roe (eggs) of sturgeon?",
+      "answers": [
+        "Caviar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_17",
+      "title": "How far is Earth from the center of the Milky Way Galaxy?",
+      "answers": [
+        "25,000 light years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_18",
+      "title": "What nationality was inventor Alexander Graham Bell?",
+      "answers": [
+        "Scottish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_19",
+      "title": "What is the proper name of the flower more commonly referred to as \"dandelion\"?",
+      "answers": [
+        "Taraxacum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_20",
+      "title": "What is the more common name for the bone called the furcula, found in birds?",
+      "answers": [
+        "Wishbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_21",
+      "title": "Other than the bald eagle, what is the only species of eagle found in the US?",
+      "answers": [
+        "The golden eagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_22",
+      "title": "What does a “seismograph” measure?",
+      "answers": [
+        "Motions of the ground"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_23",
+      "title": "What is the shape of a DNA molecule called?",
+      "answers": [
+        "Double helix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_24",
+      "title": "What is the chemical symbol for Silver?",
+      "answers": [
+        "Ag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_25",
+      "title": "Around 280 million years ago, the continents existed as one landmass called what?",
+      "answers": [
+        "Pangea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_26",
+      "title": "Which have longer snouts - alligators or crocodiles?",
+      "answers": [
+        "Crocodiles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_27",
+      "title": "What is the technical term for earwax?",
+      "answers": [
+        "Cerumen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_28",
+      "title": "What is the most common element in air?",
+      "answers": [
+        "Nitrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_29",
+      "title": "What was neurologist's Viktor E. Frankl's middle name?",
+      "answers": [
+        "Emil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_30",
+      "title": "What did an IBM 7090 computer calculate to 100,265 decimal places in 1961?",
+      "answers": [
+        "Pi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_31",
+      "title": "What type of creature is a Silverback?",
+      "answers": [
+        "A gorilla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_32",
+      "title": "\"Sonar\" stands for what?",
+      "answers": [
+        "Sound Navigation And Ranging"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_33",
+      "title": "On average, a dragonfly eats how many mosquitoes per day?",
+      "answers": [
+        "300"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_34",
+      "title": "What name is given to the study of volcanoes?",
+      "answers": [
+        "Volcanology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_35",
+      "title": "What South American mammal resembles a small llama?",
+      "answers": [
+        "Alpaca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_36",
+      "title": "In 1906, a call for higher vitamin intakes was made to decrease outbreaks of which ailments?",
+      "answers": [
+        "Scurvy and Ricketts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_37",
+      "title": "In mathematics, which prefix refers to 10 to the power of minus 24?",
+      "answers": [
+        "Yocto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_38",
+      "title": "What is the name given to the largest number ever used in a mathematical proof?",
+      "answers": [
+        "Graham's Number"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_39",
+      "title": "HIV stands for what?",
+      "answers": [
+        "Human Immunodeficiency Virus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_40",
+      "title": "What year was the World Wide Web launched in?",
+      "answers": [
+        "1991"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_41",
+      "title": "What is the place where projectors are used to show the night sky?",
+      "answers": [
+        "Planetarium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_42",
+      "title": "Where will you find the lacrimal bone?",
+      "answers": [
+        "Face"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_43",
+      "title": "What are the tiny air sacs in the lungs called?",
+      "answers": [
+        "Alveoli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_44",
+      "title": "Who invented the microscope?",
+      "answers": [
+        "Zacharias Janssen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_45",
+      "title": "Who was the first person to attach an eraser to the end of a pencil?",
+      "answers": [
+        "Hyman Lipman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_46",
+      "title": "What type of cloud is characterized by thin, wispy strands?",
+      "answers": [
+        "Cirrus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_47",
+      "title": "What theoretical physicist and cosmologist suffered from Lou Gehrig's Disease?",
+      "answers": [
+        "Stephen Hawking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_48",
+      "title": "What is the more common term for sternum?",
+      "answers": [
+        "Breastbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_49",
+      "title": "What process produces a duplicate of the original cell?",
+      "answers": [
+        "Mitosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_39_50",
+      "title": "What is the name of Earth's first artificial satellite?",
+      "answers": [
+        "Sputnik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

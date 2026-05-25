@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_16",
+  "name": "General Trivia 26K 16",
+  "description": "General 751 - 800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_16_01",
+      "title": "What is throwing three rocks in a game of Rock, Paper, Scissors called?",
+      "answers": [
+        "Avalanche"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_02",
+      "title": "Prosophobia is the fear of what?",
+      "answers": [
+        "Progress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_03",
+      "title": "Pyrophobia is the fear of what?",
+      "answers": [
+        "Fire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_04",
+      "title": "Who won the 2009 Sporting News Major League Player of the Year award?",
+      "answers": [
+        "Albert Pujols"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_05",
+      "title": "What is philology the study of?",
+      "answers": [
+        "Languages"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_06",
+      "title": "What does the KonMari Method focus on?",
+      "answers": [
+        "Tidying up"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_07",
+      "title": "What country does motor racing's Jacques Villeneuve come from?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_08",
+      "title": "What city drops a giant Peeps chick for the New Year every year?",
+      "answers": [
+        "Bethlehem, Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_09",
+      "title": "What company did the founders of YouTube work for before starting YouTube?",
+      "answers": [
+        "PayPal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_10",
+      "title": "What three rare metals are a vital part of automobile catalytic converters?",
+      "answers": [
+        "Platinum, palladium and rhodium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_11",
+      "title": "An Apgar score is given to what?",
+      "answers": [
+        "Health of newborns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_12",
+      "title": "What year was the first Amazon Kindle device introduced?",
+      "answers": [
+        "2007"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_13",
+      "title": "How many days are there in a leap year?",
+      "answers": [
+        "366"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_14",
+      "title": "To determine the percentage of alcohol in a bottle of liquor, what is divided by two?",
+      "answers": [
+        "Proof"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_15",
+      "title": "What beer’s name means “lion’s brew” in German?",
+      "answers": [
+        "Lowenbrau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_16",
+      "title": "What did American Harland David Sanders give to the world in the 1930s?",
+      "answers": [
+        "Kentucky Fried Chicken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_17",
+      "title": "What is the first number in the zip code for the District of Columbia?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_18",
+      "title": "What is the fear of social situations called?",
+      "answers": [
+        "Sociophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_19",
+      "title": "What is the study of bells called?",
+      "answers": [
+        "Campanologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_20",
+      "title": "What year did the US first host the Summer Olympic Games?",
+      "answers": [
+        "1904"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_21",
+      "title": "\"Tennis bracelets\" are so named because of a 1987 incident involving what athlete?",
+      "answers": [
+        "Chris Evert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_22",
+      "title": "Which school's football players run onto the field behind \"Ralphie\", a live bison?",
+      "answers": [
+        "University of Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_23",
+      "title": "Archie Moore was World Champion in what sport from 1952 to 1962?",
+      "answers": [
+        "Boxing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_24",
+      "title": "What fast food chain was founded by Glen Bell in 1962?",
+      "answers": [
+        "Taco Bell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_25",
+      "title": "What English cricketer is nicknamed \"Beefy\"?",
+      "answers": [
+        "Ian Botham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_26",
+      "title": "How many players are there in a standard basketball team?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_27",
+      "title": "Edam, Jarlsberg, and Fontina are what types of food?",
+      "answers": [
+        "Cheeses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_28",
+      "title": "Which male vocal range is pitched between tenor and bass?",
+      "answers": [
+        "Baritone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_29",
+      "title": "The Christmas song \"O Come, O Come, Emmanuel\" was originally written in what language?",
+      "answers": [
+        "Latin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_30",
+      "title": "What chemical reaction during roasting is chiefly responsible for giving green coffee beans their flavor?",
+      "answers": [
+        "Maillard Reaction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_31",
+      "title": "Roquefort, manchego, and feta cheese are produced from what animal's milk?",
+      "answers": [
+        "Sheep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_32",
+      "title": "According to Irish superstition, what stands open during the 12 days of Christmas?",
+      "answers": [
+        "The gates of heaven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_33",
+      "title": "What year did Funko introduce \"Pop! Vinyl\" line of figurines?",
+      "answers": [
+        "2011"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_34",
+      "title": "What century did curling originate in Scotland?",
+      "answers": [
+        "16th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_35",
+      "title": "What year was the French Press first patented?",
+      "answers": [
+        "1929"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_36",
+      "title": "What London gentleman's club was the first to admit lady members in 1981?",
+      "answers": [
+        "Reform Club"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_37",
+      "title": "The name \"Chandler\" literally means what?",
+      "answers": [
+        "Candlemaker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_38",
+      "title": "With which hand do soldiers salute?",
+      "answers": [
+        "Right"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_39",
+      "title": "What part of the whale were whalebone corsets made from?",
+      "answers": [
+        "Baleen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_40",
+      "title": "Who is the world’s largest tire manufacturer?",
+      "answers": [
+        "LEGO"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_41",
+      "title": "What ingredient must French vanilla ice cream have in it to distinguish it from regular vanilla?",
+      "answers": [
+        "Eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_42",
+      "title": "What are the last names of the two Steves who founded \"Apple Computers\"?",
+      "answers": [
+        "Jobs and Wozniak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_43",
+      "title": "What liquor is nicknamed \"the green fairy\"?",
+      "answers": [
+        "Absinthe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_44",
+      "title": "What tennis player earned the nickname the \"Ice Man\"?",
+      "answers": [
+        "Bjorn Borg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_45",
+      "title": "What spice is made from the seeds of the plant whose leaves are called cilantro?",
+      "answers": [
+        "Coriander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_46",
+      "title": "What team won the first Super Bowl?",
+      "answers": [
+        "The Green Bay Packers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_47",
+      "title": "How many US dollars are a pound of dimes and a pound of quarters each worth?",
+      "answers": [
+        "$20 each"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_48",
+      "title": "What is the only fruit to be ever banned from airplanes?",
+      "answers": [
+        "Durian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_49",
+      "title": "Who would use a mashie niblick?",
+      "answers": [
+        "A golfer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_16_50",
+      "title": "Where would you find a \"crossbuck\"?",
+      "answers": [
+        "At a railroad crossing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_44",
+  "name": "General Trivia 26K 44",
+  "description": "General 2151 - 2200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_44_01",
+      "title": "On which wedding anniversary would you buy your partner leather?",
+      "answers": [
+        "The 3rd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_02",
+      "title": "Besides corn, what's the other principal ingredient in succotash?",
+      "answers": [
+        "Lima beans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_03",
+      "title": "What game of chance was originally called \"Beano\"?",
+      "answers": [
+        "Bingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_04",
+      "title": "Tips of hair that are damaged are called what?",
+      "answers": [
+        "Split ends"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_05",
+      "title": "What year marked the inaugural season of Formula One?",
+      "answers": [
+        "1950"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_06",
+      "title": "What is traditional bubble gum made of?",
+      "answers": [
+        "Chicle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_07",
+      "title": "The Miami Marlins' baseball stadium is built on the former site of what other stadium?",
+      "answers": [
+        "The Orange Bowl Stadium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_08",
+      "title": "What food product calls itself the snack that smiles back?",
+      "answers": [
+        "Goldfish Crackers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_09",
+      "title": "What is better than scissors in the paper, stone, scissors game?",
+      "answers": [
+        "Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_10",
+      "title": "Tiger Woods set or tied 27 records at which 1997 PGA tournament?",
+      "answers": [
+        "The Masters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_11",
+      "title": "What is often called the \"Greek Old Testament\"?",
+      "answers": [
+        "The Septuagint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_12",
+      "title": "What do opposite faces of a die always add up to?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_13",
+      "title": "American supermarket chain Whole Foods is owned by which mega company?",
+      "answers": [
+        "Amazon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_14",
+      "title": "What animal is on the label of \"Shiner Bock\" beer?",
+      "answers": [
+        "Big-Horned Sheep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_15",
+      "title": "When was the first Wal-Mart store opened?",
+      "answers": [
+        "1962"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_16",
+      "title": "What do the face cards count for in the card game Gin Rummy?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_17",
+      "title": "Which country were the 1948 Summer Olympic Games held in?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_18",
+      "title": "What is the main ingredient in Borscht?",
+      "answers": [
+        "Beetroot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_19",
+      "title": "FINA is the governing body of what sport?",
+      "answers": [
+        "Swimming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_20",
+      "title": "Which is the longest English word without a vowel?",
+      "answers": [
+        "Nymphly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_21",
+      "title": "What is the Hebrew word for peace, used as both a greeting and a farewell?",
+      "answers": [
+        "Shalom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_22",
+      "title": "What is Prosciutto?",
+      "answers": [
+        "Italian dry-cured ham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_23",
+      "title": "What game platform was bundled with Tetris upon its US debut in 1989?",
+      "answers": [
+        "Game Boy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_24",
+      "title": "What physical fitness practice is named for the Sanskrit word for \"union\"?",
+      "answers": [
+        "Yoga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_25",
+      "title": "In nautical terms, what does \"Starboard\" mean?",
+      "answers": [
+        "Right"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_26",
+      "title": "What is the maximum high score that can be shown on the screen in the video game \"Pac-Man\"?",
+      "answers": [
+        "999,990 points"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_27",
+      "title": "What does \"M&Ms\" stand for in the candy with the same name?",
+      "answers": [
+        "Mars & Murrie's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_28",
+      "title": "How many players are there in a standard ice hockey team?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_29",
+      "title": "What is the name for the creamy liver of lobster eaten as a delicacy?",
+      "answers": [
+        "Tomalley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_30",
+      "title": "What chain opened its first store in 1962 in the town of Rogers, Arkansas?",
+      "answers": [
+        "Wal-Mart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_31",
+      "title": "What brand was famous for its Little Liver Pills?",
+      "answers": [
+        "Carter's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_32",
+      "title": "What is the last name of Barbie's boyfriend, Ken?",
+      "answers": [
+        "Carson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_33",
+      "title": "What wondrous creation was designed by Sostratus of Cnidus?",
+      "answers": [
+        "Lighthouse of Alexandria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_34",
+      "title": "What is an Alsace wine blended from different kinds of grapes called?",
+      "answers": [
+        "Edelzwicker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_35",
+      "title": "According to Toucan Sam, what should you always follow to find Froot Loops?",
+      "answers": [
+        "Your nose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_36",
+      "title": "What popular show features characters named after famous artists?",
+      "answers": [
+        "Teenage Mutant Ninja Turtles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_37",
+      "title": "In which decade was the first Vespa scooter manufactured in Italy?",
+      "answers": [
+        "1940s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_38",
+      "title": "What is made from chicle?",
+      "answers": [
+        "Chewing gum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_39",
+      "title": "The serial killer Peter Sutcliffe was also known as what?",
+      "answers": [
+        "The Yorkshire Ripper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_40",
+      "title": "Which type of nut is used to make Nutella?",
+      "answers": [
+        "Hazelnut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_41",
+      "title": "What was the better known name of the old 91 meters sprint race?",
+      "answers": [
+        "100 yards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_42",
+      "title": "What are the stars in traditional Cornish Stargazy pie?",
+      "answers": [
+        "Pilchards eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_43",
+      "title": "The name of what ancient game is derived from the Hindu word for twenty-five?",
+      "answers": [
+        "Pachisi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_44",
+      "title": "The \"Dreamcatcher\" was invented by which Native America group?",
+      "answers": [
+        "Ojibwe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_45",
+      "title": "What is a tightrope walker called?",
+      "answers": [
+        "Funambulist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_46",
+      "title": "Who did the Chicago Bears fire in 1992, just four years after he was the NFL Coach of the Year?",
+      "answers": [
+        "Mike Ditka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_47",
+      "title": "What is the primary flavoring agent of a Greek Tzatziki sauce?",
+      "answers": [
+        "Garlic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_48",
+      "title": "Which two disciples of Jesus were called the \"Boanerges\"?",
+      "answers": [
+        "James and John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_49",
+      "title": "What is the \"waltzing Matilda\" in the title of that traditional Australian song?",
+      "answers": [
+        "A migrant worker's bedroll"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_44_50",
+      "title": "What dog breed has the most Best in Show wins at the Westminster Dog Show?",
+      "answers": [
+        "Wire Fox Terrier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

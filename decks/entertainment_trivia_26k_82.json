@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_82",
+  "name": "Entertainment Trivia 26K 82",
+  "description": "Entertainment 4051 - 4100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_82_01",
+      "title": "What skateboarding actor-to-be plays the main character in Sonic Youth's music video for \"100%\"?",
+      "answers": [
+        "Jason Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_02",
+      "title": "Gene Hackman's \"French Connection\" cop is nicknamed for what cartoon character?",
+      "answers": [
+        "Popeye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_03",
+      "title": "What was the name of the 2008 James Bond film, 22nd in the series?",
+      "answers": [
+        "Quantum of Solace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_04",
+      "title": "What kind of animal is the title character in the 1998 movie \"Paulie\"?",
+      "answers": [
+        "Parrot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_05",
+      "title": "Which 1956 film did Bing Crosby, Grace Kelly and Frank Sinatra star in?",
+      "answers": [
+        "High Society"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_06",
+      "title": "What is Private Ryan's first name?",
+      "answers": [
+        "James"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_07",
+      "title": "What sport is the focus of the movie \"Days of Thunder\"?",
+      "answers": [
+        "Car racing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_08",
+      "title": "Who said this in the movie \"The Shawshank Redemption\"? \"Hope is a dangerous thing. Hope can drive a man insane.\"",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_09",
+      "title": "Who was known as \"The King\"?",
+      "answers": [
+        "Elvis Presley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_10",
+      "title": "Who recorded the song \"Call Me\"?",
+      "answers": [
+        "Blondie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_11",
+      "title": "On the TV show \"Lost\", what group conducts scientific experiments on the island?",
+      "answers": [
+        "Dharma Initiative"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_12",
+      "title": "What artist performed the song titled \"MMMBop\"?",
+      "answers": [
+        "Hanson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_13",
+      "title": "Whose directorial debut earned him an Oscar for Ordinary People in 1980?",
+      "answers": [
+        "Robert Redford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_14",
+      "title": "In the TV series \"Seinfeld\", who played the role of Kramer?",
+      "answers": [
+        "Michael Richards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_15",
+      "title": "Alec Baldwin started hosting which ABC show on June 26, 2016?",
+      "answers": [
+        "Match Game"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_16",
+      "title": "Who played the role of Pete Hornberger on the TV show \"30 Rock\"?",
+      "answers": [
+        "Scott Adsit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_17",
+      "title": "Who released the album titled \"The Spaghetti Incident\"?",
+      "answers": [
+        "Guns N' Roses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_18",
+      "title": "Who are Bart Simpson's favorite cartoon duo?",
+      "answers": [
+        "Itchy and Scratchy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_19",
+      "title": "Where was singer Billy Ocean born?",
+      "answers": [
+        "Trinidad and Tobago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_20",
+      "title": "What TV show featured the fictional \"The Stonecutters\" fraternity?",
+      "answers": [
+        "The Simpsons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_21",
+      "title": "What French detective features in the \"Pink Panther\" movies?",
+      "answers": [
+        "Jacques Clouseau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_22",
+      "title": "What was the name of Esther Rolles’ character on both the TV shows \"Maude\" and \"Good Times\"?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_23",
+      "title": "What character did actor George Lindsey play on \"The Andy Griffith Show\"?",
+      "answers": [
+        "Goober Pyle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_24",
+      "title": "In season 14 of \"Big Brother\" what coach told Britney that she is so good because she is incapable of feeling emotion?",
+      "answers": [
+        "Janelle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_25",
+      "title": "What Joyce Maynard novel was made into a 1995 film, starring Nicole Kidman as a murderous TV weatherperson?",
+      "answers": [
+        "To Die For"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_26",
+      "title": "What TV show's theme song was entitled \"Where Everybody Knows Your Name\"?",
+      "answers": [
+        "Cheers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_27",
+      "title": "What was the title of the 2006 \"Casino Royale\" theme sung by Chris Cornell?",
+      "answers": [
+        "You Know My Name"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_28",
+      "title": "\"Michelle\" and \"Julia\" are songs by which group?",
+      "answers": [
+        "The Beatles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_29",
+      "title": "Morten Harket is the lead singer of which band?",
+      "answers": [
+        "A-ha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_30",
+      "title": "In what year did Elton John release his single \"Crocodile Rock\"?",
+      "answers": [
+        "1973"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_31",
+      "title": "What is the singer Meat Loafs real name?",
+      "answers": [
+        "Michael Lee Aday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_32",
+      "title": "Name Dan Hartman's first solo hit?",
+      "answers": [
+        "Instant Replay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_33",
+      "title": "What famed Motown songwriting trio had their first Top Ten hit with \"Heat Wave\"?",
+      "answers": [
+        "Holland-Dozier-Holland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_34",
+      "title": "In what movie does Redfoot flick his cigarette into the face of McManus?",
+      "answers": [
+        "The Usual Suspects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_35",
+      "title": "Who hosted the 88th Academy Awards?",
+      "answers": [
+        "Chris Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_36",
+      "title": "Which song was tapped out on the giant keyboard in \"Big\"?",
+      "answers": [
+        "\"Heart and Soul\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_37",
+      "title": "Who earned an Oscar nomination for her role in the movie \"The Color Purple\"?",
+      "answers": [
+        "Whoopi Goldberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_38",
+      "title": "In the TV show \"The Simpsons\", what IQ does Comic Book Guy posses?",
+      "answers": [
+        "170"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_39",
+      "title": "What show popularized the Humphrey Bogart line \"Yeah! That's the ticket\"?",
+      "answers": [
+        "Saturday Night Live"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_40",
+      "title": "What is Michael J. Fox’s middle name?",
+      "answers": [
+        "Andrew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_41",
+      "title": "What was Higgins first name in the TV show \"Magnum PI\"?",
+      "answers": [
+        "Jonathan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_42",
+      "title": "What movie portrays a world where no children have been born in 18 years?",
+      "answers": [
+        "Children of Men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_43",
+      "title": "What was the first female rap group to win a Grammy in 1995?",
+      "answers": [
+        "Salt-N-Pepa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_44",
+      "title": "Ozzy Osbourne is the former lead vocalist of which classic heavy metal band?",
+      "answers": [
+        "Black Sabbath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_45",
+      "title": "Who delivers the high-school commencement speech in \"Boy Meets World\"?",
+      "answers": [
+        "Shawn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_46",
+      "title": "Who won a Grammy Award for his album \"52nd Street\"?",
+      "answers": [
+        "Billy Joel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_47",
+      "title": "Who directed his own father to Oscar gold in \"The Treasure of the Sierra Nevada\"?",
+      "answers": [
+        "John Huston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_48",
+      "title": "Red's full name in the film \"The Shawshank Redemption\" is what?",
+      "answers": [
+        "Ellis Boyd Redding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_49",
+      "title": "Which British group recorded the song \"The House of the Rising Sun\" in 1964?",
+      "answers": [
+        "The Animals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_82_50",
+      "title": "Whose music is featured in the musical movie Mamma Mia!?",
+      "answers": [
+        "ABBA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

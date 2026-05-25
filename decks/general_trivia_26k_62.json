@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_62",
+  "name": "General Trivia 26K 62",
+  "description": "General 3051 - 3100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_62_01",
+      "title": "Edward Whymper was the first to do what?",
+      "answers": [
+        "Climb Matterhorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_02",
+      "title": "In what type of language does the meaning change based on your pitch?",
+      "answers": [
+        "Tonal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_03",
+      "title": "What is the three letter name of the red, brimless hat which originated in Morocco?",
+      "answers": [
+        "Fez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_04",
+      "title": "Whose famous horse was named Buttermilk?",
+      "answers": [
+        "Dale Evans'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_05",
+      "title": "Where were the 1956 Summer Olympics held?",
+      "answers": [
+        "Melbourne, Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_06",
+      "title": "What year was Budweiser first introduced?",
+      "answers": [
+        "1876"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_07",
+      "title": "How many inches is a span?",
+      "answers": [
+        "9 inches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_08",
+      "title": "In pool, what color is the 4-ball?",
+      "answers": [
+        "Purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_09",
+      "title": "What is June's birthstone?",
+      "answers": [
+        "Pearl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_10",
+      "title": "Emanuel Rosenfeld , Maurice Strauss, and Graham Jackson are better known as whom?",
+      "answers": [
+        "The Pep Boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_11",
+      "title": "What modern sport grew out of the ancient Thai sport Muay Thai?",
+      "answers": [
+        "Kickboxing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_12",
+      "title": "The zodiac sign \"Taurus\" refers to what animal?",
+      "answers": [
+        "The bull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_13",
+      "title": "Who was born Farrokh Bulsara?",
+      "answers": [
+        "Freddie Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_14",
+      "title": "Shito pepper is a commonly used condiment in which part of the world?",
+      "answers": [
+        "West Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_15",
+      "title": "What type of vegetarian excludes all types of meat from their diet but eats eggs and dairy products?",
+      "answers": [
+        "A lacto-ovo vegetarian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_16",
+      "title": "What is IRC an acronym for?",
+      "answers": [
+        "Internet relay chat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_17",
+      "title": "What company developed the first laser printer in the 1970s?",
+      "answers": [
+        "Xerox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_18",
+      "title": "Where was Budweiser first brewed?",
+      "answers": [
+        "St. Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_19",
+      "title": "The term \"black market\" was first used during which war?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_20",
+      "title": "What was the first brand of toothpaste to be sold in tubes rather than jars?",
+      "answers": [
+        "Colgate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_21",
+      "title": "Grits are typically made from what grain?",
+      "answers": [
+        "Corn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_22",
+      "title": "Vanilla flavoring is extracted from what part of the vanilla plant?",
+      "answers": [
+        "Seed pods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_23",
+      "title": "What year was the iPod first introduced?",
+      "answers": [
+        "2001"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_24",
+      "title": "Which type of prepared bread is named after an opera singer?",
+      "answers": [
+        "Melba Toast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_25",
+      "title": "Who invented the correction fluid known as Liquid Paper?",
+      "answers": [
+        "Bette Nesmith Graham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_26",
+      "title": "What color is the square that's the logo for H&R Block?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_27",
+      "title": "Which chip had a bandito as its mascot in the late 1960's?",
+      "answers": [
+        "Fritos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_28",
+      "title": "What is the largest Starbucks beverage size?",
+      "answers": [
+        "Trenta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_29",
+      "title": "What is the Canadian dollar coin called?",
+      "answers": [
+        "Loonie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_30",
+      "title": "What are the two main ingredients of mayonnaise?",
+      "answers": [
+        "Oil and egg yolk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_31",
+      "title": "Which University did Bill Gates drop out of to start his own company?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_32",
+      "title": "What word describes \"a series of rulers from the same family\"?",
+      "answers": [
+        "Dynasty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_33",
+      "title": "Who started the first commercial pretzel bakery in the US?",
+      "answers": [
+        "Julius Sturgis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_34",
+      "title": "How many skittles are used in ‘table skittles’?",
+      "answers": [
+        "9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_35",
+      "title": "What is the Christmas Carol \"O Christmas Tree\" known as in German?",
+      "answers": [
+        "O Tannenbaum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_36",
+      "title": "Chicago banned the sale of what gourmet food staple in 2006?",
+      "answers": [
+        "Foie gras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_37",
+      "title": "Which US first lady founded a center for the treatment of addictions?",
+      "answers": [
+        "Betty Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_38",
+      "title": "Who earned the moniker \"Lady Lindy\"?",
+      "answers": [
+        "Amelia Earhart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_39",
+      "title": "Assam, darjeeling and oolong are all types of what?",
+      "answers": [
+        "Tea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_40",
+      "title": "What day is hump day?",
+      "answers": [
+        "Wednesday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_41",
+      "title": "In the game of poker, who was the hand referred to as \"dead man's hand\" named after?",
+      "answers": [
+        "Wild Bill Hickok"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_42",
+      "title": "What Chinese-born architect designed the Rock and Roll Hall of Fame?",
+      "answers": [
+        "I. M. Pei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_43",
+      "title": "What was Bill Gates' nickname while growing up?",
+      "answers": [
+        "Trey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_44",
+      "title": "What product changed its original name in the US from the \"Soundabout\"?",
+      "answers": [
+        "Sony's Walkman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_45",
+      "title": "What was the nickname of Alcatraz Prison?",
+      "answers": [
+        "The Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_46",
+      "title": "How is Barbara Millicent Roberts better known as?",
+      "answers": [
+        "Barbie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_47",
+      "title": "In what decade was Montreal Canadien great Maurice \"Rocket\" Richard born?",
+      "answers": [
+        "1920s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_48",
+      "title": "Tony Drago is a snooker professional from which country?",
+      "answers": [
+        "Malta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_49",
+      "title": "Why was Mary Mallon famous in the early 1900s for her signature dessert of peaches and ice cream?",
+      "answers": [
+        "It gave people typhus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_62_50",
+      "title": "What Olympic field event's two main styles are the glide and the spin?",
+      "answers": [
+        "Shot put's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

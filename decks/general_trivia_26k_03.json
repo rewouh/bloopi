@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_03",
+  "name": "General Trivia 26K 03",
+  "description": "General 101 - 150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_03_01",
+      "title": "What food group is a cucumber technically in?",
+      "answers": [
+        "Fruits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_02",
+      "title": "Who was the first thoroughbred horse to win one million dollars?",
+      "answers": [
+        "Citation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_03",
+      "title": "What do you get when you add fresh fruit to red wine?",
+      "answers": [
+        "Sangria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_04",
+      "title": "In Alaska, it’s legal to shoot bears, but illegal to do what to one?",
+      "answers": [
+        "Wake one up"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_05",
+      "title": "Speed Skating originated in which part of the world?",
+      "answers": [
+        "Scandinavia and Northern Europe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_06",
+      "title": "What company's slogan is \"Just Slightly Ahead of Our Time\"?",
+      "answers": [
+        "Panasonic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_07",
+      "title": "What are the holes in Swiss cheese called?",
+      "answers": [
+        "Eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_08",
+      "title": "Spotted dick is a traditional British confection of boiled suet pudding with what?",
+      "answers": [
+        "Raisins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_09",
+      "title": "What spiced wine is traditionally consumed during the winter months, and especially around Christmas?",
+      "answers": [
+        "Mulled wine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_10",
+      "title": "What style of pants is named after an island in the Gulf of Naples?",
+      "answers": [
+        "Capri pants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_11",
+      "title": "What fruit oil is added to tea to create Earl Grey tea?",
+      "answers": [
+        "Bergamot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_12",
+      "title": "What do phillumenists collect?",
+      "answers": [
+        "Matchboxes and match-related items"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_13",
+      "title": "In what year did Jimmy Buffett open his first Margaritaville restaurant?",
+      "answers": [
+        "1985"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_14",
+      "title": "What city's Hotel Adlon was the site of Michael Jackson's 2002 baby dangling?",
+      "answers": [
+        "Berlin's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_15",
+      "title": "The Luxor Hotel & Casino in Las Vegas was built in what unusual shape?",
+      "answers": [
+        "A pyramid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_16",
+      "title": "Floating wreckage of a ship is called a what?",
+      "answers": [
+        "Flotsam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_17",
+      "title": "Ash Wednesday marks the first day of what?",
+      "answers": [
+        "Lent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_18",
+      "title": "Sergey Bubka has set a world record in which field event over 30 times?",
+      "answers": [
+        "Pole Vault"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_19",
+      "title": "What familiar product is Rich Uncle Pennybags the mascot for?",
+      "answers": [
+        "Monopoly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_20",
+      "title": "What US state includes the telephone area code 608?",
+      "answers": [
+        "Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_21",
+      "title": "Curacao is traditionally made with what dried peel?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_22",
+      "title": "How many furlongs are there in a mile?",
+      "answers": [
+        "8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_23",
+      "title": "In British English, what is the two-initial term for a resume?",
+      "answers": [
+        "CV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_24",
+      "title": "What mass market tea brand shares a name with an English brewery?",
+      "answers": [
+        "Tetley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_25",
+      "title": "What is the name of the dog mascot on the front of the Crackerjack box?",
+      "answers": [
+        "Bingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_26",
+      "title": "What was the original brand of cereal whose mascot was CinnaMon?",
+      "answers": [
+        "Apple Jacks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_27",
+      "title": "The cobnut is the fruit of what tree?",
+      "answers": [
+        "Hazel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_28",
+      "title": "In the game of chess, which piece has the most freedom to move?",
+      "answers": [
+        "The queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_29",
+      "title": "Traditionally, what sign of the zodiac is ruled by Pluto?",
+      "answers": [
+        "Scorpio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_30",
+      "title": "What former country was tennis player Martina Hingis born in?",
+      "answers": [
+        "Czechoslovakia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_31",
+      "title": "Which city is home to Colman's mustard?",
+      "answers": [
+        "Norwich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_32",
+      "title": "What publication makes weather predictions based on a secret formula developed in 1792?",
+      "answers": [
+        "The Old Farmer's Almanac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_33",
+      "title": "In which country is Stilton cheese produced?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_34",
+      "title": "What is the name for the process of electing a Pope?",
+      "answers": [
+        "Conclave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_35",
+      "title": "How many swimmers are in a medley relay team?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_36",
+      "title": "How is Prince Phillip related to the last Empress of Russia, Alexandra?",
+      "answers": [
+        "Grand Nephew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_37",
+      "title": "By what name is Mardi Gras known in Britain?",
+      "answers": [
+        "Shrove Tuesday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_38",
+      "title": "In which US state is it illegial to eat an orange in a bathtub?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_39",
+      "title": "The average person has over 1,460 of what each year?",
+      "answers": [
+        "Dreams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_40",
+      "title": "What color is the one-ball in a traditional billiards set?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_41",
+      "title": "Kainolophobia is the fear of what?",
+      "answers": [
+        "Novelty, or new"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_42",
+      "title": "A group of sharks is called what?",
+      "answers": [
+        "A Shiver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_43",
+      "title": "What is added to cognac to make a Stinger cocktail?",
+      "answers": [
+        "White creme de menthe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_44",
+      "title": "Who's responsible for \"The Ballad of A Thin Man\"?",
+      "answers": [
+        "Bob Dylan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_45",
+      "title": "How many letters are there in the German alphabet?",
+      "answers": [
+        "30"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_46",
+      "title": "What cocktail is considered the official cocktail of New Orleans?",
+      "answers": [
+        "Sazerac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_47",
+      "title": "What prominent facial feature is Hello Kitty missing?",
+      "answers": [
+        "Mouth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_48",
+      "title": "The Halloween practice of an individual's pocket that has been turned inside out and left to dangle, is aimed at protecting the individual from which hungry creatures?",
+      "answers": [
+        "Owls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_49",
+      "title": "Which car manufacturer was the first to include seat belts as a standard feature in their vehicles?",
+      "answers": [
+        "Saab"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_03_50",
+      "title": "In the world of sports, what does the abbreviation NCAA stand for?",
+      "answers": [
+        "National Collegiate Athletic Association"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

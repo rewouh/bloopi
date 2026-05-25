@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_85",
+  "name": "General Trivia 26K 85",
+  "description": "General 4201 - 4250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_85_01",
+      "title": "What's the name of the punctuation that combines a question mark and an exclamation point?",
+      "answers": [
+        "Interrobang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_02",
+      "title": "Mead is made primarily from what?",
+      "answers": [
+        "Honey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_03",
+      "title": "What is the nickname for Purdue's sports teams?",
+      "answers": [
+        "Boilermakers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_04",
+      "title": "How many fielding positions are there in baseball?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_05",
+      "title": "What is the next-to-last event?",
+      "answers": [
+        "Penultimate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_06",
+      "title": "What is the longest event at the Olympics?",
+      "answers": [
+        "Race walk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_07",
+      "title": "What underdog knocked out Mike Tyson in Tokyo in 1990?",
+      "answers": [
+        "Buster Douglas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_08",
+      "title": "What is the thin layer of foam appearing on top of an espresso called?",
+      "answers": [
+        "Crema"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_09",
+      "title": "What is the thin layer of foam on top of an espresso called?",
+      "answers": [
+        "Crema"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_10",
+      "title": "What term was coined in 1983 to market the \"Gavilan SC\" portable computer?",
+      "answers": [
+        "Laptop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_11",
+      "title": "Founded in 1924, what department store’s name includes the street of its original New York City address?",
+      "answers": [
+        "Saks Fifth Avenue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_12",
+      "title": "On May 1, 1991, Nolan Ryan threw his seventh and final no-hitter against which Major League team?",
+      "answers": [
+        "The Toronto Blue Jays"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_13",
+      "title": "What sport did George Bush Sr. play at Yale University?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_14",
+      "title": "Which pasta is shaped like a bicycle?",
+      "answers": [
+        "Biciclette"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_15",
+      "title": "What gaming company originally publish the games \"Bejeweled\" and \"Peggle\"?",
+      "answers": [
+        "PopCap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_16",
+      "title": "The zodiac sign \"Aries\" refers to what animal?",
+      "answers": [
+        "The ram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_17",
+      "title": "In what year was Howard Hughes born?",
+      "answers": [
+        "1905"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_18",
+      "title": "Who was knocked out in 1974 by the \"rope-a-dope\" method?",
+      "answers": [
+        "George Forman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_19",
+      "title": "Professional tennis player, Rafael Nadal, is of what nationality?",
+      "answers": [
+        "Spanish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_20",
+      "title": "How many players are there in a standard American football team?",
+      "answers": [
+        "Eleven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_21",
+      "title": "A \"beaver\" was an attachment to what piece of human armor?",
+      "answers": [
+        "Helmet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_22",
+      "title": "When Dwayne Wade briefly left the Miami Heat starting in 2016, which NBA team did he sign with?",
+      "answers": [
+        "Chicago Bulls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_23",
+      "title": "What is the only alcoholic drink one can buy in the dry Moore county in Tennessee?",
+      "answers": [
+        "Jack Daniel's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_24",
+      "title": "What was the number of Intel's first commercially available microprocessor?",
+      "answers": [
+        "4004"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_25",
+      "title": "What country does motor racing legend Gilles Villeneuve come from?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_26",
+      "title": "What name was adopted by boxing champion Cassius Marcellus Clay Jr.?",
+      "answers": [
+        "Muhammad Ali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_27",
+      "title": "Small, tiny gifts found in the Christmas stockings are usually referred to as what?",
+      "answers": [
+        "Stocking stuffers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_28",
+      "title": "What phone did Android co-creator Andy Rubin, design and unveil in May, 2017?",
+      "answers": [
+        "The Essential Phone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_29",
+      "title": "What is the name given to the Cricketer's Year book, where all cricketing laws and scores are reported?",
+      "answers": [
+        "Wisdens Almanac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_30",
+      "title": "On what day would you celebrate All Saints Day?",
+      "answers": [
+        "November 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_31",
+      "title": "What is Cinnamon Toast Crunch cereal called in the United Kingdom?",
+      "answers": [
+        "Curiously Cinnamon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_32",
+      "title": "What does 3 dots, 3 dashes, 3 dots mean in Morse Code?",
+      "answers": [
+        "SOS"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_33",
+      "title": "What fashion brand was founded by artist Gwen Stefani?",
+      "answers": [
+        "L.A.M.B."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_34",
+      "title": "Which gaming platform was the first to feature downloadable games?",
+      "answers": [
+        "Intellivision"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_35",
+      "title": "What was Hugh Hefner’s jet plane named?",
+      "answers": [
+        "Big bunny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_36",
+      "title": "Tennis player Margaret Smith Court who holds a record 62 Grand Slam titles is from which country?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_37",
+      "title": "Where were U.S. coins with an \"O\" on them minted?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_38",
+      "title": "The Hall of Mirrors is the largest room in what famous structure?",
+      "answers": [
+        "Palace of Versailles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_39",
+      "title": "What South African golfer is nicknamed \"The Big Easy\"?",
+      "answers": [
+        "Ernie Els"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_40",
+      "title": "What Kellogg's product was introduced to compete with Post's unsuccessful \"Country Squares\"?",
+      "answers": [
+        "Pop-Tarts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_41",
+      "title": "How many on-field players are there in a standard Australian rules football team?",
+      "answers": [
+        "Eighteen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_42",
+      "title": "What US state has the highest number of electoral votes?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_43",
+      "title": "What do the letters LG stand for in the name of the international electronics and chemical brand LG?",
+      "answers": [
+        "Lucky-Goldstar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_44",
+      "title": "What is Wales' national dish called?",
+      "answers": [
+        "Cawl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_45",
+      "title": "What car company advertised \"Drivers wanted\"?",
+      "answers": [
+        "Volkswagen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_46",
+      "title": "How much does it cost to buy a railroad in the standard game of Monopoly?",
+      "answers": [
+        "$200"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_47",
+      "title": "What is the fear of beards called?",
+      "answers": [
+        "Pogonophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_48",
+      "title": "What restaurant chain was the brainchild of Atari founder Nolan Bushnell?",
+      "answers": [
+        "Chuck E. Cheese's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_49",
+      "title": "When do Americans celebrate Thanksgiving?",
+      "answers": [
+        "Fourth Thursday in November"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_85_50",
+      "title": "What is best described as leakage out of a material or structure?",
+      "answers": [
+        "Exfiltration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

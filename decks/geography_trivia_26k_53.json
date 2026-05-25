@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_53",
+  "name": "Geography Trivia 26K 53",
+  "description": "Geography 2601 - 2650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_53_01",
+      "title": "What year did Mauritius gain its independence from Britain?",
+      "answers": [
+        "1968"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_02",
+      "title": "In which sea is the island country of Malta?",
+      "answers": [
+        "Mediterranean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_03",
+      "title": "What city is home to the headquarters of the Boeing Company?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_04",
+      "title": "Which US state, now the second largest state, was once an independent republic?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_05",
+      "title": "What is Hungary's capital?",
+      "answers": [
+        "Budapest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_06",
+      "title": "Where is the Darjeeling tea grown?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_07",
+      "title": "What two countries edge the Victoria Falls?",
+      "answers": [
+        "Zimbabwe and Zambia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_08",
+      "title": "In which U.S. state can you find the \"City of rocks\"?",
+      "answers": [
+        "Idaho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_09",
+      "title": "What is the capital of Lesotho?",
+      "answers": [
+        "Maseru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_10",
+      "title": "Which country has the largest territorial claim in Antarctica?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_11",
+      "title": "Which city has the world’s largest network of aerial cable cars?",
+      "answers": [
+        "La Paz, Bolivia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_12",
+      "title": "In what country is the Waterloo battlefield?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_13",
+      "title": "Which city is the capital of Tuscany?",
+      "answers": [
+        "Florence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_14",
+      "title": "Tirana is the capital of what country?",
+      "answers": [
+        "Albania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_15",
+      "title": "What is the capital of Trinidad and Tobago?",
+      "answers": [
+        "Port of Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_16",
+      "title": "Which major European city has zero stop signs?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_17",
+      "title": "In what country would you see \"whirling dervishes\"?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_18",
+      "title": "In which US state is the Grand Coulee Dam?",
+      "answers": [
+        "Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_19",
+      "title": "Where is the Whistler Ski Resort located?",
+      "answers": [
+        "British Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_20",
+      "title": "Which port city was the first capital of Pakistan?",
+      "answers": [
+        "Karachi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_21",
+      "title": "The Sonoran Desert is located in California and which other state?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_22",
+      "title": "Where can you find the world's largest naturally frozen ice rink?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_23",
+      "title": "The majority of the Sierra Nevada Mountains are located in which state?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_24",
+      "title": "In what city would you find the most famous street named \"Nevsky Prospekt\"?",
+      "answers": [
+        "St. Petersburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_25",
+      "title": "What US state includes the telephone area code 505?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_26",
+      "title": "In what country is the town of Liege?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_27",
+      "title": "What is the state motto for the U.S. state Texas?",
+      "answers": [
+        "\"Friendship\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_28",
+      "title": "Where is Valentine's Day celebrated by having women give men chocolate?",
+      "answers": [
+        "Japan and South Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_29",
+      "title": "In what time zone is Oklahoma located?",
+      "answers": [
+        "Central Time Zone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_30",
+      "title": "Which bird is the national bird of Ecuador?",
+      "answers": [
+        "Andean condor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_31",
+      "title": "What is the capital of the US state of Iowa?",
+      "answers": [
+        "Des Moines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_32",
+      "title": "The Yalu River separates China from which country?",
+      "answers": [
+        "North Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_33",
+      "title": "What is the world's largest country?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_34",
+      "title": "Which US state has the most national parks?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_35",
+      "title": "What continent is Sao Tome and Principe located in?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_36",
+      "title": "Which desert is the driest on earth?",
+      "answers": [
+        "Atacama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_37",
+      "title": "Which European country is stereotypically associated with tulips, windmills and clogs?",
+      "answers": [
+        "Holland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_38",
+      "title": "What part of Russia is surrounded by Lithuania and Poland?",
+      "answers": [
+        "Kaliningrad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_39",
+      "title": "From what country did the US buy the Virgin Islands?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_40",
+      "title": "The country Comoros is part of which continent?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_41",
+      "title": "Approximately, how many feet above the sea level is Machi Picchu located at?",
+      "answers": [
+        "8,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_42",
+      "title": "What city is Sugarloaf Mountain located in?",
+      "answers": [
+        "Rio de Janeiro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_43",
+      "title": "What is the capital of the United States Virgin Islands?",
+      "answers": [
+        "Charlotte Amalie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_44",
+      "title": "What was Cape Kennedy renamed to in 1973?",
+      "answers": [
+        "Cape Canaveral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_45",
+      "title": "Which is the largest of the Canary Islands?",
+      "answers": [
+        "Tenerife"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_46",
+      "title": "What country do the Galapagos Islands belong to?",
+      "answers": [
+        "Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_47",
+      "title": "What bird is associated with Lundy Island?",
+      "answers": [
+        "Puffin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_48",
+      "title": "Which state has the nickname \"The Palmetto State\"?",
+      "answers": [
+        "South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_49",
+      "title": "Which US state is nicknamed the \"Old Dominion\" state?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_53_50",
+      "title": "What is the largest Japanese island?",
+      "answers": [
+        "Honshu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

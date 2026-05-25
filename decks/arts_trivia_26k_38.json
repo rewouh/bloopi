@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_38",
+  "name": "Arts Trivia 26K 38",
+  "description": "Arts 1851 - 1900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_38_01",
+      "title": "Who wrote the 1896 novel \"The Island of Doctor Moreau\"?",
+      "answers": [
+        "H. G. Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_02",
+      "title": "What is the dot in the \"i\" called?",
+      "answers": [
+        "A tittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_03",
+      "title": "Whose sidekick was named Woozy Winks?",
+      "answers": [
+        "Plastic Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_04",
+      "title": "In the Bible, whose vineyard did King Ahab wish to acquire?",
+      "answers": [
+        "Naboth's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_05",
+      "title": "Which US city was author J. D .Salinger born in?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_06",
+      "title": "In Greek mythology, what were Medusa, Stheno and Euryale collectively known as?",
+      "answers": [
+        "The Gorgons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_07",
+      "title": "Who painted \"Irises\"?",
+      "answers": [
+        "Vincent van Gogh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_08",
+      "title": "By what name is \"One Thousand and One Nights\" better known as in the English language?",
+      "answers": [
+        "Arabian Nights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_09",
+      "title": "What children's classic first chapter is titled \"Up the Mountain to Alm-Uncle\"?",
+      "answers": [
+        "Heidi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_10",
+      "title": "How did Herman Melville open the novel \"Moby Dick\"?",
+      "answers": [
+        "\"Call me Ishmael.\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_11",
+      "title": "In \"Alice in Wonderland\", what is the last thing that disappears on the Cheshire Cat?",
+      "answers": [
+        "Its smile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_12",
+      "title": "What literary character's parents were murdered in Godric's Hollow?",
+      "answers": [
+        "Harry Potter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_13",
+      "title": "What is the author of \"The Bonesetter's Daughter\", \"The Joy Luck Club\", and \"Sagwa, the Chinese Siamese Cat\"?",
+      "answers": [
+        "Amy Tan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_14",
+      "title": "What is Scout's real first name in \"To Kill a Mockingbird\"?",
+      "answers": [
+        "Jean Louise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_15",
+      "title": "What is the occupation of \"Fahrenheit 451\" protagonist Guy Montag?",
+      "answers": [
+        "Fireman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_16",
+      "title": "What are the four famous last words of the book \"1984\"?",
+      "answers": [
+        "He loved Big Brother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_17",
+      "title": "What game does the Queen of Hearts order Alice to play?",
+      "answers": [
+        "Croquet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_18",
+      "title": "What American author created the characters of Rip Van Winkle and Ichabod Crane?",
+      "answers": [
+        "Washington Irving"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_19",
+      "title": "What is Mr. Sowerberry's job in Oliver Twist?",
+      "answers": [
+        "Undertaker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_20",
+      "title": "Who wrote the lyrics of the Christmas carol \"Silent Night\"?",
+      "answers": [
+        "Joseph Mohr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_21",
+      "title": "What year did the Chew comics series debut?",
+      "answers": [
+        "2009"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_22",
+      "title": "What literary work inspired Bruce Springsteen's \"The Ghost of Tom Joad\" song?",
+      "answers": [
+        "The Grapes of Wrath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_23",
+      "title": "Which items are melting in Salvador Dali's painting \"The Persistence of Memory\"?",
+      "answers": [
+        "Watches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_24",
+      "title": "What fairy tale character has two ugly stepsister?",
+      "answers": [
+        "Cinderella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_25",
+      "title": "What literary character is adopted by Messua and her husband who believe him to be their long-lost sibling?",
+      "answers": [
+        "Mowgli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_26",
+      "title": "Richard Bachman is a pen name used by which American author?",
+      "answers": [
+        "Steven King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_27",
+      "title": "Who was the son of Zeus and Maia?",
+      "answers": [
+        "Hermes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_28",
+      "title": "What is the title of Salvador Dali's iconic painting of melting clocks?",
+      "answers": [
+        "The Persistence of Memory"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_29",
+      "title": "Who is the author of the Discworld series?",
+      "answers": [
+        "Terry Pratchett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_30",
+      "title": "In Greek mythology, who are goddess Demeter's parents?",
+      "answers": [
+        "Cronus and Rhea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_31",
+      "title": "Sakhmet was the Egyptian god of what?",
+      "answers": [
+        "War and healing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_32",
+      "title": "According to the Bible, who requested the head of John the Baptist on a silver platter?",
+      "answers": [
+        "Herodias"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_33",
+      "title": "What color spot led to the death of Billy Bones in \"Treasure Island\"?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_34",
+      "title": "Puccini's \"Tosca\" is based on which 1887 Victorien Sardou play?",
+      "answers": [
+        "La Tosca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_35",
+      "title": "How many gifts would you have if you received all the gifts from the song \"The Twelve Days of Christmas\"?",
+      "answers": [
+        "364"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_36",
+      "title": "Handel's \"Largo\" comes from which opera?",
+      "answers": [
+        "Xerxes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_37",
+      "title": "Who was the Roman god of the sea?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_38",
+      "title": "What classic novel's subtitle is \"The Parish Boy's Progress\"?",
+      "answers": [
+        "Oliver Twist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_39",
+      "title": "In Greek mythology, who was the hunter who was torn apart by Artemis' dogs?",
+      "answers": [
+        "Actaeon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_40",
+      "title": "What author created the character of Adam Dalgliesh?",
+      "answers": [
+        "P. D. James"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_41",
+      "title": "It is considered bad luck to mention what Shakespeare play by name while inside a theater?",
+      "answers": [
+        "MacBeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_42",
+      "title": "Who was the Roman goddess of hunting?",
+      "answers": [
+        "Diana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_43",
+      "title": "What drug is everyone encouraged to take in the novel \"A Brave New World\"?",
+      "answers": [
+        "Soma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_44",
+      "title": "What was the pen name of author Theodore Geisel?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_45",
+      "title": "What is the name of the dog from the story \"How the Grinch Stole Christmas\"?",
+      "answers": [
+        "Max"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_46",
+      "title": "Which Stephen King novel is set at the \"Overlook Hotel\"?",
+      "answers": [
+        "The Shining"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_47",
+      "title": "Whose autobiography's main title is \"True\"?",
+      "answers": [
+        "Martin Kemp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_48",
+      "title": "What year did the first \"Where's Waldo?\" illustrated book hit the shelves?",
+      "answers": [
+        "1987"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_49",
+      "title": "What Grimm's fairy-tale character is named for a vegetable craved by her pregnant mother?",
+      "answers": [
+        "Rapunzel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_38_50",
+      "title": "Whose first book was the 2006 memoir \"Peace Mom\"?",
+      "answers": [
+        "Cindy Sheehan's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

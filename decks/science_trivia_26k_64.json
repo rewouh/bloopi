@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_64",
+  "name": "Science Trivia 26K 64",
+  "description": "Science 3151 - 3200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_64_01",
+      "title": "Moonack is a other name for what animal?",
+      "answers": [
+        "Groundhog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_02",
+      "title": "In the human body where is your occiput?",
+      "answers": [
+        "Back of the head"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_03",
+      "title": "What is short for \"light amplification by stimulated emission of radiation\"?",
+      "answers": [
+        "Laser"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_04",
+      "title": "Who first calculated Pi?",
+      "answers": [
+        "Archimedes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_05",
+      "title": "Which types of genetic traits can skip a generation?",
+      "answers": [
+        "Recessive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_06",
+      "title": "In 2012, what new molecule was discovered by a 10-year old in science class?",
+      "answers": [
+        "Tetranitratoxycarbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_07",
+      "title": "Where on the human body is the zygomatic bone found?",
+      "answers": [
+        "Facial cheek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_08",
+      "title": "What year was the planet Neptune first discovered?",
+      "answers": [
+        "1846"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_09",
+      "title": "What Chicago museum features the world's largest Tyrannosaurus Rex skeleton?",
+      "answers": [
+        "The Field Museum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_10",
+      "title": "What part of the body does a Rhinologist specialize in?",
+      "answers": [
+        "The nose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_11",
+      "title": "In what part of the human body would you find the fissure of Rolando?",
+      "answers": [
+        "Brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_12",
+      "title": "The ore bauxite is the chief commercial source of which element?",
+      "answers": [
+        "Aluminium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_13",
+      "title": "What are female elephants called?",
+      "answers": [
+        "Cows"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_14",
+      "title": "Deuteranopia is one of the most common varieties of what condition?",
+      "answers": [
+        "Color Blindness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_15",
+      "title": "What year was inventor Alexander Graham Bell born in?",
+      "answers": [
+        "1847"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_16",
+      "title": "What two planets in our solar system have no moons?",
+      "answers": [
+        "Mercury and Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_17",
+      "title": "What color is a polar bear's skin?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_18",
+      "title": "Blue, Pinyon, and Steller's are species of what bird?",
+      "answers": [
+        "Jay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_19",
+      "title": "On average, how long does a mouse live in the wild?",
+      "answers": [
+        "Six months"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_20",
+      "title": "What organ filters blood and helps regulate salt and water levels?",
+      "answers": [
+        "Kidney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_21",
+      "title": "Which land mammal has the most teeth?",
+      "answers": [
+        "Giant armadillo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_22",
+      "title": "What is the liquid component of blood called?",
+      "answers": [
+        "Plasma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_23",
+      "title": "How would the number 10 be expressed in binary notation?",
+      "answers": [
+        "1010"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_24",
+      "title": "What is the standard unit of kinetic energy?",
+      "answers": [
+        "Joule"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_25",
+      "title": "A Capuchin is a species of what type of animal?",
+      "answers": [
+        "Monkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_26",
+      "title": "Who is credited with the discovery of Neptune's moon, Triton?",
+      "answers": [
+        "William Lassell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_27",
+      "title": "What is suspended from the ceiling of the American Natural History Museum?",
+      "answers": [
+        "Blue whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_28",
+      "title": "What are the lakes of Titan made of?",
+      "answers": [
+        "Methane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_29",
+      "title": "In vertebrates, what name is given to any muscle with three heads?",
+      "answers": [
+        "Triceps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_30",
+      "title": "What is a male donkey called?",
+      "answers": [
+        "A jack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_31",
+      "title": "What is the name given to the white part of a person's eye?",
+      "answers": [
+        "Sclera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_32",
+      "title": "Limnology is the study of what?",
+      "answers": [
+        "Inland waters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_33",
+      "title": "What is another name for the vitamin B1?",
+      "answers": [
+        "Thiamine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_34",
+      "title": "What is the only marsupial found in the U.S. and Canada?",
+      "answers": [
+        "Opossum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_35",
+      "title": "What plant makes up most of the koala's diet?",
+      "answers": [
+        "Eucalyptus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_36",
+      "title": "The process of water changing to vapor is known as what?",
+      "answers": [
+        "Evaporation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_37",
+      "title": "What does the Bark scale measure?",
+      "answers": [
+        "Perceived loudness of sounds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_38",
+      "title": "According to Sigmund Freud, what is the instinctual and primitive part of the psyche?",
+      "answers": [
+        "Id"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_39",
+      "title": "What animal is sometimes also called the \"glutton\"?",
+      "answers": [
+        "The wolverine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_40",
+      "title": "What is a group of Vipers called?",
+      "answers": [
+        "Nest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_41",
+      "title": "Almonds are members of what family?",
+      "answers": [
+        "Rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_42",
+      "title": "What is the five-letter name for a young dog?",
+      "answers": [
+        "Whelp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_43",
+      "title": "Sapphires are typically what color?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_44",
+      "title": "Calypso, cattleya and laelia are types of which flowering plant?",
+      "answers": [
+        "Orchid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_45",
+      "title": "What is a league?",
+      "answers": [
+        "A unit of length"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_46",
+      "title": "What is a group of hyenas called?",
+      "answers": [
+        "A cackle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_47",
+      "title": "What energy unit is defined as the heat required to raise one gram of water by one degree Celsius?",
+      "answers": [
+        "Calorie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_48",
+      "title": "What is 37 degrees Celsius in Fahrenheit?",
+      "answers": [
+        "98.6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_49",
+      "title": "What is the most prominent crater on the Moon?",
+      "answers": [
+        "Tycho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_64_50",
+      "title": "The \"Oort Cloud\" is made up of what?",
+      "answers": [
+        "Comets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

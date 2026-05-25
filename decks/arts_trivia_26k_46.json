@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_46",
+  "name": "Arts Trivia 26K 46",
+  "description": "Arts 2251 - 2300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_46_01",
+      "title": "What is the subtitle of the classic novel \"Uncle Tom's Cabin\"?",
+      "answers": [
+        "Life Among the Lowly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_02",
+      "title": "What literary work inspired Nirvana's \"Scentless Apprentice\" song?",
+      "answers": [
+        "Perfume"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_03",
+      "title": "What does Peppermint Patty always call Charlie Brown in the \"Peanuts\" cartoon strip?",
+      "answers": [
+        "Chuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_04",
+      "title": "What author created the land of Alagaësia?",
+      "answers": [
+        "Christopher Paolini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_05",
+      "title": "What was the name of Bilbo and Frodo Baggins' hobbit hole?",
+      "answers": [
+        "Bag End"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_06",
+      "title": "Who wrote the novels \"The Joy Luck Club\" and \"The Kitchen God's Wife\"?",
+      "answers": [
+        "Amy Tan's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_07",
+      "title": "What artist painted himself sketching on the far right edge of his painting \"The Gross Clinic\"?",
+      "answers": [
+        "Thomas Eakins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_08",
+      "title": "What king was murdered by Macbeth?",
+      "answers": [
+        "King Duncan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_09",
+      "title": "Who created the comic book character Wonder Woman?",
+      "answers": [
+        "William Moulton Marston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_10",
+      "title": "What type of animal is Shere Khan, the villain of \"The Jungle Book\"?",
+      "answers": [
+        "Bengal tiger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_11",
+      "title": "Who wrote \"Born Free\", \"Living Free\" and \"Forever Free\"?",
+      "answers": [
+        "Joy Adamson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_12",
+      "title": "Who is the Roman equivalent of the Greek god Apollo?",
+      "answers": [
+        "Apollo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_13",
+      "title": "What is the name of the young adult series featuring Katniss Everdeen?",
+      "answers": [
+        "\"The Hunger Games\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_14",
+      "title": "What was the name of Odysseus’ dog?",
+      "answers": [
+        "Argos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_15",
+      "title": "The novel \"War & Peace\" takes place during what Era?",
+      "answers": [
+        "Napoleonic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_16",
+      "title": "What is James Bond's preferred type of martini?",
+      "answers": [
+        "Vesper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_17",
+      "title": "Which author first became famous under the pseudonym Norman Bean?",
+      "answers": [
+        "Edgar Rice Burroughs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_18",
+      "title": "What actress originated the role of Mame in the musical \"Mame\"?",
+      "answers": [
+        "Angela Lansbury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_19",
+      "title": "On what planet did the bottle city of Kandor originate?",
+      "answers": [
+        "Krypton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_20",
+      "title": "Who was the son of Saturn and Ops, and the husband of Juno?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_21",
+      "title": "Which American author wrote the novel \"The Color Purple\"?",
+      "answers": [
+        "Alice Walker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_22",
+      "title": "Which 1996 novel by Nicholas Sparks begins with an old man called Noah Calhoun reading to a woman in a nursing home?",
+      "answers": [
+        "\"The Notebook\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_23",
+      "title": "What Harvard-educated guitarist is best known for his work with the bands Lock Up and Rage Against the Machine?",
+      "answers": [
+        "Tom Morello"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_24",
+      "title": "What does the comic book character Perry White do for a living?",
+      "answers": [
+        "Newspaper Editor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_25",
+      "title": "Who painted \"Madonna of the Rosary\", in which St. Dominic has been given a rosary by \"the Virgin\"?",
+      "answers": [
+        "Caravaggio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_26",
+      "title": "What creatures in \"The Lord of the Rings\" are referred to as goblins in the book \"The Hobbit\"?",
+      "answers": [
+        "Orcs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_27",
+      "title": "Who was the author of the novel \"The Midwich Cuckoos\"?",
+      "answers": [
+        "John Wyndham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_28",
+      "title": "Who Created Lord Peter Wimsey?",
+      "answers": [
+        "Dorothy L. Sayers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_29",
+      "title": "Pax is the Roman god of what?",
+      "answers": [
+        "Peace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_30",
+      "title": "Who conducted the Philadelphia Orchestra and shook hands with Mickey Mouse in \"Fantasia\"?",
+      "answers": [
+        "Leopold Stokowski"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_31",
+      "title": "What was the name of the three-headed god that guarded the gates to Hades?",
+      "answers": [
+        "Cerebus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_32",
+      "title": "Where do fallen Norse warriors go?",
+      "answers": [
+        "Valhalla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_33",
+      "title": "Who wrote the 1912 novel \"The Lost World\"?",
+      "answers": [
+        "Sir Arthur Conan Doyle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_34",
+      "title": "What year did Gary K. Wolf publish the novel \"Who Censored Roger Rabbit?\"?",
+      "answers": [
+        "1981"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_35",
+      "title": "The character Uriah Heep appeared in which Charles Dickens novel?",
+      "answers": [
+        "David Copperfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_36",
+      "title": "What nationality was musician and composer James Last?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_37",
+      "title": "The \"Tuesday Club Murders\" was a novel written by what mystery writer?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_38",
+      "title": "Which son of Hypnos was the god of dreams?",
+      "answers": [
+        "Morpheus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_39",
+      "title": "Which Old Testament prophet said \"Thou art the man\"?",
+      "answers": [
+        "Nathan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_40",
+      "title": "In Shakespeare's \"Romeo and Juliet\", what is Juliet's surname?",
+      "answers": [
+        "Capulet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_41",
+      "title": "Who is the Greek counterpart to Cupid?",
+      "answers": [
+        "Eros"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_42",
+      "title": "When is Cinderella required to leave the ball?",
+      "answers": [
+        "By midnight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_43",
+      "title": "What is Mark Twain's real name?",
+      "answers": [
+        "Samuel Langhorne Clemens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_44",
+      "title": "Who is the Greek equivalent of the Roman god Vesta?",
+      "answers": [
+        "Hestia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_45",
+      "title": "Who wrote the 1837 story \"The Little Mermaid\"?",
+      "answers": [
+        "Hans Christian Andersen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_46",
+      "title": "What mythological character did Zeus punish by having him hold up the heavens on his shoulders?",
+      "answers": [
+        "Atlas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_47",
+      "title": "How many ghosts appear to Scrooge in Dicken's \"A Christmas Carol\"?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_48",
+      "title": "From what language did English borrow the word \"ketchup\"?",
+      "answers": [
+        "Malay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_49",
+      "title": "The roof of Spain’s Dalí Theatre-Museum is lined with what?",
+      "answers": [
+        "Eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_46_50",
+      "title": "What James Joyce story collection begins with \"The Sisters\" and ends with \"The Dead\"?",
+      "answers": [
+        "Dubliners"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_41",
+  "name": "History Trivia 26K 41",
+  "description": "History 2001 - 2050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_41_01",
+      "title": "The Battle of Austerlitz took place during which war?",
+      "answers": [
+        "Napoleonic Wars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_02",
+      "title": "At which battle was poison gas first used?",
+      "answers": [
+        "Second Battle of Ypres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_03",
+      "title": "Who was the first U.S. senator to be elected president?",
+      "answers": [
+        "James Monroe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_04",
+      "title": "What European city was the first to have over one million residents?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_05",
+      "title": "What war saw the use of tanks in battle for first time?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_06",
+      "title": "What British Lord outlawed Christmas and, by extension, Santa, in 1647?",
+      "answers": [
+        "Lord Oliver Cromwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_07",
+      "title": "Who used hypnotism to treat the hemophilia of Tsarevich Alexei?",
+      "answers": [
+        "Rasputin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_08",
+      "title": "Which drug, later found to have devastating side effects, was launched in 1957 to help pregnant women overcome morning sickness?",
+      "answers": [
+        "Thalidomide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_09",
+      "title": "What year were the first modern-day Olympic Games held?",
+      "answers": [
+        "1896"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_10",
+      "title": "What was the largest battleship in World War II?",
+      "answers": [
+        "Yamato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_11",
+      "title": "When did the Jallianwahla Bagh massacre take place?",
+      "answers": [
+        "April 13, 1919"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_12",
+      "title": "How old was Joseph Merrick, also known as Elephant Man, when he died in 1890?",
+      "answers": [
+        "27"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_13",
+      "title": "Who was Walter Mondale’s Vice-­Presidential running mate in the 1984 US Presidential election?",
+      "answers": [
+        "Geraldine Ferraro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_14",
+      "title": "In 1978, what terrorist group kidnapped and murdered former Italian prime minister Aldo Moro?",
+      "answers": [
+        "Red Brigade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_15",
+      "title": "What nickname was given to General Thomas J. Jackson during the Civil War?",
+      "answers": [
+        "\"Stonewall\" Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_16",
+      "title": "What African region has been ravaged by militia called the Janjaweed?",
+      "answers": [
+        "Darfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_17",
+      "title": "What was the U.S. Hush Hush in World War II?",
+      "answers": [
+        "Admiral Nimitz's Jeep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_18",
+      "title": "The George M. Cohan song \"Over There\" was written as a rally cry during what war?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_19",
+      "title": "Who was Cesare Borgia's father?",
+      "answers": [
+        "Pope Alexander VI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_20",
+      "title": "What duo explored the Pacific Northwest during the early 1800s?",
+      "answers": [
+        "Lewis and Clark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_21",
+      "title": "Which of the contiguous US states was the last to be admitted to the Union?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_22",
+      "title": "Who claimed he could \"drive away the devil with a fart\"?",
+      "answers": [
+        "Martin Luther"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_23",
+      "title": "What military legend was nicknamed \"Light Horse Harry\"?",
+      "answers": [
+        "Henry Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_24",
+      "title": "What was World War I known as before World War II?",
+      "answers": [
+        "The Great War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_25",
+      "title": "The plane carrying what country’s national rugby team crashed on Friday, October 13, 1972?",
+      "answers": [
+        "Uruguay’s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_26",
+      "title": "What three words did George Bush say before \"no new taxes\" in 1988?",
+      "answers": [
+        "Read my lips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_27",
+      "title": "What was the Liberty Bell originally called?",
+      "answers": [
+        "The State House Bell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_28",
+      "title": "The Gold Rush of 1849 occurred in which US state?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_29",
+      "title": "In which decade was Greenpeace founded?",
+      "answers": [
+        "1970s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_30",
+      "title": "What Labrador retriever supplanted Socks the cat as the Clintons' favorite pet in 1997?",
+      "answers": [
+        "Buddy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_31",
+      "title": "Who said, \"Courage is what it takes to stand up and speak, it’s also what it takes to sit down and listen.\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_32",
+      "title": "Who was responsible for \"conducting\" the underground railroad rescuing slaves during the US Civil War?",
+      "answers": [
+        "Harriet Tubman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_33",
+      "title": "What was the name of the ship that brought news of the Battle of Trafalgar to Britain?",
+      "answers": [
+        "HMS Pickle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_34",
+      "title": "Which holiday did Canada Day replace in 1982?",
+      "answers": [
+        "Dominion Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_35",
+      "title": "Who found the long lost explorer David Livingston?",
+      "answers": [
+        "Henry Morton Stanley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_36",
+      "title": "In which decade was the Three Mile Island nuclear disaster?",
+      "answers": [
+        "1970s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_37",
+      "title": "Which British dandy introduced long trousers as conventional wear for men?",
+      "answers": [
+        "Beau Brummell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_38",
+      "title": "Who invented the cash register in 1879?",
+      "answers": [
+        "James Ritty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_39",
+      "title": "Who the first person to translate the complete bible into English?",
+      "answers": [
+        "Miles Coverdale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_40",
+      "title": "At which famous American battle was General Custer defeated by Sitting Bull?",
+      "answers": [
+        "Little Bighorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_41",
+      "title": "Which US state was the first to secede from the Union in 1860?",
+      "answers": [
+        "South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_42",
+      "title": "What New York City landmark is nicknamed \"The Crossroads of the World\"?",
+      "answers": [
+        "Times Square"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_43",
+      "title": "How old was the youngest American serviceman in World War II?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_44",
+      "title": "Who was the first woman to swim across the English Channel?",
+      "answers": [
+        "Gertrude Ederle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_45",
+      "title": "What city is the Lighthouse of Alexandria located in?",
+      "answers": [
+        "Pharos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_46",
+      "title": "What war lasted from June 25, 1950 to July 27, 1953?",
+      "answers": [
+        "Korean War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_47",
+      "title": "In which decade did the construction of the Trans-Siberian Railroad commence?",
+      "answers": [
+        "1890s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_48",
+      "title": "What nation was led by Peter the Great?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_49",
+      "title": "What WWII general was known as \"Old Blood and Guts\"?",
+      "answers": [
+        "Patton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_41_50",
+      "title": "What was added to the calendar on Dec. 31, 1990, to adjust for variations in the Earth's rotation?",
+      "answers": [
+        "A leap second"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

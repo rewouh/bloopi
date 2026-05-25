@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_17",
+  "name": "Geography Trivia 26K 17",
+  "description": "Geography 801 - 850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_17_01",
+      "title": "In what US state would you find Fort Bragg?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_02",
+      "title": "Approximately, how many times larger than Rhode Island is Texas?",
+      "answers": [
+        "257"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_03",
+      "title": "In what country did the domesticated \"potbellied pig\" originate?",
+      "answers": [
+        "Vietnam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_04",
+      "title": "What river separates the cities of Detroit and Windsor?",
+      "answers": [
+        "The Detroit River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_05",
+      "title": "What is the westernmost state in the US?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_06",
+      "title": "The Chocolate Mountains are located in what desert?",
+      "answers": [
+        "Sonoran Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_07",
+      "title": "What is the national flower of the United States?",
+      "answers": [
+        "Rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_08",
+      "title": "Which two countries have a longstanding dispute over the granite islet of Rockall?",
+      "answers": [
+        "Scotland and Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_09",
+      "title": "What country has the largest forest found within a city?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_10",
+      "title": "What is the modern day equivalent of Formosa?",
+      "answers": [
+        "Taiwan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_11",
+      "title": "Where would you find Olympus Mons?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_12",
+      "title": "What is the largest salt-water lake in the US?",
+      "answers": [
+        "Great Salt Lake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_13",
+      "title": "What is the world's largest lake crossed by the equator?",
+      "answers": [
+        "Lake Victoria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_14",
+      "title": "On which river is the Kariba Dam?",
+      "answers": [
+        "The Zambezi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_15",
+      "title": "What US state is nicknamed \"The Ocean State\"?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_16",
+      "title": "Which island was once named the \"Island of the Pelicans\"?",
+      "answers": [
+        "Alcatraz Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_17",
+      "title": "Which is the largest of the Caribbean islands?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_18",
+      "title": "What was the last capital of the Roman Empire?",
+      "answers": [
+        "Constantinople"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_19",
+      "title": "Which city has the biggest helicopter fleet in the world?",
+      "answers": [
+        "Sao Paulo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_20",
+      "title": "Which two Great Lakes are connected by the Straits of Mackinac?",
+      "answers": [
+        "Michigan and Huron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_21",
+      "title": "It was illegal for women to wear what in 19th century Florence?",
+      "answers": [
+        "Buttons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_22",
+      "title": "What city's name means \"Lion City\"?",
+      "answers": [
+        "Singapore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_23",
+      "title": "Which country was formerly known as East Pakistan?",
+      "answers": [
+        "Bangladesh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_24",
+      "title": "What is the capital of Western Samoa?",
+      "answers": [
+        "Apia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_25",
+      "title": "What African country calls itself the \"Land of a Thousand Hills\"?",
+      "answers": [
+        "Rwanda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_26",
+      "title": "Which nation established dominion over South Africa in 1902?",
+      "answers": [
+        "Great Britain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_27",
+      "title": "In which city is the C.N. Tower?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_28",
+      "title": "What is the capital of Iraq?",
+      "answers": [
+        "Baghdad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_29",
+      "title": "The Republic of Guinea-Bissau is located on which African coast?",
+      "answers": [
+        "Western coast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_30",
+      "title": "What does Texas’ original name mean?",
+      "answers": [
+        "Friends"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_31",
+      "title": "Which US state's name is derived from the Choctaw Indian word for \"red man\"?",
+      "answers": [
+        "Oklahoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_32",
+      "title": "What historic theater district is located in New York?",
+      "answers": [
+        "Broadway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_33",
+      "title": "On what day does Canada celebrate its birthday?",
+      "answers": [
+        "July 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_34",
+      "title": "Suriname is part of which continent?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_35",
+      "title": "What are the two official languages of Guam?",
+      "answers": [
+        "Chamorro and English"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_36",
+      "title": "What US state includes the telephone area code 501?",
+      "answers": [
+        "Arkansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_37",
+      "title": "What natural \"Wonder of the World\" lies off the east coast of Australia?",
+      "answers": [
+        "The Great Barrier Reef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_38",
+      "title": "The annual \"Christmas Book Flood\" is part of what country’s holiday tradition?",
+      "answers": [
+        "Iceland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_39",
+      "title": "What country was called Northern Rhodesia until 1984?",
+      "answers": [
+        "Zambia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_40",
+      "title": "What river flows through the Grand Canyon?",
+      "answers": [
+        "The Colorado River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_41",
+      "title": "What does the Russian newspaper's name \"Pravda\" mean in English?",
+      "answers": [
+        "Truth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_42",
+      "title": "What does the Red Sea get its name from?",
+      "answers": [
+        "Algae blooms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_43",
+      "title": "Into which body of water does the Yukon River discharge?",
+      "answers": [
+        "Bering Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_44",
+      "title": "What region was explored by Vitus Bering?",
+      "answers": [
+        "Arctic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_45",
+      "title": "What strait separates New Zealand's North and South Islands?",
+      "answers": [
+        "Cook Strait"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_46",
+      "title": "In what country would you find the active volcano \"Santorini\"?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_47",
+      "title": "Belgium's name is derived from what Roman province?",
+      "answers": [
+        "Gallia Belgica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_48",
+      "title": "Belmopan is the capital of which country?",
+      "answers": [
+        "Belize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_49",
+      "title": "What country is made up of 3,000 islands, the largest being Honshu, Hokkaido, Kyushu and Shikoku?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_17_50",
+      "title": "In which city does the White Nile meet the Blue Nile?",
+      "answers": [
+        "Khartoum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

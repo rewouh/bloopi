@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_09",
+  "name": "Geography Trivia 26K 09",
+  "description": "Geography 401 - 450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_09_01",
+      "title": "What is the capital of the British Virgin Islands?",
+      "answers": [
+        "Road Town"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_02",
+      "title": "What body of water separates Alaska from Russia?",
+      "answers": [
+        "Bering Strait"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_03",
+      "title": "Which US state is nicknamed the \"Peach State\"?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_04",
+      "title": "What is the capital of Tanzania?",
+      "answers": [
+        "Dodoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_05",
+      "title": "What is the capital of Senegal?",
+      "answers": [
+        "Dakar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_06",
+      "title": "Which US state is called the Magnolia State?",
+      "answers": [
+        "Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_07",
+      "title": "Which river runs through Rome?",
+      "answers": [
+        "Tiber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_08",
+      "title": "Albert Einstein was offered the position of prime minister of what country?",
+      "answers": [
+        "Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_09",
+      "title": "Apia is the capital of which country?",
+      "answers": [
+        "Samoa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_10",
+      "title": "Which building houses the world's biggest four-faced chiming clock?",
+      "answers": [
+        "Minneapolis City Hall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_11",
+      "title": "Before Idaho became a state, which state was almost named Idaho?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_12",
+      "title": "What is Santa’s postal code in Canada?",
+      "answers": [
+        "H0H 0H0"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_13",
+      "title": "What is the modern name for Van Diemen’s Land?",
+      "answers": [
+        "Tasmania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_14",
+      "title": "Mauritius is an island country located in which ocean?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_15",
+      "title": "What country borders only Brazil, Argentina, and the Atlantic Ocean?",
+      "answers": [
+        "Uruguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_16",
+      "title": "What was Belize known as until 1973?",
+      "answers": [
+        "British Honduras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_17",
+      "title": "In what city would you find the Golden Gate Park?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_18",
+      "title": "What is the most visited place in the United States?",
+      "answers": [
+        "Times Square"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_19",
+      "title": "The Golden Gate Bridge is located in what city?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_20",
+      "title": "What modern day country is the Lighthouse of Alexandria located in?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_21",
+      "title": "Ulaanbaatar is the capital of which Asian country?",
+      "answers": [
+        "Mongolia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_22",
+      "title": "Ulaanbaatar is the capital of which country?",
+      "answers": [
+        "Mongolia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_23",
+      "title": "What is the largest island in the Mediterranean Sea?",
+      "answers": [
+        "Sicily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_24",
+      "title": "What modern-day US state was inhabited by the Calusa Indians?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_25",
+      "title": "Which US state is nicknamed \"Land of 10,000 Lakes\"?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_26",
+      "title": "What is the only nation that shares a land border with Portugal?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_27",
+      "title": "What US state has the longest border with Canada?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_28",
+      "title": "What was Namibia formerly called?",
+      "answers": [
+        "South-West Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_29",
+      "title": "What is the oldest city in India?",
+      "answers": [
+        "Varanasi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_30",
+      "title": "What Florida island was known by Spanish explorers as \"Long Island\"?",
+      "answers": [
+        "Key Largo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_31",
+      "title": "What are the first four digits of Beverly Hill' zip code?",
+      "answers": [
+        "9021"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_32",
+      "title": "What line of Latitude lies at 23 degrees and 27 minutes north of the equator?",
+      "answers": [
+        "Tropic of Cancer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_33",
+      "title": "What is the largest North American country by land area?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_34",
+      "title": "After Central Park was completed, New York City's 4th Avenue, above 32nd Street, was renamed what?",
+      "answers": [
+        "Park Avenue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_35",
+      "title": "What is the world’s lowest and flattest country?",
+      "answers": [
+        "The Maldives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_36",
+      "title": "Louisville, Kentucky sits on what river?",
+      "answers": [
+        "Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_37",
+      "title": "Riyadh is the capital of which country?",
+      "answers": [
+        "Saudi Arabia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_38",
+      "title": "The ancient city of Troy was located in what is now what country?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_39",
+      "title": "What Roman building is known as the \"Square Colosseum\"?",
+      "answers": [
+        "Palazzo della Civiltà Italiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_40",
+      "title": "What year did Cambodia gain its independence from France?",
+      "answers": [
+        "1953"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_41",
+      "title": "Ireland's River Shannon drains which basin?",
+      "answers": [
+        "Shannon River Basin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_42",
+      "title": "Where is the Bowling Hall of Fame located?",
+      "answers": [
+        "Arlington, Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_43",
+      "title": "Which US state's highest mountain is Mt. Elbert?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_44",
+      "title": "In what city is the Kentucky Derby held?",
+      "answers": [
+        "Louisville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_45",
+      "title": "Which US state is nicknamed the \"Silver State\"?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_46",
+      "title": "What was the first cave in the world to be designated a national park?",
+      "answers": [
+        "Wind Cave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_47",
+      "title": "What two countries border Moldova?",
+      "answers": [
+        "Romania and Ukraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_48",
+      "title": "What word is used to identify the residents of Burkina Faso?",
+      "answers": [
+        "Burkinabe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_49",
+      "title": "What city, located in the Sonoran desert, was once called Arizona City?",
+      "answers": [
+        "Yuma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_09_50",
+      "title": "By what name is the island of Rapa Nui better known?",
+      "answers": [
+        "Easter Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

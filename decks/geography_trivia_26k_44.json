@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_44",
+  "name": "Geography Trivia 26K 44",
+  "description": "Geography 2151 - 2200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_44_01",
+      "title": "What year did Cambodia declare its independence from France?",
+      "answers": [
+        "1953"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_02",
+      "title": "What is the only nation that shares a land border with Haiti?",
+      "answers": [
+        "The Dominican Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_03",
+      "title": "What is the only sea without any coasts?",
+      "answers": [
+        "Sargasso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_04",
+      "title": "What country shares a land border with Papua New Guinea to the west?",
+      "answers": [
+        "Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_05",
+      "title": "Where can you find the Petronas Towers?",
+      "answers": [
+        "Kuala Lumpur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_06",
+      "title": "What is the capital of Iceland?",
+      "answers": [
+        "Reykjavik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_07",
+      "title": "In what Australian state would you find Armidale?",
+      "answers": [
+        "New South Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_08",
+      "title": "Which ocean does Tanzania have water access to?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_09",
+      "title": "Pennsylvania has what patriotic motto?",
+      "answers": [
+        "\"Virtue, Liberty and Independence\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_10",
+      "title": "Which Gulf is located southwest of Cambodia?",
+      "answers": [
+        "Gulf of Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_11",
+      "title": "What tiny island makes the curling stones used in the Olympics?",
+      "answers": [
+        "Ailsa Craig, Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_12",
+      "title": "Alba is the Gaelic name for what country?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_13",
+      "title": "What is the capital of Hungary?",
+      "answers": [
+        "Budapest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_14",
+      "title": "In what city can tourists visit the famous Bourbon Street?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_15",
+      "title": "Mauritius is part of which continent?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_16",
+      "title": "What is the capital of Wisconsin?",
+      "answers": [
+        "Madison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_17",
+      "title": "In which US state is the headquarters for the Mayo Clinic?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_18",
+      "title": "In what country would you find the mouths of the river Rhine?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_19",
+      "title": "What is the most northern capital city in Europe?",
+      "answers": [
+        "Reyjkavik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_20",
+      "title": "What city, located at the head of the Niagara River, is the seat of New York's Erie County?",
+      "answers": [
+        "Buffalo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_21",
+      "title": "Botany Bay lies off the coast of what country?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_22",
+      "title": "Which Quebec city does Canada’s capital border?",
+      "answers": [
+        "Gatineau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_23",
+      "title": "What Canadian Province is located between Saskatchewan and Ontario?",
+      "answers": [
+        "Manitoba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_24",
+      "title": "What island is Tokyo located on?",
+      "answers": [
+        "Honshu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_25",
+      "title": "What is the alternative name for the Greek Island of Zakynthos?",
+      "answers": [
+        "Zante"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_26",
+      "title": "Where is the Mayan Temple of Kukulcan located?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_27",
+      "title": "What U.S. state is home to \"The Raisin Capital of the World\"?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_28",
+      "title": "In which Chinese city is the Terracotta Army?",
+      "answers": [
+        "Xian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_29",
+      "title": "Cheyenne is the capital of which US state?",
+      "answers": [
+        "Wyoming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_30",
+      "title": "What is the flattest continent?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_31",
+      "title": "In which US state is the geographic center of the 48 contiguous states?",
+      "answers": [
+        "Kansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_32",
+      "title": "What island does the Statue of Liberty stand on?",
+      "answers": [
+        "Liberty Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_33",
+      "title": "What is the only US state whose name is just one syllable?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_34",
+      "title": "The city of Pittsburgh is located in which state?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_35",
+      "title": "The Ghirardelli Chocolate Company was founded in which city?",
+      "answers": [
+        "San Francisco, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_36",
+      "title": "Which sea separates Greece from Asia Minor?",
+      "answers": [
+        "Aegean Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_37",
+      "title": "Jamaica is considered part of which continent?",
+      "answers": [
+        "North America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_38",
+      "title": "Which U.S. city is known as the Air Capital of the World?",
+      "answers": [
+        "Wichita, Kansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_39",
+      "title": "Andorra la Vella is the capital of which country?",
+      "answers": [
+        "Andorra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_40",
+      "title": "What city is the fashion center of Italy?",
+      "answers": [
+        "Milan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_41",
+      "title": "What luxury fashion house funded the restoration of Rome's Trevi Fountain?",
+      "answers": [
+        "Fendi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_42",
+      "title": "Which US state has the least rainfall?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_43",
+      "title": "In 1980, Mount St. Helens erupted in which U.S. state, killing 57 people.",
+      "answers": [
+        "Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_44",
+      "title": "Easter Island is a part of which South American country?",
+      "answers": [
+        "Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_45",
+      "title": "Which river helped create the Grand Canyon?",
+      "answers": [
+        "Colorado River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_46",
+      "title": "The Great Barrier Reef sits off the coast of what Australian state?",
+      "answers": [
+        "Queensland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_47",
+      "title": "The word \"serendipity\" comes from Serendip, the Persian name for what island?",
+      "answers": [
+        "Sri Lanka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_48",
+      "title": "Antananarivo is the capital of which large island?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_49",
+      "title": "Where would you find the \"Lone Cypress\"?",
+      "answers": [
+        "Pebble Beach, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_44_50",
+      "title": "In what US state would you find Fort Hood?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

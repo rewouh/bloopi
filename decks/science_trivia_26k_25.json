@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_25",
+  "name": "Science Trivia 26K 25",
+  "description": "Science 1201 - 1250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_25_01",
+      "title": "What German mathematician devised an impossible one-sided bottle?",
+      "answers": [
+        "Felix Klein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_02",
+      "title": "What is the farthest object that can be seen with the naked eye?",
+      "answers": [
+        "Andromeda Galaxy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_03",
+      "title": "What is the only continent without any bees?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_04",
+      "title": "Which element has the chemical symbol Pt?",
+      "answers": [
+        "Platinum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_05",
+      "title": "What gentle sea mammals are also known as \"sea cows\"?",
+      "answers": [
+        "Manatees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_06",
+      "title": "What was the first man-made object to land on the Moon?",
+      "answers": [
+        "Luna 2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_07",
+      "title": "What is Albumen more commonly known as?",
+      "answers": [
+        "Egg White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_08",
+      "title": "What animal is \"Artemia salina\"?",
+      "answers": [
+        "Brine shrimp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_09",
+      "title": "What plant has a name from the French meaning \"lion's tooth\"?",
+      "answers": [
+        "Dandelion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_10",
+      "title": "What has two poles as a result of Amperian currents?",
+      "answers": [
+        "A magnet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_11",
+      "title": "Which of your organs can regenerate itself up to 60%?",
+      "answers": [
+        "Liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_12",
+      "title": "What are poults?",
+      "answers": [
+        "Baby turkeys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_13",
+      "title": "About how long is the human small intestine?",
+      "answers": [
+        "18 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_14",
+      "title": "Wallace Carothers invented nylon while working as a scientist for what company?",
+      "answers": [
+        "DuPont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_15",
+      "title": "What never works at night and requires a gnomon to tell the time?",
+      "answers": [
+        "A sundial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_16",
+      "title": "What snake has the longest fangs?",
+      "answers": [
+        "Gaboon Viper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_17",
+      "title": "On the Fahrenheit scale, there are 180 degrees between which two important points?",
+      "answers": [
+        "Freezing and boiling points"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_18",
+      "title": "What is the top layer of the Earth called?",
+      "answers": [
+        "The Crust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_19",
+      "title": "What bird lays an egg that is roughly a quarter of its body weight?",
+      "answers": [
+        "The Kiwi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_20",
+      "title": "How many equal sides are there on a scalene triangle?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_21",
+      "title": "What is Nitrous Oxide more commonly known as?",
+      "answers": [
+        "Laughing gas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_22",
+      "title": "Which bodily organ produces urine?",
+      "answers": [
+        "The kidneys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_23",
+      "title": "What is activated for freckles to appear?",
+      "answers": [
+        "Melanocytes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_24",
+      "title": "Where is human skin thinnest?",
+      "answers": [
+        "Eyelids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_25",
+      "title": "What is the Kelvin scale used to measure?",
+      "answers": [
+        "Temperature"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_26",
+      "title": "What colour are mosquitos most attracted to?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_27",
+      "title": "A systematic enterprise, which builds and organizes knowledge according to explanations and predictions about the universe is called what?",
+      "answers": [
+        "Science"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_28",
+      "title": "What is the common name for the sternum?",
+      "answers": [
+        "Breastbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_29",
+      "title": "What is the smallest horse in the world?",
+      "answers": [
+        "Fallabella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_30",
+      "title": "Which element has the chemical symbol \"No\"?",
+      "answers": [
+        "Nobelium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_31",
+      "title": "What is the proper term for a young whale?",
+      "answers": [
+        "A calf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_32",
+      "title": "How many oxygen atoms does a molecule of ozone have?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_33",
+      "title": "What are the three stages of the water cycle?",
+      "answers": [
+        "Evaporation, condensation and precipitation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_34",
+      "title": "What natural events are ranked in severity by the Saffir Simpson scale?",
+      "answers": [
+        "Hurricanes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_35",
+      "title": "What is the name for the Sun's outer-most atmosphere?",
+      "answers": [
+        "Corona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_36",
+      "title": "What organ does a deer lack?",
+      "answers": [
+        "Gall bladder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_37",
+      "title": "Which vital organ does the adjective renal refer to?",
+      "answers": [
+        "Kidney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_38",
+      "title": "What is the Latin word for the liquid produced by the Ficus Elastica?",
+      "answers": [
+        "Latex"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_39",
+      "title": "Carrots are a good source of which vitamin?",
+      "answers": [
+        "A"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_40",
+      "title": "How many claws in total does the average adult cat have?",
+      "answers": [
+        "18"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_41",
+      "title": "How many toes on each foot does an ostrich stand on?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_42",
+      "title": "How many calories must you burn to lose one pound?",
+      "answers": [
+        "3500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_43",
+      "title": "What meteorological significance is traditionally attached to cows lying down?",
+      "answers": [
+        "Rain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_44",
+      "title": "Ranger VII was the first US spacecraft to send back pictures of what?",
+      "answers": [
+        "The moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_45",
+      "title": "What is the largest living fish?",
+      "answers": [
+        "The whale shark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_46",
+      "title": "Which element of the periodic table is named after a US state?",
+      "answers": [
+        "Californium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_47",
+      "title": "If you suffer from epistaxis what is wrong?",
+      "answers": [
+        "Your nose is bleeding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_48",
+      "title": "What is the common name for butterfly larvae?",
+      "answers": [
+        "Caterpillars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_49",
+      "title": "What do conifers use to hold seeds?",
+      "answers": [
+        "Pine cones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_25_50",
+      "title": "What was the first man-made insecticide?",
+      "answers": [
+        "DDT"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_12",
+  "name": "Arts Trivia 26K 12",
+  "description": "Arts 551 - 600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_12_01",
+      "title": "According to the nursery rhyme, how many blackbirds were baked in a pie?",
+      "answers": [
+        "Four and twenty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_02",
+      "title": "The book \"The Second Sex\" was written by who?",
+      "answers": [
+        "Simone de Beauvoir"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_03",
+      "title": "The Louvre is located in which European city?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_04",
+      "title": "What year marked the first appearance of Rudolph the Red-Nosed Reindeer?",
+      "answers": [
+        "1939"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_05",
+      "title": "What literary work inspired Manic Street Preachers' \"Patrick Bateman\" song?",
+      "answers": [
+        "American Psycho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_06",
+      "title": "What is the name of the wood Noah used in building his ark?",
+      "answers": [
+        "Gopher wood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_07",
+      "title": "In grammar, a complete sentence must include a predicate and a what?",
+      "answers": [
+        "Subject"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_08",
+      "title": "The folklore characters known as \"oni\" originated in which country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_09",
+      "title": "What comic strip did Scott Adams create while working for Pacific Bell?",
+      "answers": [
+        "Dilbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_10",
+      "title": "Rhea and Cronus were the parents of what king of the Greek gods?",
+      "answers": [
+        "Zeus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_11",
+      "title": "What color is the \"Mind stone\" in the 2017 Marvel Legacy relaunch?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_12",
+      "title": "A story of ones own life is referred to as what?",
+      "answers": [
+        "Autobiography"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_13",
+      "title": "According to mythology, what was the food of the gods?",
+      "answers": [
+        "Ambrosia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_14",
+      "title": "Who is Tony’s fraternal twin in the comic series \"Chew\"?",
+      "answers": [
+        "Antonelle Chu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_15",
+      "title": "What duo published the story of \"Hansel & Gretel\" in 1812?",
+      "answers": [
+        "The Brothers Grimm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_16",
+      "title": "In the comic book series \"Strangers in Paradise\", what is the name of Francine’s daughter?",
+      "answers": [
+        "Jenny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_17",
+      "title": "In which comic book series did Galactus first appear?",
+      "answers": [
+        "The Fantastic Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_18",
+      "title": "The line \"All of this happened, more or less.\" starts what novel?",
+      "answers": [
+        "\"Slaughterhouse-Five\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_19",
+      "title": "What was the name of Sherlock Holmes' intelligent brother?",
+      "answers": [
+        "Mycroft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_20",
+      "title": "In which US state was Clark Kent brought up?",
+      "answers": [
+        "Kansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_21",
+      "title": "What Shakespeare play features three witches chanting \"double, double, toil & trouble, fire burn and cauldron bubble\"?",
+      "answers": [
+        "MacBeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_22",
+      "title": "In Shakespeare's play \"Titus Andronicus\", which army is Titus a general in?",
+      "answers": [
+        "Roman army"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_23",
+      "title": "Who began his famous penance by killing and skinning the Nemean lion?",
+      "answers": [
+        "Hercules"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_24",
+      "title": "Who wrote the 1932 comic novel \"Cold Comfort Farm\"?",
+      "answers": [
+        "Stella Gibbons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_25",
+      "title": "According to folklore, who could shed no more than three tears?",
+      "answers": [
+        "A witch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_26",
+      "title": "What snack shares its name with the famous cartoon strip by Charles M. Schulz?",
+      "answers": [
+        "Peanuts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_27",
+      "title": "How many paintings did Claude Monet create for his \"Water Lilies\" series?",
+      "answers": [
+        "More than 250"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_28",
+      "title": "Which literary work's title character is named Bigger Thomas?",
+      "answers": [
+        "Native Son"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_29",
+      "title": "The Uffizi museum can be found in which city?",
+      "answers": [
+        "Florence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_30",
+      "title": "According to Greek mythology, what was the only spirit that remained in Pandora's box?",
+      "answers": [
+        "Hope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_31",
+      "title": "What children's classic did the New York Public Library originally refuse to stock?",
+      "answers": [
+        "\"Goodnight Moon\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_32",
+      "title": "Which leading English poet of was killed in action during World War I one week before the end of the war?",
+      "answers": [
+        "Wilfred Owen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_33",
+      "title": "What is the name of Sherlock Holmes' smarter brother?",
+      "answers": [
+        "Mycroft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_34",
+      "title": "Who wrote the play \"L'Alouette\"?",
+      "answers": [
+        "Jean Anouilh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_35",
+      "title": "\"Girls with a Pearl Earring\" is one of only thirty-five extant works of what Dutch painter?",
+      "answers": [
+        "Jan Vermeer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_36",
+      "title": "What is the name of Zeus' father, who ate his children?",
+      "answers": [
+        "Kronos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_37",
+      "title": "Who took the role of Lysander in the Disney version of \"A Midsummer Night's Dream\"?",
+      "answers": [
+        "Mickey Mouse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_38",
+      "title": "A poorly supported yet persistent rumour has it that Denmark’s King Christian VIII, not a shoemaker, was whose father?",
+      "answers": [
+        "Hans Christian Andersen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_39",
+      "title": "Who wrote \"How the Grinch Stole Christmas\"?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_40",
+      "title": "What is the name of the controversial novel that was written by Salmon Rushdie?",
+      "answers": [
+        "The Satanic Verses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_41",
+      "title": "Who is considered one of the last Classical composers?",
+      "answers": [
+        "Franz Schubert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_42",
+      "title": "What is the name of the poem John Keats wrote to a singing bird?",
+      "answers": [
+        "\"Ode to a Nightingale\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_43",
+      "title": "Who wielded a sword named Excalibur?",
+      "answers": [
+        "King Arthur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_44",
+      "title": "In poetry, what creature is killed with a \"vorpal blade\"?",
+      "answers": [
+        "The Jabberwock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_45",
+      "title": "Whose most famous poem ends with \"I lift my lamp beside the golden door\"?",
+      "answers": [
+        "Emma Lazarus's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_46",
+      "title": "What can a lycanthrope do ?",
+      "answers": [
+        "Change into a wolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_47",
+      "title": "What year was the novel \"Pride and Prejudice\" first published in?",
+      "answers": [
+        "1813"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_48",
+      "title": "What kind of a dog is Marmaduke?",
+      "answers": [
+        "A Great Dane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_49",
+      "title": "What flower was Monet most famous for painting?",
+      "answers": [
+        "Water lilies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_12_50",
+      "title": "From what language did English borrow the word \"catamaran\"?",
+      "answers": [
+        "Tamil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

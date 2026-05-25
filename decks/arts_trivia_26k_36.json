@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_36",
+  "name": "Arts Trivia 26K 36",
+  "description": "Arts 1751 - 1800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_36_01",
+      "title": "What is the name of Alice's pet cat in \"Alice in Wonderland\"?",
+      "answers": [
+        "Dinah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_02",
+      "title": "What German composer was played by Gary Oldman in the film \"Immortal Beloved\"?",
+      "answers": [
+        "Beethoven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_03",
+      "title": "Which author and philosopher is known for his works The Plague, The Outsider and The Fall?",
+      "answers": [
+        "Albert Camus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_04",
+      "title": "Whose 1863 novel \"Paris in the Twentieth Century\" was discovered in a trunk and published in 1994?",
+      "answers": [
+        "Jules Verne's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_05",
+      "title": "Who wrote :The Tale of Peter Rabbit\"?",
+      "answers": [
+        "Beatrix Potter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_06",
+      "title": "What magazine was founded by Andy Warhol in 1969?",
+      "answers": [
+        "Interview"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_07",
+      "title": "From what language did English borrow the word \"soy\"?",
+      "answers": [
+        "Japanese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_08",
+      "title": "Who wrote the epic poem \"Samson Agonistes\"?",
+      "answers": [
+        "John Milton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_09",
+      "title": "Which country originated opera?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_10",
+      "title": "Who created the character Hercule Poirot?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_11",
+      "title": "What superteam includes Cosmic Boy, Saturn Girl and Lightning Boy?",
+      "answers": [
+        "The Legion of Super-Heroes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_12",
+      "title": "What university presents the annual Pulitzer Prize journalism awards?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_13",
+      "title": "According to Langston Hughes, what might \"dry up, like a raisin in the sun\"?",
+      "answers": [
+        "A dream deferred"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_14",
+      "title": "Who is the richest character in \"The Wind in the Willows\"?",
+      "answers": [
+        "Mr. Toad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_15",
+      "title": "Stephen Crane's \"The Red Badge of Courage\" is set during which war?",
+      "answers": [
+        "US Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_16",
+      "title": "What year saw the release of \"The Catcher in the Rye\"?",
+      "answers": [
+        "1951"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_17",
+      "title": "According to the novel, about how long was Robinson Crusoe marooned on his remote island?",
+      "answers": [
+        "28 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_18",
+      "title": "What type of painting is Johannes Vermeer's \"Girl with a Pearl Earring\"?",
+      "answers": [
+        "Tronie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_19",
+      "title": "Jackson Pollock was known for what distinctive painting method?",
+      "answers": [
+        "Drip technique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_20",
+      "title": "In the series \"Eragon\", what is the name of Eragon's dragon?",
+      "answers": [
+        "Saphira"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_21",
+      "title": "The east gate of Jerusalem, where Peter and John healed a lame, is known as what?",
+      "answers": [
+        "The Beautiful Gate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_22",
+      "title": "Which great painter's nickname translated literally to \"The Greek\"?",
+      "answers": [
+        "El Greco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_23",
+      "title": "What did Yankee Doodle stick in his hat?",
+      "answers": [
+        "Feather"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_24",
+      "title": "\"Understood Betsy\" was a book published in 1918 by what author?",
+      "answers": [
+        "Dorothy Canfield Fisher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_25",
+      "title": "What snack gave Mickey Mouse his first spoken words?",
+      "answers": [
+        "Hot dogs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_26",
+      "title": "Helen Keller was elected to the Women's Hall of Fame in what year?",
+      "answers": [
+        "1965"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_27",
+      "title": "What 1965 novel by Leo Herlihy recounts the story of Joe Buck and Rico “Ratso” Rizzo?",
+      "answers": [
+        "Midnight Cowboy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_28",
+      "title": "What Shakespearean play features the fictional character, Iago?",
+      "answers": [
+        "Othello"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_29",
+      "title": "Who wrote 1818’s \"Frankenstein\"?",
+      "answers": [
+        "Mary Shelley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_30",
+      "title": "According to Greek mythology, who was the first woman on earth?",
+      "answers": [
+        "Pandora"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_31",
+      "title": "Who murders Nancy in \"Oliver Twist\"?",
+      "answers": [
+        "Bill Sikes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_32",
+      "title": "What word for a wandering Asian ascetic comes from the Arabic for \"poor man\"?",
+      "answers": [
+        "Fakir"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_33",
+      "title": "In the Marvel Comics world, who has an assistant named Pepper Potts?",
+      "answers": [
+        "Tony Stark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_34",
+      "title": "What is the name of the large, powerful and hypnotizing snake in Rudyard Kipling's \"The Jungle Book\"?",
+      "answers": [
+        "Kaa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_35",
+      "title": "Who composed the \"Goldberg Variations\"?",
+      "answers": [
+        "Johann Sebastian Bach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_36",
+      "title": "What was another name for Dodie Smith's \"The Hundred and One Dalmatians\" novel?",
+      "answers": [
+        "The Great Dog Robbery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_37",
+      "title": "What superteam includes Robin, Kid Flash, Aqualad and Wonder Girl?",
+      "answers": [
+        "The Teen Titans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_38",
+      "title": "In what comic strip would you find siblings Chip, Dot, Ditto and Trixie?",
+      "answers": [
+        "Hi and Lois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_39",
+      "title": "Who wrote the novel \"The History of Mr Polly\"?",
+      "answers": [
+        "H. G. Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_40",
+      "title": "What is the name of Olive Oyl’s father?",
+      "answers": [
+        "Cole Oyl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_41",
+      "title": "In Greek mythology, who hired Daedalus to construct the Labyrinth?",
+      "answers": [
+        "King Minos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_42",
+      "title": "What superhero built a \"Fortress of Solitude\" at the North Pole?",
+      "answers": [
+        "Superman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_43",
+      "title": "What is the last name of brothers Dmitri, Ivan, Alyosha and Smerdyakov?",
+      "answers": [
+        "Karamazov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_44",
+      "title": "What is Dr. Watson's first name?",
+      "answers": [
+        "John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_45",
+      "title": "In the Bible, who was considered the Weeping Prophet?",
+      "answers": [
+        "Jeremiah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_46",
+      "title": "In Shakespeare's play \"Titus Andronicus\", who is Titus' daughter?",
+      "answers": [
+        "Lavinia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_47",
+      "title": "What mythological creature grew two new heads for each one that was cut off?",
+      "answers": [
+        "Hydra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_48",
+      "title": "Peter Quill's ship in \"Guardians of the Galaxy\" was named for what actor?",
+      "answers": [
+        "Alyssa Milano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_49",
+      "title": "Who created the \"Dilbert\" comic strip?",
+      "answers": [
+        "Scott Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_36_50",
+      "title": "The comic book series \"Revival\" is often described as what literary genre?",
+      "answers": [
+        "Horror/Rural-noir"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

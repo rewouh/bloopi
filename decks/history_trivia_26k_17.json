@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_17",
+  "name": "History Trivia 26K 17",
+  "description": "History 801 - 850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_17_01",
+      "title": "Who was the first high priest of Israel?",
+      "answers": [
+        "Aaron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_02",
+      "title": "In 1990, in a post­communist transition, union leader Lech Walesa became President of what country?",
+      "answers": [
+        "Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_03",
+      "title": "What WWII European recovery program was named for the Secretary of State who proposed it?",
+      "answers": [
+        "Marshall Plan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_04",
+      "title": "Who established a Vietnam memorial while consulting on the film \"The Deer Hunter\"?",
+      "answers": [
+        "Jan Scruggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_05",
+      "title": "What year was Alfred Hitchcock born?",
+      "answers": [
+        "1899"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_06",
+      "title": "What was the name of the first Sony-branded transistor radio?",
+      "answers": [
+        "The TR-55"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_07",
+      "title": "Canada's Maple Leaf national flag was introduced under which Canadian Prime Minister?",
+      "answers": [
+        "Lester B. Pearson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_08",
+      "title": "What was the name of the anti-Castro group at the \"Bay of Pigs\"?",
+      "answers": [
+        "La Brigada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_09",
+      "title": "What name did Jacques Cousteau call his main research vessel?",
+      "answers": [
+        "Calypso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_10",
+      "title": "What day of the week was the initial October 24, 1929, crash that kicked off the Great Depression?",
+      "answers": [
+        "Thursday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_11",
+      "title": "Who was the first president of the Republic of Kenya?",
+      "answers": [
+        "Jomo Kenyatta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_12",
+      "title": "In 1908, what became recognized as the universal distress signal?",
+      "answers": [
+        "SOS"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_13",
+      "title": "What color were the first taxis in America?",
+      "answers": [
+        "Red and green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_14",
+      "title": "What year did the Bhopal disaster occur?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_15",
+      "title": "Sharing the name with an European capital, what was the name of Wellington's stallion during the \"Battle of Waterloo\" in 1815?",
+      "answers": [
+        "Copenhagen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_16",
+      "title": "Who owned the sword Joyeuse?",
+      "answers": [
+        "Charlemagne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_17",
+      "title": "Which area of the US was invaded and held by Japan during WWII?",
+      "answers": [
+        "Aleutian Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_18",
+      "title": "Who co-founded Apple with Steve Jobs?",
+      "answers": [
+        "Steve Wozniak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_19",
+      "title": "What sporting event first took place in 1903?",
+      "answers": [
+        "Tour de France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_20",
+      "title": "What was banned in the US under the terms of the 18th Amendment?",
+      "answers": [
+        "Alcohol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_21",
+      "title": "The Australian federation was formed on what date?",
+      "answers": [
+        "January 1, 1901"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_22",
+      "title": "What royal subject married Timothy Laurence?",
+      "answers": [
+        "Princess Anne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_23",
+      "title": "What was the birth name of Elephant Man?",
+      "answers": [
+        "Joseph Merrick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_24",
+      "title": "Which of Hitler's deputies flew to Scotland in 1941 to try and negotiate peace with the UK?",
+      "answers": [
+        "Rudolf Hess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_25",
+      "title": "What year did Great Britain claim the eastern half of Australia?",
+      "answers": [
+        "1770"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_26",
+      "title": "Which royal palace was damaged by fire in 1986?",
+      "answers": [
+        "Hampton Court Palace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_27",
+      "title": "Who did Abraham Lincoln face in a series of debates in 1858?",
+      "answers": [
+        "Stephen Douglas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_28",
+      "title": "Who was the first British Monarch to be given the title \"Defender of the Faith\"?",
+      "answers": [
+        "Henry VIII"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_29",
+      "title": "Which US state has the largest House of Representatives?",
+      "answers": [
+        "New Hampshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_30",
+      "title": "What US president returned the US controlled Panama Canal Zone to Panama?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_31",
+      "title": "What material was the first artificial Christmas tree made from?",
+      "answers": [
+        "Goose feathers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_32",
+      "title": "What hill in Athens does the Parthenon stand on?",
+      "answers": [
+        "The Acropolis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_33",
+      "title": "During World War II, where was \"Hacksaw Ridge\" located?",
+      "answers": [
+        "Okinawa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_34",
+      "title": "What US President tried to set up his daughter with Prince Charles?",
+      "answers": [
+        "Richard Nixon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_35",
+      "title": "What President hosted his daughter’s prom at the White House?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_36",
+      "title": "Which towering professional wrestler passed away on January 27, 1993?",
+      "answers": [
+        "Andre the Giant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_37",
+      "title": "What was Hewlett-Packard's first successful product?",
+      "answers": [
+        "An audio oscillator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_38",
+      "title": "What is the attempt to overthrow a government by force or at least interrupt its activities called?",
+      "answers": [
+        "Sedition"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_39",
+      "title": "What river did Jolliet and Marquette explore during the late 1600s?",
+      "answers": [
+        "Mississippi River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_40",
+      "title": "In the \"Great Upheaval\", three quarters of what people were forcibly removed from Nova Scotia?",
+      "answers": [
+        "The Acadians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_41",
+      "title": "What natural occurrence was said to have helped the British navy defeat the Spanish Armada in 1588?",
+      "answers": [
+        "A Protestant Wind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_42",
+      "title": "Who was killed by John Wilkes Booth?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_43",
+      "title": "What year was Stonehenge added to UNESCO's list of World Heritage sites?",
+      "answers": [
+        "1986"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_44",
+      "title": "Who sang the national anthem at Obama's second inauguration in 2013?",
+      "answers": [
+        "Beyonce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_45",
+      "title": "What was John F. Kennedy's wife's maiden name?",
+      "answers": [
+        "Bouvier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_46",
+      "title": "What century did the Europeans dicover the Okapi?",
+      "answers": [
+        "20th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_47",
+      "title": "Who was the only U.S. Marine ace of the Korean War?",
+      "answers": [
+        "John Bolt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_48",
+      "title": "Who was the first American woman on a U.S. postage stamp?",
+      "answers": [
+        "Martha Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_49",
+      "title": "Which US naval base did Japan attack in 1941 to declare war on the Allies?",
+      "answers": [
+        "Pearl Harbor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_17_50",
+      "title": "The \"Battle of Roundway Down\" was fought during which war?",
+      "answers": [
+        "First English Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

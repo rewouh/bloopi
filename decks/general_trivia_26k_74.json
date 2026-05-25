@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_74",
+  "name": "General Trivia 26K 74",
+  "description": "General 3651 - 3700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_74_01",
+      "title": "Who developed the processed cheese spread known as Cheez Whiz?",
+      "answers": [
+        "Edwin Traisman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_02",
+      "title": "What does \"Helvetica\" mean?",
+      "answers": [
+        "Swiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_03",
+      "title": "The ball on top of a flag pole is called a what?",
+      "answers": [
+        "Truck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_04",
+      "title": "What brand of cat food was advertised by Morris the Cat?",
+      "answers": [
+        "9 Lives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_05",
+      "title": "An Octagon with equal sides is called a what?",
+      "answers": [
+        "A Regular Octagon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_06",
+      "title": "What Converse salesman is the only person in both the Basketball Hall of Fame and the Sporting Goods Hall of Fame?",
+      "answers": [
+        "Chuck Taylor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_07",
+      "title": "What item would a tailor measure in lignes?",
+      "answers": [
+        "A button"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_08",
+      "title": "What kind of \"oven\" is the official state cooking pot of Utah?",
+      "answers": [
+        "The Dutch oven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_09",
+      "title": "What is the main ingredient in the Scottish dish \"stovies\"?",
+      "answers": [
+        "Potatoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_10",
+      "title": "In nautical terms, what does \"Port\" mean?",
+      "answers": [
+        "Left"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_11",
+      "title": "What puzzle toy, invented in Hungary, was the best-­selling toy of 1981?",
+      "answers": [
+        "Rubik’s Cube"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_12",
+      "title": "What letter of the alphabet do IATA airport codes for Canada begin with?",
+      "answers": [
+        "Y"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_13",
+      "title": "What is the highest possible bowling score in a game with no strikes?",
+      "answers": [
+        "190"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_14",
+      "title": "Who wears the \"Pescatorio\", or Ring of the Fisherman?",
+      "answers": [
+        "The pope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_15",
+      "title": "What color balloons were added to Lucky Charms in 1989?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_16",
+      "title": "On the game of Battleship, how many hits does it take to sink the submarine?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_17",
+      "title": "As of 2020, what company makes the Butterfinger bar?",
+      "answers": [
+        "Ferrero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_18",
+      "title": "What did a Cordwainer make?",
+      "answers": [
+        "Shoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_19",
+      "title": "Which drink is known as the \"Uncola\"?",
+      "answers": [
+        "7-Up"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_20",
+      "title": "In the beer industry, what does the abbreviation O.G. stand for?",
+      "answers": [
+        "Original gravity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_21",
+      "title": "Which Ferrari model translates literally from Italian as \"red head\"?",
+      "answers": [
+        "Testarossa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_22",
+      "title": "Who's responsible for \"The Ballad of Peter Pumpkinhead\"?",
+      "answers": [
+        "XTC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_23",
+      "title": "The first Starbucks outside of North America was opened in what city?",
+      "answers": [
+        "Tokyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_24",
+      "title": "Approximately, how many seconds comprise a day?",
+      "answers": [
+        "86400"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_25",
+      "title": "In chess, the queen has the combined movement of which two pieces?",
+      "answers": [
+        "Bishop and Rook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_26",
+      "title": "What must a Las Vegas blackjack dealer do when they reaches 16?",
+      "answers": [
+        "Take a card"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_27",
+      "title": "What team did Steve Nash play for between his two stings with the Phoenix Suns?",
+      "answers": [
+        "The Dallas Mavericks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_28",
+      "title": "Which car manufacturer's name translates from Latin as \"to roll\"?",
+      "answers": [
+        "Volvo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_29",
+      "title": "Which US city is home to the Second City Comedy Troupe?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_30",
+      "title": "What is known as Ireland's \"kissing rock\"?",
+      "answers": [
+        "The Blarney Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_31",
+      "title": "Which game was the first to require installation of the Steam client to play?",
+      "answers": [
+        "Half-Life 2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_32",
+      "title": "What is the word for the study of flags?",
+      "answers": [
+        "Vexillology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_33",
+      "title": "Which fashion designer is known for his red-soled shoes?",
+      "answers": [
+        "Christian Louboutin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_34",
+      "title": "What word in the English language with three consecutive sets of double letters?",
+      "answers": [
+        "Bookkeeper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_35",
+      "title": "What year was the operating system \"Windows\" first released to the market?",
+      "answers": [
+        "1985"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_36",
+      "title": "What liquid did Swiss candle maker Daniel Peter first add to chocolate in 1867?",
+      "answers": [
+        "Milk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_37",
+      "title": "What is the NATO phonetic alphabet word for \"Q\"?",
+      "answers": [
+        "Quebec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_38",
+      "title": "What racket sport involves bashing a bird?",
+      "answers": [
+        "Badminton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_39",
+      "title": "What American company had a thirty-foot inflatable gorilla atop its Rhode Island offices for decades?",
+      "answers": [
+        "Samsonite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_40",
+      "title": "A Murphy bed is also known as a what?",
+      "answers": [
+        "Foldaway bed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_41",
+      "title": "What company's famous plaid pattern is called \"novacheck\"?",
+      "answers": [
+        "Burberry's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_42",
+      "title": "Where was Babe Ruth born?",
+      "answers": [
+        "Baltimore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_43",
+      "title": "Botanophobia is the fear of what?",
+      "answers": [
+        "Plants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_44",
+      "title": "What was the pseudonym of famous cross-dresser Amandine-Aurore-Lucile Dupin?",
+      "answers": [
+        "George Sand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_45",
+      "title": "How many squares are there on a checkerboard?",
+      "answers": [
+        "64"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_46",
+      "title": "What spice is named for the capital of French Guiana?",
+      "answers": [
+        "Cayenne pepper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_47",
+      "title": "What signature color of paint are John Deere tractors?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_48",
+      "title": "Bibliophobia is a fear or hatred of what?",
+      "answers": [
+        "Books"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_49",
+      "title": "Who was the first horse to win the Triple Crown?",
+      "answers": [
+        "Sir Barton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_74_50",
+      "title": "\"Sweet Georgia Brown\" is the signature song of what basketball team?",
+      "answers": [
+        "Harlem Globetrotters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

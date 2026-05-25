@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_81",
+  "name": "General Trivia 26K 81",
+  "description": "General 4001 - 4050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_81_01",
+      "title": "What year did Volkswagen introduce the Golf GTI model?",
+      "answers": [
+        "1976"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_02",
+      "title": "What 2 letters are often used as a written abbreviation for \"hugs and kisses\"?",
+      "answers": [
+        "XO"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_03",
+      "title": "In the world of business, what does the abbreviation NYSE stand for?",
+      "answers": [
+        "New York Stock Exchange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_04",
+      "title": "Which Flintstones character was absent from the Flintstone vitamins until 1996?",
+      "answers": [
+        "Betty Rubble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_05",
+      "title": "What kind of bones once stiffened corsets?",
+      "answers": [
+        "Whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_06",
+      "title": "What do collectors call the first complete Hot Wheels line-up of cars?",
+      "answers": [
+        "Sweet 16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_07",
+      "title": "How many pieces are found in a standard chess set?",
+      "answers": [
+        "32"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_08",
+      "title": "What Is Joseph Cyril Bamfords claim to fame?",
+      "answers": [
+        "Founded JCB"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_09",
+      "title": "Who said, \"Imagination is more important than knowledge\"?",
+      "answers": [
+        "Albert Einstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_10",
+      "title": "What is the practice of women taking more than one husband is called?",
+      "answers": [
+        "Polyandry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_11",
+      "title": "What kind of dark beer comes in \"dry\", \"Irish\", and \"Imperial Russian\" varieties?",
+      "answers": [
+        "Stout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_12",
+      "title": "What is New Year's Eve called in Scotland?",
+      "answers": [
+        "Hogmanay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_13",
+      "title": "Which US state's official flower is the Saguaro Cactus?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_14",
+      "title": "How many community cards are there in a hand of Texas Hold 'Em?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_15",
+      "title": "What Poker hand comprises three of a kind and a pair?",
+      "answers": [
+        "A full house"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_16",
+      "title": "What color is the smoke announcing the election of a new pope?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_17",
+      "title": "What name is given to the line running across a snooker table?",
+      "answers": [
+        "Balk line"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_18",
+      "title": "A legislature that has legislators in two separate assemblies, chambers, or houses is called what?",
+      "answers": [
+        "Bicameral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_19",
+      "title": "What is \"military commander\" in Japanese?",
+      "answers": [
+        "Shogun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_20",
+      "title": "\"To swoon\" is to what?",
+      "answers": [
+        "Faint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_21",
+      "title": "Which U.S. city is home to a giant replica of Babe Ruth’s baseball bat?",
+      "answers": [
+        "Louisville, Kentucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_22",
+      "title": "Who was the first deaf Miss America, crowned in 1995?",
+      "answers": [
+        "Heather Whitestone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_23",
+      "title": "What popular tea is named after an 1830’s United Kingdom Prime Minister?",
+      "answers": [
+        "Earl Grey tea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_24",
+      "title": "Which basketball move was banned from 1967-1976?",
+      "answers": [
+        "Slam dunk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_25",
+      "title": "What is dentophobia a common fear of?",
+      "answers": [
+        "Dentists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_26",
+      "title": "What is the name given to glittery strings hung on Christmas trees?",
+      "answers": [
+        "Tinsel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_27",
+      "title": "In archery, how many points are awarded for a bull's-eye?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_28",
+      "title": "Nephelococcygia is the practice of doing what?",
+      "answers": [
+        "Finding shapes in clouds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_29",
+      "title": "What sport used the term \"home run\" before baseball?",
+      "answers": [
+        "Cricket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_30",
+      "title": "In the standard Monopoly game, how much money do you collect for finishing second in a beauty contest?",
+      "answers": [
+        "$10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_31",
+      "title": "What suspect in the standard game of Clue has the same name as a bird?",
+      "answers": [
+        "Mrs. Peacock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_32",
+      "title": "What were ivories to an old west gambler?",
+      "answers": [
+        "Dice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_33",
+      "title": "What single initial is used for the real-life director of Britain's M16?",
+      "answers": [
+        "C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_34",
+      "title": "What does the \"X\" in \"Xmas\" stand for?",
+      "answers": [
+        "Christ"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_35",
+      "title": "Who played in his twenty-third and final NHL All-Star Game as a Hartford Whaler?",
+      "answers": [
+        "Gordie Howe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_36",
+      "title": "Who won the first Super Bowl?",
+      "answers": [
+        "The Green Bay Packers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_37",
+      "title": "Figure skater Elvis Stojko comes from which country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_38",
+      "title": "In 1988, who were admitted at Wheaton College for the first time?",
+      "answers": [
+        "Men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_39",
+      "title": "Bhakti, hatha, and kriya are all varieties of what?",
+      "answers": [
+        "Yoga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_40",
+      "title": "\"Selene\" is Greek for what?",
+      "answers": [
+        "The moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_41",
+      "title": "In French, what cooking term means \"to slice into thin strips\"?",
+      "answers": [
+        "Chiffonade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_42",
+      "title": "What nickname for potatoes comes from the name of the tool used to dig them up?",
+      "answers": [
+        "Spuds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_43",
+      "title": "What sport's lingo uses the term \"Manchette\"?",
+      "answers": [
+        "Fencing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_44",
+      "title": "What does the abbreviation N/A mean?",
+      "answers": [
+        "Not applicable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_45",
+      "title": "What is the only book of the Bible comprised entirely of law?",
+      "answers": [
+        "Leviticus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_46",
+      "title": "What fruit's name comes from the Nahuatl word for \"testicle\"?",
+      "answers": [
+        "Avocado's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_47",
+      "title": "In the professional audio industry, what does AES refer to?",
+      "answers": [
+        "Audio Engineering Society"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_48",
+      "title": "What must be manufactured by Victorinox or Wenger to be official?",
+      "answers": [
+        "Swiss Army knives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_49",
+      "title": "What popular operating system are the Mac OS X series based on?",
+      "answers": [
+        "Unix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_81_50",
+      "title": "What baseball team signed a contract with Michael Jordan in 1994?",
+      "answers": [
+        "Chicago White Sox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

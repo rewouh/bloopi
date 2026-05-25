@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_26",
+  "name": "History Trivia 26K 26",
+  "description": "History 1251 - 1300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_26_01",
+      "title": "The earliest evidence of the wheelbarrow was found in which country?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_02",
+      "title": "On which island was Napoleon Bonaparte born?",
+      "answers": [
+        "Corsica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_03",
+      "title": "What 1980’s US president survived an assassination attempt?",
+      "answers": [
+        "Ronald Regan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_04",
+      "title": "How many Soldiers made up a Roman Cohort?",
+      "answers": [
+        "800"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_05",
+      "title": "Chandrika Kumaratunga was the leader of what country?",
+      "answers": [
+        "Sri Lanka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_06",
+      "title": "What modern-day conglomerate built Zero fighter planes used to bomb Pearl Harbor?",
+      "answers": [
+        "Mitsubishi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_07",
+      "title": "Who was the final Emperor of India?",
+      "answers": [
+        "George VI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_08",
+      "title": "What fort was built on Garden Key in the Dry Tortugas islands?",
+      "answers": [
+        "Fort Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_09",
+      "title": "What does NATO stand for?",
+      "answers": [
+        "North Atlantic Treaty Organization"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_10",
+      "title": "What slogan did Nancy Reagan create for her drug awareness campaign?",
+      "answers": [
+        "Just Say No"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_11",
+      "title": "What was explorer Ponce de Leon's first name?",
+      "answers": [
+        "Juan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_12",
+      "title": "Who succeeded Oliver Cromwell as Lord Protector?",
+      "answers": [
+        "Richard Cromwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_13",
+      "title": "The founder of Atari also founded which pizza restaurant?",
+      "answers": [
+        "Chuck E. Cheese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_14",
+      "title": "John Henry \"Doc\" Holliday died as a result of what disease?",
+      "answers": [
+        "Tuberculosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_15",
+      "title": "How many times did Mary Queen of Scots get married?",
+      "answers": [
+        "Three Times"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_16",
+      "title": "Who said, \"I only regret that I have but only one life to lose for my country.\"?",
+      "answers": [
+        "Nathan Hale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_17",
+      "title": "How many countries fought in World War II?",
+      "answers": [
+        "30"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_18",
+      "title": "Who said, \"Do I not destroy my enemies when I make them my friends\"?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_19",
+      "title": "How did police identify criminals before fingerprinting?",
+      "answers": [
+        "Bertillon System"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_20",
+      "title": "Who was arrested after killing 35 people on the Australian island of Tasmania in 1996?",
+      "answers": [
+        "Martin Bryant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_21",
+      "title": "What U.S. President declared \"The ballot is stronger than the bullet\"?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_22",
+      "title": "What city hosted the 1992 Summer Olympics?",
+      "answers": [
+        "Barcelona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_23",
+      "title": "In which war was the \"Battle of Ramillies\"?",
+      "answers": [
+        "War of Spanish Succession"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_24",
+      "title": "Who was assassinated by Nathuram Godse?",
+      "answers": [
+        "Mahatma Gandhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_25",
+      "title": "Who was the first president to have been born after the American Revolution?",
+      "answers": [
+        "Martin Van Buren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_26",
+      "title": "In the U.S., freedom of speech is guaranteed by which Constitutional Amendment?",
+      "answers": [
+        "1st Constitutional Amendment"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_27",
+      "title": "Who uttered the line \"There you go again\" during a debate?",
+      "answers": [
+        "Ronald Reagan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_28",
+      "title": "What was the name of the plane that dropped the atomic bomb on Nagasaki?",
+      "answers": [
+        "Bockscar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_29",
+      "title": "What was America's first major fast food chain?",
+      "answers": [
+        "White Castle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_30",
+      "title": "Which Roman Emperor made the seven-day week official part of the existing Julian calendar?",
+      "answers": [
+        "Constantine the Great"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_31",
+      "title": "Ford produced the Model T in only what color after 1913?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_32",
+      "title": "Who coached the US basketball \"Dream Team\" to a gold medal at the 1992 Barcelona Olympic Games?",
+      "answers": [
+        "Chuck Daly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_33",
+      "title": "What Filipino volcano's 1991 eruption produced ten times more ash than Mount Saint Helens had?",
+      "answers": [
+        "Mount Pinatubo's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_34",
+      "title": "Who changed Blixem's name to Blitzen in his 1844, A Visit from St. Nicholas?",
+      "answers": [
+        "Clement Moore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_35",
+      "title": "What was U.S. President Andrew Johnson's profession before entering politics?",
+      "answers": [
+        "Tailor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_36",
+      "title": "Which popular Christmas song was originally written for a Broadway musical?",
+      "answers": [
+        "\"White Christmas\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_37",
+      "title": "\"Night of Broken Glass\" was also called what?",
+      "answers": [
+        "Kristallnacht"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_38",
+      "title": "Which Norse god’s image is Santa Claus partially based on?",
+      "answers": [
+        "Odin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_39",
+      "title": "Alan Shepherd was scheduled to command Apollo 13 before switching missions with what astronaut?",
+      "answers": [
+        "Jim Lovell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_40",
+      "title": "Who was the first Republican US president?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_41",
+      "title": "Who was the captain of the Bonhomme Richard in the 18th Century??",
+      "answers": [
+        "John Paul Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_42",
+      "title": "The \"Star-Spangled Banner\" was written during which war?",
+      "answers": [
+        "War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_43",
+      "title": "What sporting legend was born Cassius Marcellus Clay Jr. on January 17, 1942?",
+      "answers": [
+        "Muhammad Ali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_44",
+      "title": "What was the first TV dinner entree?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_45",
+      "title": "Which US president was once a peanut farmer?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_46",
+      "title": "Who is credited with being the first Pharaoh of Egypt?",
+      "answers": [
+        "Menes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_47",
+      "title": "By what name is the Vieux Carre in New Orleans better known?",
+      "answers": [
+        "French Quarter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_48",
+      "title": "What four letters were removed form the end of Los Angeles' \"Hollywood\" sign in 1949?",
+      "answers": [
+        "L, a, n, d"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_49",
+      "title": "In what decade was Prince Charles born?",
+      "answers": [
+        "1940s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_26_50",
+      "title": "How long was the Mayflower's journey to the New World?",
+      "answers": [
+        "66 days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

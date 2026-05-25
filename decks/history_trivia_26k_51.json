@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_51",
+  "name": "History Trivia 26K 51",
+  "description": "History 2501 - 2550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_51_01",
+      "title": "Who was the first person to make a public encyclopedia?",
+      "answers": [
+        "Denis Diderot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_02",
+      "title": "What year was Jack the Ripper active?",
+      "answers": [
+        "1888"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_03",
+      "title": "What five-letter word did Time magazine coin in 1926 to refer to left-leaners?",
+      "answers": [
+        "Pinko"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_04",
+      "title": "In 1952, Albert Einstein was offered the presidency of what country?",
+      "answers": [
+        "Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_05",
+      "title": "Who was the leader of Yugoslavia, from 1953 until his death in 1980?",
+      "answers": [
+        "Tito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_06",
+      "title": "How many days in a week were there in ancient Roman times?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_07",
+      "title": "What year did the Panama Canal first open?",
+      "answers": [
+        "1914"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_08",
+      "title": "What year did The Amritsar Massacre take place?",
+      "answers": [
+        "1919"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_09",
+      "title": "When were scissors first invented?",
+      "answers": [
+        "Around 1500 BC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_10",
+      "title": "What Union general is best known for his destructive march across Georgia?",
+      "answers": [
+        "General William T. Sherman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_11",
+      "title": "Who took 18 days to write the Declaration of Independence?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_12",
+      "title": "Which Greek goddess gave her name to the city of Athens?",
+      "answers": [
+        "Athena"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_13",
+      "title": "The AMRAAM missile was designed to replace what other missile?",
+      "answers": [
+        "Sparrow missile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_14",
+      "title": "How many openings were there in the Berlin Wall?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_15",
+      "title": "Who said, \"By failing to prepare you are preparing to fail.\"?",
+      "answers": [
+        "Benjamin Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_16",
+      "title": "Who was the first left-hander to serve two terms as US president?",
+      "answers": [
+        "Bill Clinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_17",
+      "title": "What Mexican revolutionary nearly started a war with the US when he invaded a town in New Mexico in 1916?",
+      "answers": [
+        "Pancho Villa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_18",
+      "title": "What year was the fire extinguisher invented?",
+      "answers": [
+        "1723"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_19",
+      "title": "What two countries declared war on Germany after it invaded Poland?",
+      "answers": [
+        "Great Britain and France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_20",
+      "title": "When was Indira Gandhi assassinated?",
+      "answers": [
+        "October 31, 1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_21",
+      "title": "What is the birth name of US President Bill Clinton?",
+      "answers": [
+        "William Jefferson Blythe III"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_22",
+      "title": "What were the two most important city states in ancient Greece?",
+      "answers": [
+        "Athens and Sparta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_23",
+      "title": "Eric the Red was a Viking from what period of time?",
+      "answers": [
+        "900s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_24",
+      "title": "President Ronald Reagan kept a jar of what type of candy in the Oval Office?",
+      "answers": [
+        "Jellybeans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_25",
+      "title": "Which US president lived in Peacefield?",
+      "answers": [
+        "John Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_26",
+      "title": "Which US President was known as \"the peanut president\"?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_27",
+      "title": "What city was Indira Gandhi killed in?",
+      "answers": [
+        "New Delhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_28",
+      "title": "In which country do parts of Hadrian's Wall still remain?",
+      "answers": [
+        "Great Britain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_29",
+      "title": "\"Little Bastard\" was the nickname given to the Porsche 550 Spyder that killed what acting icon in a crash?",
+      "answers": [
+        "James Dean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_30",
+      "title": "Larry Page and Sergey Brin founded what company in Menlo Park?",
+      "answers": [
+        "Google, Inc."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_31",
+      "title": "In what year did Dr. Roger Bannister become the first person to run a mile in under 4 minutes?",
+      "answers": [
+        "1954"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_32",
+      "title": "Rome was founded in what year?",
+      "answers": [
+        "752, B.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_33",
+      "title": "Wayne Brazel shot and killed what Wild West figure?",
+      "answers": [
+        "Pat Garrett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_34",
+      "title": "In 1893, who became the first woman ever to appear on a US postage stamp?",
+      "answers": [
+        "Queen Isabella I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_35",
+      "title": "How old did Canada turn on July 1, 2017?",
+      "answers": [
+        "150 years old"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_36",
+      "title": "In the Chinese zodiac, with which of the five elements is the rat associated?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_37",
+      "title": "Who was the first monarch of the House of Windsor?",
+      "answers": [
+        "George V"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_38",
+      "title": "What was the agora in an ancient Greek city?",
+      "answers": [
+        "Marketplace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_39",
+      "title": "In what year did Charles Lindburgh make his historic non-stop solo flight across the Atlantic?",
+      "answers": [
+        "1927"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_40",
+      "title": "Who was president of the US from 1953 to 1961?",
+      "answers": [
+        "Dwight D. Eisenhower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_41",
+      "title": "Who were the first people known to celebrate the New Year?",
+      "answers": [
+        "Babylonians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_42",
+      "title": "Who was the only US presidential assassin to die in the electric chair?",
+      "answers": [
+        "Leon Czolgosz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_43",
+      "title": "What tribe of Native Americans was the first to encounter the Pilgrims?",
+      "answers": [
+        "The Wampanoag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_44",
+      "title": "Who were the first people to use currency?",
+      "answers": [
+        "Lydians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_45",
+      "title": "Who said, \"Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally\"?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_46",
+      "title": "Who preceded Georges Pompidou as French President?",
+      "answers": [
+        "Charles de Gaulle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_47",
+      "title": "What was Mahatma Gandhi's profession?",
+      "answers": [
+        "Lawyer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_48",
+      "title": "Who was the youngest person to sign the Declaration of Independence?",
+      "answers": [
+        "Edward Rutledge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_49",
+      "title": "The Spanish Civil War began in what year?",
+      "answers": [
+        "1936"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_51_50",
+      "title": "What famous leader was assassinated on March 15, 44 BC, the Ides of March?",
+      "answers": [
+        "Caesar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

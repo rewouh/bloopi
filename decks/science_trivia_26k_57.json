@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_57",
+  "name": "Science Trivia 26K 57",
+  "description": "Science 2801 - 2850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_57_01",
+      "title": "What does an anemometer measure?",
+      "answers": [
+        "Wind speed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_02",
+      "title": "What number is indicated by the Roman Numeral \"D\"?",
+      "answers": [
+        "500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_03",
+      "title": "What is the average gestation period of the African elephant?",
+      "answers": [
+        "660 days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_04",
+      "title": "Who won a Nobel Prize for discovering energy quanta?",
+      "answers": [
+        "Max Planck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_05",
+      "title": "How many kilograms are there in a metric ton?",
+      "answers": [
+        "1,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_06",
+      "title": "What is the distance between two peaks of a wave called?",
+      "answers": [
+        "Wavelength"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_07",
+      "title": "What type of clouds are thick and puffy and can sometimes turn into thunderstorms?",
+      "answers": [
+        "Cumulus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_08",
+      "title": "How many sides does a heptagon have?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_09",
+      "title": "What vitamin complex includes thiamine, niacin and riboflavin?",
+      "answers": [
+        "Vitamin B"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_10",
+      "title": "Which bird lays the largest eggs?",
+      "answers": [
+        "Ostrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_11",
+      "title": "How many species of dinosaur have been discovered?",
+      "answers": [
+        "700"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_12",
+      "title": "How many grams is 1 Troy Ounce?",
+      "answers": [
+        "31.1 grams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_13",
+      "title": "What is the young of a pigeon called?",
+      "answers": [
+        "Squab"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_14",
+      "title": "What breed is known as the only barkless dog?",
+      "answers": [
+        "Basenji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_15",
+      "title": "Anthropophobia is the fear of what?",
+      "answers": [
+        "People or society"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_16",
+      "title": "What is the term for the official record of a dog’s ancestry?",
+      "answers": [
+        "Pedigree"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_17",
+      "title": "What weather phenomenon is a combination of updrafts and downdrafts?",
+      "answers": [
+        "Tornado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_18",
+      "title": "What alternative name for black cumin is also the name of a TV cook?",
+      "answers": [
+        "Nigella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_19",
+      "title": "\"Lateral Epicondylitis\" is a condition commonly known by what name?",
+      "answers": [
+        "Tennis elbow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_20",
+      "title": "In nineteenth-century France, what were commonly called Herschel and Leverrier?",
+      "answers": [
+        "Uranus and Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_21",
+      "title": "In what organ of the human body would you find the amygdala?",
+      "answers": [
+        "The brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_22",
+      "title": "The Pathfinder spacecraft landed on what planet in 1997?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_23",
+      "title": "How many chromosomes does a donkey have?",
+      "answers": [
+        "62"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_24",
+      "title": "Which is the windiest planet in our solar system?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_25",
+      "title": "What constitutes 12 percent of an egg's weight?",
+      "answers": [
+        "The shell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_26",
+      "title": "Lateral Epicondylitis is a condition commonly known by what name?",
+      "answers": [
+        "Tennis elbow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_27",
+      "title": "Why is most pollen yellow?",
+      "answers": [
+        "To attract bees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_28",
+      "title": "The pivot point of a lever is called what?",
+      "answers": [
+        "Fulcrum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_29",
+      "title": "Starfish belong to what animal phylum, whose name means \"spiny skin\"?",
+      "answers": [
+        "Echinoderms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_30",
+      "title": "Of the seven colors of the rainbow which is the middle one?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_31",
+      "title": "What popular computer language shares its name the SI unit of pressure?",
+      "answers": [
+        "Pascal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_32",
+      "title": "Electrum is a natural alloy of silver and what other metal?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_33",
+      "title": "Who won a Nobel Prize for discovering Insulin?",
+      "answers": [
+        "Frederick Banting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_34",
+      "title": "What was first made by suspending paraffin in a solution of water and antifreeze?",
+      "answers": [
+        "The lava lamp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_35",
+      "title": "How many land miles are there in a league?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_36",
+      "title": "How many watts make a kilowatt?",
+      "answers": [
+        "1000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_37",
+      "title": "Which insect is the closest relative to the grasshopper?",
+      "answers": [
+        "Cockroach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_38",
+      "title": "What color is the octopus blood?",
+      "answers": [
+        "Light blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_39",
+      "title": "Hans Lippershey made the worlds first practical what?",
+      "answers": [
+        "Telescope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_40",
+      "title": "What animal's fingerprints resembles a human's the closest?",
+      "answers": [
+        "Koala"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_41",
+      "title": "What kind of animal is a bustard?",
+      "answers": [
+        "Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_42",
+      "title": "How many feet does a snail have?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_43",
+      "title": "What is the scientific name of the \"western lowland gorilla\"?",
+      "answers": [
+        "Gorilla gorilla gorilla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_44",
+      "title": "What mathematical symbol could you place between 4 and 7 to get a number larger than 4 and smaller than 7?",
+      "answers": [
+        "Decimal point"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_45",
+      "title": "What describes a person with no skin pigment?",
+      "answers": [
+        "An Albino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_46",
+      "title": "Which is known as the Red Planet?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_47",
+      "title": "What name is given to male rhinoceroses?",
+      "answers": [
+        "Bulls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_48",
+      "title": "Animals and plants which produce light are said to be what?",
+      "answers": [
+        "Bioluminescent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_49",
+      "title": "What unit of measurement is approximately 100 fathoms?",
+      "answers": [
+        "A Cable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_57_50",
+      "title": "What is the international radio code word for the letter T?",
+      "answers": [
+        "Tango"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

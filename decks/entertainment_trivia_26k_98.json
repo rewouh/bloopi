@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_98",
+  "name": "Entertainment Trivia 26K 98",
+  "description": "Entertainment 4851 - 4900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_98_01",
+      "title": "Which group recorded the albums \"Regatta de Blanc\" and \"Ghost in the Machine\"?",
+      "answers": [
+        "The Police"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_02",
+      "title": "Which character is always trying to steal the secret Krusty Krab Recipe on \"SpongeBob SquarePants\"?",
+      "answers": [
+        "Plankton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_03",
+      "title": "What pop group sang \"Stayin Alive\"?",
+      "answers": [
+        "Bee Gees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_04",
+      "title": "Who played Daniel LaRusso in the 1984 film \"The Karate Kid\"?",
+      "answers": [
+        "Ralph Macchio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_05",
+      "title": "Which detective was played by Jack Webb in the 1960s TV show \"Dragnet\"?",
+      "answers": [
+        "Sergeant Joe Friday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_06",
+      "title": "What actor played the role of Dr. Frederick Frankenstein in the 1974 film \"Young Frankenstein\"?",
+      "answers": [
+        "Gene Wilder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_07",
+      "title": "How much are the guns worth in the 1998 movie \"Lock, Stock and Two Smoking Barrels\"?",
+      "answers": [
+        "$250,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_08",
+      "title": "Who played Lieutenant Saavik in \"Star Trek II: The Wrath of Khan\"?",
+      "answers": [
+        "Kirstie Alley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_09",
+      "title": "What singer played the role of Uncle Jesse in the 2005 movie \"The Dukes of Hazzard\"?",
+      "answers": [
+        "Willie Nelson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_10",
+      "title": "What year saw the end of the TV show \"Friends\"?",
+      "answers": [
+        "2004"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_11",
+      "title": "Who is the only player in season 14 of the TV show \"Big Brother\" to be in the house but not have a key?",
+      "answers": [
+        "Jodi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_12",
+      "title": "Which movie’s sequel has the tagline \"Same make. Same model. New mission\"?",
+      "answers": [
+        "\"Terminator\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_13",
+      "title": "\"Shut Up and Play the Hits\" is the name of a concert movie from with U.S. music band?",
+      "answers": [
+        "LCD Soundsystem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_14",
+      "title": "What did John Candy sell in the 1987 movie \"Planes, Trains & Automobiles\"?",
+      "answers": [
+        "Shower curtain rings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_15",
+      "title": "Gregory Peck played Lt. Joe Clemons in what 1950s film?",
+      "answers": [
+        "Pork Chop Hill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_16",
+      "title": "Who voices the character of Bart Simpson on the TV show \"The Simpsons\"?",
+      "answers": [
+        "Nancy Cartwright"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_17",
+      "title": "On the cover of the \"Let It Be\" album, which Beatle had the least amount of facial hair?",
+      "answers": [
+        "John Lennon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_18",
+      "title": "Which airship is featured on the cover of Led Zeppelin's debut album?",
+      "answers": [
+        "Hindenburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_19",
+      "title": "What are the names of the \"Trailer Park Boys\"?",
+      "answers": [
+        "Ricky, Julian and Bubbles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_20",
+      "title": "What type of wine does Miles refuse to drink in the movie \"Sideways\"?",
+      "answers": [
+        "Merlot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_21",
+      "title": "How was American comedian and actor, William Claude Dukenfield, better known as?",
+      "answers": [
+        "WC Fields"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_22",
+      "title": "Totoro from the movie \"My Neighbor Totoro\" lives in what kind of tree?",
+      "answers": [
+        "Camphor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_23",
+      "title": "Who did Sigourney Weaver portray in the 1988 film \"Gorillas in the Mist\"?",
+      "answers": [
+        "Dian Fossey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_24",
+      "title": "What did \"My Favorite Martian\" have to do before he could become invisible in the 1960s TV show by the same name?",
+      "answers": [
+        "Raise his antennae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_25",
+      "title": "The TV show \"King of the Hill\" was based in what US state?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_26",
+      "title": "What year was Buddy Holly born?",
+      "answers": [
+        "1936"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_27",
+      "title": "Which music legend was sentenced to six years in prison in 1988?",
+      "answers": [
+        "James Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_28",
+      "title": "Who played the role of David Dunn in the movie \"Unbreakable\"?",
+      "answers": [
+        "Bruce Willis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_29",
+      "title": "What song plays at the end of the \"Breaking Bad\" series finale?",
+      "answers": [
+        "Baby Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_30",
+      "title": "Who was the very first actor to win two consecutive Best Actor Oscars?",
+      "answers": [
+        "Spencer Tracy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_31",
+      "title": "What war was the setting of the TV show \"M*A*S*H\"?",
+      "answers": [
+        "Korean War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_32",
+      "title": "What character does Will Ferrell play in the movie \"Anchorman\"?",
+      "answers": [
+        "Ron Burgundy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_33",
+      "title": "What is Ray Charles' real last name?",
+      "answers": [
+        "Robinson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_34",
+      "title": "What double-word song title was a hit single by The Mamas and the Papas?",
+      "answers": [
+        "Monday, Monday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_35",
+      "title": "What is the collective name for Italian-made western movies?",
+      "answers": [
+        "Spaghetti westerns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_36",
+      "title": "In which city was the TV show \"Full House\" set?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_37",
+      "title": "What actress was Tom Cruise's first wife?",
+      "answers": [
+        "Mimi Rogers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_38",
+      "title": "In the film \"The Shawshank Redemption,\" Captain Hadley's brother left him inheritance money. What industry was his brother in?",
+      "answers": [
+        "Railroad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_39",
+      "title": "What Halle Berry movie is named for the password in the Marx Brothers' \"Horse Feathers\"?",
+      "answers": [
+        "Swordfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_40",
+      "title": "In \"Rocky 3\" what does Apollo Creed give as a gift before he fights \"Clubber\" Lang?",
+      "answers": [
+        "Boxing trunks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_41",
+      "title": "Who played Mork and Mindy's baby?",
+      "answers": [
+        "Jonathan Winters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_42",
+      "title": "Gene Autry performed the original \"Frosty the Snowman\" and which song?",
+      "answers": [
+        "\"Rudolph the Red-Nosed Reindeer\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_43",
+      "title": "What is the name of the villain from the movie \"Mulan\"?",
+      "answers": [
+        "Shan Yu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_44",
+      "title": "Who is the only American-born member of Monty Python?",
+      "answers": [
+        "Terry Gilliam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_45",
+      "title": "Razzie awards are meant to go to bad movies, but who got nominated for directing the now widely respected film Scarface?",
+      "answers": [
+        "Brian De Palma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_46",
+      "title": "In the TV show \"The Simpsons\", what grade does Edna Krabappel teach?",
+      "answers": [
+        "Fourth grade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_47",
+      "title": "What famous rapper's real name is Shawn Carter?",
+      "answers": [
+        "Jay-Z"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_48",
+      "title": "Lesley Hornby became more famous as who?",
+      "answers": [
+        "Twiggy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_49",
+      "title": "What type of two-sailed vessel is particularly adept at sailing upwind?",
+      "answers": [
+        "Sloop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_98_50",
+      "title": "What year was Charlie Chaplin born?",
+      "answers": [
+        "1889"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

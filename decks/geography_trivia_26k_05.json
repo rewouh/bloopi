@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_05",
+  "name": "Geography Trivia 26K 05",
+  "description": "Geography 201 - 250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_05_01",
+      "title": "What is the modern day equivalent of Dutch Guiana?",
+      "answers": [
+        "Suriname"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_02",
+      "title": "What capital city translates as Capital City in the native tongue?",
+      "answers": [
+        "Seoul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_03",
+      "title": "Where would you find the active volcano \"Erebus\"?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_04",
+      "title": "In which Canadian province would you find Christmas Island?",
+      "answers": [
+        "Nova Scotia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_05",
+      "title": "Banjul is the capital of which country?",
+      "answers": [
+        "The Gambia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_06",
+      "title": "Where is the world's tallest church?",
+      "answers": [
+        "Ulm, Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_07",
+      "title": "Bucharest is the capital of what country?",
+      "answers": [
+        "Romania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_08",
+      "title": "Moroni is the capital of which country?",
+      "answers": [
+        "Comoros"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_09",
+      "title": "In what country would you find the active volcano \"Pelee\"?",
+      "answers": [
+        "Martinique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_10",
+      "title": "\"Upon the long river\" is the English translation of the name of which US state?",
+      "answers": [
+        "Connecticut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_11",
+      "title": "What is the capitol of Chechnya?",
+      "answers": [
+        "Grozny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_12",
+      "title": "What American discount retail chain is headquartered in Bentonville, Arkansas?",
+      "answers": [
+        "Walmart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_13",
+      "title": "What is the name of the island that separates the two waterfalls at Niagara Falls?",
+      "answers": [
+        "Goat Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_14",
+      "title": "What African ethnic group is known as \"the people of the veil\" because the men wear veils that conceal all but their eyes?",
+      "answers": [
+        "Tuareg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_15",
+      "title": "What is the only nation that shares a land border with San Marino?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_16",
+      "title": "Which river forms a border between France and Germany?",
+      "answers": [
+        "The Rhine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_17",
+      "title": "What is the capital of Serbia?",
+      "answers": [
+        "Belgrade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_18",
+      "title": "Where did Starbucks open their first location outside of North America?",
+      "answers": [
+        "Tokyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_19",
+      "title": "Albania, Bulgaria, Greece, Bosnia and Herzegovia, Kosovo, and a few other countries make up what peninsula?",
+      "answers": [
+        "Balkan peninsula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_20",
+      "title": "South Africa has water access to which oceans?",
+      "answers": [
+        "Indian and Atlantic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_21",
+      "title": "By land area, which is Australia's largest territory?",
+      "answers": [
+        "Australian Antarctic Territory"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_22",
+      "title": "What divides the Pacific and North American tectonic plates?",
+      "answers": [
+        "San Andreas Fault"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_23",
+      "title": "What are the three colors on the German flag?",
+      "answers": [
+        "Black, red, and gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_24",
+      "title": "What is the only US state with a Union Jack on its flag?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_25",
+      "title": "Which body of water is the Nile River’s primary reservoir?",
+      "answers": [
+        "Lake Victoria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_26",
+      "title": "In what country can a man be referred to as \"First Footer\"?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_27",
+      "title": "In which country is the Casa Rosada?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_28",
+      "title": "What Mediterranean island is located directly south of Corsica?",
+      "answers": [
+        "Sardinia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_29",
+      "title": "What country borders Central African Republic to the east?",
+      "answers": [
+        "South Sudan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_30",
+      "title": "What site is the home to the famous Intihuatana stone?",
+      "answers": [
+        "Machu Picchu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_31",
+      "title": "What is the capital of Botswana?",
+      "answers": [
+        "Gaborone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_32",
+      "title": "What country’s capital is Montevideo?",
+      "answers": [
+        "Uruguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_33",
+      "title": "What two countries share land borders with Bangladesh?",
+      "answers": [
+        "India and Myanmar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_34",
+      "title": "Which European republic was the first to reach Australia in 1606?",
+      "answers": [
+        "The Dutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_35",
+      "title": "What city named its airport after Louis Armstrong?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_36",
+      "title": "Where is the only tropical botanical garden listed on UNESCO's World Heritage Site list?",
+      "answers": [
+        "Singapore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_37",
+      "title": "What is the capital of Colorado?",
+      "answers": [
+        "Denver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_38",
+      "title": "What is the longest river in the world?",
+      "answers": [
+        "Nile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_39",
+      "title": "Which Latin American country shares its name with a nut?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_40",
+      "title": "Where is the Track and field Hall of Fame located?",
+      "answers": [
+        "Indianapolis, Indiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_41",
+      "title": "In what city would you find Grant Park?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_42",
+      "title": "What is the smallest country by area and population?",
+      "answers": [
+        "Vatican City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_43",
+      "title": "If you are at Chicago's Comiskey Park, what sport would you be watching?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_44",
+      "title": "What is a native of Tangier called?",
+      "answers": [
+        "Tangerian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_45",
+      "title": "What was the main unit of currency in Bulgaria before the introduction of the Euro?",
+      "answers": [
+        "Lev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_46",
+      "title": "Which Asian country has the calling code 82?",
+      "answers": [
+        "South Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_47",
+      "title": "Which U.S. president is honored by a statue in Ballybunion, Ireland?",
+      "answers": [
+        "Bill Clinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_48",
+      "title": "Who christened Hawaii \"the Sandwich Islands\" in 1778?",
+      "answers": [
+        "Captain Cook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_49",
+      "title": "Where is Graceland, the legendary home of Elvis Presley?",
+      "answers": [
+        "Memphis, Tennessee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_05_50",
+      "title": "The Smithsonian Institution is located in which city?",
+      "answers": [
+        "Washington D.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

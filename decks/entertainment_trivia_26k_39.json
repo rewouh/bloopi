@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_39",
+  "name": "Entertainment Trivia 26K 39",
+  "description": "Entertainment 1901 - 1950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_39_01",
+      "title": "What actor did Michael J. Fox replace as Marty McFly in \"Back to the Future\"?",
+      "answers": [
+        "Eric Stolz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_02",
+      "title": "What is outlawed in the town in the movie \"Footloose\"?",
+      "answers": [
+        "Dancing and rock music"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_03",
+      "title": "What trumpeter is considered the pioneer of cool jazz?",
+      "answers": [
+        "Miles Davis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_04",
+      "title": "What country was actor Rudolph Valentino born in?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_05",
+      "title": "Happy Days was a spin off from what US TV show?",
+      "answers": [
+        "Love American Style"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_06",
+      "title": "What musical did the song \"We Need a Little Christmas\" originate from?",
+      "answers": [
+        "Mame"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_07",
+      "title": "Which TV show used the song \"Here with Me\" by Dido as its theme song?",
+      "answers": [
+        "Roswell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_08",
+      "title": "What 1970's TV series was revived in 2007 with Michelle Ryan in the title role?",
+      "answers": [
+        "Bionic Woman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_09",
+      "title": "Who played Princess Leia in the original Star Wars movies?",
+      "answers": [
+        "Carrie Fisher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_10",
+      "title": "In the TV show \"The Simpsons\", what is Comic Book Guy's real full name?",
+      "answers": [
+        "Jeffrey Albertson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_11",
+      "title": "How many times do you actually see the knife stabbing Marion in the shower scene of \"Psycho\"?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_12",
+      "title": "Who did Steven Spielberg originally want to play Dr. Alan Grant in \"Jurassic Park\"?",
+      "answers": [
+        "Harrison Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_13",
+      "title": "In The Simpsons, Principal Skinner has a picture of what hanging opposite his desk in his office?",
+      "answers": [
+        "Springfield Elementary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_14",
+      "title": "Who directed the 2001 film \"Black Hawk Down\"?",
+      "answers": [
+        "Ridley Scott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_15",
+      "title": "In which TV series does Fred Savage play Kevin Arnold?",
+      "answers": [
+        "The Wonder Years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_16",
+      "title": "The second video ever played on MTV was by what female artist?",
+      "answers": [
+        "Pat Benatar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_17",
+      "title": "Who said of his TV fame: \"To this day, people will call me Dan Arnold.\"?",
+      "answers": [
+        "John Goodman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_18",
+      "title": "What year was actor W. C. Fields born?",
+      "answers": [
+        "1880"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_19",
+      "title": "Who played Luke Skywalker in the original Star Wars movies?",
+      "answers": [
+        "Mark Hamill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_20",
+      "title": "What store in Diagon Alley sells ingredients for potion making?",
+      "answers": [
+        "The Apothecary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_21",
+      "title": "What series of movies starring Clifton Webb was adapted to a TV show in 1985?",
+      "answers": [
+        "Mr. Belvedere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_22",
+      "title": "In the movie \"Mean Girls\", what does Lindsay Lohan's character dress up as for a Halloween Party?",
+      "answers": [
+        "Bride of Frankenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_23",
+      "title": "In The Simpsons, who is Lisa's favourite jazz musician?",
+      "answers": [
+        "Bleeding Gums Murphy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_24",
+      "title": "What instrument did Lionel Hampton introduce to jazz in 1930?",
+      "answers": [
+        "The vibraphone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_25",
+      "title": "What was Led Zeppelin's original name?",
+      "answers": [
+        "The New Yardbirds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_26",
+      "title": "Who was the first character Johnny Depp portrayed in more than one movie?",
+      "answers": [
+        "Jack Sparrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_27",
+      "title": "David Bowie's \"Let's Dance\" album was released in what year?",
+      "answers": [
+        "1983"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_28",
+      "title": "Who sang the theme to James Bond film \"For Your Eyes Only\"?",
+      "answers": [
+        "Sheena Easton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_29",
+      "title": "In the film \"Airplane!\", what was the name of Leslie Nelson's character?",
+      "answers": [
+        "Dr. Alan Rumack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_30",
+      "title": "The game \"Cities: Skylines\" was developed by which Finnish video game company?",
+      "answers": [
+        "Colossal Order"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_31",
+      "title": "What is the number of the Mobile Army Surgical Hospital in \"M*A*S*H\"?",
+      "answers": [
+        "4077"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_32",
+      "title": "What was the name of He-Man's main nemesis on \"He-Man and the Masters of the Universe\"?",
+      "answers": [
+        "Skeletor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_33",
+      "title": "What silent film star was \"The Tramp\"?",
+      "answers": [
+        "Charlie Chaplin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_34",
+      "title": "How many times does Walter White blow up a car in \"Breaking Bad\"?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_35",
+      "title": "Who recorded the song \"Some Guys Have All the Luck\"?",
+      "answers": [
+        "Rod Stewart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_36",
+      "title": "In the film \"In the Heat of the Night\", who played the role of Officer Sam Wood?",
+      "answers": [
+        "Warren Oates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_37",
+      "title": "Whose posthumous albums include \"R U Still Down?\", \"Still I Rise\", and \"Until the End of Time\"?",
+      "answers": [
+        "Tupac Shakur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_38",
+      "title": "What vehicle was driven by Bo and Luke Duke?",
+      "answers": [
+        "The General Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_39",
+      "title": "What Scottish hero did Mel Gibson portray in the 1995 movie \"Braveheart\"?",
+      "answers": [
+        "William Wallace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_40",
+      "title": "What band is the film \"Bohemian Rhapsody\" about?",
+      "answers": [
+        "Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_41",
+      "title": "What was the first name of Julia Roberts' character in the 2001 movie \"Ocean's Eleven\"?",
+      "answers": [
+        "Tess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_42",
+      "title": "What was the first rap single to hit number one on Billboard's Hot 100?",
+      "answers": [
+        "Ice Ice Baby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_43",
+      "title": "What Country music singer had a #1 single with \"You Look Like I Need A Drink\"?",
+      "answers": [
+        "Justin Moore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_44",
+      "title": "Which pop duo consisted of Fab Morvan and Rob Pilatus?",
+      "answers": [
+        "Milli Vanilli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_45",
+      "title": "What actress shaved her head for her role in the movie \"The Girl in the Kremlin\"?",
+      "answers": [
+        "Natalie Darryl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_46",
+      "title": "What name did George Costanza from the TV show \"Seinfeld\" want to name his first child?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_47",
+      "title": "What red wine does Paul Giamatti refuse to drink in the movie \"Sideways\"?",
+      "answers": [
+        "Merlot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_48",
+      "title": "What breed of dog is Lassie?",
+      "answers": [
+        "Collie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_49",
+      "title": "What is the name of the Mob boss voiced by Joe Mantegna on the TV show \"The Simpsons\"?",
+      "answers": [
+        "Fat Tony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_39_50",
+      "title": "Who played the role of Kris Kringle in the 1994 film \"Miracle on 34th Street\"?",
+      "answers": [
+        "Richard Attenborough"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

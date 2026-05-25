@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_66",
+  "name": "Geography Trivia 26K 66",
+  "description": "Geography 3251 - 3300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_66_01",
+      "title": "What is the oldest bridge over the river Seine in Paris?",
+      "answers": [
+        "Pont Neuf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_02",
+      "title": "St. Croix, St. John and St. Thomas are part of what US territory?",
+      "answers": [
+        "Virgin Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_03",
+      "title": "Mount Kosciuszko is located in which country?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_04",
+      "title": "What river is located along the southern border of Texas?",
+      "answers": [
+        "Rio Grande River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_05",
+      "title": "In what city would you find Battery Park?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_06",
+      "title": "As what is Formosa now known?",
+      "answers": [
+        "Taiwan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_07",
+      "title": "Which stretch of water is Europe's most northern boundary?",
+      "answers": [
+        "Arctic Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_08",
+      "title": "In which country would you find the Negev desert?",
+      "answers": [
+        "Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_09",
+      "title": "Where can you find the world's oldest lake?",
+      "answers": [
+        "Siberia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_10",
+      "title": "What is the capital city of the US state of Louisiana?",
+      "answers": [
+        "Baton Rouge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_11",
+      "title": "What is the world’s most southerly capital city?",
+      "answers": [
+        "Wellington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_12",
+      "title": "Pierre is the capital of which US state?",
+      "answers": [
+        "South Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_13",
+      "title": "Which mountain is the highest in Australia?",
+      "answers": [
+        "Mount Kosciuszko"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_14",
+      "title": "Which US state has shoreline along the Gulf of Mexico and the Atlantic Ocean?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_15",
+      "title": "In what state was the transcontinental railroad completed in 1869, with the hammering of the Golden Spike?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_16",
+      "title": "Which country observes an official Vernal Equinox Day?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_17",
+      "title": "Havana is located on which side of Cuba?",
+      "answers": [
+        "The west"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_18",
+      "title": "What major river runs through Amsterdam?",
+      "answers": [
+        "Amstel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_19",
+      "title": "Pretoria is the capital of which country?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_20",
+      "title": "Yellowstone Lake is located in which US state?",
+      "answers": [
+        "Wyoming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_21",
+      "title": "Ankara is the capital of which country?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_22",
+      "title": "Where is Great Sand Dunes National Park?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_23",
+      "title": "What is the capital of the US state of Kentucky?",
+      "answers": [
+        "Frankfort"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_24",
+      "title": "What three countries share the island of Borneo?",
+      "answers": [
+        "Indonesia, Malaysia and Brunei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_25",
+      "title": "Which US state is nicknamed the \"Land of Enchantment\"?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_26",
+      "title": "Which US state is known as the \"Land of Lincoln\"?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_27",
+      "title": "How many territories are there in Canada?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_28",
+      "title": "Chablis is the northernmost district of what French wine region?",
+      "answers": [
+        "Burgundy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_29",
+      "title": "Which state is home to the Valley of Ten Thousand Smokes?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_30",
+      "title": "What is the capital of Venezuela?",
+      "answers": [
+        "Caracas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_31",
+      "title": "What style of architecture is the Empire State Building?",
+      "answers": [
+        "Art Deco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_32",
+      "title": "In what country would you find Mont-Saint-Michel?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_33",
+      "title": "In what US state would you find Fort McHenry?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_34",
+      "title": "What is the two letter postal abbreviation for the state of Delaware?",
+      "answers": [
+        "DE"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_35",
+      "title": "What Texas city is nicknamed \"The Yellow Rose of Texas\"?",
+      "answers": [
+        "Amarillo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_36",
+      "title": "Which desert covers part of China and Mongolia?",
+      "answers": [
+        "Gobi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_37",
+      "title": "Springfield is the capital of which state?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_38",
+      "title": "Saint Petersburg is located on which river?",
+      "answers": [
+        "Neva River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_39",
+      "title": "Which peninsula is Greece located on?",
+      "answers": [
+        "Balkan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_40",
+      "title": "What is the capital of the Canadian province of Manitoba?",
+      "answers": [
+        "Winnipeg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_41",
+      "title": "What U.S. State was the first to recognize Christmas as an offical holiday?",
+      "answers": [
+        "Alabama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_42",
+      "title": "Which US state has the most shoreline along the Pacific Ocean?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_43",
+      "title": "Venice's Grand Canal ends at what huge square, the city's only piazza?",
+      "answers": [
+        "Piazza San Marco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_44",
+      "title": "Greece is part of which peninsula?",
+      "answers": [
+        "Balkan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_45",
+      "title": "What bay is actually the United States' largest tidal estuary?",
+      "answers": [
+        "Chesapeake Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_46",
+      "title": "In which US state will you find the world's largest rocking chair and world's largest mailbox?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_47",
+      "title": "Which sea, that is part of the Southern Ocean, has the alternative name \"George IV Sea\"?",
+      "answers": [
+        "Weddell Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_48",
+      "title": "Which two US states are separated by the Delaware Bay?",
+      "answers": [
+        "Delaware and New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_49",
+      "title": "What three colors are used in the flag of Texas?",
+      "answers": [
+        "Red, white and blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_66_50",
+      "title": "Which of Sri Lanka’s official languages also has official status in Singapore and parts of India?",
+      "answers": [
+        "Tamil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_01",
+  "name": "Entertainment Trivia 26K 01",
+  "description": "Entertainment 1 - 50 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_01_01",
+      "title": "Who directed the 2001 film \"Mulholland Drive\"?",
+      "answers": [
+        "David Lynch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_02",
+      "title": "Who played the part of Max Cady in the 1991 thriller \"Cape Fear\"?",
+      "answers": [
+        "Robert De Niro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_03",
+      "title": "In the television show \"Miami Vice\", what kind of pet did detective Sonny Crockett have?",
+      "answers": [
+        "Alligator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_04",
+      "title": "The film \"The African Queen\" is set during what war?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_05",
+      "title": "Who composed and played the score for the film 1953 film \"Genevieve\"?",
+      "answers": [
+        "Larry Adler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_06",
+      "title": "Who took home the Academy of Country Music’s Male Vocalist trophy every year between 2006 and 2010?",
+      "answers": [
+        "Brad Paisley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_07",
+      "title": "What \"Saturday Night Live\" castmember played Sean Connery in their Celebrity Jeopardy skits?",
+      "answers": [
+        "Darrell Hammond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_08",
+      "title": "Which epic film was based on a novel by Lew Wallace?",
+      "answers": [
+        "Ben Hur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_09",
+      "title": "When was actor W. C. Fields born?",
+      "answers": [
+        "1880"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_10",
+      "title": "Who is Mia Farrow's mother?",
+      "answers": [
+        "Maureen O'Sullivan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_11",
+      "title": "In the TV show \"The Simpsons\", which character has a pacemaker?",
+      "answers": [
+        "Krusty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_12",
+      "title": "What disease affects the protagonist in the film \"My Left Foot\"?",
+      "answers": [
+        "Cerebral palsy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_13",
+      "title": "Who is the host of the Travel Channel's culinary adventure show \"No Reservations\"?",
+      "answers": [
+        "Anthony Bourdain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_14",
+      "title": "In 2008, the city of Milwaukee unveiled a statue honoring what \"Happy Days\" character?",
+      "answers": [
+        "Fonzie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_15",
+      "title": "What is Doc allergic to in the movie \"Back To The Future\"?",
+      "answers": [
+        "Synthetics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_16",
+      "title": "What is Biff's last name in the \"Back to the Future\" movies?",
+      "answers": [
+        "Tannen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_17",
+      "title": "Who is the creator of the \"Desperate Housewives\" TV series?",
+      "answers": [
+        "Marc Cherry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_18",
+      "title": "Burt Reynolds played the role of who on the TV show \"Gunsmoke\"?",
+      "answers": [
+        "Blacksmith Quint Asper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_19",
+      "title": "What year did the TV show \"30 Rock\" end its 7 year run?",
+      "answers": [
+        "2013"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_20",
+      "title": "What TV mother has presided over the longest-running American sitcom ever?",
+      "answers": [
+        "Marge Simpson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_21",
+      "title": "Cate Blanchett received an Oscar nomination in 2008 for portraying what male musician?",
+      "answers": [
+        "Bob Dylan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_22",
+      "title": "What is the Ali G's full name?",
+      "answers": [
+        "Alistair Leslie Graham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_23",
+      "title": "What George Michael song was banned by the BBC and re-edited three times for MTV?",
+      "answers": [
+        "I Want Your Sex"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_24",
+      "title": "What movie's first batch of soap is made out of fat from liposuction clinics?",
+      "answers": [
+        "Fight Club's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_25",
+      "title": "What fruity brand of cigarettes, a Quentin Tarantino trademark made yet another appearance in \"Pulp Fiction\"?",
+      "answers": [
+        "Red Apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_26",
+      "title": "What band released an album entitled \"Business as Usual\"?",
+      "answers": [
+        "Men at Work"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_27",
+      "title": "What is Gene Simmons' persona name in the band KISS?",
+      "answers": [
+        "The Demon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_28",
+      "title": "What is Andy Dufresne's prison number in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "37927"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_29",
+      "title": "Who released an album in 1973 titled \"Goodbye Yellow Brick Road?\"",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_30",
+      "title": "What movie starred Sean Penn playing the role of gay rights activist Harvey Milk?",
+      "answers": [
+        "Milk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_31",
+      "title": "In The Simpsons, what sits next to the basement door in the Simpson's house?",
+      "answers": [
+        "Grandfather clock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_32",
+      "title": "What did the license plate read on the team's response vehicle in the movie \"Ghostbusters\"?",
+      "answers": [
+        "Ecto-1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_33",
+      "title": "What was the family name of the aliens on the TV show \"3rd Rock from the Sun\"?",
+      "answers": [
+        "The Solomons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_34",
+      "title": "In \"The Addams Family\", what does Morticia do that always excites Gomez?",
+      "answers": [
+        "Speaks French"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_35",
+      "title": "What is the name of the genetically modified disease in the movie \"Mission: Impossible II\"?",
+      "answers": [
+        "Chimera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_36",
+      "title": "Who won a Grammy Award for his song \"I Left my Heart in San Francisco\"?",
+      "answers": [
+        "Tony Bennett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_37",
+      "title": "\"Safety Dance\" was a hit for which band?",
+      "answers": [
+        "Men Without Hats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_38",
+      "title": "What was nominated for an outstanding animated program Emmy in 1990?",
+      "answers": [
+        "The Simpson's Christmas Special"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_39",
+      "title": "Which character did Nick Nolte play in the 1982 film \"48 Hrs.\"?",
+      "answers": [
+        "Jack Cates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_40",
+      "title": "Which British playwright wrote the screenplay for the 1981 film \"The French Lieutenant's Woman\"?",
+      "answers": [
+        "Harold Pinter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_41",
+      "title": "What actor plays the role of the Bible salesman in the movie \"O Brother, Where Art Thou\"?",
+      "answers": [
+        "John Goodman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_42",
+      "title": "Who was the first female comic to be called over to the couch by Johnny Carson?",
+      "answers": [
+        "Ellen DeGeneres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_43",
+      "title": "Who is the singer behind the albums \"1989\" and \"Reputation\"?",
+      "answers": [
+        "Taylor Swift"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_44",
+      "title": "Which of Santa's reindeer is female?",
+      "answers": [
+        "Vixen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_45",
+      "title": "Sandra Bullock won the 2009 Best Actress Oscar for her role in which movie?",
+      "answers": [
+        "The Blind Side"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_46",
+      "title": "For what movie did Cher win a Best Actress Oscar?",
+      "answers": [
+        "Moonstruck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_47",
+      "title": "The Beatles’ third US album was the soundtrack to which one of their movies?",
+      "answers": [
+        "A Hard Day's Night"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_48",
+      "title": "In which three films did Bill Paxton and Michael Bien both have roles?",
+      "answers": [
+        "\"Terminator\", \"Aliens\" and \"Tombstone\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_49",
+      "title": "What was the first magazine to sell 1 billion copies in a single year?",
+      "answers": [
+        "TV Guide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_01_50",
+      "title": "Who recorded the album \"Abraxas\"?",
+      "answers": [
+        "Santana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

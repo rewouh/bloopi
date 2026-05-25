@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_09",
+  "name": "History Trivia 26K 09",
+  "description": "History 401 - 450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_09_01",
+      "title": "Which country were the 1928 Winter Olympic Games held in?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_02",
+      "title": "United States' observation of Mardi Gras was started in which city and state?",
+      "answers": [
+        "Mobile, Alabama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_03",
+      "title": "What pacific atoll was the site of nuclear tests between 1946 and 1958?",
+      "answers": [
+        "The Bikini Atoll"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_04",
+      "title": "On what day of the week did February 29, 2016, fall?",
+      "answers": [
+        "Monday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_05",
+      "title": "Which pizza chain was the first to deliver a pie to space?",
+      "answers": [
+        "Pizza Hut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_06",
+      "title": "What country hosted the 2016 Summer Olympics?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_07",
+      "title": "Pilgrims never called themselves Pilgrims, what were they?",
+      "answers": [
+        "Separatists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_08",
+      "title": "What country hosted the first modern Olympic games in 1896?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_09",
+      "title": "Who was the first person to break the sound barrier?",
+      "answers": [
+        "Chuck Yeager"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_10",
+      "title": "November 11, 1921 marked the first anonymous burial at what famous U.S. cemetery?",
+      "answers": [
+        "Arlington National Cemetery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_11",
+      "title": "How did Princess Diana die in 1997?",
+      "answers": [
+        "Car accident"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_12",
+      "title": "Who was president when the White House got its first computer?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_13",
+      "title": "What English dynasty collapsed into the Wars of the Roses?",
+      "answers": [
+        "The Plantagenets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_14",
+      "title": "What is next in this sequence: era, period, ...?",
+      "answers": [
+        "Epoch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_15",
+      "title": "What year did the construction of the Berlin Wall start?",
+      "answers": [
+        "1961"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_16",
+      "title": "What was the capital city of West Germany from 1949 to 1990?",
+      "answers": [
+        "Bonn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_17",
+      "title": "After the bombing of Pearl Harbor which brand of potato chips changed its name to Jays?",
+      "answers": [
+        "Japps potato chips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_18",
+      "title": "The Battle of Bull Run occurred during what war?",
+      "answers": [
+        "Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_19",
+      "title": "What year was the Pioneer 10 space probe launched into space?",
+      "answers": [
+        "1972"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_20",
+      "title": "The Kenyan terrorists fighting for independence in the 50’s were known as who?",
+      "answers": [
+        "The Mau Mau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_21",
+      "title": "Where was the treaty signed ending the Russo-Japanese War?",
+      "answers": [
+        "Portsmouth, New Hampshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_22",
+      "title": "Which year was the \"Battle of Jutland\" fought?",
+      "answers": [
+        "1916"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_23",
+      "title": "Rodrigo Diaz de Vivar famous under what nickname?",
+      "answers": [
+        "El Cid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_24",
+      "title": "What were the Americans who supported the British during the American Revolution known as?",
+      "answers": [
+        "Loyalists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_25",
+      "title": "What university was Dwight D. Eisenhower president of?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_26",
+      "title": "What famous trials were held in 1692 and 1693?",
+      "answers": [
+        "Salem witch trials"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_27",
+      "title": "How long was William Harrison's presidency?",
+      "answers": [
+        "32 days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_28",
+      "title": "What was the name of Bill Clinton's secretary who became popular during the Monica Lewinsky scandal?",
+      "answers": [
+        "Betty Currie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_29",
+      "title": "Which Mediterranean island once campaigned to become a U.S. state?",
+      "answers": [
+        "Sicily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_30",
+      "title": "In what year did the U.S. Census begin?",
+      "answers": [
+        "1790"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_31",
+      "title": "Which country hosted the 1924 Summer and Winter Olympic Games?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_32",
+      "title": "Who commanded the British forces that captured Quebec from the French in 1759?",
+      "answers": [
+        "James Wolfe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_33",
+      "title": "When did the Japanese attack Pearl Harbor?",
+      "answers": [
+        "December 7, 1941"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_34",
+      "title": "What US state has been governed by Benjamin Butler and Edward Everett?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_35",
+      "title": "What country does the cappuccino originate from?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_36",
+      "title": "What is James Bowie reported to have dropped into a well at the Alamo?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_37",
+      "title": "Which ancient people first mined and smelted copper circa 5000 B.C.?",
+      "answers": [
+        "Egyptians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_38",
+      "title": "Which Egyptian queen is said to have died following a bite from an asp?",
+      "answers": [
+        "Cleopatra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_39",
+      "title": "What British general surrendered to Japanese forces at the Battle of Singapore?",
+      "answers": [
+        "Arthur Percival"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_40",
+      "title": "What year was the first Internet domain registered?",
+      "answers": [
+        "1985"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_41",
+      "title": "Besides \"Axis Sally\", who was another famous propaganda broadcaster for the Nazis?",
+      "answers": [
+        "Berlin Betty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_42",
+      "title": "What century did the Icelandic Vikings first reach the island of Newfoundland?",
+      "answers": [
+        "11th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_43",
+      "title": "Guy Bailey, Roy Hackett and Paul Stephenson made history in 1963, as part of a protest against a bus company that refused to employ black and Asian drivers in which UK city?",
+      "answers": [
+        "Bristol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_44",
+      "title": "In 1472, Leonardo da Vinci became a member of which Florentine guild?",
+      "answers": [
+        "Painter's Guild"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_45",
+      "title": "Who was the overall commander of the Pacific Fleet during World War II?",
+      "answers": [
+        "Admiral Chester Nimitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_46",
+      "title": "Which Founding Father had a house which was discovered to have had about 1200 bone pieces from about ten human skeletons?",
+      "answers": [
+        "Benjamin Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_47",
+      "title": "Who said, \"It’s not enough that we do our best; sometimes we have to do what’s required.\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_48",
+      "title": "What popular destination helped popularize hot dogs in the US in the 19th century?",
+      "answers": [
+        "Coney Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_49",
+      "title": "What brothers invented the hot air balloon?",
+      "answers": [
+        "Montgolfier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_09_50",
+      "title": "From 1960 to 1965, which African country was a major area of Chinese political influence?",
+      "answers": [
+        "Central African Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_52",
+  "name": "General Trivia 26K 52",
+  "description": "General 2551 - 2600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_52_01",
+      "title": "A Bloody Mary is a cocktail made with tomato juice and what type of alcohol?",
+      "answers": [
+        "Vodka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_02",
+      "title": "Which company’s products did the \"Wienermobile\" advertise?",
+      "answers": [
+        "Oscar Mayer's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_03",
+      "title": "What martial art has a name beginning with \"K\" that means empty hand?",
+      "answers": [
+        "Karate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_04",
+      "title": "What is the point value of the letter K in Scrabble?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_05",
+      "title": "Eclairs are said to have originated in which country?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_06",
+      "title": "Which famous sandwich was formerly known as the Blue Ribbon Burger?",
+      "answers": [
+        "Big Mac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_07",
+      "title": "What cheese is traditionally used on a Reuben sandwich?",
+      "answers": [
+        "Swiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_08",
+      "title": "The Queensland nut is another name for what nut?",
+      "answers": [
+        "Macadamia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_09",
+      "title": "What fruit are Kriek lambics made with?",
+      "answers": [
+        "Cherries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_10",
+      "title": "What common household cleaning tool is used in the sport of curling?",
+      "answers": [
+        "Broom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_11",
+      "title": "What stadium was nicknamed \"The House That Ruth Built\"?",
+      "answers": [
+        "Yankee Stadium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_12",
+      "title": "If a dish is served pomontier, what does it contain?",
+      "answers": [
+        "Potatoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_13",
+      "title": "In boxing who suffered defeats to Tim Witherspoon, Mike Tyson and Lennox Lewis?",
+      "answers": [
+        "Frank Bruno"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_14",
+      "title": "The fear of learning is known as what?",
+      "answers": [
+        "Sophophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_15",
+      "title": "Who said \"Too much of a good thing can be wonderful\"?",
+      "answers": [
+        "Mae West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_16",
+      "title": "During the 1980s, who replaced Bob Froese as the #1 goaltender for the Philadelphia Flyers?",
+      "answers": [
+        "Ron Hextall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_17",
+      "title": "In which sport would win the Federation Cup?",
+      "answers": [
+        "Women's tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_18",
+      "title": "How many states does the Hoover Dam power?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_19",
+      "title": "How high is a soccer goal?",
+      "answers": [
+        "8 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_20",
+      "title": "The dish, Cullen Skink, originates from which country?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_21",
+      "title": "What is November's birthstone?",
+      "answers": [
+        "Topaz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_22",
+      "title": "What is the American term for the rope maneuver called \"abseiling\" in Europe?",
+      "answers": [
+        "Rappeling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_23",
+      "title": "In 1997, what Oscar winner was replaced by Sarah Ferguson as Weight Watchers' spokesperson?",
+      "answers": [
+        "Lynn Redgrave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_24",
+      "title": "How many strikes make up a perfect tenpin bowling game?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_25",
+      "title": "What is the name of a small barrel of beer of nine gallons capacity?",
+      "answers": [
+        "A firkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_26",
+      "title": "What's the term for a bet before cards are dealt?",
+      "answers": [
+        "Ante"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_27",
+      "title": "In which country was Buddha born?",
+      "answers": [
+        "Nepal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_28",
+      "title": "Who is credited with inventing Coca-Cola?",
+      "answers": [
+        "John Pemberton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_29",
+      "title": "What thin cotton fabric used in summer suits takes its name from Persian words for \"milk and sugar\"?",
+      "answers": [
+        "Seersucker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_30",
+      "title": "In architecture, what is a \"Purlin\"?",
+      "answers": [
+        "A horizontal structural member"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_31",
+      "title": "In Easter celebrations in Germany, what do children decorate trees with?",
+      "answers": [
+        "Eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_32",
+      "title": "What is a female turkey called?",
+      "answers": [
+        "Hen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_33",
+      "title": "What was boxer Arnold Raymond Cream's nickname?",
+      "answers": [
+        "Jersey Joe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_34",
+      "title": "What is the name of the dog on the Cracker Jack box?",
+      "answers": [
+        "Bingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_35",
+      "title": "Stilton cheese originates from which country?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_36",
+      "title": "What sport features snatches and clean jerks?",
+      "answers": [
+        "Weightlifting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_37",
+      "title": "In a P2P network, what does the \"P\" stand for?",
+      "answers": [
+        "Peer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_38",
+      "title": "What kind of fruit juice is used to mix a Polish Martini?",
+      "answers": [
+        "Apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_39",
+      "title": "What traditional Russian instrument looks like a triangular guitar?",
+      "answers": [
+        "The balalaika"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_40",
+      "title": "How many different falling pieces are there in the game Tetris?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_41",
+      "title": "What candy company bought the Friendly's Restaurant chain in 1979?",
+      "answers": [
+        "Hershey's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_42",
+      "title": "What family member traditionally decorates the \"tannenbaum\" in Germany?",
+      "answers": [
+        "The mother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_43",
+      "title": "Which comic book company was founded as Timely Publications?",
+      "answers": [
+        "Marvel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_44",
+      "title": "Which Commodore-produced computer came with 5 kB of static onboard memory?",
+      "answers": [
+        "VIC-20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_45",
+      "title": "What car company was named for the founder of Detroit?",
+      "answers": [
+        "Cadillac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_46",
+      "title": "What is Indianapolis Speedway also known as?",
+      "answers": [
+        "The Brickyard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_47",
+      "title": "A sentence, verse, etc., that includes all the letters of the alphabet is called what?",
+      "answers": [
+        "Pangram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_48",
+      "title": "The South Beach Diet is named for a section of what city?",
+      "answers": [
+        "Miami Beach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_49",
+      "title": "How many tournaments make up a Grand Slam in golf?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_52_50",
+      "title": "Which automaker opened the first foreign plant in the US?",
+      "answers": [
+        "Volkswagen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

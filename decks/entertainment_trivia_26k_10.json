@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_10",
+  "name": "Entertainment Trivia 26K 10",
+  "description": "Entertainment 451 - 500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_10_01",
+      "title": "What decade did Gene Autry star in the Western musical \"Melody Ranch\"?",
+      "answers": [
+        "1940s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_02",
+      "title": "In the film \"The Day of the Jackal\", who did Edward Fox play?",
+      "answers": [
+        "Jackal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_03",
+      "title": "Despite being released at the end of 1998, who had a  #1 hit in 1999 with the song \"Fly Away\"?",
+      "answers": [
+        "Lenny Kravitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_04",
+      "title": "What horror film featured the character Samara Morgan?",
+      "answers": [
+        "\"The Ring\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_05",
+      "title": "What position was first held by Kenesaw Mountain Landis?",
+      "answers": [
+        "US Baseball commissioner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_06",
+      "title": "What sporting competition was the focus of the 2007 film \"Balls of Fury\"?",
+      "answers": [
+        "Ping Pong"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_07",
+      "title": "Who has the only speaking part in Mel Brooks' \"Silent Movie\"?",
+      "answers": [
+        "Marcel Marceau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_08",
+      "title": "Who released the 1970's album entitled \"Superfly\"?",
+      "answers": [
+        "Curtis Mayfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_09",
+      "title": "Whose first wife was actress Jane Wyman?",
+      "answers": [
+        "Ronald Reagan's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_10",
+      "title": "In the movie \"Short Circuit\", what is the name of the robot?",
+      "answers": [
+        "Johnny Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_11",
+      "title": "How many episodes of “Leave it to Beaver” were made?",
+      "answers": [
+        "235"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_12",
+      "title": "What kind of animals are \"Pinky and the Brain\"?",
+      "answers": [
+        "Lab mice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_13",
+      "title": "In which fictional law firm did Ally McBeal work?",
+      "answers": [
+        "Cage, Fish and Associates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_14",
+      "title": "What variety show included the critics Waldorf and Statler?",
+      "answers": [
+        "The Muppet Show"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_15",
+      "title": "Who originally sang \"Rudolph the Red-Nosed Reindeer\"?",
+      "answers": [
+        "Gene Autry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_16",
+      "title": "Who Had A Hit In 1993 With \"She Don't Let Nobody\"?",
+      "answers": [
+        "Chaka Demus & Pliers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_17",
+      "title": "What TV sitcom opens with the theme \"Making our Dreams Come True\"?",
+      "answers": [
+        "Laverne and Shirley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_18",
+      "title": "What year were the Canada's Juno Awards first awarded?",
+      "answers": [
+        "1970"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_19",
+      "title": "What were Moe Howard, Larry Fine and Curly Howard better known as?",
+      "answers": [
+        "The 3 Stooges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_20",
+      "title": "With which tune, that references the Fab Four, did Joe Diffie go to #1 in in 1996?",
+      "answers": [
+        "\"Bigger Than The Beatles\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_21",
+      "title": "The American rock band, \"The Black Keys\", hails from which US state?",
+      "answers": [
+        "Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_22",
+      "title": "Who played the role of TV's T..J. Hooker?",
+      "answers": [
+        "William Shatner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_23",
+      "title": "What 2004 film spawned a line of popular t-shirts reading \"Vote for Pedro\"?",
+      "answers": [
+        "Napoleon Dynamite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_24",
+      "title": "What character from a pop song wears a screwed-down hairdo and snow-white tan?",
+      "answers": [
+        "Ziggy Stardust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_25",
+      "title": "Who starred as David in the TV show \"The Hogan Family\"?",
+      "answers": [
+        "Jason Bateman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_26",
+      "title": "How old was Marilyn Monroe when she died?",
+      "answers": [
+        "36"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_27",
+      "title": "What 2 coaches on The Voice first appeared in season 4 and returned for season 6?",
+      "answers": [
+        "Shakira & Usher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_28",
+      "title": "Queen scored the 1981 song \"Under Pressure\" with the help of what British singer?",
+      "answers": [
+        "David Bowie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_29",
+      "title": "Who played the role of TV's J. J. Starbuck?",
+      "answers": [
+        "Dale Robertson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_30",
+      "title": "Who played the role of Jade in the 2009 movie \"The Hangover\"?",
+      "answers": [
+        "Heather Graham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_31",
+      "title": "What movie did the villain Norman Bates appear in?",
+      "answers": [
+        "Psycho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_32",
+      "title": "What movie did the villain Mrs. Danvers appear in?",
+      "answers": [
+        "Rebecca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_33",
+      "title": "What kind of creature was Sam on \"The Muppet Show\"?",
+      "answers": [
+        "Eagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_34",
+      "title": "What was Mary's last name on \"The Mary Tyler Moore Show\"?",
+      "answers": [
+        "Richards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_35",
+      "title": "What movie earned John Wayne his first Academy Award?",
+      "answers": [
+        "True Grit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_36",
+      "title": "What is Johnny Chase's nickname on the TV show \"Entourage\"?",
+      "answers": [
+        "Drama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_37",
+      "title": "What was Studio Ghibli's highest grossing film?",
+      "answers": [
+        "Spirited Away"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_38",
+      "title": "Who played the role of Honey Rider in the first James Bond movie?",
+      "answers": [
+        "Ursula Andress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_39",
+      "title": "What patriotic anthem composed by Irving Berlin includes the lyrics \"Stand beside her and guide her\"?",
+      "answers": [
+        "God Bless America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_40",
+      "title": "What athlete had a part in the movie \"Airplane!\"?",
+      "answers": [
+        "Kareem Abdul-Jabbar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_41",
+      "title": "Who played the role of Jack Cates in the 1982 film \"48 Hrs.\"?",
+      "answers": [
+        "Nick Nolte"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_42",
+      "title": "In The Simpsons, what is the monstrous truck at the Monster Truck Rally called?",
+      "answers": [
+        "Truckasaurus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_43",
+      "title": "What disco queen's first gold record was 1975's \"Love to Love You Baby\"?",
+      "answers": [
+        "Donna Summer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_44",
+      "title": "The two sisters in \"My Neighbor Totoro\" are named what?",
+      "answers": [
+        "Satsuki and Mei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_45",
+      "title": "\"Lord of the Dance\" star Michael Flatley was born in what country?",
+      "answers": [
+        "The U.S."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_46",
+      "title": "Which team did John Madden, of \"Madden NFL\" fame, win a Super Bowl with as head coach?",
+      "answers": [
+        "Oakland Raiders"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_47",
+      "title": "In what ominous numbered room is Winston Smith strapped to a chair at the end of \"Nineteen Eighty-Four\"?",
+      "answers": [
+        "Room 101"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_48",
+      "title": "The title character of what 2000 film is a Norwich terrier name Winky?",
+      "answers": [
+        "Best in Show"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_49",
+      "title": "What baseball movie features a character nicknamed Nuke LaLoosh?",
+      "answers": [
+        "Bull Durham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_10_50",
+      "title": "Whose adventures on TV take place on the fictional Island of Sodor?",
+      "answers": [
+        "Thomas the Tank Engine's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

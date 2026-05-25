@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_58",
+  "name": "General Trivia 26K 58",
+  "description": "General 2851 - 2900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_58_01",
+      "title": "At which sport was Hungarian Victor Barna World Champion 5 times?",
+      "answers": [
+        "Table Tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_02",
+      "title": "What does a chef do with a mandoline?",
+      "answers": [
+        "Slice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_03",
+      "title": "Which bird is the national bird of Argentina?",
+      "answers": [
+        "Rufous Hornero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_04",
+      "title": "Who is widely credited as being the inventor of the modern commercially available toilet paper?",
+      "answers": [
+        "Joseph Gayetty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_05",
+      "title": "What large US city calls its newspaper the Bee?",
+      "answers": [
+        "Sacramento"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_06",
+      "title": "Which NBA player has had a tattoo of the late Malcolm X on his left calf at least since 2012?",
+      "answers": [
+        "Derrick Rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_07",
+      "title": "What dog breed has a name that translates to \"little brushwood dog\"?",
+      "answers": [
+        "Shiba Inu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_08",
+      "title": "Shechita is the method of producing meat that is what?",
+      "answers": [
+        "Kosher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_09",
+      "title": "Which member of boxing’s \"Fabulous Four\" was the only one who defeated each of the other three at least once?",
+      "answers": [
+        "Sugar Ray Leonard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_10",
+      "title": "What's the meat in McDonald's original recipe for Egg McMuffins?",
+      "answers": [
+        "Canadian bacon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_11",
+      "title": "What supermodel appeared dressed as George Washington on the cover of the premiere issue of \"George\" magazine?",
+      "answers": [
+        "Cindy Crawford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_12",
+      "title": "What psychoanalyst smoked 20 cigars per day?",
+      "answers": [
+        "Sigmund Freud"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_13",
+      "title": "What is an ice hockey puck made from?",
+      "answers": [
+        "Rubber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_14",
+      "title": "Which old silver coin was worth four-pence in medieval England?",
+      "answers": [
+        "The groat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_15",
+      "title": "How many balls are on a pool table at the start of a game?",
+      "answers": [
+        "16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_16",
+      "title": "The ruby anniversary celebrates how many years of marriage?",
+      "answers": [
+        "Forty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_17",
+      "title": "What does VHS stand for?",
+      "answers": [
+        "Video Home System"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_18",
+      "title": "What ingredient makes up at least 51% of bourbon mash?",
+      "answers": [
+        "Corn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_19",
+      "title": "The entrance to what New York City landmark has a pair of lion sculptures?",
+      "answers": [
+        "Public Library"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_20",
+      "title": "For which game was the Steam Workshop service created to allow players to share modifications?",
+      "answers": [
+        "Team Fortress 2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_21",
+      "title": "How many scoops of ice cream go into a Ben & Jerry's \"Vermonster\" sundae?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_22",
+      "title": "An onomastician studies what?",
+      "answers": [
+        "Names"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_23",
+      "title": "Who invented the Moog synthesiser?",
+      "answers": [
+        "Bob Moog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_24",
+      "title": "What is a group of witches called?",
+      "answers": [
+        "A coven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_25",
+      "title": "What Christian feast celebrates \"tongues of fire\" descending on the Apostles?",
+      "answers": [
+        "Pentecost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_26",
+      "title": "Who is credited with inventing the AeroPress?",
+      "answers": [
+        "Alan Adler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_27",
+      "title": "Who won the World Series in 1987?",
+      "answers": [
+        "Minnesota Twins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_28",
+      "title": "Keurig Green Mountain is responsible for inventing what product?",
+      "answers": [
+        "K-cup pods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_29",
+      "title": "In what competition could you see a double axel and a mohawk turn?",
+      "answers": [
+        "Figure skating"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_30",
+      "title": "What chain's first outlet was opened in San Bernardino, California, in 1958?",
+      "answers": [
+        "McDonald's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_31",
+      "title": "What are a Galliard, Sarabande, and Courante?",
+      "answers": [
+        "Dance types"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_32",
+      "title": "The Linux operating system was created by which software engineer?",
+      "answers": [
+        "Linus Torvalds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_33",
+      "title": "An amendment to the US Constitution must be ratified by what fraction of all the states?",
+      "answers": [
+        "75%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_34",
+      "title": "In computing, what does HTTP stand for?",
+      "answers": [
+        "Hypertext Transfer Protocol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_35",
+      "title": "What sport is Pele associated with?",
+      "answers": [
+        "Soccer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_36",
+      "title": "The abnormal fear of spiders is called what?",
+      "answers": [
+        "Arachnophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_37",
+      "title": "What was the original brand of cereal whose mascot was Swerdloc?",
+      "answers": [
+        "Kix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_38",
+      "title": "What is the fear of light flashes known as?",
+      "answers": [
+        "Selaphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_39",
+      "title": "What ingredient does the word \"sushi\" refer to?",
+      "answers": [
+        "Rice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_40",
+      "title": "With what do you \"Deck the Halls\"?",
+      "answers": [
+        "Boughs of Holly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_41",
+      "title": "What would you have if you recombined Laurasia and Gondwanaland?",
+      "answers": [
+        "Pangea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_42",
+      "title": "Which book of the Bible recounts the story of Noah and the Ark?",
+      "answers": [
+        "Genesis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_43",
+      "title": "What is Santa's name in Spain?",
+      "answers": [
+        "Papa Noel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_44",
+      "title": "Flour cooked together with fat is known as what?",
+      "answers": [
+        "Roux"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_45",
+      "title": "What is traditionally the main fruit ingredient in a rickey?",
+      "answers": [
+        "Limes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_46",
+      "title": "What usually has cream in its \"New England\" version and tomatoes in its \"Manhattan\" version?",
+      "answers": [
+        "Clam chowder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_47",
+      "title": "What sports term is also the name of the dimple at the bottom of a wine bottle?",
+      "answers": [
+        "Punt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_48",
+      "title": "For whom is the left-field foul pole at Boston's Fenway Park officially named?",
+      "answers": [
+        "Carlton Fisk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_49",
+      "title": "Which beer was advertised as \"Probably the best beer in the world.\" in the 1970s?",
+      "answers": [
+        "Carlsberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_58_50",
+      "title": "What candy used the ad slogan \"Get the sensation\"?",
+      "answers": [
+        "York Peppermint Pattie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

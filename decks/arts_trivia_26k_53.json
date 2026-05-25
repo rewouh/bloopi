@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_53",
+  "name": "Arts Trivia 26K 53",
+  "description": "Arts 2601 - 2650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_53_01",
+      "title": "What is Wonder Woman's most notable alias?",
+      "answers": [
+        "Diana Prince"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_02",
+      "title": "Which author wrote \"The Duncton Chronicles\"?",
+      "answers": [
+        "William Horwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_03",
+      "title": "What former NFL star was the author of a book about needlepoint for men?",
+      "answers": [
+        "Rosey Grier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_04",
+      "title": "In \"Uncle Tom's Cabin\", Eliza's famous flight across the ice floes takes place on what frozen river?",
+      "answers": [
+        "The Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_05",
+      "title": "Who solves crimes in Bayport, located in Barmet Bay?",
+      "answers": [
+        "The Hardy Boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_06",
+      "title": "Who is the Greek equivalent of the Roman god Apollo?",
+      "answers": [
+        "Apollo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_07",
+      "title": "What year was the second instalment of \"The Faerie Queene\" epic poem published?",
+      "answers": [
+        "1596"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_08",
+      "title": "In the tale \"Jack and the Beanstalk\", what did Jack trade for the magic beans?",
+      "answers": [
+        "A cow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_09",
+      "title": "Pablo Picasso was one of the suspects questioned when what item was stole in Paris in 1911?",
+      "answers": [
+        "The Mona Lisa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_10",
+      "title": "In Greek mythology who ferries the dead across the rivers Styx and Acheron?",
+      "answers": [
+        "Charon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_11",
+      "title": "Who was the wife of King Cepheus of Æthiopia?",
+      "answers": [
+        "Cassiopeia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_12",
+      "title": "Which of the Three Tenors set up his own competition for young singers in 1982?",
+      "answers": [
+        "Luciano Pavarotti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_13",
+      "title": "Who wrote \"Our Lady of the Flowers\" while in prison?",
+      "answers": [
+        "Jean Genet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_14",
+      "title": "What Russian-born American poet was awarded a Nobel Prize in literature in 1987?",
+      "answers": [
+        "Joseph Brodsky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_15",
+      "title": "In what Arthur Miller play does the main character have two sons named Biff and Happy?",
+      "answers": [
+        "Death of a Salesman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_16",
+      "title": "Until Ben-Hur broke its record, what was the bestselling novel of the nineteenth century?",
+      "answers": [
+        "Uncle Tom's Cabin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_17",
+      "title": "Who wrote the novel \"The Naked and the Dead\"?",
+      "answers": [
+        "Norman Mailer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_18",
+      "title": "What author created Wonderland?",
+      "answers": [
+        "Lewis Carroll"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_19",
+      "title": "Who won Pulitzers for his plays \"A Delicate Balance\", \"Seascape\", and \"Three Tall Women\"?",
+      "answers": [
+        "Edward Albee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_20",
+      "title": "Which famous painting was stolen from an Oslo museum in 1994?",
+      "answers": [
+        "The Scream"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_21",
+      "title": "What city's \"Tin Pan Alley\" was known for its music publishing industry?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_22",
+      "title": "What year was H. G. Wells' \"The Inivisible Man\" serialized by Pearson's Weekly?",
+      "answers": [
+        "1897"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_23",
+      "title": "Who is the Greek Goddess of witchcraft and magic?",
+      "answers": [
+        "Hecate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_24",
+      "title": "Who is the Greek equivalent of the Roman god Vulcan?",
+      "answers": [
+        "Hephaestos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_25",
+      "title": "What kind of creatures are Nag and Nagaina who plan to kill Rikki-Tikki-Tavi in \"The Jungle Book\"?",
+      "answers": [
+        "Cobras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_26",
+      "title": "Beethoven's third symphony is named what?",
+      "answers": [
+        "The Eroica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_27",
+      "title": "Who went down to Hades to rescue his wife Eurydice?",
+      "answers": [
+        "Orpheus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_28",
+      "title": "What is the middle name of author Arthur C. Clarke?",
+      "answers": [
+        "Charles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_29",
+      "title": "What original literary work was the movie \"Manhunter\" based on?",
+      "answers": [
+        "Red Dragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_30",
+      "title": "Which painter, famous for his pop-art, died in 1997?",
+      "answers": [
+        "Roy Lichtenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_31",
+      "title": "According to Exodus, what is the ninth plague of Egypt?",
+      "answers": [
+        "Darkness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_32",
+      "title": "Who wrote \"The Scarlatti Inheritance\"?",
+      "answers": [
+        "Robert Ludlum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_33",
+      "title": "In Tom Clancy's Jack Ryan novels, Jack is badly injured in a helicopter crash.  Where did the crash occur?",
+      "answers": [
+        "The Greek island Crete"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_34",
+      "title": "Who wrote the collection of short stories on which Fiddler on the Roof was based?",
+      "answers": [
+        "Sholem Aleichem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_35",
+      "title": "In Norse mythology what is the name of the ultimate battle?",
+      "answers": [
+        "Ragnarök"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_36",
+      "title": "What year was Canadian author Margaret Atwood born in?",
+      "answers": [
+        "1939"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_37",
+      "title": "What art word is derived from the French word meaning \"pasting\"?",
+      "answers": [
+        "Collage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_38",
+      "title": "Which Philosopher said \"Hell is other people\"?",
+      "answers": [
+        "Jean Paul Sartre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_39",
+      "title": "What fantasy world is author Piers Anthony best known for?",
+      "answers": [
+        "Xanth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_40",
+      "title": "How many labours did Hercules perform to free himself from bondage?",
+      "answers": [
+        "Twelve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_41",
+      "title": "Peter Pan is the captain of which group of boys?",
+      "answers": [
+        "Lost boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_42",
+      "title": "Who wrote the 1897 novel \"The Invisible Man\"?",
+      "answers": [
+        "H. G. Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_43",
+      "title": "In which book does Flora refers to Mr. Meyerburg as Mr. Mybug?",
+      "answers": [
+        "Cold Comfort Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_44",
+      "title": "What John Grisham novel features a female attorney named Regina Love, who goes by the nickname \"Reggie\"?",
+      "answers": [
+        "The Client"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_45",
+      "title": "Writer Miguel de Cervantes was from which country?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_46",
+      "title": "Where did Aristotle believe the seat of intelligence was?",
+      "answers": [
+        "Heart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_47",
+      "title": "When did Benjamin Britten's opera \"Death in Venice\" premier?",
+      "answers": [
+        "1973"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_48",
+      "title": "What British musical made 13-year-old Liam Mower the youngest Laurence Olivier Award-winner in 2006?",
+      "answers": [
+        "Billy Elliot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_49",
+      "title": "Name Tin Tin's Canine Companion?",
+      "answers": [
+        "Snowy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_53_50",
+      "title": "Which character killed Grendel?",
+      "answers": [
+        "Beowulf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_26",
+  "name": "Arts Trivia 26K 26",
+  "description": "Arts 1251 - 1300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_26_01",
+      "title": "What author created the character of Philip Marlowe?",
+      "answers": [
+        "Raymond Chandler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_02",
+      "title": "What is the name of the literary club founded by J.R.R. Tolkien while in Oxford as a professor?",
+      "answers": [
+        "Inklings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_03",
+      "title": "What is the name of Harry Potter's pet owl?",
+      "answers": [
+        "Hedwig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_04",
+      "title": "What sport is the subject of the book \"Sands of Time\"?",
+      "answers": [
+        "Beach volleyball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_05",
+      "title": "Who blinded himself with Jocasta's brooch?",
+      "answers": [
+        "Oedipus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_06",
+      "title": "What literary work inspired Franz Ferdinand's \"Love and Destroy\" song?",
+      "answers": [
+        "The Master and Margarita"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_07",
+      "title": "How does James Bond like his martinis?",
+      "answers": [
+        "Shaken, not stirred"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_08",
+      "title": "Venetian painter Jacopo Robusti was better known by what name?",
+      "answers": [
+        "Tintoretto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_09",
+      "title": "Nick Carraway was the narrating lead character in which classic novel?",
+      "answers": [
+        "The Great Gatsby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_10",
+      "title": "In the opera, what kind of factory did Carmen work in?",
+      "answers": [
+        "Tobacco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_11",
+      "title": "What ethologist told the story of Elsa the lioness in the book \"Born Free\"?",
+      "answers": [
+        "Joy Adamson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_12",
+      "title": "Whose autobiography was entitled \"The Sport of Queens\"?",
+      "answers": [
+        "Dick Francis'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_13",
+      "title": "What poet penned \"Ash Wednesday\" in 1930?",
+      "answers": [
+        "T.S. Eliot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_14",
+      "title": "Which of the Seven Dwarfs comes first alphabetically?",
+      "answers": [
+        "Bashful"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_15",
+      "title": "What classic novel ends with Rose of Sharon breast-feeding a starving hobo?",
+      "answers": [
+        "The Grapes of Wrath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_16",
+      "title": "What famous statue was discovered in 1820 on the Greek island of Milos?",
+      "answers": [
+        "Venus de Milo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_17",
+      "title": "In \"The Adventures of Pinocchio\", who did Pinocchio accidentally kill?",
+      "answers": [
+        "The Talking Cricket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_18",
+      "title": "An 1849 painting by Asher Durand, and a sculpture situated in Bailick Park in Midleton, Ireland,share what name?",
+      "answers": [
+        "Kindred Spirits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_19",
+      "title": "What was the name of the lead character in the novel \"The Scarlet Letter\"?",
+      "answers": [
+        "Hester Prynne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_20",
+      "title": "Who was adviser to Odysseus whose name is now synonymous with a trusted councilor?",
+      "answers": [
+        "Mentor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_21",
+      "title": "What name is given to the ancient Christian and Jewish underground burial chambers in and around Rome?",
+      "answers": [
+        "Catacombs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_22",
+      "title": "How many lines are in a limerick?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_23",
+      "title": "Who painted Self Portrait with Bandaged Ear?",
+      "answers": [
+        "Vincent Van Gogh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_24",
+      "title": "Which book begins with the words \"The scent and smoke and sweat of a casino are nauseating at three in the morning\"?",
+      "answers": [
+        "Casino Royale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_25",
+      "title": "What musical is based on the trials of murderesses Beulah Annan and Belva Gaertner?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_26",
+      "title": "Who composed \"The Dream of Gerontius\"?",
+      "answers": [
+        "Edward Elgar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_27",
+      "title": "The novel \"The Dogs of War\" took its title from which other work?",
+      "answers": [
+        "Shakespeare's \"Julius Caesar\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_28",
+      "title": "What is the name of Emily Bronte’s only completed novel?",
+      "answers": [
+        "Wuthering Heights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_29",
+      "title": "What kind of flowers did Mary Poppins wear in her hair?",
+      "answers": [
+        "Daisies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_30",
+      "title": "Who wrote \"The Hunchback of Notre Dame\"?",
+      "answers": [
+        "Victor Hugo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_31",
+      "title": "What title character of a classic 1891 novel is arrested at Stonehenge?",
+      "answers": [
+        "Tess of the D'Urbervilles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_32",
+      "title": "What author became famous for his six-volume biography of Lincoln?",
+      "answers": [
+        "Carl Sandburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_33",
+      "title": "Who wrote the novel \"And Outcast of the Islands\"?",
+      "answers": [
+        "Joseph Conrad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_34",
+      "title": "In what 1949 novel is the world divided into three principal continents: Oceania, Eurasia, Eastasia?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_35",
+      "title": "Inanna is the ancient Sumerian goddess of what?",
+      "answers": [
+        "Love, fertility and war"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_36",
+      "title": "During what war was the novel \"Catch-22\" set?",
+      "answers": [
+        "World War II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_37",
+      "title": "What color hair does the \"Mona Lisa\" have?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_38",
+      "title": "Philosopher Hannah Arendt's most famous book is named for what man \"in Jerusalem\"?",
+      "answers": [
+        "Adolf Eichmann"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_39",
+      "title": "What is Bruce Wayne's heroic identity?",
+      "answers": [
+        "Batman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_40",
+      "title": "\"The Da Vinci Code\" repeats the myth that the glass pyramid in front of the Louvre consists of how many panes?",
+      "answers": [
+        "666"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_41",
+      "title": "Which doctor did Hugh Lofting write a series of books about?",
+      "answers": [
+        "Dr. Dolittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_42",
+      "title": "Whose chest contained the \"Treasure Island\" map?",
+      "answers": [
+        "Billy Bones'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_43",
+      "title": "What name was given to the 12 sons of Ge and Uranus?",
+      "answers": [
+        "Titans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_44",
+      "title": "In Charles Dickens' \"Oliver Twist\", what is the name of the man who trains boys to steal for him?",
+      "answers": [
+        "Fagin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_45",
+      "title": "Humbert Humbert is a character in which popular novel?",
+      "answers": [
+        "Lolita"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_46",
+      "title": "What are the first names of Lord Voldemort's parents?",
+      "answers": [
+        "Tom and Merope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_47",
+      "title": "According to legend, Robin Hood was born in what area of Nottinghamshire?",
+      "answers": [
+        "Locksley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_48",
+      "title": "Dale Arden, Princess Aura, and Dr. Hans Zarkov are characters from which classic American comic strip?",
+      "answers": [
+        "Flash Gordon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_49",
+      "title": "What playwright wrote \"Death of a Salesman\"?",
+      "answers": [
+        "Arthur Miller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_26_50",
+      "title": "Which Stephen King novel takes place mostly in the fictional Overlook Hotel?",
+      "answers": [
+        "\"The Shining\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

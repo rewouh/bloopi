@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_51",
+  "name": "Arts Trivia 26K 51",
+  "description": "Arts 2501 - 2550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_51_01",
+      "title": "In \"The Twelve Days of Christmas\", what did my true love send to me on the sixth day?",
+      "answers": [
+        "Six geese-a-laying"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_02",
+      "title": "Which 1920s play is the first major play written for children?",
+      "answers": [
+        "\"Peter Pan\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_03",
+      "title": "Which detective novel did Wilkie Collins publish in 1868?",
+      "answers": [
+        "The Moonstone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_04",
+      "title": "Poseidon was the Greek god of what?",
+      "answers": [
+        "Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_05",
+      "title": "What hero of Wagner's \"Ring\" opera cycle slays the dragon Fafner?",
+      "answers": [
+        "Siegfried"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_06",
+      "title": "Who is painter Pablo Diego Jose Francisco de Paula Juan Nepomuceno Cipriano de la Santisima Trinidad better known as?",
+      "answers": [
+        "Pablo Picasso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_07",
+      "title": "Which musical term denotes that a piece is to be played \"very sweetly\"?",
+      "answers": [
+        "Dolcissimo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_08",
+      "title": "What year saw the release of H. G. Wells' \"The Island of Doctor Moreau\"?",
+      "answers": [
+        "1896"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_09",
+      "title": "What novel by Lucy Maud Montgomery became Canada's longest-running main stage musical?",
+      "answers": [
+        "Anne of Green Gables"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_10",
+      "title": "What Stephen King novel features the characters Annie Wilkes and Paul Sheldon?",
+      "answers": [
+        "Misery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_11",
+      "title": "What is the more common name for serigraphy?",
+      "answers": [
+        "Screen printing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_12",
+      "title": "What kind of story does a \"bildungsroman\" tell?",
+      "answers": [
+        "Coming of age"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_13",
+      "title": "Who created \"The Scarlet Pimpernel\"?",
+      "answers": [
+        "Baroness Orczy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_14",
+      "title": "In Shakespeare's \"The Tempest\", who does Miranda fall in love with?",
+      "answers": [
+        "Ferdinand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_15",
+      "title": "What popular comedian authored a book titled \"I Am America (And So Can You!)\"?",
+      "answers": [
+        "Stephen Colbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_16",
+      "title": "Who originally wrote about the children's land of Narnia?",
+      "answers": [
+        "C. S. Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_17",
+      "title": "Who is the main character in Ayn Rynd's \"The Fountainhead\"?",
+      "answers": [
+        "Howard Roark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_18",
+      "title": "What book tells the story of the Harris family fleeing to Canada to escape slavery?",
+      "answers": [
+        "Uncle Tom's Cabin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_19",
+      "title": "Drug lord Mr. Big is the villain of what James Bond novel?",
+      "answers": [
+        "Live and Let Die"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_20",
+      "title": "Which body part was Achilles weak spot?",
+      "answers": [
+        "His heel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_21",
+      "title": "Who wrote the children's novel \"Swallows and Amazons\"?",
+      "answers": [
+        "Arthur Ransome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_22",
+      "title": "Where does Harry Potter have a lightning-shaped scar?",
+      "answers": [
+        "On his forehead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_23",
+      "title": "Plato's \"Apology\" consists of what man's defence against a capital charge?",
+      "answers": [
+        "Socrates'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_24",
+      "title": "What is the name of the milkman in \"Fiddler on the Roof\"?",
+      "answers": [
+        "Tevye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_25",
+      "title": "What writer is known as the Bard?",
+      "answers": [
+        "William Shakespeare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_26",
+      "title": "Who wrote the novel \"Robinson Crusoe\"?",
+      "answers": [
+        "Daniel Defoe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_27",
+      "title": "Who wrote the 1975 novel \"Shogun\"?",
+      "answers": [
+        "James Clavell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_28",
+      "title": "Who wrote the novel \"The Deep\"?",
+      "answers": [
+        "Peter Benchley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_29",
+      "title": "What color is the \"Space stone\" in the 2017 Marvel Legacy relaunch?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_30",
+      "title": "Which type of nonsensical humorous verse was popularized by Edward Lear?",
+      "answers": [
+        "Limerick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_31",
+      "title": "Which comic book hero lives in the city of Metropolis?",
+      "answers": [
+        "Superman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_32",
+      "title": "What was Bram Stoker's original name for Dracula?",
+      "answers": [
+        "Count Wampyr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_33",
+      "title": "From what language did English borrow the word \"pundit\"?",
+      "answers": [
+        "Hindi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_34",
+      "title": "What is the last word of the Bible?",
+      "answers": [
+        "Amen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_35",
+      "title": "Which food of the gods gives immortality?",
+      "answers": [
+        "Ambrosia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_36",
+      "title": "Who was the subject of almost 100 Rembrandt paintings, drawings and etchings?",
+      "answers": [
+        "Rembrandt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_37",
+      "title": "Michelangelo's David sculpture was originally modeled after which hero of myth?",
+      "answers": [
+        "Hercules"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_38",
+      "title": "Who is Prospero's daughter in Shakespeare's \"The Tempest\"?",
+      "answers": [
+        "Miranda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_39",
+      "title": "What kind of blood is dumped on Stephen King's \"Carrie\"?",
+      "answers": [
+        "Pig's blood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_40",
+      "title": "In the comic book series \"Strangers in Paradise\", where did David and Katchoo first meet?",
+      "answers": [
+        "In a museum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_41",
+      "title": "What Greek god is the ruler of the underworld?",
+      "answers": [
+        "Hades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_42",
+      "title": "What artist sold only one painting, \"The Red Vineyard\", during his lifetime?",
+      "answers": [
+        "Vincent van Gogh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_43",
+      "title": "What is the name of the infamous chicken fighter that appears throughout the \"Chew\" comics series?",
+      "answers": [
+        "Poyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_44",
+      "title": "Theo, LeSieg and Rosetta Stone are some of the pen names used by what popular author?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_45",
+      "title": "What word comes from the capital in Hell in Milton's \"Paradise Lost\"?",
+      "answers": [
+        "Pandemonium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_46",
+      "title": "Who wrote the classic science fiction novel \"Helliconia Summer\"?",
+      "answers": [
+        "Brian W. Aldiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_47",
+      "title": "What TV judge wrote the book \"Don't Pee on My Leg and Tell Me It's Raining\"?",
+      "answers": [
+        "Judge Judy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_48",
+      "title": "What folk hero is said to have been born in Loxley, South Yorkshire?",
+      "answers": [
+        "Robin Hood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_49",
+      "title": "In Shakespeare's \"Romeo and Juliet\", was Romeo a Capulet or a Montague?",
+      "answers": [
+        "Montague"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_51_50",
+      "title": "What does the fairy godmother transform into a coach for Cinderella?",
+      "answers": [
+        "A pumpkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_63",
+  "name": "General Trivia 26K 63",
+  "description": "General 3101 - 3150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_63_01",
+      "title": "What rank is the US Navy equivalent of the army's five-star general?",
+      "answers": [
+        "Fleet Admiral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_02",
+      "title": "From which country did the dance, \"The Quadrille\", originate?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_03",
+      "title": "What is the main ingredient of the dish called \"baba ghanoush\"?",
+      "answers": [
+        "Eggplant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_04",
+      "title": "What was the nickname of Cowboys defensive end Ed Jones?",
+      "answers": [
+        "Too Tall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_05",
+      "title": "Who did Jersey Joe Walcott defeat at age 37 to win the heavyweight title?",
+      "answers": [
+        "Ezzard Charles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_06",
+      "title": "How many feet separate the bases in a regulation-sized baseball diamond?",
+      "answers": [
+        "90 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_07",
+      "title": "In what State is it illegal to smoke from a pipe after sunset?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_08",
+      "title": "Pepsi Blue was a Pepsi flavored with what?",
+      "answers": [
+        "Berries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_09",
+      "title": "What popular soft drink was first created in Waco, Texas?",
+      "answers": [
+        "Dr Pepper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_10",
+      "title": "In a circus, a funambulist is a what?",
+      "answers": [
+        "Tightrope walker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_11",
+      "title": "When was \"Macho Man\" Randy Savage born?",
+      "answers": [
+        "1952"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_12",
+      "title": "Where was the first drive in movie theater?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_13",
+      "title": "The Patsy Award is an award given in what field?",
+      "answers": [
+        "Animal acting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_14",
+      "title": "What is the technical name for the chef's hat?",
+      "answers": [
+        "Toque blanche"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_15",
+      "title": "What is Japanese sake made from?",
+      "answers": [
+        "Rice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_16",
+      "title": "Baklava is usually made using what kind of paper-thin dough?",
+      "answers": [
+        "Filo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_17",
+      "title": "Feijoada is the national dish of what country?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_18",
+      "title": "How many soccer players should each team typically hove on the field at the start of each match?",
+      "answers": [
+        "11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_19",
+      "title": "Where was the candy apple invented?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_20",
+      "title": "According to the Bible, what is now guarded by an angel holding a flaming sword?",
+      "answers": [
+        "The Garden of Eden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_21",
+      "title": "What is the shortcut for the \"copy\" function on computers running the Windows operating system?",
+      "answers": [
+        "Ctrl+C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_22",
+      "title": "What kind of birds would you find in a gaggle?",
+      "answers": [
+        "Geese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_23",
+      "title": "In which wing of the White House is the Oval Office located?",
+      "answers": [
+        "West wing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_24",
+      "title": "In which country would you find the iconic Olympic stadium known as the \"Bird's Nest\"?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_25",
+      "title": "Who was born Mark Feld?",
+      "answers": [
+        "Marc Bolan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_26",
+      "title": "What is a male turkey called?",
+      "answers": [
+        "Tom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_27",
+      "title": "What team did the Green Bay Packers defeat in Super Bowl II?",
+      "answers": [
+        "Oakland Raiders"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_28",
+      "title": "Apple Brown Betty is a dessert comprised of apples and what?",
+      "answers": [
+        "Brown sugar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_29",
+      "title": "What was the name of the first computer virus on MS-DOS?",
+      "answers": [
+        "Brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_30",
+      "title": "In 2003, who became the first Latin­American to hit 500 career home runs in Major League Baseball?",
+      "answers": [
+        "Sammy Sosa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_31",
+      "title": "In the song Frosty the Snowman, what brought Frosty back to life?",
+      "answers": [
+        "A top hat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_32",
+      "title": "What percentage of Americans believe in Astrology",
+      "answers": [
+        "26"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_33",
+      "title": "A \"waltz-length\" dress stops at what part of the body?",
+      "answers": [
+        "The calf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_34",
+      "title": "Mysophobia is the irrational fear of what?",
+      "answers": [
+        "Contamination"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_35",
+      "title": "What does Pinocchio in Italian mean?",
+      "answers": [
+        "Pine eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_36",
+      "title": "What sport features strikers and sweepers?",
+      "answers": [
+        "Soccer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_37",
+      "title": "What are Roy W. Allen and Frank Wright famous for?",
+      "answers": [
+        "A&W root beer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_38",
+      "title": "What do spelunkers explore?",
+      "answers": [
+        "Caves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_39",
+      "title": "Which company created the slogan \"We'll leave the light on for you\"?",
+      "answers": [
+        "Motel 6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_40",
+      "title": "What kind of fruit juice is used to mix a Pina Colada?",
+      "answers": [
+        "Pineapple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_41",
+      "title": "Which fashion designer is popular for his \"Space Age\" look?",
+      "answers": [
+        "Pierre Cardin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_42",
+      "title": "How many quires are there in a ream?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_43",
+      "title": "In what decade did the Vatican withdraw their requirement that Catholics refrain from eating meat on Fridays?",
+      "answers": [
+        "The 1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_44",
+      "title": "What flavor soda pop did Roy Allen and Frank Wright begin selling in 1919?",
+      "answers": [
+        "Root beer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_45",
+      "title": "According to legend, what liquid does Cupid use when whetting his arrows?",
+      "answers": [
+        "Blood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_46",
+      "title": "What war do the girls in \"Little Women\" grow up during?",
+      "answers": [
+        "The Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_47",
+      "title": "What is the main ingredient in traditional gingerbread cookies?",
+      "answers": [
+        "Flour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_48",
+      "title": "What was the Mellon Arena also known as?",
+      "answers": [
+        "The Igloo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_49",
+      "title": "How many children did poet Sylvia Plath have?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_63_50",
+      "title": "What year was the first iPad released?",
+      "answers": [
+        "2010"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

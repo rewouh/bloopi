@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_28",
+  "name": "History Trivia 26K 28",
+  "description": "History 1351 - 1400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_28_01",
+      "title": "Who invented the World Wide Web?",
+      "answers": [
+        "Tim Berners-Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_02",
+      "title": "The Northern Mariana Islands became a US territory during what war?",
+      "answers": [
+        "World War II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_03",
+      "title": "Which abolitionist wrote the newspapers called \"The Liberator\"?",
+      "answers": [
+        "William Lloyd Garrison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_04",
+      "title": "What was a boarding device used by ancient Roman ships?",
+      "answers": [
+        "Corvus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_05",
+      "title": "What decade saw the introduction of the Easy­Bake Oven, Lite Brite, and Spirograph?",
+      "answers": [
+        "1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_06",
+      "title": "What was called an \"ironclad\"?",
+      "answers": [
+        "A ship"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_07",
+      "title": "In which decade did Yuri Gagarin become the first man to orbit the Earth?",
+      "answers": [
+        "1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_08",
+      "title": "Where was Budweiser first brewed in the US?",
+      "answers": [
+        "St. Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_09",
+      "title": "What horse race was first held in 1875 at the Churchill Downs racetrack?",
+      "answers": [
+        "Kentucky Derby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_10",
+      "title": "What year did the Times Square Ball Drop first take place?",
+      "answers": [
+        "1907, welcoming 1908"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_11",
+      "title": "What city was JonBenet Ramsey killed in?",
+      "answers": [
+        "Boulder, Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_12",
+      "title": "What world leader was Time magazine's \"Man of the Year\" for 1938?",
+      "answers": [
+        "Adolf Hitler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_13",
+      "title": "What military legend was nicknamed \"The Desert Fox\"?",
+      "answers": [
+        "Erwin Rommel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_14",
+      "title": "Who was the first person to fly around the world alone?",
+      "answers": [
+        "Wiley Hardeman Post"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_15",
+      "title": "What were slaves called in ancient Sparta?",
+      "answers": [
+        "Helots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_16",
+      "title": "At the 1996 Olympics, what American tied Mark Spitz's lifetime record of nine golds?",
+      "answers": [
+        "Carl Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_17",
+      "title": "What ship carried Captain Cook to Australia?",
+      "answers": [
+        "Endeavour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_18",
+      "title": "Which US president walked down the aisle with a three-months pregnant Nancy?",
+      "answers": [
+        "Ronald Reagan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_19",
+      "title": "Who was known as the Welsh Wizard?",
+      "answers": [
+        "David Lloyd George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_20",
+      "title": "As of 2020, how many vice presidents have gone on to become president in the US?",
+      "answers": [
+        "14"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_21",
+      "title": "Who shot President James Garfield?",
+      "answers": [
+        "Charles J. Guiteau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_22",
+      "title": "Who was British Prime Minister on V-J day?",
+      "answers": [
+        "Clement Attlee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_23",
+      "title": "In 1607, what became the first permanent English settlement in North America?",
+      "answers": [
+        "Jamestown, Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_24",
+      "title": "Where were the 1960 Winter Olympics held?",
+      "answers": [
+        "Squaw Valley, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_25",
+      "title": "In a Nazi concentration camp, a black triangle identified a prisoner as what?",
+      "answers": [
+        "Asocial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_26",
+      "title": "Who wrote the Pledge of Allegiance?",
+      "answers": [
+        "Francis Bellamy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_27",
+      "title": "The Colossus of Rhodes was dedicated to which god?",
+      "answers": [
+        "Helios"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_28",
+      "title": "Which US vice president shot a Texas attorney while out hunting quail in 2006?",
+      "answers": [
+        "Dick Cheney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_29",
+      "title": "Which civilization was centered around the city of Tenochtitlan?",
+      "answers": [
+        "Aztec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_30",
+      "title": "Which former US president was a Peanut Farmer?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_31",
+      "title": "Where did the tradition of pumpkin carving originate?",
+      "answers": [
+        "Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_32",
+      "title": "Acadia was the original name of which Canadian province?",
+      "answers": [
+        "Nova Scotia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_33",
+      "title": "New York's Wall Street was named when a wall was built there for what purpose?",
+      "answers": [
+        "Defense from attack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_34",
+      "title": "In what decade was the voting age in the US lowered to 18?",
+      "answers": [
+        "1970's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_35",
+      "title": "What Spanish explorer is credited with discovering the Pacific Ocean?",
+      "answers": [
+        "Balboa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_36",
+      "title": "How many amendments have been made to the US Constitution?",
+      "answers": [
+        "27"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_37",
+      "title": "What day did the Battle of the Somme begin?",
+      "answers": [
+        "July 1, 1916"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_38",
+      "title": "Which European country ruled the Philippine Islands as a colony before 1898?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_39",
+      "title": "Which cabinet post did Winston Churchill hold between 1924 and 1929?",
+      "answers": [
+        "Chancellor of the Exchequer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_40",
+      "title": "Confucianism effectively became the common philosophy of the Chinese empire during which dynasty?",
+      "answers": [
+        "Han Dynasty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_41",
+      "title": "Who was USA' first female governor?",
+      "answers": [
+        "Nellie Tayloe Ross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_42",
+      "title": "Who was the first full-term President of Sierra Leone?",
+      "answers": [
+        "Siaka Stevens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_43",
+      "title": "What are mummies wrapped in?",
+      "answers": [
+        "Linen cloth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_44",
+      "title": "Who was the architect of Operation Market Garden?",
+      "answers": [
+        "General Bernard Montgomery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_45",
+      "title": "The SALT II treaty was signed by Jimmy Carter and who else?",
+      "answers": [
+        "Leonid Brezhnev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_46",
+      "title": "What company introduced the first canned ham in the US in 1926?",
+      "answers": [
+        "Hormel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_47",
+      "title": "Winston Churchill ordered the restocking of which animal at Gibraltar in 1942?",
+      "answers": [
+        "Barbary apes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_48",
+      "title": "What dog breed was the official 1972 Summer Olympics mascot?",
+      "answers": [
+        "Dachshund"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_49",
+      "title": "What is \"Dan\" short for in former US vice­ president Dan Quayle's name?",
+      "answers": [
+        "Danforth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_28_50",
+      "title": "What was the first man-made object to leave the Solar System?",
+      "answers": [
+        "Voyager 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_42",
+  "name": "Arts Trivia 26K 42",
+  "description": "Arts 2051 - 2100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_42_01",
+      "title": "Which artist released an album titled \"St. Valentine’s Day\" in 1948?",
+      "answers": [
+        "Bing Crosby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_02",
+      "title": "What was writer Eric Arthur Blair's pen name?",
+      "answers": [
+        "George Orwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_03",
+      "title": "In what country was composer Ludwig van Beethoven born?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_04",
+      "title": "In \"Adventures of Huckleberry Finn\", who is Huck's father?",
+      "answers": [
+        "Pap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_05",
+      "title": "What two-word phrase is the first writing to appear in \"Charlotte's Web\"?",
+      "answers": [
+        "Some pig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_06",
+      "title": "Who wrote the book \"Man's Search for Meaning\"?",
+      "answers": [
+        "Viktor E. Frankl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_07",
+      "title": "Who composed the opera \"Death in Venice\"?",
+      "answers": [
+        "Benjamin Britten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_08",
+      "title": "Who wrote the book \"The Perfect Storm\"?",
+      "answers": [
+        "Sebastian Junger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_09",
+      "title": "What children's classic first chapter is titled \"In the Drain\"?",
+      "answers": [
+        "Stuart Little"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_10",
+      "title": "What publication uses the motto \"America's Finest News Source\"?",
+      "answers": [
+        "The Onion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_11",
+      "title": "Eric Arthur Blair was better known by what pen name?",
+      "answers": [
+        "George Orwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_12",
+      "title": "Where does the Bossa Nova dance music originate?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_13",
+      "title": "Iron Man's \"Veronica\" was built to contain whom?",
+      "answers": [
+        "The Hulk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_14",
+      "title": "What author created the character of Sherlock Holmes?",
+      "answers": [
+        "Arthur Conan Doyle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_15",
+      "title": "What color collar does Mickey Mouse's dog Pluto typically wear?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_16",
+      "title": "What was Richard Wagner's second Opera that was inspired by a trip on the sea?",
+      "answers": [
+        "The Flying Dutchman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_17",
+      "title": "What is Charlie's last name in Roald Dahl's \"Charlie and the Chocolate Factory\"?",
+      "answers": [
+        "Bucket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_18",
+      "title": "Which Jane Austen protagonist was described as merely \"tolerable\"?",
+      "answers": [
+        "Elizabeth Bennet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_19",
+      "title": "During what war was the novel \"The Last of the Mohicans\" set?",
+      "answers": [
+        "Seven Years' War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_20",
+      "title": "Stephen King's Dark Tower series is about a Gunslinger named what?",
+      "answers": [
+        "Roland Deschain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_21",
+      "title": "How many puppies did Missis Pongo give birth to in the book \"The Hundred and One Dalmatians\"?",
+      "answers": [
+        "15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_22",
+      "title": "Who wrote the novel \"Sparkling Cyanide\"?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_23",
+      "title": "According to legend, what was the name of the Roman slave who removed a thorn from the lion's foot?",
+      "answers": [
+        "Androcles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_24",
+      "title": "What is believed to be the first political cartoon published in colonial America?",
+      "answers": [
+        "Join or Die Cartoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_25",
+      "title": "What Jane Austen book has many parallels with \"Bridget Jones's Diary\" including the main male character?",
+      "answers": [
+        "Pride and Prejudice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_26",
+      "title": "Bragi was the Norse God of what?",
+      "answers": [
+        "Poetry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_27",
+      "title": "Which George Eliot novel is set in a fictitious Midlands town in the UK between 1829 and 1832?",
+      "answers": [
+        "\"Middlemarch\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_28",
+      "title": "Don Diego's secret identity, \"Zorro\", is the Spanish word for what animal?",
+      "answers": [
+        "Fox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_29",
+      "title": "Who painted Nu couché?",
+      "answers": [
+        "Amedeo Modigliani"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_30",
+      "title": "What is the name of the dragon in \"The Hobbit\"?",
+      "answers": [
+        "Smaug"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_31",
+      "title": "What comic novel did Stella Gibbons publish in 1932?",
+      "answers": [
+        "Cold Comfort Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_32",
+      "title": "Who made his West End debut playing alongside his mother in \"South Pacific\"?",
+      "answers": [
+        "Larry Hagman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_33",
+      "title": "What John Steinbeck novel is based on the biblical story of Cain & Abel?",
+      "answers": [
+        "East of Eden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_34",
+      "title": "Who wrote the Dark Tower series?",
+      "answers": [
+        "Stephen King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_35",
+      "title": "Who wrote the first three books of the \"Millennium\" novel series?",
+      "answers": [
+        "Stieg Larsson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_36",
+      "title": "Who provides James Bond with his gadgets?",
+      "answers": [
+        "Q"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_37",
+      "title": "What does the abbreviation of Dana's police team, RCAT, stand for in the comic book series \"Revival\"?",
+      "answers": [
+        "Revitalized Citizen Arbitration Team"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_38",
+      "title": "What color was the hair of the girl known as Anne of Green Gables?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_39",
+      "title": "What is Jon’s last name in the \"Garfield\" comics?",
+      "answers": [
+        "Arbuckle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_40",
+      "title": "Uriah Heep was a character in what Charles Dickens novel?",
+      "answers": [
+        "David Copperfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_41",
+      "title": "Who composed the score for the musical \"Kiss Me Kate\"?",
+      "answers": [
+        "Cole Porter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_42",
+      "title": "What bestseller tells the story of the fishing boat \"Andrea Gail\"?",
+      "answers": [
+        "The Perfect Storm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_43",
+      "title": "What sci­fi author is credited with coining the \"Three Laws of Robotics\"?",
+      "answers": [
+        "Isaac Asimov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_44",
+      "title": "Who is the Roman goddess of hunting?",
+      "answers": [
+        "Diana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_45",
+      "title": "Who wrote the book \"Jaws\"?",
+      "answers": [
+        "Peter Benchley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_46",
+      "title": "What Rhodes scholar and former Clinton advisor published the memoir \"All Too Human: A Political Education\" in 1999?",
+      "answers": [
+        "George Stephanopolous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_47",
+      "title": "What was H.G. Wells' first novel?",
+      "answers": [
+        "The Time Machine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_48",
+      "title": "Who wrote \"East of Eden\"?",
+      "answers": [
+        "John Steinbeck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_49",
+      "title": "Whose crime was witnessed only by Cindy Lou Who?",
+      "answers": [
+        "The Grinch's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_42_50",
+      "title": "How many strings are there on the \"Spanish Guitar\"?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_28",
+  "name": "General Trivia 26K 28",
+  "description": "General 1351 - 1400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_28_01",
+      "title": "What religious movement was founded by Joseph Smith?",
+      "answers": [
+        "Mormonism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_02",
+      "title": "At most, how many Friday the 13th can there be in the same calendar year?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_03",
+      "title": "Which French beer is also Melton Mowbray area code without the initial 0?",
+      "answers": [
+        "1664"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_04",
+      "title": "What company was once called Quantum Computer Services?",
+      "answers": [
+        "AOL"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_05",
+      "title": "What popular architect designed the Guggenheim Museum of Modern Art?",
+      "answers": [
+        "Frank Lloyd Wright"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_06",
+      "title": "What are you frightened of if you are Alektorophobic?",
+      "answers": [
+        "Chickens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_07",
+      "title": "As of 2020, what is the name of the largest submarine in the world?",
+      "answers": [
+        "Dmitriy Donskoy, TK-208"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_08",
+      "title": "A pub that is required to sell beer primarily from a single brewery is typically referred to as what?",
+      "answers": [
+        "Tied house"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_09",
+      "title": "Jean Paul Gaultier was awarded what French title?",
+      "answers": [
+        "Chevalier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_10",
+      "title": "Who was the number 1 ­ranked female tennis player in the world 7 out of 9 years between 1988 and 1996?",
+      "answers": [
+        "Steffi Graf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_11",
+      "title": "What is Whisky distilled from?",
+      "answers": [
+        "Fermented grain mash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_12",
+      "title": "Who did Charles Barkley name as \"the one player I'll accept losing to, if I have to lose\"?",
+      "answers": [
+        "Michael Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_13",
+      "title": "In popular culture, what is a \"Tamagotchi\"?",
+      "answers": [
+        "Virtual pet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_14",
+      "title": "The logo of Mack Trucks is what animal?",
+      "answers": [
+        "A bulldog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_15",
+      "title": "What two consecutive signs of the Zodiac begin with the same letter?",
+      "answers": [
+        "Scorpio and Sagittarius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_16",
+      "title": "How many days are there in a fortnight?",
+      "answers": [
+        "Fourteen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_17",
+      "title": "How many years did it take to build The Taj Mahal?",
+      "answers": [
+        "22 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_18",
+      "title": "Which Major League hitter drove in the most runs in a single season between 1980-89?",
+      "answers": [
+        "Don Mattingly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_19",
+      "title": "What two alcoholic ingredients is the traditional Martini cocktail made of?",
+      "answers": [
+        "Gin and vermouth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_20",
+      "title": "In karate, what color belt is earned just before black?",
+      "answers": [
+        "Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_21",
+      "title": "Carl Gerhard Busch is the full name of which \"X-Files\" character?",
+      "answers": [
+        "Cigarette Smoking Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_22",
+      "title": "During what decade was the first Super Bowl played?",
+      "answers": [
+        "1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_23",
+      "title": "In 1917 Lucy Slowe was the first US what?",
+      "answers": [
+        "African-American tennis champion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_24",
+      "title": "Choux and filo are types of what?",
+      "answers": [
+        "Pastry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_25",
+      "title": "What is the heaviest of the three swords used in Olympic fencing?",
+      "answers": [
+        "Epee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_26",
+      "title": "What is the most common surname in South Korea?",
+      "answers": [
+        "Kim"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_27",
+      "title": "How many players are there in a standard baseball team?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_28",
+      "title": "What were barcodes first used for?",
+      "answers": [
+        "To label railroad cars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_29",
+      "title": "Who was the first Chinese-born player to actually play in an NBA game?",
+      "answers": [
+        "Wang Zhizhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_30",
+      "title": "Oil wrestling is the national sport of which country?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_31",
+      "title": "In which capital city was the crime fighting organisation \"Interpol\" founded?",
+      "answers": [
+        "Vienna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_32",
+      "title": "Aulophobia is a fear of what?",
+      "answers": [
+        "Flutes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_33",
+      "title": "What fish was the subject of a dispute between Spain and Canada from 1994 to 1996?",
+      "answers": [
+        "Turbot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_34",
+      "title": "TBD stands for what?",
+      "answers": [
+        "To Be Determined"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_35",
+      "title": "What Australian city's pro basketball team was called the Devils?",
+      "answers": [
+        "Hobart's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_36",
+      "title": "What is a \"Sam Browne\"?",
+      "answers": [
+        "Military belt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_37",
+      "title": "Which side of a ship is \"port\"?",
+      "answers": [
+        "Left"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_38",
+      "title": "What is the first man-made object to circle the earth?",
+      "answers": [
+        "Sputnik I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_39",
+      "title": "Which country first used police dogs?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_40",
+      "title": "How many rings are there on the Olympic flag?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_41",
+      "title": "Despite filing to patent the first electric razor in 1928, when did Jacob Schick actually receive a patent?",
+      "answers": [
+        "1930"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_42",
+      "title": "What dessert consists of beaten egg whites, sugar, and cream of tartar?",
+      "answers": [
+        "Meringue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_43",
+      "title": "Which major horserace is held in Australia on the first Tuesday in November?",
+      "answers": [
+        "The Melbourne Cup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_44",
+      "title": "What is the first event in a Decathlon?",
+      "answers": [
+        "100 metres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_45",
+      "title": "What is brandy?",
+      "answers": [
+        "Distilled wine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_46",
+      "title": "The \"pomsky\" dog breed is a mix between which two dogs?",
+      "answers": [
+        "Siberian Husky and Pomeranian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_47",
+      "title": "For what game were two jokers originally included in a standard deck of playing cards?",
+      "answers": [
+        "Euchre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_48",
+      "title": "Who was John Updike?",
+      "answers": [
+        "An author"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_49",
+      "title": "Who was the second Toronto Blue Jay player to lead the American league in home runs?",
+      "answers": [
+        "Fred McGriff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_28_50",
+      "title": "What is the setting for the video game Fallout 3?",
+      "answers": [
+        "Capital Wasteland/Washington D.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

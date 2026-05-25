@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_06",
+  "name": "Arts Trivia 26K 06",
+  "description": "Arts 251 - 300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_06_01",
+      "title": "What is the subtitle of J.R.R. Tolkien's \"The Hobbit\"?",
+      "answers": [
+        "There and Back Again"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_02",
+      "title": "Which superhero team is Reed Richards a member of?",
+      "answers": [
+        "The Fantastic Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_03",
+      "title": "Who wrote the novel \"Lolita\"?",
+      "answers": [
+        "Russian-American author Vladimir Nabokov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_04",
+      "title": "Tony Pastor is credited with popularizing what form of theater in the early 1880s?",
+      "answers": [
+        "Vaudeville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_05",
+      "title": "Who replaces Professor Snape as Potions Master at Hogwarts?",
+      "answers": [
+        "Horace Slughorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_06",
+      "title": "What painter used his trademark Benday dots in canvases like \"Drowning Girl\" and \"Whaam!\"?",
+      "answers": [
+        "Roy Lichtenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_07",
+      "title": "Who wrote \"A Farewell to Arms\"?",
+      "answers": [
+        "Ernest Hemingway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_08",
+      "title": "The Siege Perilous was the name for the empty seat where?",
+      "answers": [
+        "The Round Table"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_09",
+      "title": "What popular comic book character's nickname is \"Man of Steel\"?",
+      "answers": [
+        "Superman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_10",
+      "title": "Under what pseudonym did Charlotte Bronte first publish \"Jane Eyre\"?",
+      "answers": [
+        "Currer Bell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_11",
+      "title": "In what classic children's book would you find a creature called a \"Pushmi-Pullyu\"?",
+      "answers": [
+        "Dr. Dolittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_12",
+      "title": "What did Aristotle claim as the most delicate of table meats?",
+      "answers": [
+        "Camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_13",
+      "title": "Which play was originally titled \"Mistakes of a Night\"?",
+      "answers": [
+        "She Stoops to Conquer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_14",
+      "title": "Whose painting \"Irises\" was sold to Alan Bond in 1987?",
+      "answers": [
+        "Vincent van Gogh's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_15",
+      "title": "Any color plus black is called what?",
+      "answers": [
+        "A shade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_16",
+      "title": "What is the stolen \"Heart of Gold\" in the book \"The Hitchhiker's Guide to the Galaxy\"?",
+      "answers": [
+        "A space ship"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_17",
+      "title": "What state was the setting for the novel \"The Bridges of Madison County\"?",
+      "answers": [
+        "Iowa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_18",
+      "title": "In 1853, what author founded a successful daily journal called \"Le Mousquetaire\"?",
+      "answers": [
+        "Alexandre Dumas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_19",
+      "title": "Who released an autobiography titled \"Making Waves: The Autobiography\"?",
+      "answers": [
+        "David Hasselhoff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_20",
+      "title": "Who created Hercule Poirot and Miss Marple?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_21",
+      "title": "What newspaper does Peter Parker work for in the \"Spider-Man\" comics?",
+      "answers": [
+        "The Daily Bugle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_22",
+      "title": "What novel is set on a desert planet inhabited by giant sandworms?",
+      "answers": [
+        "Dune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_23",
+      "title": "The French phrase \"espirit de corps\" translates in English to what?",
+      "answers": [
+        "Comaraderie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_24",
+      "title": "Which 1868 novel is often considered the first full length, English language detective novel?",
+      "answers": [
+        "The Moonstone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_25",
+      "title": "In Greek mythology, which monster had snakes for hair?",
+      "answers": [
+        "Medusa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_26",
+      "title": "What American literary character's real name is Lula Mae Barnes?",
+      "answers": [
+        "Holly Golightly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_27",
+      "title": "Who wrote Ulysses?",
+      "answers": [
+        "James Joyce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_28",
+      "title": "Which author wrote \"If I Forget Thee, Jerusalem\"?",
+      "answers": [
+        "William Faulkner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_29",
+      "title": "What Shakespeare play asks: \"To be or not to be\"?",
+      "answers": [
+        "Hamlet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_30",
+      "title": "Who wrote \"The Scarlett Letter\"?",
+      "answers": [
+        "Nathaniel Hawthorne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_31",
+      "title": "The journey in Roald Dahl's \"James and the Giant Peach\" ends with the peach impaled on what?",
+      "answers": [
+        "The Empire State Building"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_32",
+      "title": "Which character killed Captain Ahab?",
+      "answers": [
+        "Moby-Dick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_33",
+      "title": "Who is Scout's brother in \"To Kill a Mockingbird\"?",
+      "answers": [
+        "Jem Finch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_34",
+      "title": "What disability do both Quasimodo and the judge who sentenced him suffer from in \"The Hunchback of Notre Dame\"?",
+      "answers": [
+        "Deafness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_35",
+      "title": "What painting technique was employed by Ribera, and other painters, in order to focus a spotlight on certain areas of a painting?",
+      "answers": [
+        "Tenebrism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_36",
+      "title": "Which artist is famous for his statue The Thinker?",
+      "answers": [
+        "Auguste Rodin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_37",
+      "title": "What was the name of the ship that Jason & his Argonauts sail in?",
+      "answers": [
+        "Argo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_38",
+      "title": "Who wrote the music for the stage version of \"Billy Elliot\"?",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_39",
+      "title": "What year did The Louvre open as a museum?",
+      "answers": [
+        "1793"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_40",
+      "title": "Who wrote the novel \"1984\"?",
+      "answers": [
+        "George Orwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_41",
+      "title": "Who painted \"The Starry Night\"?",
+      "answers": [
+        "Vincent van Gogh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_42",
+      "title": "What color is Nancy Drew's hair?",
+      "answers": [
+        "Blonde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_43",
+      "title": "Who was Adolf Hirler's favorite composer?",
+      "answers": [
+        "Richard Wagner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_44",
+      "title": "Who wrote the 15th century novel \"The Tale of Two Lovers\"?",
+      "answers": [
+        "Pope Pius II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_45",
+      "title": "Who was responsible for illustrating the 1937 novel \"The Hobbit\"?",
+      "answers": [
+        "J. R. R. Tolkien"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_46",
+      "title": "In Greek mythology, who was Icarus' father?",
+      "answers": [
+        "Daedalus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_47",
+      "title": "Who wrote \"De Profundis\" while in prison?",
+      "answers": [
+        "Oscar Wilde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_48",
+      "title": "Which Oscar Wilde character stayed young as his picture aged?",
+      "answers": [
+        "Dorian Gray"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_49",
+      "title": "From what language did English borrow the word \"caboose\"?",
+      "answers": [
+        "Dutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_06_50",
+      "title": "What country was the setting for both Rudyard Kipling’s \"The Jungle Book\" and \"Gunga Din\"?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_32",
+  "name": "General Trivia 26K 32",
+  "description": "General 1551 - 1600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_32_01",
+      "title": "What part of the computer does \"QWERTY\" refer to?",
+      "answers": [
+        "The keyboard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_02",
+      "title": "Who was hunted by Dutch physician Abraham van Helsing?",
+      "answers": [
+        "Count Dracula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_03",
+      "title": "What fast food chain uses the slogan \"We Have The Meats\"?",
+      "answers": [
+        "Arby's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_04",
+      "title": "In the Western Union's alphabet what is the letter \"C\" known as?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_05",
+      "title": "Which famous European structure was only supposed to stand for twenty years when it was built?",
+      "answers": [
+        "Eiffel Tower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_06",
+      "title": "What sports team used the Swinging Friar as its team emblem until 1984?",
+      "answers": [
+        "The San Diego Padres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_07",
+      "title": "What is Dodger Stadium also known as?",
+      "answers": [
+        "Chavez Ravine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_08",
+      "title": "When is the only time a flag should be flown upside down?",
+      "answers": [
+        "Emergency"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_09",
+      "title": "What kind of fish is lox made from?",
+      "answers": [
+        "Salmon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_10",
+      "title": "Which Country won the Fed Cup consecutively, between 1976 and 1982?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_11",
+      "title": "What French beverage is made by mixing apple juice with apple brandy and aging it in barrels?",
+      "answers": [
+        "Pommeau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_12",
+      "title": "Bristol, Rockingham, Chelsea, and Minton are types of what?",
+      "answers": [
+        "Pottery porcelain China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_13",
+      "title": "To counter slipping sales, what was marketed, beginning in 1987, as \"the other white meat\"?",
+      "answers": [
+        "Pork"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_14",
+      "title": "As used in English, what is the meaning of the Latin phrase \"caveat emptor\"?",
+      "answers": [
+        "Let the buyer beware"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_15",
+      "title": "In the Old Testament, who wears his hair in seven braids?",
+      "answers": [
+        "Samson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_16",
+      "title": "On which three days of the week is December 25th more likely to fall?",
+      "answers": [
+        "Tuesday, Friday or Sunday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_17",
+      "title": "On what date did the \"Dennis the Menace\" comic strip debut in newspapers?",
+      "answers": [
+        "March 12, 1951"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_18",
+      "title": "Which Toronto Blue Jay led the Major Leagues in hit batsmen with 104 from 1980-89?",
+      "answers": [
+        "Dave Stieb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_19",
+      "title": "What are the main ingredients in a Cafe Cubano?",
+      "answers": [
+        "Espresso and demerara sugar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_20",
+      "title": "What are Canada’s two official sports?",
+      "answers": [
+        "Ice hockey and lacrosse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_21",
+      "title": "Who is the inventor of Coca-Cola?",
+      "answers": [
+        "John Pemberton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_22",
+      "title": "What popular soft drink claims to contain 23 flavors?",
+      "answers": [
+        "Dr Pepper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_23",
+      "title": "What was Harry Houdini's birth name?",
+      "answers": [
+        "Erik Weisz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_24",
+      "title": "What brand of whisky was created in 1939 Queen of England's visit to Canada?",
+      "answers": [
+        "Crown Royal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_25",
+      "title": "What is the name for the fingers of a fork?",
+      "answers": [
+        "Tines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_26",
+      "title": "What nickname was given to the Indianapolis Motor Speedway in 1909?",
+      "answers": [
+        "Brickyard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_27",
+      "title": "What do you get when you mix champagne and stout?",
+      "answers": [
+        "A Black Velvet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_28",
+      "title": "What businessman served as manager of the Atlanta Braves for one game in 1977?",
+      "answers": [
+        "Ted Turner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_29",
+      "title": "Which animal is pictured on the standard Canadian $2 coin?",
+      "answers": [
+        "Polar bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_30",
+      "title": "What is the National Bird of India?",
+      "answers": [
+        "The Indian Peacock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_31",
+      "title": "\"Dig 'em Frog\" was the mascot for which Kellogg's breakfast cereal?",
+      "answers": [
+        "Honey Smacks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_32",
+      "title": "Scandinavian aquavit is mainly flavoured with what?",
+      "answers": [
+        "Caraway or dill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_33",
+      "title": "What are Limerick, Round Bend, Aberdeen and Octopus?",
+      "answers": [
+        "Fishing hooks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_34",
+      "title": "Who was the first professional footballer to be knighted?",
+      "answers": [
+        "Sir Stanley Matthews"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_35",
+      "title": "Who condensed milk for first time in the US in 1856?",
+      "answers": [
+        "Gail Borden, Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_36",
+      "title": "Which variations brought lasting fame for Sir Edward Elgar?",
+      "answers": [
+        "Enigma Variations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_37",
+      "title": "Ilie Nastase was born in which country?",
+      "answers": [
+        "Romania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_38",
+      "title": "Who was the first person to swim across Lake Ontario?",
+      "answers": [
+        "Marilyn Bell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_39",
+      "title": "What French company is represented by a mascot named \"Bibendum\"?",
+      "answers": [
+        "Michelin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_40",
+      "title": "What US state's National Guard still calls itself \"the Green Mountain Boys\"?",
+      "answers": [
+        "Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_41",
+      "title": "What two pieces are moved in chess's castling maneuver?",
+      "answers": [
+        "The king and rook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_42",
+      "title": "Succulent is derived from the Latin word \"sucus\", meaning what?",
+      "answers": [
+        "Sap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_43",
+      "title": "Although making its initial appearance in 1938, what year saw the start of mass production of Volkswagen's Beetle?",
+      "answers": [
+        "1945"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_44",
+      "title": "In which gymnastics discipline would a man do the scissors?",
+      "answers": [
+        "Pommel Horse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_45",
+      "title": "In 1964, who founded Blue Ribbon Sports, which later went on to become Nike?",
+      "answers": [
+        "Phil Knight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_46",
+      "title": "What is the International Space Station’s average distance from Earth?",
+      "answers": [
+        "240 miles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_47",
+      "title": "Which gaming franchise celebrated its 20th anniversary on February 27, 2016?",
+      "answers": [
+        "Pokemon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_48",
+      "title": "By which name is Paul Francis Gadd better known?",
+      "answers": [
+        "Gary Glitter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_49",
+      "title": "Which MLB player lead the American league in home runs in 2010 and 2011",
+      "answers": [
+        "Jose Bautista"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_32_50",
+      "title": "What was Princess Diana’s maiden name?",
+      "answers": [
+        "Spencer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_01",
+  "name": "General Trivia 26K 01",
+  "description": "General 1 - 50 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_01_01",
+      "title": "What children's game takes its name from the Swahili word for \"build\"?",
+      "answers": [
+        "Jenga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_02",
+      "title": "What is hippophobia the fear of?",
+      "answers": [
+        "Horses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_03",
+      "title": "Who was the founder and head designer of Ecko clothing?",
+      "answers": [
+        "Marc Ecko"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_04",
+      "title": "What is the name of a popular Italian citrus and vanilla flavored liqueur?",
+      "answers": [
+        "Tuaca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_05",
+      "title": "What four-letter clarified butter is commonly used in Indian cuisine?",
+      "answers": [
+        "Ghee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_06",
+      "title": "What year was Olympic sprinter, Don Quarrie, born?",
+      "answers": [
+        "1951"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_07",
+      "title": "Which Batman villain bases all of his decisions on the flip of a special coin?",
+      "answers": [
+        "Two-Face"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_08",
+      "title": "What type of alcohol is typically used to make a mint julep?",
+      "answers": [
+        "Bourbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_09",
+      "title": "Which book of the Bible follows Exodus?",
+      "answers": [
+        "Leviticus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_10",
+      "title": "What does abbreviation IQ stand for?",
+      "answers": [
+        "Intelligence Quotient"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_11",
+      "title": "What carol contains the words \"Fa-la-la-la-la-la-la-la-la\"",
+      "answers": [
+        "Deck the Halls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_12",
+      "title": "What famous tennis player became Novak Djokovic's coach in 2013?",
+      "answers": [
+        "Boris Becker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_13",
+      "title": "Who was sent to the electric chair on the testimony of her brother David Greenglass?",
+      "answers": [
+        "Ethel Rosenberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_14",
+      "title": "In fencing what is the name of the action when two fencers make physical contact with any part of their bodies (or hilts)?",
+      "answers": [
+        "Corps-a-corps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_15",
+      "title": "In what sport do you use the terms \"Chicken Salad\" and \"McTwist\"?",
+      "answers": [
+        "Snowboarding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_16",
+      "title": "What dialect term describes rough cider made from unselected apples?",
+      "answers": [
+        "Scrumpy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_17",
+      "title": "How many successive Wimbledon titles did Bjorn Borg win?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_18",
+      "title": "Canonized in 1933, what famous nun is the patron saint of the French pilgrimage town of Lourdes?",
+      "answers": [
+        "St. Bernadette"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_19",
+      "title": "Where is the stop positioned on traditional roller skates?",
+      "answers": [
+        "The toe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_20",
+      "title": "In which Canadian city would you find the largest mall in North America?",
+      "answers": [
+        "Edmonton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_21",
+      "title": "What do you call the center of a target?",
+      "answers": [
+        "Bull's Eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_22",
+      "title": "What common household item inspired the soles of Nike's first running shoes?",
+      "answers": [
+        "Waffle iron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_23",
+      "title": "What hall-of-fame quarterback joined the Denver Broncos in 1983?",
+      "answers": [
+        "John Elway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_24",
+      "title": "What number does each player wear every year on April 15 in Major-League Baseball?",
+      "answers": [
+        "42"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_25",
+      "title": "The phrase \"cross word puzzle\" was first used to describe a word puzzle in what year?",
+      "answers": [
+        "1862"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_26",
+      "title": "What was the name of Underdog's girlfriend?",
+      "answers": [
+        "Polly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_27",
+      "title": "What coastal Atlantic US state has \"The Shag\" as their official state dance?",
+      "answers": [
+        "South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_28",
+      "title": "How is Edson Arantes do Nascimento better known?",
+      "answers": [
+        "Pele"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_29",
+      "title": "While in play, how many players are on a water polo team?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_30",
+      "title": "Rainer Kumm was a rugby player in which national team?",
+      "answers": [
+        "Germany's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_31",
+      "title": "In bowling, what would your score be if you bowled 11 strikes and a 6?",
+      "answers": [
+        "296"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_32",
+      "title": "What is the name of the Miami Heat mascot?",
+      "answers": [
+        "Burnie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_33",
+      "title": "What do Noodlers catch with their bare hands?",
+      "answers": [
+        "Catfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_34",
+      "title": "Infantry, Cavalry, and Artillery cards are key to what Parker Brothers game?",
+      "answers": [
+        "Risk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_35",
+      "title": "What is the fear of cats called?",
+      "answers": [
+        "Ailurophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_36",
+      "title": "What do the letters A and W stand for in the \"A&W\" root beer name?",
+      "answers": [
+        "Allen and Wright"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_37",
+      "title": "Jurgen Rumor, a former professional soccer player, hails from what European country?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_38",
+      "title": "Alberto Tomba is a name associated with which sport?",
+      "answers": [
+        "Skiing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_39",
+      "title": "What type of sugar typically includes a small amount of cornstarch to prevent lumping while mixing?",
+      "answers": [
+        "Powdered sugar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_40",
+      "title": "Orthoepy is the study of what?",
+      "answers": [
+        "Pronunciation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_41",
+      "title": "A cat-o'-nine tails is a type of what?",
+      "answers": [
+        "Whip"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_42",
+      "title": "What type of lettuce should be used in a classic Caesar Salad?",
+      "answers": [
+        "Romaine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_43",
+      "title": "What was known as \"the gun that won the West\"?",
+      "answers": [
+        "The Winchester Rifle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_44",
+      "title": "Where were U.S. coins with the letters \"CC\" on them minted?",
+      "answers": [
+        "Carson City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_45",
+      "title": "Which common necktie knot produces a solid, large triangular shape?",
+      "answers": [
+        "Windsor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_46",
+      "title": "What's the shortest standard reply on a Magic 8-Ball?",
+      "answers": [
+        "Yes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_47",
+      "title": "What team won the first NBA game?",
+      "answers": [
+        "New York Knicks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_48",
+      "title": "What does a philologist study?",
+      "answers": [
+        "Languages"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_49",
+      "title": "What fruit is \"Citrus grandis\"?",
+      "answers": [
+        "Pomelo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_01_50",
+      "title": "Which fruit is used to make Calvados?",
+      "answers": [
+        "Apples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_67",
+  "name": "History Trivia 26K 67",
+  "description": "History 3301 - 3350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_67_01",
+      "title": "What colony was established by the passengers of the Mayflower?",
+      "answers": [
+        "Plymouth Colony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_02",
+      "title": "What city was Medgar Evens killed in?",
+      "answers": [
+        "Jackson, Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_03",
+      "title": "In what year was the Declaration of Independence adopted?",
+      "answers": [
+        "1776"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_04",
+      "title": "Which former American president was also a Nobel laureate and a Princeton professor?",
+      "answers": [
+        "Woodrow Wilson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_05",
+      "title": "Which Renaissance man invented the parachute?",
+      "answers": [
+        "Leonardo da Vinci"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_06",
+      "title": "What image was on the world's first jigsaw puzzle?",
+      "answers": [
+        "A map"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_07",
+      "title": "During World War II, the U.S. purchase more than 150 million pounds of what to feed its troops?",
+      "answers": [
+        "SPAM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_08",
+      "title": "Who introduced potatoes into Ireland?",
+      "answers": [
+        "Sir Walter Raleigh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_09",
+      "title": "Which amendment to the US Constitution deals with self-incrimination?",
+      "answers": [
+        "Fifth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_10",
+      "title": "In 2005, Bhutan became the first country to entirely ban what?",
+      "answers": [
+        "Tobacco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_11",
+      "title": "Who introduced her most famous formula on the appropriate date of May 5, 1921?",
+      "answers": [
+        "Coco Chanel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_12",
+      "title": "Who succeeded Anthony Eden as Prime Minister in 1957?",
+      "answers": [
+        "Harold Macmillan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_13",
+      "title": "Who was the American Ambassador to the United Nations during the Cuba missle crisis?",
+      "answers": [
+        "Adlai Stevenson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_14",
+      "title": "Which river did Washington cross on Christmas night 1776?",
+      "answers": [
+        "Delaware River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_15",
+      "title": "Who participated on the side of the Earp Brothers in the shootout at the OK Corral in 1881?",
+      "answers": [
+        "\"Doc\" Holliday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_16",
+      "title": "Which French king built the Palace of Versailles?",
+      "answers": [
+        "Louis XIV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_17",
+      "title": "Which two nations fought for control of North America in the French and Indian War?",
+      "answers": [
+        "France and England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_18",
+      "title": "What is the oldest university in the US?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_19",
+      "title": "In which country was a method for making rust-resistant iron\ndiscovered in the fifth century B.C.?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_20",
+      "title": "Which part of India was occupied by the Japanese in World War II?",
+      "answers": [
+        "The Andaman Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_21",
+      "title": "Who was the fifth president of the United States?",
+      "answers": [
+        "James Monroe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_22",
+      "title": "Who founded the Church of Scientology?",
+      "answers": [
+        "L. Ron Hubbard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_23",
+      "title": "Who was the first US President to deliver his inaugural address entirely from memory?",
+      "answers": [
+        "Franklin Pierce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_24",
+      "title": "What Ken Kesey-led group toured American in a psychedelic school bus called \"Further\"?",
+      "answers": [
+        "The Merry Pranksters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_25",
+      "title": "Who succeeded James Garfield as US President?",
+      "answers": [
+        "Chester A. Arthur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_26",
+      "title": "What is the only war fought between Canada and the U.S?",
+      "answers": [
+        "War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_27",
+      "title": "Which town was severly damaged by the Boland Earthquake in September 1969?",
+      "answers": [
+        "Tulbagh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_28",
+      "title": "What year did basketball become an official Olympic event?",
+      "answers": [
+        "1936"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_29",
+      "title": "What military legend was nicknamed \"Mad Anthony\"?",
+      "answers": [
+        "Anthony Wayne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_30",
+      "title": "Who was the French President from 1969 until his death in 1974?",
+      "answers": [
+        "Georges Pompideau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_31",
+      "title": "What year did the Franco-Prussian War begin?",
+      "answers": [
+        "1870"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_32",
+      "title": "Who was the Roman Emperor from 275-276?",
+      "answers": [
+        "Tacitus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_33",
+      "title": "Who uttered the line \"There is no Soviet domination of Eastern Europe\" during a debate?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_34",
+      "title": "Who was better known as Butch Cassidy?",
+      "answers": [
+        "Robert Leroy Parker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_35",
+      "title": "Who was Australia's prime minister when Japan attacked Pearl Harbor?",
+      "answers": [
+        "John Curtin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_36",
+      "title": "Which member of royalty was shot at twice in Sydney, Australia in 1994?",
+      "answers": [
+        "Charles, Prince of Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_37",
+      "title": "What is the name of the Chinese leader who died in 1997?",
+      "answers": [
+        "Deng Xiaoping"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_38",
+      "title": "What was the first US state to pass a law requiring mandatory seat belt use?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_39",
+      "title": "In what decade did the Dust Bowl devastate US Midwest farmers?",
+      "answers": [
+        "1930's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_40",
+      "title": "George Washington was a member of which political party?",
+      "answers": [
+        "Federalist Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_41",
+      "title": "The fortification at West Point were originally built during what war?",
+      "answers": [
+        "American Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_42",
+      "title": "Who was the first European explorer to sail into New York Bay?",
+      "answers": [
+        "Giovanni da Verrazano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_43",
+      "title": "Who was Dwight D. Eisenhower's vice president?",
+      "answers": [
+        "Richard M. Nixon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_44",
+      "title": "Which President was the first to officially recognize Hanukkah?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_45",
+      "title": "What decades was the Zodiac Killer active in the US?",
+      "answers": [
+        "1960s and 1970s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_46",
+      "title": "What was the first message sent through Morse Code?",
+      "answers": [
+        "\"What hath god wrought!\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_47",
+      "title": "What was the name of Nazi Germany's secret police?",
+      "answers": [
+        "Gestapo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_48",
+      "title": "In many Old West cities, the colorful phrase \"Boot Hill\" referred to what?",
+      "answers": [
+        "Cemetery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_49",
+      "title": "Born in 1846, who was William Frederick Cody better known as?",
+      "answers": [
+        "Buffalo Bill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_67_50",
+      "title": "What year did the first commercially produced tea bags appear on the market?",
+      "answers": [
+        "1904"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

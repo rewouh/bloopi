@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_64",
+  "name": "Entertainment Trivia 26K 64",
+  "description": "Entertainment 3151 - 3200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_64_01",
+      "title": "What was the subtitle of the 1993 sequel to \"Hot Shots\"?",
+      "answers": [
+        "Part Deux"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_02",
+      "title": "What was the first album in history to reach number one in 34 nations?",
+      "answers": [
+        "The Beatles 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_03",
+      "title": "What 1977 Paul Newman movie made cult stars of a trio of idiots named the Hanson Brothers?",
+      "answers": [
+        "Slap Shot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_04",
+      "title": "Who sang the songs \"Bump n' Grind\" and \"She's Got That Vibe\"?",
+      "answers": [
+        "R Kelly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_05",
+      "title": "What 1984 Ratt hit featured a cross-dressing Milton Berle in its video?",
+      "answers": [
+        "Round and Round"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_06",
+      "title": "In \"The Big Lebowski\", what did Jeffrey Lebowski want replaced after it was urinated on?",
+      "answers": [
+        "His rug"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_07",
+      "title": "Who directed the 1998 film \"Lock, Stock and Two Smoking Barrels\"?",
+      "answers": [
+        "Guy Ritchie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_08",
+      "title": "What legendary oddball rocker first signed Alice Cooper to a record deal?",
+      "answers": [
+        "Frank Zappa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_09",
+      "title": "What was the name of the last game released as a physical cartridge for the Super Nintendo?",
+      "answers": [
+        "\"Fire Emblem: Thracia 776\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_10",
+      "title": "What Canadian singer appeared on the first cover of \"Entertainment Weekly\"?",
+      "answers": [
+        "K.D. Lang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_11",
+      "title": "What country is Billy Ocean from?",
+      "answers": [
+        "Trinidad and Tobago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_12",
+      "title": "Which TV character has the surname \"Sagdiyev\"?",
+      "answers": [
+        "Borat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_13",
+      "title": "What British TV series featured Saffron and Bubble?",
+      "answers": [
+        "Absolutely Fabulous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_14",
+      "title": "What was the first feature-length film shown on TV?",
+      "answers": [
+        "\"The Crooked Circle\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_15",
+      "title": "What was actor June Cleaver’s maiden name?",
+      "answers": [
+        "Bronson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_16",
+      "title": "What movie does the line \"Nobody puts Baby in the corner\" hails form?",
+      "answers": [
+        "Dirty Dancing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_17",
+      "title": "Who voices the character of Glenn Quagmire in the TV show \"Family Guy\"?",
+      "answers": [
+        "Seth MacFarlane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_18",
+      "title": "In the TV show \"The Simpsons\", where was Lenny born?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_19",
+      "title": "In the movie \"Batman\", what does the Joker call his secret ingredient?",
+      "answers": [
+        "Smylex"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_20",
+      "title": "What did Marilyn Monroe claim was the only thing she wore in bed?",
+      "answers": [
+        "Chanel No. 5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_21",
+      "title": "What country provided most of the settings for \"The Lord of the Rings\" movies?",
+      "answers": [
+        "New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_22",
+      "title": "Emilio Estevez was originally cast in what other actor's role in \"The Breakfast Club\"?",
+      "answers": [
+        "Judd Nelson's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_23",
+      "title": "What year marked the release of  Puff Daddy's song \"I'll Be Missing You\"?",
+      "answers": [
+        "1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_24",
+      "title": "Who had hits with the songs \"Sledgehammer\"  and \"Big Time\" in the 1980s?",
+      "answers": [
+        "Peter Gabriel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_25",
+      "title": "What is Mr. Freeze's given name?",
+      "answers": [
+        "Victor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_26",
+      "title": "Which actor had the fourth wedding in the movie \"Four Weddings and a Funeral\"?",
+      "answers": [
+        "Hugh Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_27",
+      "title": "How many characters on the original Star Trek series used the phrase \"Beam me up, Scotty\"?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_28",
+      "title": "What was the name of Jasmine's tiger in Disney's \"Aladdin\"?",
+      "answers": [
+        "Rajah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_29",
+      "title": "What year did the TV show \"Gunsmoke\" change its length from 30 minutes to 1 hour?",
+      "answers": [
+        "1961"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_30",
+      "title": "As of 2019, what was the last song by Mariah Carey to reach No. 1 on the Billboard charts?",
+      "answers": [
+        "Touch My Body"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_31",
+      "title": "What character from a pop song wears a face that she keeps in a jar by the door?",
+      "answers": [
+        "Eleanor Rigby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_32",
+      "title": "What does Mahoney teach Hightower to do in the movie \"Policy Academy\"?",
+      "answers": [
+        "Drive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_33",
+      "title": "The musical group 3T are all relatives of which legendary pop musician?",
+      "answers": [
+        "Michael Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_34",
+      "title": "The song \"A Dream Is a Wish Your Heart Makes\" was originally featured in what Disney film?",
+      "answers": [
+        "Cinderella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_35",
+      "title": "John Travolta, Samuel Jackson, Uma Thurman starred in which 1994 Quentin Tarantino film?",
+      "answers": [
+        "Pulp Fiction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_36",
+      "title": "What disability does Rocky Dennis' girlfriend have in the 1985 film \"Mask\"?",
+      "answers": [
+        "She is blind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_37",
+      "title": "In what Arizona city does the movie \"Psycho\" begin?",
+      "answers": [
+        "Phoenix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_38",
+      "title": "What was Edie Brickell's backing band?",
+      "answers": [
+        "The New Bohemians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_39",
+      "title": "On the 80's album \"Purple Rain\", who backed Prince?",
+      "answers": [
+        "The Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_40",
+      "title": "What “Star Trek” character had a name meaning “freedom” in Swahili?",
+      "answers": [
+        "Uhura"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_41",
+      "title": "What was the full name of actress Betty Grable?",
+      "answers": [
+        "Elizabeth Ruth Grable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_42",
+      "title": "Who co-produced the song \"Summertime\" with Will Smith?",
+      "answers": [
+        "DJ Jazzy Jeff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_43",
+      "title": "Who is elected mayor due to the title scandal in the Seinfeld episode titled \"The Non-Fat Yogurt\"?",
+      "answers": [
+        "Rudolph Giuliani"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_44",
+      "title": "What type of business did Annie have that failed in \"Bridesmaids\"?",
+      "answers": [
+        "Bakery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_45",
+      "title": "Which 1970's sci-fi film featured a space ship named \"Nostromo\"?",
+      "answers": [
+        "Alien"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_46",
+      "title": "Liza Minelli played what character in the 1972 film \"Cabaret\"?",
+      "answers": [
+        "Sally Bowles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_47",
+      "title": "Who plays the role of Sarah Jordan in the 2005 movie \"The Island\"?",
+      "answers": [
+        "Scarlett Johansson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_48",
+      "title": "Who was the lead singer of the band Soundgarden?",
+      "answers": [
+        "Chris Cornell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_49",
+      "title": "What double-word song title was a hit single by Santana?",
+      "answers": [
+        "Maria Maria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_64_50",
+      "title": "How many episodes of \"The Beverly Hillbillies\" were made?",
+      "answers": [
+        "274"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

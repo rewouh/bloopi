@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_106",
+  "name": "Entertainment Trivia 26K 106",
+  "description": "Entertainment 5251 - 5300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_106_01",
+      "title": "What animal is on the cover of the Beach Boys' album \"Pet Sounds\"?",
+      "answers": [
+        "Goat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_02",
+      "title": "Where was Keanu Reeves born?",
+      "answers": [
+        "Beirut, Lebanon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_03",
+      "title": "What is the name of the Wally World mascot in \"National Lampoon's Vacation\"?",
+      "answers": [
+        "Marty Moose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_04",
+      "title": "What year was model Anna Nicole Smith born?",
+      "answers": [
+        "1967"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_05",
+      "title": "Who is Jason Schwartzman's mother?",
+      "answers": [
+        "Talia Shire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_06",
+      "title": "What is the name of Marty's band in the film \"Back To The Future\"?",
+      "answers": [
+        "The Pinheads"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_07",
+      "title": "Who starred as Buffy in the TV show \"Buffy the Vampire Slayer\"?",
+      "answers": [
+        "Sarah Michelle Gellar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_08",
+      "title": "Who sings \"Pinball Wizard\" in the film \"Tommy\"?",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_09",
+      "title": "In the TV show \"Friends\", what was Joey’s nickname while working at Alessandro’s?",
+      "answers": [
+        "Dragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_10",
+      "title": "What do \"Tom\", \"Dick\", and \"Harry\" refer to in the film \"The Great Escape\"?",
+      "answers": [
+        "The escape tunnels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_11",
+      "title": "The album \"American Beauty/American Psycho\" was released in 2015 by which American rock band?",
+      "answers": [
+        "Fall Out Boy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_12",
+      "title": "Who is Scarlett's first husband who died in the Civil War in \"Gone with the Wind\"?",
+      "answers": [
+        "Charles Hamilton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_13",
+      "title": "What is the name of the coolest girl gang in the movie \"Grease\"?",
+      "answers": [
+        "The Pink Ladies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_14",
+      "title": "Who was the writer for the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Stephen King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_15",
+      "title": "Who directed Jack Black in the 2003 film \"School of Rock\"?",
+      "answers": [
+        "Richard Linklater"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_16",
+      "title": "How many friends are featured on the TV show \"Friends\"?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_17",
+      "title": "Which company created the Oscar-winning film Finding Nemo?",
+      "answers": [
+        "Pixar Animation Studios"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_18",
+      "title": "Iron Man's suit is powered by a reactor located where?",
+      "answers": [
+        "In his chest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_19",
+      "title": "Who played Dolly Levi in the film adaptation of \"Hello Dolly\"?",
+      "answers": [
+        "Barbra Streisand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_20",
+      "title": "Although directed by Brian de Palma, which Hollywood director wrote Scarface?",
+      "answers": [
+        "Oliver Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_21",
+      "title": "What is singer Vanilla Ice's birth name?",
+      "answers": [
+        "Robert Matthew Van Winkle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_22",
+      "title": "In \"Snow White and the Seven Dwarfs\", which dwarf's job is it to check the authenticity of the gems they mine?",
+      "answers": [
+        "Doc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_23",
+      "title": "What year was the film \"Destry Rides Again\", featuring Marlene Dietrich released?",
+      "answers": [
+        "1939"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_24",
+      "title": "Who released the album \"The 20/20 Experience\" in 2013?",
+      "answers": [
+        "Justin Timberlake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_25",
+      "title": "What is Dr. Malcolm Crowe’s profession in the film \"The Sixth Sense\"?",
+      "answers": [
+        "Child psychologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_26",
+      "title": "Who directed the monochrome sequences at the beginning and end of the 1939 movie \"The Wizard of Oz\"?",
+      "answers": [
+        "King Vidor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_27",
+      "title": "Who is Joely Richardson's famous mother?",
+      "answers": [
+        "Vanessa Redgrave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_28",
+      "title": "What powers Iron Man's suit?",
+      "answers": [
+        "Arc reactor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_29",
+      "title": "What make is the missing vehicle in the movie \"Dude, Where's My Car\"?",
+      "answers": [
+        "Renault"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_30",
+      "title": "\"Next\" and \"Paycheck\" are films based on stories by which science-fiction author?",
+      "answers": [
+        "Philip K. Dick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_31",
+      "title": "What year was Sylvester Stallone born?",
+      "answers": [
+        "1946"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_32",
+      "title": "What type of cancer did actor Humphrey Bogart die from?",
+      "answers": [
+        "Esophageal cancer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_33",
+      "title": "What year did Puff Daddy record the song \"I'll Be Missing You\"?",
+      "answers": [
+        "1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_34",
+      "title": "Which duo had a 1987 Christmas hit with the song \"Always on My Mind\"?",
+      "answers": [
+        "The Pet Shop Boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_35",
+      "title": "On the TV Show \"Night Court\", what was Bull's IQ?",
+      "answers": [
+        "181"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_36",
+      "title": "What is the name of Simba's uncle in the movie \"The Lion King\"?",
+      "answers": [
+        "Scar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_37",
+      "title": "Who is the original presenter and Taskmaster on the UK television show \"Taskmaster\"?",
+      "answers": [
+        "Greg Davies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_38",
+      "title": "Who played Tony Danza's daughter, Samantha, on \"Who's the Boss?\"",
+      "answers": [
+        "Alyssa Milano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_39",
+      "title": "In the Foreigner song \"Hot Blooded\", the singer has a fever of what temperature?",
+      "answers": [
+        "103"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_40",
+      "title": "In what movie does Bruce Willis play a ghost?",
+      "answers": [
+        "The Sixth Sense"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_41",
+      "title": "Who secretly married Sara Lownds in November 1965?",
+      "answers": [
+        "Bob Dylan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_42",
+      "title": "The song \"Afternoon Delight\" was the only major hit for which one-hit-wonder group?",
+      "answers": [
+        "Starland Vocal Band"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_43",
+      "title": "Who had a hit song with the theme from the movie \"Ghostbusters\"?",
+      "answers": [
+        "Ray Parker, Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_44",
+      "title": "What were the names of Roseanne’s two daughters on the TV show \"Roseanne\"?",
+      "answers": [
+        "Becky and Darlene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_45",
+      "title": "Who plays Will Turner in the movie \"Pirates of the Caribbean\"?",
+      "answers": [
+        "Orlando Bloom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_46",
+      "title": "What brand of contraceptive did Elaine hoard on the TV show \"Seinfeld\"?",
+      "answers": [
+        "The Today sponge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_47",
+      "title": "How many Academy Awards was the film \"The Sixth Sense\" nominated for?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_48",
+      "title": "In 2018, which videogame company did actor Alfonso Ribeiro sue for unethically capitalizing off content he created?",
+      "answers": [
+        "Epic Games"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_49",
+      "title": "Who plays the role of Captain Jack Aubrey in the movie \"Master and Commander\"?",
+      "answers": [
+        "Russell Crowe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_106_50",
+      "title": "What army is invading Pepperland in the Beatles film \"Yellow Submarine\"?",
+      "answers": [
+        "The Blue Meanies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

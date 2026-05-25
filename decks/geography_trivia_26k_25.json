@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_25",
+  "name": "Geography Trivia 26K 25",
+  "description": "Geography 1201 - 1250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_25_01",
+      "title": "What large island lies about 300 miles due east of Mozambique?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_02",
+      "title": "Where did Starbucks open its first U.S. sign language store?",
+      "answers": [
+        "Washington D.C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_03",
+      "title": "The Battle of Gettysburg occurred in which US state?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_04",
+      "title": "What Caribbean island nation's name comes from the Portuguese word meaning \"bearded ones\"?",
+      "answers": [
+        "Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_05",
+      "title": "What city named its airport after Ted Stevens?",
+      "answers": [
+        "Anchorage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_06",
+      "title": "Which sea lies west of mainland Greece?",
+      "answers": [
+        "Ionian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_07",
+      "title": "What two countries share Lake Geneva?",
+      "answers": [
+        "France and Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_08",
+      "title": "What is the capital of the US state of Florida?",
+      "answers": [
+        "Tallahassee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_09",
+      "title": "Which bird is the national bird of Angola?",
+      "answers": [
+        "Red-crested turaco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_10",
+      "title": "What lake in Oregon was created about 7,000 years ago by the eruption of Mount Mazama?",
+      "answers": [
+        "Crater Lake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_11",
+      "title": "In what country is Africa's northernmost point?",
+      "answers": [
+        "Tunisia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_12",
+      "title": "What islands are located in the Bering Strait between Russia and Alaska?",
+      "answers": [
+        "Diomede Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_13",
+      "title": "What is the only US state with an official jelly?",
+      "answers": [
+        "Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_14",
+      "title": "Where will you find \"The Great White Way\"?",
+      "answers": [
+        "Broadway, New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_15",
+      "title": "What narrow strip of water connects the Atlantic Ocean to the Mediterranean Sea?",
+      "answers": [
+        "The Strait of Gibraltar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_16",
+      "title": "What color is the cross on the Swedish flag?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_17",
+      "title": "What river defines the border between Texas and Mexico?",
+      "answers": [
+        "Rio Grande River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_18",
+      "title": "When facing Mount Rushmore, which president's head is farthest to your left?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_19",
+      "title": "Where is the International Criminal Police Organization (INTERPOL) headquartered?",
+      "answers": [
+        "Lyon, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_20",
+      "title": "Which country owns the Canary Islands?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_21",
+      "title": "In which US state is Cornell University?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_22",
+      "title": "Mogadishu is the capital of which country?",
+      "answers": [
+        "Somalia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_23",
+      "title": "Staten Island is part of what city?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_24",
+      "title": "What city was known as and almost permanently named \"Batmania\"?",
+      "answers": [
+        "Melbourne, Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_25",
+      "title": "What major river runs through Boston?",
+      "answers": [
+        "Charles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_26",
+      "title": "Which state is located on the northern border of Pennsylvania?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_27",
+      "title": "Which state is closest to Bermuda?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_28",
+      "title": "In which country would you find the state of Tabasco?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_29",
+      "title": "Which flag becomes the flag of Poland when turned upside down?",
+      "answers": [
+        "Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_30",
+      "title": "The Hagia Sophia is located in what country?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_31",
+      "title": "What is the eastern-most US state capital?",
+      "answers": [
+        "Augusta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_32",
+      "title": "Which ocean does the Zambezi River flow into?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_33",
+      "title": "What are Italy's two largest islands?",
+      "answers": [
+        "Sicily and Sardinia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_34",
+      "title": "What is the capital of Portugal?",
+      "answers": [
+        "Lisbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_35",
+      "title": "Havana is the capital of which country?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_36",
+      "title": "What is the only nation that borders both Belgium and Spain?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_37",
+      "title": "What ocean is the island of Madagascar located in?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_38",
+      "title": "What does the Ring of Fire surround?",
+      "answers": [
+        "Pacific Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_39",
+      "title": "The historic district of Haight-Ashbury is located in what US city?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_40",
+      "title": "Who does Queen Elizabeth need permission from to enter the City of London?",
+      "answers": [
+        "The Lord Mayor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_41",
+      "title": "In what country would you find the active volcano \"Lassen Peak\"?",
+      "answers": [
+        "The United States"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_42",
+      "title": "What is the principal river of Ireland?",
+      "answers": [
+        "River Shannon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_43",
+      "title": "Where in London are the Crown Jewels kept?",
+      "answers": [
+        "The Tower of London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_44",
+      "title": "In which city would you find the Hermitage Museum?",
+      "answers": [
+        "Saint Petersburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_45",
+      "title": "What is the capital of the US state of Delaware?",
+      "answers": [
+        "Dover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_46",
+      "title": "Where are the Whitsunday Islands located?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_47",
+      "title": "How many countries border the Black Sea?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_48",
+      "title": "What is the capital of Kosovo?",
+      "answers": [
+        "Pristina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_49",
+      "title": "On which of North America's Great Lakes does the city of Buffalo stand?",
+      "answers": [
+        "Lake Erie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_25_50",
+      "title": "What is the capital of Malawi?",
+      "answers": [
+        "Lilongwe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

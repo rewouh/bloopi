@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_09",
+  "name": "Science Trivia 26K 09",
+  "description": "Science 401 - 450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_09_01",
+      "title": "What aquatic reptile can hold its breath under water for up to 15 minutes?",
+      "answers": [
+        "The crocodile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_02",
+      "title": "What is the term for any four-sided figure?",
+      "answers": [
+        "Quadrilateral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_03",
+      "title": "What term for a rocket's propulsive force is calculated by multiplying its exhaust velocity by the burn rate of its fuel?",
+      "answers": [
+        "Thrust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_04",
+      "title": "What is agrostology the study of?",
+      "answers": [
+        "Grasses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_05",
+      "title": "The maxillary bone and the mandible are the upper and lower parts of what?",
+      "answers": [
+        "The human jaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_06",
+      "title": "If you suffer from phobophobia, what do you fear?",
+      "answers": [
+        "Phobias"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_07",
+      "title": "\"Bright’s Disease\" affects what part of the body?",
+      "answers": [
+        "Kidney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_08",
+      "title": "Refining petroleum requires a number of processes. The process in which heavy hydrocarbons are broken up into lighter ones is called what?",
+      "answers": [
+        "Cracking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_09",
+      "title": "Which drug can be extracted from the bark of the cinchona tree?",
+      "answers": [
+        "Quinine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_10",
+      "title": "In what organ of the human body would you find the endometrium?",
+      "answers": [
+        "The uterus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_11",
+      "title": "Heliophobia is the fear of what?",
+      "answers": [
+        "The Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_12",
+      "title": "What does a pluviometer measure?",
+      "answers": [
+        "Rainfall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_13",
+      "title": "What land animal has the longest gestation period?",
+      "answers": [
+        "The elephant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_14",
+      "title": "What is added to white sugar to make brown sugar?",
+      "answers": [
+        "molasses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_15",
+      "title": "The Roadrunner is the official bird of which US state?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_16",
+      "title": "What is divided into the duodenum, the jejunum, and the ileum?",
+      "answers": [
+        "The small intestine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_17",
+      "title": "Which planet has the most volcanoes?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_18",
+      "title": "What is a baby kangaroo called?",
+      "answers": [
+        "Joey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_19",
+      "title": "What is the name given to a fossil that best defines a rock layer's age?",
+      "answers": [
+        "Index fossil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_20",
+      "title": "What is the chemical formula for ozone?",
+      "answers": [
+        "O3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_21",
+      "title": "What celestial body orbits the Earth?",
+      "answers": [
+        "The moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_22",
+      "title": "What is the name of the test to determine whether a computer could convincingly imitate a human?",
+      "answers": [
+        "The Turing test"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_23",
+      "title": "What did French scientist Hippolyte Mège-Mouriès is most often associated with?",
+      "answers": [
+        "Inventing margarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_24",
+      "title": "What is the cell where a virus reproduces called?",
+      "answers": [
+        "Host cell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_25",
+      "title": "How many sides does a decagon have?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_26",
+      "title": "What science deals with the motion of projectiles?",
+      "answers": [
+        "Ballistics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_27",
+      "title": "At what point in a black hole can you not go back, even if you were going at the speed of light?",
+      "answers": [
+        "The Event Horizon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_28",
+      "title": "The term \"lupine\" refers to which animal?",
+      "answers": [
+        "Wolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_29",
+      "title": "What disease does an endocrinologist generally study?",
+      "answers": [
+        "Diabetes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_30",
+      "title": "\"Groundnut\" is another name for what?",
+      "answers": [
+        "The peanut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_31",
+      "title": "What type of plant is a Saguaro?",
+      "answers": [
+        "Cactus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_32",
+      "title": "What company introduced the first transistor-based hearing aid?",
+      "answers": [
+        "Zenith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_33",
+      "title": "What are beavers called before they are full grown?",
+      "answers": [
+        "Kits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_34",
+      "title": "Which gas has the characteristic smell of rotten eggs?",
+      "answers": [
+        "Hydrogen sulfide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_35",
+      "title": "Where is the gluteus maximus located?",
+      "answers": [
+        "The buttocks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_36",
+      "title": "What is the term for the visible surface of the Sun?",
+      "answers": [
+        "Photosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_37",
+      "title": "What did Evangelista Torricelli invent?",
+      "answers": [
+        "Mercury barometer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_38",
+      "title": "Which planet in our solar system has the strongest gravitational pull?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_39",
+      "title": "How many pounds of honey is eaten by bees to produce 1 pound of beeswax?",
+      "answers": [
+        "8 Pounds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_40",
+      "title": "What is the study of water called?",
+      "answers": [
+        "Hydrology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_41",
+      "title": "In what decade did scientists first split the atom?",
+      "answers": [
+        "1930s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_42",
+      "title": "What kind of sugar is found in DNA?",
+      "answers": [
+        "deoxyribose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_43",
+      "title": "What is the scientific name for the trunk of an elephant?",
+      "answers": [
+        "Proboscis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_44",
+      "title": "Prometheus is an inner satellite of which planet?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_45",
+      "title": "Tercel is the name for the male of which animal?",
+      "answers": [
+        "Hawk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_46",
+      "title": "Which of the 6 Space Shuttle Orbiters NASA built was not capable of spaceflight?",
+      "answers": [
+        "Enterprise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_47",
+      "title": "Which element is named after the Greek goddess of the moon?",
+      "answers": [
+        "Selenium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_48",
+      "title": "What is an organism called that lives on or in a host animal?",
+      "answers": [
+        "Parasite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_49",
+      "title": "What is the common two word name for Yucca Brevifolia?",
+      "answers": [
+        "Joshua Tree"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_09_50",
+      "title": "A tetragon is geometric shape that has how many sides?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

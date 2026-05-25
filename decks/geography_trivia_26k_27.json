@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_27",
+  "name": "Geography Trivia 26K 27",
+  "description": "Geography 1301 - 1350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_27_01",
+      "title": "What does the name Botswana mean?",
+      "answers": [
+        "Land of the Tswana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_02",
+      "title": "Which city hosts the world's largest Passover Seder every year?",
+      "answers": [
+        "Kathmandu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_03",
+      "title": "What sea does the Danube empty into?",
+      "answers": [
+        "The Black Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_04",
+      "title": "Albania has coasts on which two seas?",
+      "answers": [
+        "Adriatic and Ionian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_05",
+      "title": "How many states does the Appalachian Trail traverse?",
+      "answers": [
+        "14"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_06",
+      "title": "The popular tourist destination, Amalfi, is located in which province in the Italian Campania region?",
+      "answers": [
+        "Salerno"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_07",
+      "title": "Honshu is the largest island of which country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_08",
+      "title": "What are the Philippines named after?",
+      "answers": [
+        "Spain's King Philip II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_09",
+      "title": "Where is the Rosenstiel School of Marine and Atmospheric Science Located?",
+      "answers": [
+        "Virginia Key, Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_10",
+      "title": "In which city would you find Red Square?",
+      "answers": [
+        "Moscow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_11",
+      "title": "What is the capital of Vanuatu?",
+      "answers": [
+        "Port Vila"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_12",
+      "title": "Perth is the capital of which Australian state?",
+      "answers": [
+        "Western Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_13",
+      "title": "What East Coast port is the largest US city to share its name with a British county?",
+      "answers": [
+        "Norfolk, Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_14",
+      "title": "What city in New Mexico was named after the Spanish words \"the crosses\"?",
+      "answers": [
+        "Las Cruces"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_15",
+      "title": "What is the principle language of Brazil?",
+      "answers": [
+        "Portuguese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_16",
+      "title": "What do folks from Louisiana and Mississippi call sluggish creeks and marshy lakes?",
+      "answers": [
+        "Bayous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_17",
+      "title": "In what sea would you find the Admiralty Islands?",
+      "answers": [
+        "Bismarck Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_18",
+      "title": "What percentage of the River Nile is located in Egypt?",
+      "answers": [
+        "22%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_19",
+      "title": "What nation's flag features a Sinhalese lion holding a sword?",
+      "answers": [
+        "Sri Lanka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_20",
+      "title": "What part of Britain has Cadwalader's red dragon on its flag?",
+      "answers": [
+        "Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_21",
+      "title": "Which island is often referred to as the \"Galapágos of Australia\"?",
+      "answers": [
+        "Kangaroo Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_22",
+      "title": "What African country completely surrounds the country of Lesotho?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_23",
+      "title": "Which is the largest country in Africa by area?",
+      "answers": [
+        "Algeria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_24",
+      "title": "Which United States beach is known as \"The Edge of America\"?",
+      "answers": [
+        "Folly Beach, South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_25",
+      "title": "The Liffey River runs through what European capital city?",
+      "answers": [
+        "Dublin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_26",
+      "title": "What US state name ends with three vowels?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_27",
+      "title": "Suva is the capital of which Melanesian country?",
+      "answers": [
+        "Fiji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_28",
+      "title": "What desert surrounds Las Vegas?",
+      "answers": [
+        "The Mojave Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_29",
+      "title": "In which country will you find most of the Aral sea in?",
+      "answers": [
+        "Kazakhstan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_30",
+      "title": "In 1959, which two territories became US states?",
+      "answers": [
+        "Alaska and Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_31",
+      "title": "What country produces Rioja wines?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_32",
+      "title": "What is the largest city in South America?",
+      "answers": [
+        "São Paulo, Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_33",
+      "title": "What nation's legislative body is named The Althing?",
+      "answers": [
+        "Iceland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_34",
+      "title": "In what US state would you find Fort Sill?",
+      "answers": [
+        "Oklahoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_35",
+      "title": "Jefferson City is the capital of which US state?",
+      "answers": [
+        "Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_36",
+      "title": "Which Mediterranean island is said to be named after its inhabitants who were skilled in the use of slings?",
+      "answers": [
+        "The Balearic Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_37",
+      "title": "Which country has the most known animal species?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_38",
+      "title": "Which Bay is located to the north of Spain?",
+      "answers": [
+        "Bay of Biscay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_39",
+      "title": "Which city is considered the perfume capital of the world?",
+      "answers": [
+        "Grasse, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_40",
+      "title": "Where is Mount Olympus?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_41",
+      "title": "In what city is Gonzaga University located?",
+      "answers": [
+        "Spokane, Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_42",
+      "title": "What major river runs through St. Petersburg?",
+      "answers": [
+        "Neva"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_43",
+      "title": "What is the capital of the US state of Colorado?",
+      "answers": [
+        "Denver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_44",
+      "title": "When did the Seychelles gain their independence from the United Kingdom?",
+      "answers": [
+        "June 29, 1975"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_45",
+      "title": "Stockholm is located along what sea?",
+      "answers": [
+        "The Baltic Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_46",
+      "title": "What volcano is the world's tallest mountain, when measured base to summit?",
+      "answers": [
+        "Mauna Kea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_47",
+      "title": "What is the state rock of New Hampshire?",
+      "answers": [
+        "Granite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_48",
+      "title": "What is the capital of Croatia?",
+      "answers": [
+        "Zagreb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_49",
+      "title": "What distiller and entrepreneur founded the town of Walkerville, which is now a heritage neighborhood of Windsor, Ontario in Canada?",
+      "answers": [
+        "Hiram Walker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_27_50",
+      "title": "Which US state is home to the Hopi Indian Reservation?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

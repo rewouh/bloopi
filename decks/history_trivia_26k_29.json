@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_29",
+  "name": "History Trivia 26K 29",
+  "description": "History 1401 - 1450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_29_01",
+      "title": "What year was US President Ronald Reagan born?",
+      "answers": [
+        "1911"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_02",
+      "title": "Construction of the Colosseum finished under the ruling of which emperor?",
+      "answers": [
+        "Titus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_03",
+      "title": "What new economic program did China’s Mao Zedong announce in 1958?",
+      "answers": [
+        "\"The Great Leap Forward\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_04",
+      "title": "When did the U.S. Secret Service start providing protection for the President?",
+      "answers": [
+        "1901"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_05",
+      "title": "Which was the last major offensive operation undertaken by elite German paratroopers in World War II?",
+      "answers": [
+        "Attack against Crete"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_06",
+      "title": "Which modern gymnastics event made its first appearance at the 2000 Sydney Olympics?",
+      "answers": [
+        "Trampolining"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_07",
+      "title": "What year did James Garfield start his presidency?",
+      "answers": [
+        "1881"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_08",
+      "title": "What was the only South American country to send troops to fight in World War II?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_09",
+      "title": "Who were the first people to separate copper from its ore?",
+      "answers": [
+        "The Ancient Egyptians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_10",
+      "title": "During what century was the Mexican War fought?",
+      "answers": [
+        "19th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_11",
+      "title": "Which French King Louis was called the Sun King?",
+      "answers": [
+        "Louis XIV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_12",
+      "title": "During what decade was the first US transcontinental railway completed?",
+      "answers": [
+        "1860s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_13",
+      "title": "What is a four letter Gaelic name for Scotland?",
+      "answers": [
+        "Alba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_14",
+      "title": "What is the name of Agrippa's husband, who she poisoned?",
+      "answers": [
+        "Claudius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_15",
+      "title": "What nation was led by Simeon the Great?",
+      "answers": [
+        "Bulgaria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_16",
+      "title": "What US president was raised in a spa town called Hot Springs?",
+      "answers": [
+        "Bill Clinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_17",
+      "title": "What Sioux tribe did Sitting Bull belong to?",
+      "answers": [
+        "The Lakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_18",
+      "title": "Which city hosted the 2004 Summer Olympic Games?",
+      "answers": [
+        "Athens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_19",
+      "title": "What year did General Sherman order Atlanta be burned?",
+      "answers": [
+        "1864"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_20",
+      "title": "What is widely considered to be man's first celestial observatory?",
+      "answers": [
+        "Stonehenge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_21",
+      "title": "What branch of Christianity introduced the Advent calendar?",
+      "answers": [
+        "German Lutherans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_22",
+      "title": "Who was the first man to return safely from space?",
+      "answers": [
+        "Yuri Gagarin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_23",
+      "title": "The Peloponnesian War was fought between Athens and which other ancient Greek state?",
+      "answers": [
+        "Sparta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_24",
+      "title": "Traffic lights were first used in London in which year?",
+      "answers": [
+        "1868"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_25",
+      "title": "In which European city did composer Richard Wagner die in 1883?",
+      "answers": [
+        "Venice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_26",
+      "title": "Which British monarch is responsible for transforming Buckingham House into a palace?",
+      "answers": [
+        "George IV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_27",
+      "title": "In 1995, who became the first Republican Speaker of the House in 40 years?",
+      "answers": [
+        "Newt Gingrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_28",
+      "title": "What language was the first English-like data processing language?",
+      "answers": [
+        "FLOW-MATIC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_29",
+      "title": "Who was the 16th president of the US?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_30",
+      "title": "What civil rights activist was born Malcolm Little?",
+      "answers": [
+        "Malcolm X"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_31",
+      "title": "What is the name of the Palestinian uprising that began inside Gaza and the West Bank in 1987?",
+      "answers": [
+        "Intifada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_32",
+      "title": "Many countries do not forthrightly recognize May Day but celebrate which other holiday in its stead?",
+      "answers": [
+        "International Workers Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_33",
+      "title": "Lady Godiva made her historic ride through what British city?",
+      "answers": [
+        "Coventry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_34",
+      "title": "What was the nationality of the first man to conquer the summit of mount Everest?",
+      "answers": [
+        "New Zealander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_35",
+      "title": "What is the name of the first female Hispanic astronaut?",
+      "answers": [
+        "Ellen Ochoa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_36",
+      "title": "What empress gave John Paul Jones a navy job after his American military career ended?",
+      "answers": [
+        "Catherine the Great"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_37",
+      "title": "During the American Revolution, who was known as the Swamp Fox?",
+      "answers": [
+        "Lt. Col. Francis Marion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_38",
+      "title": "Which African capital city was known during colonial times as Leopoldville?",
+      "answers": [
+        "Kinshasa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_39",
+      "title": "In what year did Lewis & Clark depart St. Louis to begin their expedition to the west?",
+      "answers": [
+        "1804"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_40",
+      "title": "Who developed the M16/AR15 weapon system?",
+      "answers": [
+        "Eugene Stoner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_41",
+      "title": "Who won Super Bowl IV?",
+      "answers": [
+        "Kansas City Chiefs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_42",
+      "title": "For what crime was Margaret Sanger jailed in 1917?",
+      "answers": [
+        "Establishing birth control"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_43",
+      "title": "What was the name of the antisemitic laws passed in Nazi Germany on September 15, 1935?",
+      "answers": [
+        "Nuremberg Law"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_44",
+      "title": "How many stones make up each of Stonehenge's trilithons?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_45",
+      "title": "When did the Panama Canal open?",
+      "answers": [
+        "1914"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_46",
+      "title": "Which revolutionary icon was killed on 9th October 1967?",
+      "answers": [
+        "Che Guevara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_47",
+      "title": "What year were the Olympic Games hosted in the US for the first time?",
+      "answers": [
+        "1904"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_48",
+      "title": "What Egyptian city was founded by Alexander the Great in 331 BC?",
+      "answers": [
+        "Alexandria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_49",
+      "title": "The Titanic picked up passengers in which two ports other than Southampton?",
+      "answers": [
+        "Cherbourg and Queenstown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_29_50",
+      "title": "Who invented a waterproof boot that he began selling to his fellow Maine hunters in 1912?",
+      "answers": [
+        "L. L. Bean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

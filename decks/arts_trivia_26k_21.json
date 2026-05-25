@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_21",
+  "name": "Arts Trivia 26K 21",
+  "description": "Arts 1001 - 1050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_21_01",
+      "title": "Who wrote \"The Cat in the Hat\" and \"Green Eggs and Ham\"?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_02",
+      "title": "Who painted \"Water Lilies\"?",
+      "answers": [
+        "Claude Monet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_03",
+      "title": "Which side of a book are the odd-numbered pages usually on?",
+      "answers": [
+        "The right"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_04",
+      "title": "Which famous poem includes the line \"I am the master of my fate, I am the captain of my soul\"?",
+      "answers": [
+        "Invictus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_05",
+      "title": "What photographer had a twenty-year relationship with late author Susan Sontag?",
+      "answers": [
+        "Annie Leibovitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_06",
+      "title": "What food item does the painting technique \"Tempera\" commonly uses as a binder?",
+      "answers": [
+        "Egg yolks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_07",
+      "title": "In what literary work would you find the Yahoos?",
+      "answers": [
+        "Gulliver's Travels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_08",
+      "title": "What is the 16th letter of the Greek alphabet?",
+      "answers": [
+        "Pi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_09",
+      "title": "Who wrote the \"Aeneid\"?",
+      "answers": [
+        "Virgil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_10",
+      "title": "What children's books character is scared of Heffalumps and Woozles?",
+      "answers": [
+        "Winnie the Pooh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_11",
+      "title": "Pat Sullivan is often credited with creating which cartoon character?",
+      "answers": [
+        "Felix the Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_12",
+      "title": "According to legend, who cut the tree-bark rope tied into a \"Gordian knot\"?",
+      "answers": [
+        "Alexander the Great"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_13",
+      "title": "Dr. Hans Zarkov is a character from which classic American comic strip?",
+      "answers": [
+        "Flash Gordon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_14",
+      "title": "Who wrote the ballet \"The Creatures of Prometheus\"?",
+      "answers": [
+        "Beethoven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_15",
+      "title": "What year did poet Sylvia Plath end her life?",
+      "answers": [
+        "1963"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_16",
+      "title": "During what war was the novel \"War and Peace\" set?",
+      "answers": [
+        "Napoleonic Wars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_17",
+      "title": "The Peabody Awards for journalism are presented by what school?",
+      "answers": [
+        "University of Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_18",
+      "title": "What must be held by anyone wishing to speak during meetings in the book \"Lord of the Flies\"?",
+      "answers": [
+        "Conch shell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_19",
+      "title": "In the 12th chapter of the \"Book of Revelation\", which angel leads a battle against a dragon?",
+      "answers": [
+        "Michael"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_20",
+      "title": "Who wrote the book \"Billy Budd\"?",
+      "answers": [
+        "Herman Melville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_21",
+      "title": "Who wrote \"The Power of Positive Thinking\", first published in 1952?",
+      "answers": [
+        "Norman Vincent Peale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_22",
+      "title": "Where did The Wizard of Oz live?",
+      "answers": [
+        "The Emerald City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_23",
+      "title": "Which character killed Elizabeth Lavenza?",
+      "answers": [
+        "Frankestein's monster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_24",
+      "title": "In the \"Jack and the Beanstalk\" fairy tale, what did Jack trade for five magic beans?",
+      "answers": [
+        "A cow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_25",
+      "title": "What century did Laurence Sterne publish the novel \"The Life and Opinions of Tristram Shandy, Gentleman\"?",
+      "answers": [
+        "18th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_26",
+      "title": "What poet slammed unscrupulous bookseller Edmund Curll in his 1728 poem \"The Dunciad\"?",
+      "answers": [
+        "Alexander Pope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_27",
+      "title": "Who wrote the humorous novel \"The Life and Opinions of Tristram Shandy, Gentleman\"?",
+      "answers": [
+        "Laurence Sterne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_28",
+      "title": "Who painted the Mona Lisa?",
+      "answers": [
+        "Leonardo da Vinci"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_29",
+      "title": "Who created James Bond?",
+      "answers": [
+        "Ian Fleming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_30",
+      "title": "What kind of animal is Beatrix Potters' \"Mrs. Tiggy-Winkle\"?",
+      "answers": [
+        "Hedgehog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_31",
+      "title": "Who is Lois Lane's younger sister?",
+      "answers": [
+        "Lucy Lane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_32",
+      "title": "The custom of sending cards, flowers, chocolates and gifts on Valentine's Day originated in which country?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_33",
+      "title": "According to Greek mythology who was the first woman on earth?",
+      "answers": [
+        "Pandora"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_34",
+      "title": "Who created the fictional character Tristram Shandy?",
+      "answers": [
+        "Laurence Sterne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_35",
+      "title": "What comic strip introduced the metal band Billy and the Boingers?",
+      "answers": [
+        "Bloom County"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_36",
+      "title": "Whose autobiography is called \"Tall, Dark and Gruesome\"?",
+      "answers": [
+        "Christopher Lee's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_37",
+      "title": "What was the name of Tom Sawyer’s aunt with whom he lived?",
+      "answers": [
+        "Polly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_38",
+      "title": "In terms of decibels, what is normally the loudest instrument in a symphony orchestra?",
+      "answers": [
+        "Trombone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_39",
+      "title": "Who wrote the opera \"La Traviata\"?",
+      "answers": [
+        "Guiseppe Verdi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_40",
+      "title": "What takes its name from the Japanese for \"whimsical pictures\"?",
+      "answers": [
+        "Manga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_41",
+      "title": "The Answer to the Great Question of Life, the universe and everything is what?",
+      "answers": [
+        "42"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_42",
+      "title": "What Transfiguration teacher succeeded Armando Dippet as headmaster of his alma mater?",
+      "answers": [
+        "Albus Dumbledore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_43",
+      "title": "Atticus Finch is the name of the narrator’s father in which classic 1960 novel?",
+      "answers": [
+        "\"To Kill a Mockingbird\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_44",
+      "title": "Which American author was awarded both the Nobel Prize in Literature and Presidential Medal of Freedom?",
+      "answers": [
+        "John Steinbeck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_45",
+      "title": "Who is the Babylonian goddess of love and fertility?",
+      "answers": [
+        "Ishtar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_46",
+      "title": "Who made \"The Scream\" painting?",
+      "answers": [
+        "Edvard Munch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_47",
+      "title": "Who wrote the 1963 novel \"Planet of the Apes\"?",
+      "answers": [
+        "Pierre Boulle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_48",
+      "title": "Frida Kahlo was married to which famous muralist?",
+      "answers": [
+        "Diego Rivera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_49",
+      "title": "In the comic book series \"Strangers in Paradise\", what does Darcy Parker tattoo on the right breast of her lovers?",
+      "answers": [
+        "A rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_21_50",
+      "title": "In Greek mythology, who was Hippomenes also known as?",
+      "answers": [
+        "Melanion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

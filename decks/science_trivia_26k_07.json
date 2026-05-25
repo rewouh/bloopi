@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_07",
+  "name": "Science Trivia 26K 07",
+  "description": "Science 301 - 350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_07_01",
+      "title": "Who developed the classification we use for clouds?",
+      "answers": [
+        "Luke Howard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_02",
+      "title": "Which planet is famous for its Big Red Spot?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_03",
+      "title": "\"I shall please\" is the Latin translation of what medical treatment?",
+      "answers": [
+        "Placebo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_04",
+      "title": "What would a doctor call \"pes planus\"?",
+      "answers": [
+        "Fallen arches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_05",
+      "title": "Which planet has Prometheus as a satellite?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_06",
+      "title": "Which ape's name means \"man of the forest\"?",
+      "answers": [
+        "Orangutan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_07",
+      "title": "What fruit comes in Bartlett and Bosc variety?",
+      "answers": [
+        "Pears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_08",
+      "title": "What snake will roll over and fake a gruesome death to confuse its attacker?",
+      "answers": [
+        "Hog-nosed snake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_09",
+      "title": "The March of Dimes was originally founded to help find a vaccine for what?",
+      "answers": [
+        "Polio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_10",
+      "title": "How many known moons does Pluto have?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_11",
+      "title": "What word did Carl Jung coin to mean \"temporally coincident occurrences of acausal events\"?",
+      "answers": [
+        "Synchronicity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_12",
+      "title": "What space shuttle comes first alphabetically?",
+      "answers": [
+        "Atlantis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_13",
+      "title": "What type of cloud is often described as \"cotton-like\"?",
+      "answers": [
+        "Cumulus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_14",
+      "title": "Who coined the term dark energy?",
+      "answers": [
+        "Michael S. Turner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_15",
+      "title": "When graphed, the implicit curve equation produces what shape?",
+      "answers": [
+        "Heart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_16",
+      "title": "What’s a tropical cyclone called when its winds reach 74 miles per hour?",
+      "answers": [
+        "A Hurricane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_17",
+      "title": "What deadly disease is also known a hydrophobia?",
+      "answers": [
+        "Rabies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_18",
+      "title": "What enzyme is responsible for breaking down starches?",
+      "answers": [
+        "Amylase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_19",
+      "title": "If you suffer from diplopia, what do you have?",
+      "answers": [
+        "Double vision"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_20",
+      "title": "Cerumen is more commonly known as what?",
+      "answers": [
+        "Earwax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_21",
+      "title": "Haphephobia is the fear of what?",
+      "answers": [
+        "Touch or touching"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_22",
+      "title": "Cephalgia is a medical term for what malady?",
+      "answers": [
+        "Headache"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_23",
+      "title": "Bronze is an alloy of what two metals?",
+      "answers": [
+        "Tin and copper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_24",
+      "title": "What chili pepper is considered the world's hottest pepper?",
+      "answers": [
+        "The Carolina Reaper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_25",
+      "title": "What invisible \"color\" can bees see on flower petals?",
+      "answers": [
+        "Ultraviolet, or Bee purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_26",
+      "title": "What is the chemical name for quicksilver?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_27",
+      "title": "What is the fruit of the \"Ananas comosus\"?",
+      "answers": [
+        "A pineapple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_28",
+      "title": "The dwarf planet Ceres is in between which two planets?",
+      "answers": [
+        "Mars and Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_29",
+      "title": "What company introduced the first hand-held calculator in 1967?",
+      "answers": [
+        "Texas Instruments"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_30",
+      "title": "What color is Absinthe?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_31",
+      "title": "What element did Pierre and Marie Curie discover in 1898?",
+      "answers": [
+        "Radium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_32",
+      "title": "Which shark has seven gill slits, as opposed to the normal five?",
+      "answers": [
+        "The Sevengill shark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_33",
+      "title": "Deipnophobia is the fear of what?",
+      "answers": [
+        "Dinner conversations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_34",
+      "title": "What kind of bird is an eider?",
+      "answers": [
+        "A duck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_35",
+      "title": "What part of the brain is responsible for vision?",
+      "answers": [
+        "Occipital"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_36",
+      "title": "What is the fastest animal on earth that runs on two legs?",
+      "answers": [
+        "The ostrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_37",
+      "title": "Mycology is the study of what?",
+      "answers": [
+        "Fungi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_38",
+      "title": "What vitamin, found in carrots, helps maintain the acuity of your vision?",
+      "answers": [
+        "Vitamin A"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_39",
+      "title": "Heroin is the brand name of morphine once marketed by which pharmaceutical company?",
+      "answers": [
+        "Bayer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_40",
+      "title": "What does mass multipled by velocity give you?",
+      "answers": [
+        "Momentum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_41",
+      "title": "Which fruit is essentially a clone of itself?",
+      "answers": [
+        "Banana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_42",
+      "title": "Helminthology is the study of what?",
+      "answers": [
+        "Worms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_43",
+      "title": "How many stars make up the Big Dipper?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_44",
+      "title": "What mammal has the longest pregnancy?",
+      "answers": [
+        "The elephant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_45",
+      "title": "By what common name is sodium bicarbonate otherwise known?",
+      "answers": [
+        "Baking Soda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_46",
+      "title": "What word is best described by \"irregular beat of the heart or other muscle\"?",
+      "answers": [
+        "Fibrillation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_47",
+      "title": "What year did the \"ILOVEYOU\" virus began infecting computers worldwide?",
+      "answers": [
+        "2000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_48",
+      "title": "What does MRI stand for?",
+      "answers": [
+        "Magnetic Resonance Imaging"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_49",
+      "title": "What is chionophobia?",
+      "answers": [
+        "Fear of snow."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_07_50",
+      "title": "What process is utilized to make cows' milk safe for human consumption?",
+      "answers": [
+        "Pasteurization"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

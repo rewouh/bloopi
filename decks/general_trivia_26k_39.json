@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_39",
+  "name": "General Trivia 26K 39",
+  "description": "General 1901 - 1950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_39_01",
+      "title": "What's the ancient Greek word for \"great city\"?",
+      "answers": [
+        "Megalopolis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_02",
+      "title": "What is a 10 letter word meaning \"to mix or blend together in a homogeneous body\"?",
+      "answers": [
+        "Amalgamate, or homogenize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_03",
+      "title": "Peridot is which month's birthstone?",
+      "answers": [
+        "August"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_04",
+      "title": "When was \"Silent Night\" written?",
+      "answers": [
+        "1818"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_05",
+      "title": "What band's songs include \"Get Down and Get With It\" and \"Mama Weer All Crazee Now\"?",
+      "answers": [
+        "Slade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_06",
+      "title": "London's Old Bailey is a what?",
+      "answers": [
+        "Criminal court"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_07",
+      "title": "Which German firm produced the World War II plane known as the Condor?",
+      "answers": [
+        "Focke-Wulf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_08",
+      "title": "Tradionally, what does a Fletcher make?",
+      "answers": [
+        "Arrows"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_09",
+      "title": "What year saw the opening of the first Starbucks store?",
+      "answers": [
+        "1971"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_10",
+      "title": "The first Tonka truck was made in what year?",
+      "answers": [
+        "1947"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_11",
+      "title": "What month features the harvest moon?",
+      "answers": [
+        "September"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_12",
+      "title": "What was the original name of the game Pac-Man prior to its release?",
+      "answers": [
+        "Puck Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_13",
+      "title": "Who scored the first goal at original Wembley Stadium?",
+      "answers": [
+        "David Jack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_14",
+      "title": "The word \"grenade\" derives from the name of what fruit?",
+      "answers": [
+        "Pomegranate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_15",
+      "title": "Under the English 1830 Beer Act, what was the cost of the licence to sell beer and cider from your own home?",
+      "answers": [
+        "2 guineas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_16",
+      "title": "Calamarata pasta is shaped like what?",
+      "answers": [
+        "Wide rings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_17",
+      "title": "What letter is least used in the English language?",
+      "answers": [
+        "Z"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_18",
+      "title": "What do you need two of to play Double Dutch?",
+      "answers": [
+        "Jump ropes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_19",
+      "title": "What kind of flower does saffron come from?",
+      "answers": [
+        "A crocus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_20",
+      "title": "What's the international radio code word for the letter \"V\"?",
+      "answers": [
+        "Victor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_21",
+      "title": "In 1995, Heather Whitestone became the first Miss America to have what disability?",
+      "answers": [
+        "She was deaf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_22",
+      "title": "The Musée d'Orsay in Paris was originally what?",
+      "answers": [
+        "Railway Station"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_23",
+      "title": "Who did Nicolas Cage marry in 2002?",
+      "answers": [
+        "Lisa Marie Presley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_24",
+      "title": "What country is home to the automobile manufacturer ZAZ?",
+      "answers": [
+        "Ukraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_25",
+      "title": "The phrase \"sticky wickeet\" has its origins in what sport?",
+      "answers": [
+        "Cricket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_26",
+      "title": "What is the fear of worms, especially parasitic ones, known as?",
+      "answers": [
+        "Scoleciphobia, helminthophobia or vermiphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_27",
+      "title": "Who was the headline performer featured at the conclusion of the opening ceremony of the 2012 Summer Olympics in London?",
+      "answers": [
+        "Paul McCartney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_28",
+      "title": "What do you call a group of Geese?",
+      "answers": [
+        "Gaggle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_29",
+      "title": "In which country would you find the motor racing circuit called Kyalami?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_30",
+      "title": "Which red wine varietal is nicknamed the \"King of Grapes\"?",
+      "answers": [
+        "Cabernet Sauvignon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_31",
+      "title": "What type of consumer debt is the largest in the United States?",
+      "answers": [
+        "Mortgage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_32",
+      "title": "Which English Member of Parliament referred to the pub as \"the heart of England\"?",
+      "answers": [
+        "Samuel Pepys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_33",
+      "title": "What was the first flavor of Life Savers candy?",
+      "answers": [
+        "Peppermint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_34",
+      "title": "How many cards are usually used in a game of solitaire?",
+      "answers": [
+        "52"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_35",
+      "title": "What is the name of the Princess Mario & Luigi have to rescue in the Super Mario Brothers Nintendo games?",
+      "answers": [
+        "Princess Toadstool/Peach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_36",
+      "title": "What type of shop did the Wright Brothers own before devoting their time to flight?",
+      "answers": [
+        "Bicycle shop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_37",
+      "title": "What is the hobby of a \"twitcher\"?",
+      "answers": [
+        "Bird watching"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_38",
+      "title": "What city is the birthplace of boxer Manny Pacquiao?",
+      "answers": [
+        "General Santos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_39",
+      "title": "What pitcher with four World Series rings its nicknamed \"El Duque\"?",
+      "answers": [
+        "Orlando Hernandez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_40",
+      "title": "In which Olympic games did Nadia Comăneci become the first gymnist to be awarded a perfect score of 10.0?",
+      "answers": [
+        "1976 Olympic Games"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_41",
+      "title": "Which company was the first to offer a Valentine's Day chocolate box?",
+      "answers": [
+        "Cadbury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_42",
+      "title": "Where was the first known fried chicken recipe published?",
+      "answers": [
+        "The United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_43",
+      "title": "What is the first month comprised of 30 days?",
+      "answers": [
+        "April"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_44",
+      "title": "A nonagon is a shape that has how many sides?",
+      "answers": [
+        "9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_45",
+      "title": "What is the most popular Twizzler candy flavour?",
+      "answers": [
+        "Strawberry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_46",
+      "title": "When did college basketball introduce the 3­-point shot?",
+      "answers": [
+        "1987"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_47",
+      "title": "What year did the famous Sears Tower in Chicago had its name changed to the \"Willis Tower\"?",
+      "answers": [
+        "2009"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_48",
+      "title": "Which aviation company produced the DC Series of aircraft?",
+      "answers": [
+        "McDonnell Douglas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_49",
+      "title": "Where were fortune cookies invented?",
+      "answers": [
+        "United States"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_39_50",
+      "title": "What is the fear of wealth known as?",
+      "answers": [
+        "Plutophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

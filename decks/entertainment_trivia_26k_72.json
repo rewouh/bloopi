@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_72",
+  "name": "Entertainment Trivia 26K 72",
+  "description": "Entertainment 3551 - 3600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_72_01",
+      "title": "Who provoked controversy with the phone-sex conversation on her 1997 album \"The Velvet Rope\"?",
+      "answers": [
+        "Janet Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_02",
+      "title": "The powerful mineral vibranium is mined from which fictional country?",
+      "answers": [
+        "Wakanda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_03",
+      "title": "What instrument did Sting play with the band \"The Police\"?",
+      "answers": [
+        "Bass guitar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_04",
+      "title": "What song does Ferris Bueller sing from the float in the Chicago parade?",
+      "answers": [
+        "Twist and Shout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_05",
+      "title": "Who plays the role of Summer in the movie \"500 Days of Summer\"?",
+      "answers": [
+        "Zooey Deschanel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_06",
+      "title": "What position was first held by Muhammad Naguib?",
+      "answers": [
+        "President of Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_07",
+      "title": "In Disneys \"Snow White\", the sleeping spell on Snow White was broken by what?",
+      "answers": [
+        "A kiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_08",
+      "title": "Margaret Hamilton plays the role of the \"Wicked Witch\" and what other character in \"The Wizard of Oz\"?",
+      "answers": [
+        "Almira Gulch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_09",
+      "title": "How old was Buddy Holly when he died in a plane crash in 1959?",
+      "answers": [
+        "22 years old"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_10",
+      "title": "Who popularized the song \"A Boy Named Sue\" in 1969?",
+      "answers": [
+        "Johnny Cash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_11",
+      "title": "Which fairytale princess likes sushi in the movie \"Shrek\"?",
+      "answers": [
+        "Cinderella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_12",
+      "title": "Who played the character of Milton Waddams in the film \"Office Space\"?",
+      "answers": [
+        "Stephen Root"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_13",
+      "title": "In Star Wars, what was the name of the bounty hunter who confronted Han solo in the Cantina?",
+      "answers": [
+        "Greedo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_14",
+      "title": "Who played the role of Tracy Samantha Lord in the 1956 film \"High Society\"?",
+      "answers": [
+        "Grace Kelly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_15",
+      "title": "What singer took his stage name from a Dublin hearing aid billboard?",
+      "answers": [
+        "Bono"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_16",
+      "title": "Who played the role of Larry Sanders on \"The Larry Sanders Show\"?",
+      "answers": [
+        "Gary Shandling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_17",
+      "title": "What Bruce Willis action movie takes place on Christmas eve?",
+      "answers": [
+        "\"Die Hard\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_18",
+      "title": "What song was used as the theme for the Three Stooges\"?",
+      "answers": [
+        "Three Blind Mice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_19",
+      "title": "In the TV show \"The Simpsons\", what is the name of Springfield's water park?",
+      "answers": [
+        "Mount Splashmore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_20",
+      "title": "What is the name of the van the Scooby-Doo gang drives?",
+      "answers": [
+        "The Mystery Machine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_21",
+      "title": "Whose mom in South Park was sucked into a toilet?",
+      "answers": [
+        "Clyde’s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_22",
+      "title": "What movie director/producer owns Skywalker Ranch, in Marin County, California?",
+      "answers": [
+        "George Lucas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_23",
+      "title": "Who sang the 1995 song \"Boom Boom Boom\"?",
+      "answers": [
+        "The Outhere Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_24",
+      "title": "What movie, set in Vietnam, won an Oscar for \"Best Picture\" in 1987?",
+      "answers": [
+        "Platoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_25",
+      "title": "Which director was responsible for four of the highest grossing films of the 1980s?",
+      "answers": [
+        "Steven Spielberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_26",
+      "title": "What bones did James Dean break in the movie \"Rebel Without A Cause\"?",
+      "answers": [
+        "His knuckles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_27",
+      "title": "What TV show's famed \"puffy shirt\" is in the Smithsonian today?",
+      "answers": [
+        "Seinfeld's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_28",
+      "title": "Who played Malcom in the TV show \"Malcom in the Middle\"?",
+      "answers": [
+        "Frankie Muniz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_29",
+      "title": "Whose tombstone bears the inscription \"That's All Folks\"?",
+      "answers": [
+        "Mel Blanc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_30",
+      "title": "At what address did the TV's \"Addams Family\" live?",
+      "answers": [
+        "0001 Cemetery Lane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_31",
+      "title": "Who played the role of C.K. Dexter-Haven in the 1956 film \"High Society\"?",
+      "answers": [
+        "Bing Crosby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_32",
+      "title": "In the movie \"Casablanca\", what number does Rick tell the Bulgarian to bet on?",
+      "answers": [
+        "22"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_33",
+      "title": "What is Naruto's last name in the anime of the same name?",
+      "answers": [
+        "Uzumaki"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_34",
+      "title": "What is the stage name of Gordon Matthew Thomas Sumner?",
+      "answers": [
+        "Sting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_35",
+      "title": "In the 1939 film \"The Wizard of Oz\", Dorothy's slippers are red. What color are her slippers in the novel?",
+      "answers": [
+        "Silver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_36",
+      "title": "What band's Greatest Hits album set a US record by going 29 times platinum?",
+      "answers": [
+        "Eagles'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_37",
+      "title": "In the film \"The Hustler,\" who played the role of Minnesota Fats?",
+      "answers": [
+        "Jackie Gleason"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_38",
+      "title": "Who directed the movie \"Alien\"?",
+      "answers": [
+        "Ridley Scott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_39",
+      "title": "The song \"I Talk to the Trees\" comes from what musical?",
+      "answers": [
+        "Paint Your Wagon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_40",
+      "title": "Kevin Spacey plays Francis Underwood in what Netflix original series?",
+      "answers": [
+        "House of Cards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_41",
+      "title": "What year did Cat Stevens officially change his name to Yusuf Islam?",
+      "answers": [
+        "1977"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_42",
+      "title": "What year was Boy George born in?",
+      "answers": [
+        "1961"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_43",
+      "title": "What artist had the first rap album to ever go to No. 1 on the US pop charts?",
+      "answers": [
+        "MC Hammer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_44",
+      "title": "What does the \"D.J.\" stand for in D.J. Tanner's name in the TV show \"Full House\"?",
+      "answers": [
+        "Donna Jo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_45",
+      "title": "What band did James Brown tour and record with in the 1950's?",
+      "answers": [
+        "The Famous Flames"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_46",
+      "title": "What country was the music artist Rihanna born in?",
+      "answers": [
+        "Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_47",
+      "title": "In the TV show \"The Simpsons\", what is the name of the restaurant Homer competed in a beef eating contest?",
+      "answers": [
+        "The Slaughterhouse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_48",
+      "title": "What year was the film \"The Day of the Jackal\" released?",
+      "answers": [
+        "1973"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_49",
+      "title": "What movie holds the record for most weeks at #1 at the box office?",
+      "answers": [
+        "E.T.: The Extraterrestrial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_72_50",
+      "title": "Who was the voice of Jessie the Cow Girl in the Toy Story movies?",
+      "answers": [
+        "Joan Cusack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_16",
+  "name": "Science Trivia 26K 16",
+  "description": "Science 751 - 800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_16_01",
+      "title": "Who was the first dog in space?",
+      "answers": [
+        "Laika"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_02",
+      "title": "What insect protects peonies from damaging pests?",
+      "answers": [
+        "Ants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_03",
+      "title": "What founding father also founded the University of Pennsylvania?",
+      "answers": [
+        "Benjamin Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_04",
+      "title": "How many toes does a pig have on each foot?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_05",
+      "title": "What is the name of the process of splitting atomic nuclei?",
+      "answers": [
+        "Fission"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_06",
+      "title": "How many claws does a domestic cat have?",
+      "answers": [
+        "18"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_07",
+      "title": "What did Freud call the female counterpart of the Oedipus complex?",
+      "answers": [
+        "The Elektra complex"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_08",
+      "title": "What is the most common type of star in the universe?",
+      "answers": [
+        "Red dwarf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_09",
+      "title": "What is another word for a bird watcher?",
+      "answers": [
+        "Twitcher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_10",
+      "title": "Which ear can most people hear better with?",
+      "answers": [
+        "The right"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_11",
+      "title": "What is the technical term for jet lag?",
+      "answers": [
+        "Desynchronosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_12",
+      "title": "Which is the smallest planet in our Solar System?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_13",
+      "title": "What does the Schmidt index measure?",
+      "answers": [
+        "Pain of insect stings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_14",
+      "title": "What is the more common name for Eponychium?",
+      "answers": [
+        "Cuticle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_15",
+      "title": "How many hearts does an Octopus have?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_16",
+      "title": "What Asian dog breed is notable for its blue or black tongue?",
+      "answers": [
+        "The Chow Chow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_17",
+      "title": "What negatively charged particle is the antiparticle of the positron?",
+      "answers": [
+        "The electron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_18",
+      "title": "What was the name of the second orbiter of NASA's space shuttle program?",
+      "answers": [
+        "Challenger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_19",
+      "title": "What animal name literally means \"pig-fish\"?",
+      "answers": [
+        "Porpoise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_20",
+      "title": "Which animal was the first to be domesticated by early humans?",
+      "answers": [
+        "Dogs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_21",
+      "title": "Pteridophobia is the fear of what?",
+      "answers": [
+        "Ferns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_22",
+      "title": "What is one of pi's rational approximations?",
+      "answers": [
+        "22/7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_23",
+      "title": "What planet in our Solar System has the longest day?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_24",
+      "title": "In which country are you most likely to see southern crowned pigeons and flame bowerbirds?",
+      "answers": [
+        "Papua New Guinea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_25",
+      "title": "What is the collective term for ducks?",
+      "answers": [
+        "A paddle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_26",
+      "title": "Which animal has a gestation period of only 12 to 14 days?",
+      "answers": [
+        "Opossum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_27",
+      "title": "What is James Dewar most famous for inventing?",
+      "answers": [
+        "The vacuum flask"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_28",
+      "title": "What chemical is denoted by Cm?",
+      "answers": [
+        "Curium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_29",
+      "title": "The Saffir Simpson scale is a scale which classifies the intensities of what?",
+      "answers": [
+        "Hurricanes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_30",
+      "title": "What do pumpkins grow on?",
+      "answers": [
+        "Vines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_31",
+      "title": "What disease does the \"tine test\" detect?",
+      "answers": [
+        "Tuberculosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_32",
+      "title": "Which element of the periodic table is named for a Scottish village?",
+      "answers": [
+        "Strontium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_33",
+      "title": "In which organ is vitamin A primarily stored?",
+      "answers": [
+        "Liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_34",
+      "title": "Which type of triangle has no equal sides?",
+      "answers": [
+        "Scalene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_35",
+      "title": "What year was the modern pencil sharpener invented?",
+      "answers": [
+        "1847"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_36",
+      "title": "What cord or strong strand of string tissue attaches a muscle to bone?",
+      "answers": [
+        "Tendon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_37",
+      "title": "Who became the first American in space in 1961?",
+      "answers": [
+        "Alan Shepard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_38",
+      "title": "What element's chemical symbol is Pb?",
+      "answers": [
+        "Lead's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_39",
+      "title": "The Great Red Spot, a giant storm on Jupiter, has been going for approximately how long?",
+      "answers": [
+        "300 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_40",
+      "title": "What protein is responsible for giving blood its color?",
+      "answers": [
+        "Hemoglobin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_41",
+      "title": "Karl Landsteiner won a Nobel prize in 1930 for which medical discovery?",
+      "answers": [
+        "Blood groups"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_42",
+      "title": "What aquatic biologist is widely credited with helping launch the environmental movement?",
+      "answers": [
+        "Rachel Carson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_43",
+      "title": "What are the only two consecutive prime numbers?",
+      "answers": [
+        "2 and 3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_44",
+      "title": "In mathematics, what term describes the bottom number in a fraction?",
+      "answers": [
+        "Denominator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_45",
+      "title": "What are the Chiuhauhan, Nubian, and Alaskan?",
+      "answers": [
+        "Deserts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_46",
+      "title": "Water deer have what unique feature?",
+      "answers": [
+        "Tusks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_47",
+      "title": "Which 19th-century Englishwoman became the first qualified medical doctor?",
+      "answers": [
+        "Elizabeth Garrett Anderson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_48",
+      "title": "What is element is Wolfram?",
+      "answers": [
+        "Tungsten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_49",
+      "title": "What is a group of fish referred to as?",
+      "answers": [
+        "Shoal and school"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_16_50",
+      "title": "What is the largest tree fruit in the world?",
+      "answers": [
+        "Jackfruit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

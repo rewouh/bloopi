@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_33",
+  "name": "Arts Trivia 26K 33",
+  "description": "Arts 1601 - 1650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_33_01",
+      "title": "In folklore, what mysterious ghost ship can never go home and was doomed to sail the oceans forever?",
+      "answers": [
+        "The 'Flying Dutchman'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_02",
+      "title": "\"The Arnolfini Portrait\" was painted by which Norhtern Renaissance painter?",
+      "answers": [
+        "Jan van Eyck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_03",
+      "title": "James Alfred Wight was a famous author under which name?",
+      "answers": [
+        "James Herriot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_04",
+      "title": "What did the Seven Dwarfs do for a living?",
+      "answers": [
+        "They were miners"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_05",
+      "title": "Who was the Greek equivalent of the Roman goddess Juventas?",
+      "answers": [
+        "Hebe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_06",
+      "title": "Who was the real-life model for the character of Matthew Harrison Brady in the novel \"Inherit the Wind\"?",
+      "answers": [
+        "William Jennings Bryan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_07",
+      "title": "Who wrote the essay \"A Nice Cup of Tea\"?",
+      "answers": [
+        "George Orwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_08",
+      "title": "What type of shadow portraits are named for a former French finance minister?",
+      "answers": [
+        "Silhouettes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_09",
+      "title": "What did both of Edgar Allen Poe's parents do for a living?",
+      "answers": [
+        "They were actors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_10",
+      "title": "Whose opera \"The Tale of Tsar Saltan\" contains \"The Flight of the Bumblebee\"?",
+      "answers": [
+        "Nikolai Rimsky-Korsakov's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_11",
+      "title": "In ballet, a lowering of the body by bending the knee is called a what?",
+      "answers": [
+        "Pile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_12",
+      "title": "Pan is the Greek god of what?",
+      "answers": [
+        "Wild, shepherds and flocks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_13",
+      "title": "Who wrote the novel \"The Picture of Dorian Gray\"?",
+      "answers": [
+        "Oscar Wilde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_14",
+      "title": "According to the Bible, which island was Paul shipwrecked on?",
+      "answers": [
+        "Malta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_15",
+      "title": "In the children's book \"Feyesper and the Rogue Kite\", what animal is Feyesper based on?",
+      "answers": [
+        "Pink fairy armadillo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_16",
+      "title": "From what language did English borrow the word \"luau\"?",
+      "answers": [
+        "Hawaiian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_17",
+      "title": "What classic novel's subtitle is \"And What Alice Found There\"?",
+      "answers": [
+        "Through the Looking-Glass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_18",
+      "title": "Who wrote the novel \"Don Quixote\"?",
+      "answers": [
+        "Miguel de Cervantes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_19",
+      "title": "Who wrote \"Tarzan of the Apes\" in 1912?",
+      "answers": [
+        "Edgar Rice Burroughs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_20",
+      "title": "What were the dolls in the novel \"Valley of the Dolls\"?",
+      "answers": [
+        "Pills/Drugs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_21",
+      "title": "In the book \"Harry Potter and the Half Blood Prince\", who does Harry catch tentacula leaves?",
+      "answers": [
+        "Professor Horace Slughorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_22",
+      "title": "What author created the character of Miss Marple?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_23",
+      "title": "What Broadway musical featured the song \"Anatevka\"?",
+      "answers": [
+        "Fiddler on the Roof"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_24",
+      "title": "Hamlet was the Prince of which country?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_25",
+      "title": "What is the 1st line of the chorus of the \"Beer Barrel Polka\"?",
+      "answers": [
+        "Roll out the Barrel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_26",
+      "title": "What Beatrix Potter character has siblings named Flopsy, Mopsy, and Cottontail?",
+      "answers": [
+        "Peter Rabbit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_27",
+      "title": "Which character is pregnant at the beginning of The Grapes of Wrath?",
+      "answers": [
+        "Rose of Sharon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_28",
+      "title": "Which writer coined the word \"Cyberspace\"?",
+      "answers": [
+        "William Gibson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_29",
+      "title": "What name did Superman have on Krypton?",
+      "answers": [
+        "Kal-El"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_30",
+      "title": "What character is writer Colin Dexter most famous for creating?",
+      "answers": [
+        "Inspector Morse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_31",
+      "title": "What kind of animal suckled Romulus and Remus?",
+      "answers": [
+        "A wolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_32",
+      "title": "What Jules Verne adventurer fired his valet for bringing him shaving water two degrees below his requirement?",
+      "answers": [
+        "Phileas Fogg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_33",
+      "title": "What style of painting are Cezanne, Degas, Manet and Monet all linked with?",
+      "answers": [
+        "Impressionism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_34",
+      "title": "George Catlin is best known for his paintings of whom?",
+      "answers": [
+        "American Indians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_35",
+      "title": "What is the Roman name of the Greek god Hermes?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_36",
+      "title": "According to the Bible, which Apostle was a tentmaker?",
+      "answers": [
+        "Paul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_37",
+      "title": "What children's classic first chapter is titled \"The Old Sea-dog at the Admiral Benbow\"?",
+      "answers": [
+        "Treasure Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_38",
+      "title": "The Nobel Prize for Literature is presented in what Scandinavian city?",
+      "answers": [
+        "Stockholm, Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_39",
+      "title": "Who won a Pulitzer Prize for her novel \"So Big\"?",
+      "answers": [
+        "Edna Ferber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_40",
+      "title": "Which play is generally accepted to be Shakespeare's last, fully completed play before his death?",
+      "answers": [
+        "The Tempest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_41",
+      "title": "Which painting was stolen from the Louvre in 1911 and not returned for over two years?",
+      "answers": [
+        "The Mona Lisa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_42",
+      "title": "In Greek mythology, who is the goddess of marriage and women?",
+      "answers": [
+        "Hera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_43",
+      "title": "What is the singular of graffiti?",
+      "answers": [
+        "Graffito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_44",
+      "title": "What is the first name of Gianni Versace's sister who took control of the business after his death in 1997?",
+      "answers": [
+        "Donatella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_45",
+      "title": "Who based his hit comic book character \"Dyno Woman\" on his own sister Thelma?",
+      "answers": [
+        "J. J. Evans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_46",
+      "title": "Who wrote the 1971 novel \"The Exorcist\"?",
+      "answers": [
+        "William Peter Blatty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_47",
+      "title": "In the novel series, \"A Series of Unfortunate Events\", who was the Baudelaire's sixth guardian?",
+      "answers": [
+        "Jerome and Esme Squalor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_48",
+      "title": "What name did the meaner of Cinderella's stepsisters call her?",
+      "answers": [
+        "Cinderwench"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_49",
+      "title": "Who remarked when Gertrude Stein complained she didn't look like a portrait he'd painted: \"You will\"?",
+      "answers": [
+        "Pablo Picasso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_33_50",
+      "title": "Not including spin-offs or tie-ins, how many issues were released as part of the original \"Strangers in Paradise\" series that ended in 2007?",
+      "answers": [
+        "90"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

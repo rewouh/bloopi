@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_83",
+  "name": "Entertainment Trivia 26K 83",
+  "description": "Entertainment 4101 - 4150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_83_01",
+      "title": "What is Ozzy Osbourne's real first name?",
+      "answers": [
+        "John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_02",
+      "title": "Which group starred in \"Magical Mystery Tour\"?",
+      "answers": [
+        "The Beatles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_03",
+      "title": "What is the name of Jack Nicholson's character in the film, \"Chinatown\"?",
+      "answers": [
+        "J.J \"Jake\" Gittes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_04",
+      "title": "What movie did the villain Alonzo Harris appear in?",
+      "answers": [
+        "Training Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_05",
+      "title": "Which \"Saturday Night Fever\" cast member was nominated for an Oscar?",
+      "answers": [
+        "John Travolta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_06",
+      "title": "What animal is Indiana Jones afraid of?",
+      "answers": [
+        "Snakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_07",
+      "title": "Who is Miguel Ferrer's mother?",
+      "answers": [
+        "Rosemary Clooney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_08",
+      "title": "What 1982 comedy film's first sequel was subtitled \"The Next Day\"?",
+      "answers": [
+        "Porky's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_09",
+      "title": "Which \"South Park\" character gets killed in almost every episode?",
+      "answers": [
+        "Kenny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_10",
+      "title": "Which artist inspired Nokia’s iconic cellphone ringtone?",
+      "answers": [
+        "Thomas Dolby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_11",
+      "title": "What is Principal Skinner’s mother’s name on the TV show \"The Simpson's\"?",
+      "answers": [
+        "Agnes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_12",
+      "title": "In the TV show \"Family Guy\", what pool game does Stewie play with Helen Keller?",
+      "answers": [
+        "Marco Polo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_13",
+      "title": "Which two teams automatically qualified for the 1998 soccer World Cup?",
+      "answers": [
+        "France and Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_14",
+      "title": "What 2001 Rachael Leigh Cook film was based on an old Saturday morning cartoon series?",
+      "answers": [
+        "Josie and the Pussycats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_15",
+      "title": "What actress won an Oscar for portraying a real-life person named Brandon Teena?",
+      "answers": [
+        "Hilary Swank"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_16",
+      "title": "Prior to being renamed, which character from \"Star Wars: The Force Awakens\" was called FN-2187?",
+      "answers": [
+        "Finn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_17",
+      "title": "Who was the protagonist in Disney's \"The Little Mermaid\"?",
+      "answers": [
+        "Ariel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_18",
+      "title": "In the film \"My Cousin Vinnie,\" who plays the role of Judge Haller?",
+      "answers": [
+        "Fred Gwynne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_19",
+      "title": "Which fictional park is the home of Yogi Bear?",
+      "answers": [
+        "Jellystone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_20",
+      "title": "What is the avian name of the acronymic evil organization on \"The Man from U.N.C.L.E.\"?",
+      "answers": [
+        "THRUSH"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_21",
+      "title": "What future \"Cheers\" star plays Mob boss Tommy Como in \"Raging Bull\"?",
+      "answers": [
+        "Nicholas \"Coach\" Colasanto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_22",
+      "title": "Who recorded the song \"Black Magic Woman\"?",
+      "answers": [
+        "Santana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_23",
+      "title": "What action hero was a champion cha cha dancer?",
+      "answers": [
+        "Bruce Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_24",
+      "title": "What band's first Top 10 hit in the US was 1984's \"Legs\"?",
+      "answers": [
+        "ZZ Top"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_25",
+      "title": "Who is Bugs Bunny's archenemy?",
+      "answers": [
+        "Elmer J. Fudd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_26",
+      "title": "Who played the Dark Knight in the movie \"Batman Forever\"?",
+      "answers": [
+        "Val Kilmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_27",
+      "title": "What was Rod Stewart's first #1 song?",
+      "answers": [
+        "Maggie May"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_28",
+      "title": "What 1997 epic was retitled \"His Powerful Device Makes Him Famous\" for Hong Kong release?",
+      "answers": [
+        "Boogie Nights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_29",
+      "title": "Which actor has been killed by a terminator, an alien and a predator?",
+      "answers": [
+        "Bill Paxton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_30",
+      "title": "Edison was the name of the Potts family dog in which family movie?",
+      "answers": [
+        "Chitty Chitty Bang Bang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_31",
+      "title": "Who played Al Borland on the TV show \"Home Improvement\"?",
+      "answers": [
+        "Richard Karn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_32",
+      "title": "What was the second major television series starring Andy Griffith",
+      "answers": [
+        "Matlock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_33",
+      "title": "What TV show takes place in the fictional city of Rome, Wisconsin?",
+      "answers": [
+        "Picket Fences"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_34",
+      "title": "What popular cocktail does James Bond likes \"shaken, not stirred\"?",
+      "answers": [
+        "The Martini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_35",
+      "title": "What TV show centered on the exploits of physicist Dr. Sam Beckett?",
+      "answers": [
+        "Quantum Leap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_36",
+      "title": "Which city was the home of the first Blockbuster video store, opened in 1985, with 8,000 movies ready to be rented?",
+      "answers": [
+        "Dallas, Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_37",
+      "title": "Who voiced Hercules in the 1997 Disney movie with the same name?",
+      "answers": [
+        "Tate Donovan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_38",
+      "title": "Both of TV's \"Gilmore Girls\" have what first name?",
+      "answers": [
+        "Lorelei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_39",
+      "title": "Who voiced Cinderella in the 1950 Disney movie by the same name?",
+      "answers": [
+        "Ilene Woods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_40",
+      "title": "Which actress played alongside Arnold Schwarzenegger in the 1990 movie \"Total Recall\"?",
+      "answers": [
+        "Sharon Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_41",
+      "title": "What is Joey's favourite food in the TV show \"Friends\"?",
+      "answers": [
+        "Sandwiches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_42",
+      "title": "UB40's first number one hit, \"Red Red Wine\", was a cover of whose song?",
+      "answers": [
+        "Neil Diamond's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_43",
+      "title": "What musician plays pinball against Roger Daltrey in the 1975 film version of The Who's \"Tommy\"?",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_44",
+      "title": "What famous NBA basketball player was considered for the role of John Coffey in the film \"The Green Mile\"?",
+      "answers": [
+        "Shaquille O'Neal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_45",
+      "title": "Queen provided the soundtrack to which 1980 space opera starring Max von Sydow and Brian Blessed?",
+      "answers": [
+        "Flash Gordon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_46",
+      "title": "Who sang the song \"Boom Boom Boom\"?",
+      "answers": [
+        "The Outhere Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_47",
+      "title": "Who is Patricia Mae Andrzejewski better known as?",
+      "answers": [
+        "Pat Benatar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_48",
+      "title": "\"A Charlie Brown Christmas\" greatly influenced the sales of what product?",
+      "answers": [
+        "Aluminum Christmas Trees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_49",
+      "title": "What was Tony's last name on the TV show \"Who's the Boss\"?",
+      "answers": [
+        "Micelli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_83_50",
+      "title": "Flora, Fauna, and Merryweather are fairies in which Disney classic?",
+      "answers": [
+        "\"Sleeping Beauty\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

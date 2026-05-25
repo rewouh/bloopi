@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_51",
+  "name": "Science Trivia 26K 51",
+  "description": "Science 2501 - 2550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_51_01",
+      "title": "What is the most obvious physical difference between snails and slugs?",
+      "answers": [
+        "The shell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_02",
+      "title": "What number is represented by \"X\" in Roman numerals?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_03",
+      "title": "What is the voltage of a D cell battery?",
+      "answers": [
+        "1.5 volts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_04",
+      "title": "The name of which disease comes from Medieval Italian meaning \"bad air\"?",
+      "answers": [
+        "Malaria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_05",
+      "title": "What is the name of the telescope that was launched into orbit in 1990?",
+      "answers": [
+        "Hubble Space Telescope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_06",
+      "title": "How many pounds are there in a long ton?",
+      "answers": [
+        "2,240"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_07",
+      "title": "What is the strongest magnet in the universe?",
+      "answers": [
+        "Magnetar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_08",
+      "title": "What is the middle color in a rainbow?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_09",
+      "title": "What snail-shaped organ in the ear funnels sound to the auditory nerve?",
+      "answers": [
+        "Cochlea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_10",
+      "title": "What kind of anthropology is also known as ethnology?",
+      "answers": [
+        "Cultural anthropology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_11",
+      "title": "What is the unit of measure given to the distance that light travels in a vacuum within a 30-day span?",
+      "answers": [
+        "A light month"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_12",
+      "title": "What other name are killer whales known by?",
+      "answers": [
+        "Orcas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_13",
+      "title": "Which tree's bark is used to produce aspirin?",
+      "answers": [
+        "The white willow tree"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_14",
+      "title": "The Horsehead Nebula can be found in what constellation?",
+      "answers": [
+        "Orion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_15",
+      "title": "What does a phonophobe fear?",
+      "answers": [
+        "Noise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_16",
+      "title": "On the ph scale, what number indicates neutrality?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_17",
+      "title": "The scientific name for the cacao tree (Theobroma cacao) translates as what?",
+      "answers": [
+        "Food of the gods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_18",
+      "title": "The Astronomical Unit (AU) is a unit of measurement based on the average distance between what two bodies?",
+      "answers": [
+        "Earth and the Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_19",
+      "title": "In networking, what does the abbreviation \"DSL\" stand for?",
+      "answers": [
+        "Digital Subscriber Line"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_20",
+      "title": "What disease is considered the human form of \"Mad Cow's Disease\"?",
+      "answers": [
+        "Creutzfeldt-Jakobs Disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_21",
+      "title": "What is the collective noun for a group of ruffs?",
+      "answers": [
+        "A hill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_22",
+      "title": "What do you call a group of toads?",
+      "answers": [
+        "A knot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_23",
+      "title": "What influential French design house manufactures Poison, a line of women's fragrances?",
+      "answers": [
+        "Christian Dior"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_24",
+      "title": "What two elements do all silicate minerals contain?",
+      "answers": [
+        "Silicon and oxygen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_25",
+      "title": "What units are ship speeds measured in?",
+      "answers": [
+        "Knots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_26",
+      "title": "Bruxism is a medical term for when a person does what?",
+      "answers": [
+        "Grinds their teeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_27",
+      "title": "What country was the 1570 pamphlet from?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_28",
+      "title": "What is halite more commonly called?",
+      "answers": [
+        "Rock salt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_29",
+      "title": "The asterism commonly called the \"Big Dipper\" can be seen in which constellation?",
+      "answers": [
+        "Ursa Major"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_30",
+      "title": "A nebula is a large interstellar cloud of what?",
+      "answers": [
+        "Dust and gases"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_31",
+      "title": "What did Leo Hendrik Baekeland call the plastic he invented in 1907?",
+      "answers": [
+        "Bakelite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_32",
+      "title": "What type of rock is coal?",
+      "answers": [
+        "Sedimentary Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_33",
+      "title": "Graphite dust is formed when what is cut with a laser?",
+      "answers": [
+        "Diamond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_34",
+      "title": "What year was Neptune discovered?",
+      "answers": [
+        "1846"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_35",
+      "title": "What type of fat was margarine first made from in the U.S.?",
+      "answers": [
+        "Beef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_36",
+      "title": "What is the meaning of the name of the constellation Ophiuchus?",
+      "answers": [
+        "Serpent Bearer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_37",
+      "title": "Technophobia is the fear of what?",
+      "answers": [
+        "Technology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_38",
+      "title": "Trepanation is the practice of drilling holes where?",
+      "answers": [
+        "In the skull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_39",
+      "title": "Equinophobia is the fear of what?",
+      "answers": [
+        "Horses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_40",
+      "title": "How many calves does the average giraffe mother give birth to each time?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_41",
+      "title": "In what organ of the human body would you find hepatocytes?",
+      "answers": [
+        "The liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_42",
+      "title": "What was the hottest part of \"Concorde\" in flight after the engines?",
+      "answers": [
+        "Nose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_43",
+      "title": "What metal do you get from Hematite?",
+      "answers": [
+        "Iron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_44",
+      "title": "What type of insect is a \"weevil\"?",
+      "answers": [
+        "A beetle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_45",
+      "title": "The fruit \"laraha\" is a relative to what better-known fruit?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_46",
+      "title": "Which chemical element gets its name from the Greek for \"Violet-colored\"?",
+      "answers": [
+        "Iodine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_47",
+      "title": "Who is typically credited with the discovery of X-rays?",
+      "answers": [
+        "Wilhelm Röntgen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_48",
+      "title": "What organ is physically altered by a lobotomy?",
+      "answers": [
+        "Brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_49",
+      "title": "What is the largest species of lizard in the world?",
+      "answers": [
+        "The komodo dragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_51_50",
+      "title": "What tube connects the larynx to the lungs?",
+      "answers": [
+        "The trachea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_17",
+  "name": "Arts Trivia 26K 17",
+  "description": "Arts 801 - 850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_17_01",
+      "title": "What year saw the start of the \"Twilight\" book series?",
+      "answers": [
+        "2005"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_02",
+      "title": "What is the name of the character that can be used in place of the word \"and\"?",
+      "answers": [
+        "Ampersand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_03",
+      "title": "The word \"Cyberspace\" appeared for first time in which William Gibson publication?",
+      "answers": [
+        "Burning Chrome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_04",
+      "title": "What is the first novel in George R.R. Martin's \"A Song of Ice and Fire\" series?",
+      "answers": [
+        "A Game of Thrones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_05",
+      "title": "What kind of a creature is Rikki-Tikki-Tavi?",
+      "answers": [
+        "A mongoose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_06",
+      "title": "Who are \"the night visitors\" in Gian Carlo Menotti's opera \"Amahl and the Night Visitors\"?",
+      "answers": [
+        "Three wise men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_07",
+      "title": "Who wrote the 1980 novel \"The Number of the Beast\"?",
+      "answers": [
+        "Robert A. Heinlein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_08",
+      "title": "What is the first name of Agatha Christie's sleuth Miss Marple?",
+      "answers": [
+        "Jane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_09",
+      "title": "What figure in Greek mythology was tricked into holding the sky?",
+      "answers": [
+        "Atlas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_10",
+      "title": "\"Speak, Memory\" is an autobiographical memoir by which Russian author?",
+      "answers": [
+        "Vladimir Nabokov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_11",
+      "title": "What eccentric artist based his famous moustache on that worn by painter Diego Velazquez?",
+      "answers": [
+        "Salvador Dali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_12",
+      "title": "Who is the Greek equivalent of the Roman god Diana?",
+      "answers": [
+        "Artemis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_13",
+      "title": "\"Peter and the Wolf\" is a musical composition written by which Russian composer?",
+      "answers": [
+        "Sergei Prokofiev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_14",
+      "title": "What Paris cathedral's bells were rung by Quasimodo?",
+      "answers": [
+        "Notre Dame's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_15",
+      "title": "In Greek mythology, whose father created the Labyrinth?",
+      "answers": [
+        "Icarus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_16",
+      "title": "The \"Eisner Award\" is named after which influential cartoonist and writer?",
+      "answers": [
+        "Will Eisner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_17",
+      "title": "In Jane Austen's \"Pride and Prejudice,\" what is Mr. Darcy's first name?",
+      "answers": [
+        "Fitzwilliam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_18",
+      "title": "According to the prologue to \"Romeo and Juliet\", in what city do the pair of star-cross'd lovers take their life?",
+      "answers": [
+        "Verona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_19",
+      "title": "By including cannon fire in his play, Henry VIII, Shakespeare caused the 1613 fire that destroyed what building?",
+      "answers": [
+        "The Globe Theatre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_20",
+      "title": "Who is the pre-Civil War author of a short story about a beating heart beneath the floorboards?",
+      "answers": [
+        "Edgar Allan Poe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_21",
+      "title": "What name is given to the overweight boy with glasses in the book \"Lord of the Flies\"?",
+      "answers": [
+        "Piggy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_22",
+      "title": "What 1969 bestseller begins with a satellite called SCOOP crashing in Arizona?",
+      "answers": [
+        "The Andromeda Strain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_23",
+      "title": "Painter Salvador Dali was a native of which country?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_24",
+      "title": "Who composed the 1877 opera \"Samson and Delilah\"?",
+      "answers": [
+        "Camille Saint-Saens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_25",
+      "title": "Neptune, the Roman god of water, was known by what name in Greek mythology?",
+      "answers": [
+        "Poseidon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_26",
+      "title": "Which film star's biography is called \"Neither Shaken Nor Stirred\"?",
+      "answers": [
+        "Sean Connery's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_27",
+      "title": "In which city's harbor would you find the statue of The Little Mermaid?",
+      "answers": [
+        "Copenhagen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_28",
+      "title": "What 1928 novel by D.H. Lawrence was banned in the US until 1959?",
+      "answers": [
+        "Lady Chatterley's Lover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_29",
+      "title": "Which novel features a character named Hester Prynne?",
+      "answers": [
+        "Scarlett Letter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_30",
+      "title": "Where was Enrico Caruso born?",
+      "answers": [
+        "Naples, italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_31",
+      "title": "In Norse mythology who are the female attendants of Odin?",
+      "answers": [
+        "The Valkyrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_32",
+      "title": "What year did Robert A. Heinlein published the novel \"The Number of the Beast\"?",
+      "answers": [
+        "1980"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_33",
+      "title": "In which country is the city Aachen located?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_34",
+      "title": "What do the initials stand for in J. D. Salinger's name?",
+      "answers": [
+        "Jerome David"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_35",
+      "title": "What Egyptian monster feasts on the heart of someone unworthy of eternal life?",
+      "answers": [
+        "Ammut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_36",
+      "title": "Who wrote the novel \"Gone with the Wind\"?",
+      "answers": [
+        "Margaret Mitchell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_37",
+      "title": "Which Claude Monet painting is attributed to giving the Impressionist Movement its name?",
+      "answers": [
+        "Impression, Sunrise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_38",
+      "title": "During what war was the novel \"For Whom the Bell Tolls\" set?",
+      "answers": [
+        "Spanish Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_39",
+      "title": "Who kept Odysseus trapped on a remote island for seven years.",
+      "answers": [
+        "Calypso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_40",
+      "title": "A famous misquote of Voltaire describes Canada as simply \"a few acres of\" what?",
+      "answers": [
+        "Snow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_41",
+      "title": "What author created the character of Uncle Tom?",
+      "answers": [
+        "Harriet Beecher Stowe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_42",
+      "title": "How did Robert Frost sum up everything he learned about life?",
+      "answers": [
+        "\"It goes on.\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_43",
+      "title": "Who was the Roman God of Love?",
+      "answers": [
+        "Cupid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_44",
+      "title": "What year marked the first appearance of Pinocchio?",
+      "answers": [
+        "1883"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_45",
+      "title": "The \"clocks were striking thirteen\" at the start of which dystopian novel?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_46",
+      "title": "What war is the setting for the novel \"Red Badge of Courage\"?",
+      "answers": [
+        "American Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_47",
+      "title": "In Chaucer’s \"The Canterbury Tales\", the pilgrims are travelling to visit the shrine of which saint?",
+      "answers": [
+        "Saint Thomas Becket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_48",
+      "title": "In what year was the first opera created?",
+      "answers": [
+        "1597"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_49",
+      "title": "Who wasn't afraid to call James Joyce \"a greasy undergraduate\"?",
+      "answers": [
+        "Virginia Wolfe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_17_50",
+      "title": "In what George Orwell novel would you find two pigs named Napoleon and Snowball?",
+      "answers": [
+        "Animal Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

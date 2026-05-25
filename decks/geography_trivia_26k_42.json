@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_42",
+  "name": "Geography Trivia 26K 42",
+  "description": "Geography 2051 - 2100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_42_01",
+      "title": "Which US state is home to Guadalupe Mountains National Park?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_02",
+      "title": "What \"colorful\" Sea lies between northeast China and the Korean peninsula?",
+      "answers": [
+        "Yellow Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_03",
+      "title": "In what country would you celebrate \"Carnival\"?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_04",
+      "title": "What major river runs through Baghdad?",
+      "answers": [
+        "Tigris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_05",
+      "title": "In which state is the Grand Canyon located in?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_06",
+      "title": "Which is the highest state in the US?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_07",
+      "title": "Which U.S. state has the longest width east to west?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_08",
+      "title": "In what Australian state would you find the city of Launceston?",
+      "answers": [
+        "Tasmania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_09",
+      "title": "Salton Sea is located in which western US state?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_10",
+      "title": "What is typically considered the largest island in the world?",
+      "answers": [
+        "Greenland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_11",
+      "title": "Which US state is home to both the highest and lowest points in the contiguous 48 US states?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_12",
+      "title": "Which is the largest of the Spanish Balearic islands?",
+      "answers": [
+        "Majorca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_13",
+      "title": "What is illegal to eat with a cherry pie in Kansas?",
+      "answers": [
+        "Ice cream"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_14",
+      "title": "What's the principal river of Ireland?",
+      "answers": [
+        "Shannon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_15",
+      "title": "What is the capital of Alaska?",
+      "answers": [
+        "Juneau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_16",
+      "title": "Where is the most expensive hotel suite in the U.S.?",
+      "answers": [
+        "Las Vegas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_17",
+      "title": "What is the largest body of fresh water in the world by surface area?",
+      "answers": [
+        "Lake Superior"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_18",
+      "title": "What city is the capital of Mississippi?",
+      "answers": [
+        "Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_19",
+      "title": "Which is the rainiest US state?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_20",
+      "title": "Where is the \"Cathedral of Rum\"?",
+      "answers": [
+        "Puerto Rico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_21",
+      "title": "Which of the New England states is the largest in size?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_22",
+      "title": "Guadalcanal is located in what group of islands?",
+      "answers": [
+        "The Solomon Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_23",
+      "title": "Zion National Park is located in which US state?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_24",
+      "title": "Brookline, Cambridge and Quincy are suburbs of what US city?",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_25",
+      "title": "What country is Ibiza a part of?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_26",
+      "title": "Freetown is the capital of which African country?",
+      "answers": [
+        "Sierra Leone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_27",
+      "title": "\"Ital\" is the word used to describe the cuisine of which group of people?",
+      "answers": [
+        "Rastafarians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_28",
+      "title": "Which city has the world's largest castle complex?",
+      "answers": [
+        "Prague, Czech Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_29",
+      "title": "Where is the oldest brewery in North America?",
+      "answers": [
+        "Montreal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_30",
+      "title": "In Texas, it’s illegal to swear in front of what?",
+      "answers": [
+        "A corpse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_31",
+      "title": "What is the capital of Delaware?",
+      "answers": [
+        "Dover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_32",
+      "title": "What is Belize's capital?",
+      "answers": [
+        "Belmopan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_33",
+      "title": "If you order \"murgh\" from the menu at an Indian restaurant, what meat will you get?",
+      "answers": [
+        "Chicken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_34",
+      "title": "Which two oceans are connected by the Drake Passage?",
+      "answers": [
+        "Atlantic and Pacific"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_35",
+      "title": "Where is the world's largest university by enrollment?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_36",
+      "title": "Where are sky burials still performed?",
+      "answers": [
+        "Tibet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_37",
+      "title": "Dover is the capital of which US state?",
+      "answers": [
+        "Delaware"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_38",
+      "title": "In which European country would you find the town of Eupen?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_39",
+      "title": "The Silicon Valley is located in what California valley?",
+      "answers": [
+        "Santa Clara Valley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_40",
+      "title": "What nation's legislative body is named The Eduskunta?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_41",
+      "title": "Yerevan is the capital of which country?",
+      "answers": [
+        "Armenia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_42",
+      "title": "What is Valentine's Day called in Brazil?",
+      "answers": [
+        "Dia dos Namorados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_43",
+      "title": "The world's northernmost capital is found in which Scandinavian country?",
+      "answers": [
+        "Iceland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_44",
+      "title": "What country's flag features the phrase \"Order and Progress\"?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_45",
+      "title": "How many US states does the Appalachian Trail run through?",
+      "answers": [
+        "14"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_46",
+      "title": "Which US state is nicknamed the \"Bay State\"?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_47",
+      "title": "Which US state shares a border with the Canadian province of New Brunswick?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_48",
+      "title": "What London landmark is protected by six ravens?",
+      "answers": [
+        "Tower of London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_49",
+      "title": "Which district in central Tokyo is particularly famous for its electronics?",
+      "answers": [
+        "Akihabara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_42_50",
+      "title": "What is the capital of Nova Scotia?",
+      "answers": [
+        "Halifax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

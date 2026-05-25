@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_59",
+  "name": "Science Trivia 26K 59",
+  "description": "Science 2901 - 2950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_59_01",
+      "title": "The cecum is part of which intestine?",
+      "answers": [
+        "Large intestine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_02",
+      "title": "What vitamin is known as the sunshine vitamin?",
+      "answers": [
+        "Vitamin D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_03",
+      "title": "What does the \"lithosphere\" refer to?",
+      "answers": [
+        "The Earth's crust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_04",
+      "title": "What was the first masculine name given to a hurricane?",
+      "answers": [
+        "Bob"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_05",
+      "title": "What is the fear of nudity known as?",
+      "answers": [
+        "Gymnophobia or Nudophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_06",
+      "title": "Layers of soil are known as what?",
+      "answers": [
+        "Horizons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_07",
+      "title": "Which was the only airline other than British Airways to buy Concorde?",
+      "answers": [
+        "Air France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_08",
+      "title": "In what organ of the human body would you find the bronchi?",
+      "answers": [
+        "The lungs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_09",
+      "title": "Long-period comets are believed to come from where?",
+      "answers": [
+        "The Oort Cloud"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_10",
+      "title": "What is the most general and highest taxonomy rank of organisms?",
+      "answers": [
+        "Domain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_11",
+      "title": "What is botany the study of?",
+      "answers": [
+        "Plants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_12",
+      "title": "What number is represented by \"C\" in Roman numerals?",
+      "answers": [
+        "100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_13",
+      "title": "What is the main constituent of an eggshell?",
+      "answers": [
+        "Calcium carbonate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_14",
+      "title": "What chemical element has an extra syllable in its more correct British pronunciation?",
+      "answers": [
+        "Aluminium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_15",
+      "title": "In what organ of the human body would you find parietal cells?",
+      "answers": [
+        "The stomach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_16",
+      "title": "What is a group of toads called?",
+      "answers": [
+        "Knot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_17",
+      "title": "What word describes a material which maintains a magnetic field after an external field is removed?",
+      "answers": [
+        "Ferromagnetic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_18",
+      "title": "What rating refers to the measure of auto-ignition resistance of gasoline used in internal combustion engines?",
+      "answers": [
+        "Octane rating"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_19",
+      "title": "Alnitak, Alnilam, and Mintaka are the three stars that make up what constellation's \"belt\"?",
+      "answers": [
+        "Orion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_20",
+      "title": "What is a hybrid of a cow and bison called?",
+      "answers": [
+        "Beefalo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_21",
+      "title": "What was the first medication to be sold in the form of water-soluble tablets?",
+      "answers": [
+        "Aspirin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_22",
+      "title": "The Larynx is also called what?",
+      "answers": [
+        "Voice box"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_23",
+      "title": "What discovery earned Wilhelm Rontgen the first Nobel Prize for Physics?",
+      "answers": [
+        "X-rays"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_24",
+      "title": "The color of your tongue is pink only if it's what?",
+      "answers": [
+        "Germ-free"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_25",
+      "title": "What is the first element on the periodic table?",
+      "answers": [
+        "Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_26",
+      "title": "What canals in the human ear serve as the body's balance organ?",
+      "answers": [
+        "The semicircular canals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_27",
+      "title": "In terms of volume, what is the tenth largest object orbiting our Sun?",
+      "answers": [
+        "Eris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_28",
+      "title": "With what is sulfur and saltpeter mixed to make gunpowder?",
+      "answers": [
+        "Charcoal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_29",
+      "title": "What common sensation has the scientific name \"sphenopalatine ganglioneuralgia\"?",
+      "answers": [
+        "Brain freeze"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_30",
+      "title": "What is the name of the point at which condensation begins?",
+      "answers": [
+        "The dew point"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_31",
+      "title": "How many noses does a slug have?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_32",
+      "title": "Trypanophobia is the fear of what?",
+      "answers": [
+        "Needles or injections"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_33",
+      "title": "How many eyelids does a cat have on each eye?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_34",
+      "title": "Which medical term means vomiting?",
+      "answers": [
+        "Emesis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_35",
+      "title": "In a triple bond, how many each pi and sigma bonds are there?",
+      "answers": [
+        "Two Pi, One Sigma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_36",
+      "title": "Tornadoes are columns of air that generally come into contact with what kind of clouds?",
+      "answers": [
+        "Cumulonimbus cloud"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_37",
+      "title": "Kalium is the Latin name for which element?",
+      "answers": [
+        "Potassium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_38",
+      "title": "What does a pulsar emit?",
+      "answers": [
+        "Electromagnetic radiation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_39",
+      "title": "Tin is primarily obtained from which ore?",
+      "answers": [
+        "Cassiterite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_40",
+      "title": "The first consumer products made from plastics were what?",
+      "answers": [
+        "Hair combs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_41",
+      "title": "Deimos orbits what planet of the solar system?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_42",
+      "title": "What number does the letter \"V\" with a bar over it represent in Roman numerals?",
+      "answers": [
+        "5,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_43",
+      "title": "What is the longest insect?",
+      "answers": [
+        "The walking stick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_44",
+      "title": "Which effect makes the average Earth's temperature around 15 degrees centigrade?",
+      "answers": [
+        "The greenhouse effect"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_45",
+      "title": "What bird lays the largest eggs?",
+      "answers": [
+        "The ostrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_46",
+      "title": "What treat takes its name from a drink the Aztecs called Xocoatl?",
+      "answers": [
+        "Chocolate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_47",
+      "title": "Where do bumblebees normally nest?",
+      "answers": [
+        "Underground"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_48",
+      "title": "Arachnophobia is the fear of what?",
+      "answers": [
+        "Spiders"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_49",
+      "title": "The sub-atomic particle \"proton\" has what type of charge?",
+      "answers": [
+        "Positive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_59_50",
+      "title": "What does Flora refer to?",
+      "answers": [
+        "Plant life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

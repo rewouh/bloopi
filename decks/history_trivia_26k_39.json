@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_39",
+  "name": "History Trivia 26K 39",
+  "description": "History 1901 - 1950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_39_01",
+      "title": "What president proposed the Great Society?",
+      "answers": [
+        "Lyndon Johnson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_02",
+      "title": "After defeating Martin Van Buren, who died of pneumonia shortly after taking office?",
+      "answers": [
+        "William Henry Harrison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_03",
+      "title": "Which god is considered the \"destroyer\" and is part of the Hindu Trinity?",
+      "answers": [
+        "Shiva"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_04",
+      "title": "The Haymarket Affair, which is widely considered to be the event which led to May Day becoming the international event known as International Workers Day, occurred in which country?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_05",
+      "title": "What were the V1 and V2?",
+      "answers": [
+        "German missiles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_06",
+      "title": "When did Alaska become a US state?",
+      "answers": [
+        "1959"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_07",
+      "title": "Who was Germany's first female chancellor?",
+      "answers": [
+        "Angela Merkel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_08",
+      "title": "What was the Boulder Dam renamed to in 1947?",
+      "answers": [
+        "Hoover Dam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_09",
+      "title": "When was the first commercial film screening?",
+      "answers": [
+        "1895"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_10",
+      "title": "What is Henry Kissinger's actual first name?",
+      "answers": [
+        "Heinz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_11",
+      "title": "In which city was the first mobile phone call made?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_12",
+      "title": "Which country hosted the first Olympic Games after World War I?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_13",
+      "title": "Dr. Martin Luther King Jr. received his Ph.D. from which school?",
+      "answers": [
+        "Boston University"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_14",
+      "title": "As of 2020, how many times has America officially declared war?",
+      "answers": [
+        "11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_15",
+      "title": "What were the first two Western countries that the Nazis invaded during World War II?",
+      "answers": [
+        "Norway and Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_16",
+      "title": "When was the first section of the Great Wall of China built?",
+      "answers": [
+        "Second century B.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_17",
+      "title": "Who founded the world's first secular nursing school?",
+      "answers": [
+        "Florence Nightingale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_18",
+      "title": "Who created the New Model Army?",
+      "answers": [
+        "Oliver Cromwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_19",
+      "title": "In 1996, what became the first minivan to be named Motor Trend magazine’s \"Car of the Year\"?",
+      "answers": [
+        "Dodge Caravan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_20",
+      "title": "Who was the last British monarch to also be an emperor?",
+      "answers": [
+        "George VI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_21",
+      "title": "What landlocked European country remained neutral in both World War I and World War II?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_22",
+      "title": "Which US president lived in Westland Mansion?",
+      "answers": [
+        "Grover Cleveland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_23",
+      "title": "Which country's traditional name translates to \"Land of the Thunder Dragon\"?",
+      "answers": [
+        "Bhutan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_24",
+      "title": "What car lost 96 percent of its sales in the four years after the publication of Ralph Nader's \"Unsafe at Any Speed\"?",
+      "answers": [
+        "Chevrolet Corvair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_25",
+      "title": "During World War II, what famous company produced propaganda films for the U.S. government?",
+      "answers": [
+        "Walt Disney Productions"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_26",
+      "title": "Where did the United States' time zones come from?",
+      "answers": [
+        "A railroad industry plan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_27",
+      "title": "On what date did the American Revolutionary War end?",
+      "answers": [
+        "September 3, 1783"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_28",
+      "title": "Where in Scotland did the massacre of the Macdonald clan take place?",
+      "answers": [
+        "Glencoe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_29",
+      "title": "What did Thomas Blood try to steal in London in 1671?",
+      "answers": [
+        "The Crown Jewels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_30",
+      "title": "Which US president gave the shortest inaugural address?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_31",
+      "title": "Geronimo was a member of what tribe?",
+      "answers": [
+        "Apache"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_32",
+      "title": "Who invented the Gatling gun?",
+      "answers": [
+        "Richard Jordan Gatling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_33",
+      "title": "What presidential daughter brought Socks the cat to the White House?",
+      "answers": [
+        "Chelsea Clinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_34",
+      "title": "What year did the \"Turbot War\" fishing dispute start?",
+      "answers": [
+        "1994"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_35",
+      "title": "During which war did the flag flying above Fort McHenry inspire Francis Scott Key's \"The Star-Spangled Banner\"?",
+      "answers": [
+        "War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_36",
+      "title": "Which US president was nicknamed the \"Little Magician\"?",
+      "answers": [
+        "Martin Van Buren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_37",
+      "title": "Elizabeth Bowes-Lyon was better known by what name?",
+      "answers": [
+        "The Queen Mother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_38",
+      "title": "\"Video Killed the Radio Star\" was the debut music video on which channel in 1981?",
+      "answers": [
+        "MTV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_39",
+      "title": "What political party was led until 1985 by the brutal Pol Pot?",
+      "answers": [
+        "The Khmer Rouge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_40",
+      "title": "What agreement, signed on September 27, 1940, created the Axis Powers?",
+      "answers": [
+        "Tripartite Pact"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_41",
+      "title": "In 2016, a Pizza Hut in Dar es Salaam delivered to the top of what mountain, thus setting a record for the highest-elevation pizza delivery?",
+      "answers": [
+        "Mt. Kilimanjaro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_42",
+      "title": "Who said, \"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_43",
+      "title": "Who was Michael Dukakis’s Vice-Presidential running mate in the 1988 US Presidential election?",
+      "answers": [
+        "Lloyd Bentsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_44",
+      "title": "What Christian denomination was begun by John Wesley in 1738?",
+      "answers": [
+        "Methodist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_45",
+      "title": "Which US first lady had several half-­brothers who served in the Confederate Army?",
+      "answers": [
+        "Mary Todd Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_46",
+      "title": "On what date did Margaret Thatcher assume office as Prime Minister of the United Kingdom?",
+      "answers": [
+        "May 4, 1979"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_47",
+      "title": "How long did the Pony Express mail service last?",
+      "answers": [
+        "18 months"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_48",
+      "title": "What era marked the beginning of farming?",
+      "answers": [
+        "Stone age"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_49",
+      "title": "Besides Pompeii, what other ancient Italian city was engulfed by Mount Vesuvius?",
+      "answers": [
+        "Herculaneum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_39_50",
+      "title": "Where is the mythological birthplace of the Incas?",
+      "answers": [
+        "Isla del Sol, Bolivia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

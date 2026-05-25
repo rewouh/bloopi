@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_01",
+  "name": "Geography Trivia 26K 01",
+  "description": "Geography 1 - 50 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_01_01",
+      "title": "In what country is Thunder Bay?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_02",
+      "title": "Which US state is nicknamed the \"Evergreen State\"?",
+      "answers": [
+        "Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_03",
+      "title": "Which US state is home to Lassen Volcano National Park?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_04",
+      "title": "What artificial lake in the U.S. was created by the construction of the Glen Canyon Dam?",
+      "answers": [
+        "Lake Powell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_05",
+      "title": "The Moho is an extinct genus of birds that were endemic to which island archipelago?",
+      "answers": [
+        "Hawaiian Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_06",
+      "title": "At what national capital does the White Nile join the Blue Nile?",
+      "answers": [
+        "Khartoum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_07",
+      "title": "What year did the last Province or Territory join Canada?",
+      "answers": [
+        "1999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_08",
+      "title": "What is New York City's most popular nickname?",
+      "answers": [
+        "The Big Apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_09",
+      "title": "In which city are the Petronas Towers located?",
+      "answers": [
+        "Kuala Lumpur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_10",
+      "title": "Which national capital does the Vltava River flow through?",
+      "answers": [
+        "Prague"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_11",
+      "title": "Which country has an extreme version of swinging called kiiking?",
+      "answers": [
+        "Estonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_12",
+      "title": "What is the world's smallest country?",
+      "answers": [
+        "Vatican City state"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_13",
+      "title": "What is the deepest lake in the world?",
+      "answers": [
+        "Lake Baikal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_14",
+      "title": "The \"Strait of Magellan\" is part of which continent?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_15",
+      "title": "Which Canadian city's nickname is \"Bytown\"?",
+      "answers": [
+        "Ottawa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_16",
+      "title": "Which US state is known as the “Land of Enchantment”?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_17",
+      "title": "Which country's days include Fire day, Water day and Wood day?",
+      "answers": [
+        "Japan's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_18",
+      "title": "The Arc de Triumphe is to Paris, as the Brandenburg Gate is to what other European capital city?",
+      "answers": [
+        "Berlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_19",
+      "title": "As of 2014, which country is the location of the second highest flagpole in the world after Saudi Arabia built a taller one in Jeddah?",
+      "answers": [
+        "Tajikistan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_20",
+      "title": "What is the largest country in South America?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_21",
+      "title": "Which two states share a border with South Carolina?",
+      "answers": [
+        "Georgia and North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_22",
+      "title": "What is the name of the strait located between the Italy and Albania?",
+      "answers": [
+        "Straits of Otranto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_23",
+      "title": "Where is the Pettit National Ice Center located?",
+      "answers": [
+        "Milwaukee, Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_24",
+      "title": "By area, what is the smallest of the Great Lakes?",
+      "answers": [
+        "Lake Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_25",
+      "title": "In which country would you find the major port town Fremantle?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_26",
+      "title": "What two US states begin with the letter \"T\"?",
+      "answers": [
+        "Tennessee and Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_27",
+      "title": "Which U.S. capital city is the only one with no McDonalds?",
+      "answers": [
+        "Montpelier, Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_28",
+      "title": "What Hawaiian island is known as \"Bird Island\"?",
+      "answers": [
+        "Nihoa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_29",
+      "title": "Which US state is nicknamed the Pelican State?",
+      "answers": [
+        "Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_30",
+      "title": "Where is the busiest airport in South America?",
+      "answers": [
+        "São Paulo, Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_31",
+      "title": "Where in Canada would you find Mount Queen Elizabeth?",
+      "answers": [
+        "Banff National Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_32",
+      "title": "In what country would you find the active volcano \"Etna\"?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_33",
+      "title": "In 2014, a criminal gang in China used the chemical rongalite to flood the market with which contaminated food?",
+      "answers": [
+        "Tofu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_34",
+      "title": "Where were the Pillars of Hercules located?",
+      "answers": [
+        "Strait of Gibraltar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_35",
+      "title": "Which mountain range lies in the north of Spain, west of The Pyrenees?",
+      "answers": [
+        "The Cantabrian Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_36",
+      "title": "Which European nation is landlocked by a distance of just 6.2 miles?",
+      "answers": [
+        "San Marino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_37",
+      "title": "In which country would you find the Aya Castle?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_38",
+      "title": "Which US state is nicknamed the \"Sunshine State\"?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_39",
+      "title": "Gaborone is the capital of which country?",
+      "answers": [
+        "Botswana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_40",
+      "title": "What Pacific island chain is named for Philip IV's Austrian queen?",
+      "answers": [
+        "The Marianas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_41",
+      "title": "Where can you find the Dragon Blood Tree",
+      "answers": [
+        "Yemen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_42",
+      "title": "What US state shares the shortest border with Canada?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_43",
+      "title": "In which North American city would you find Joe Shuster Way?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_44",
+      "title": "The Red River flows into what river?",
+      "answers": [
+        "Mississippi River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_45",
+      "title": "Lilongwe is the capital of which African country?",
+      "answers": [
+        "Malawi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_46",
+      "title": "Kersti Kaljulaid was 46 years old when she became the youngest president ever elected to lead which country?",
+      "answers": [
+        "Estonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_47",
+      "title": "Which peninsula is shared by Portugal and Spain?",
+      "answers": [
+        "Iberian peninsula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_48",
+      "title": "Which European country was occupied by Britain from 1814 until 1964?",
+      "answers": [
+        "Malta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_49",
+      "title": "Chamorro is one of the official languages of which country?",
+      "answers": [
+        "Guam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_01_50",
+      "title": "What is the world's largest national park?",
+      "answers": [
+        "Northeast Greenland National Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_02",
+  "name": "General Trivia 26K 02",
+  "description": "General 51 - 100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_02_01",
+      "title": "How many points do you score for a bullseye in archery?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_02",
+      "title": "Elton John wrote the song \"Philadelphia Freedom\" as a tribute to what tennis star?",
+      "answers": [
+        "Billie Jean King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_03",
+      "title": "Who was America's first billionaire?",
+      "answers": [
+        "John D. Rockefeller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_04",
+      "title": "What country was the first to introduce license plates?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_05",
+      "title": "What is the international governing board of soccer?",
+      "answers": [
+        "FIFA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_06",
+      "title": "What were the names of the official mascots of the 2016 Summer Olympics?",
+      "answers": [
+        "Vinicius and Tom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_07",
+      "title": "What is an \"Americano\"?",
+      "answers": [
+        "Espresso with hot water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_08",
+      "title": "What specific animal appeared above the \"Don't Tread on Me\" motto on early American flags?",
+      "answers": [
+        "A rattlesnake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_09",
+      "title": "In which sport is there a time period called a \"chukka\"?",
+      "answers": [
+        "Polo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_10",
+      "title": "First marketed in 1952, Pream was a brand of instant what?",
+      "answers": [
+        "Creamer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_11",
+      "title": "Who are the Mario Brothers usually trying to save?",
+      "answers": [
+        "Princess Peach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_12",
+      "title": "What city has traffic lights shaped like Hershey's Kisses?",
+      "answers": [
+        "Hershey, Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_13",
+      "title": "What sign of the zodiac are you if you were born on Leap Day?",
+      "answers": [
+        "Pisces"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_14",
+      "title": "Who was the head football coach of the Miami Hurricanes from 1995 to ­2000?",
+      "answers": [
+        "Butch Davis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_15",
+      "title": "How many Witches are in a coven?",
+      "answers": [
+        "13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_16",
+      "title": "What decade was Girl Scouts of America formed in?",
+      "answers": [
+        "1910s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_17",
+      "title": "In the tech field, what does AMD stand for?",
+      "answers": [
+        "Advanced Micro Devices"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_18",
+      "title": "What TV show inspired the term \"spam\" for junk email?",
+      "answers": [
+        "\"Monty Python's Flying Circus\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_19",
+      "title": "In what U.S. City was the Ragú brand of Italian-style sauces first produced?",
+      "answers": [
+        "Rochester, New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_20",
+      "title": "What animal is the mascot of the US Naval Academy?",
+      "answers": [
+        "The goat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_21",
+      "title": "Wiccaphobia is the fear of what?",
+      "answers": [
+        "Witches and witchcraft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_22",
+      "title": "What is the primary type of alcohol in the cocktail Mai Tai?",
+      "answers": [
+        "Rum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_23",
+      "title": "A \"peck\" is how many imperial quarts?",
+      "answers": [
+        "8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_24",
+      "title": "On which day can you get married on the top of the Empire State Building?",
+      "answers": [
+        "Valentine’s Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_25",
+      "title": "What type of fruit juice is used to make the drink \"Fuzzy Navel\"?",
+      "answers": [
+        "Orange Juice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_26",
+      "title": "The dish, \"Pad Thai\" originates from what Asian country?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_27",
+      "title": "What is \"Coq au Vin\"?",
+      "answers": [
+        "Chicken with wine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_28",
+      "title": "What sport's lingo uses the term \"Caballerial\"?",
+      "answers": [
+        "Skateboarding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_29",
+      "title": "On Mount Rushmore, which one of the presidents is wearing a jacket?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_30",
+      "title": "Marzipan is made of which ground nut?",
+      "answers": [
+        "Almond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_31",
+      "title": "What boxer is memorialized by a giant fist outside Detroit's Renaissance Center?",
+      "answers": [
+        "Joe Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_32",
+      "title": "What board game's tokens include a rope, a lead pipe, and a candlestick?",
+      "answers": [
+        "Clue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_33",
+      "title": "How many minutes are in a day?",
+      "answers": [
+        "1,440"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_34",
+      "title": "Which day marks the start of Lent?",
+      "answers": [
+        "Ash Wednesday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_35",
+      "title": "On what video game platform did the Gran Turismo game series debut?",
+      "answers": [
+        "Playstation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_36",
+      "title": "What four colors are used in four-color process printing?",
+      "answers": [
+        "Cyan, Magenta, Yellow, Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_37",
+      "title": "The most popular car color in the USA for 2019 was which color?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_38",
+      "title": "Who invented the Spinning Jenny?",
+      "answers": [
+        "James Hargreaves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_39",
+      "title": "What was pictured on the face of the US penny just prior to Abraham Lincoln?",
+      "answers": [
+        "Indian head"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_40",
+      "title": "Why were the earliest English umbrellas nicknamed \"Robinsons\"?",
+      "answers": [
+        "For Robinson Crusoe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_41",
+      "title": "What rubber Wham-O toy inspired the name of one of the world's largest sporting events?",
+      "answers": [
+        "The Super Bowl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_42",
+      "title": "How is a person related to the child of their parent's cousin?",
+      "answers": [
+        "Second cousins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_43",
+      "title": "In what year were Sea-­Monkeys first marketed?",
+      "answers": [
+        "1957"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_44",
+      "title": "In the computer world, does the abbreviation DOS stand for?",
+      "answers": [
+        "Disk Operating System"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_45",
+      "title": "What is the metal or plastic tube fixed tightly around each end of a shoelace called?",
+      "answers": [
+        "An aglet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_46",
+      "title": "The fear of some unknown evil is called what?",
+      "answers": [
+        "Panphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_47",
+      "title": "In 1861, Julius Sturgis started the first US commercial bakery that made what?",
+      "answers": [
+        "Pretzels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_48",
+      "title": "Also known as the \"Chile Pine\", what is the common name of the tree \"Araucaria araucana\"?",
+      "answers": [
+        "Monkey puzzle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_49",
+      "title": "Jambon is the French word for what food?",
+      "answers": [
+        "Ham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_02_50",
+      "title": "What does the \"64\" in \"Commodore 64\" mean?",
+      "answers": [
+        "Kilobytes of memory"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_20",
+  "name": "Arts Trivia 26K 20",
+  "description": "Arts 951 - 1000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_20_01",
+      "title": "What was the most popular type of paint during the Renaissance?",
+      "answers": [
+        "Oil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_02",
+      "title": "Who was the real-life model for the character of Jack Stanton in the novel \"Primary Colors\"?",
+      "answers": [
+        "Bill Clinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_03",
+      "title": "What do sisters Elinor and Marianne Dashwood represent in the title of a Jane Austen novel?",
+      "answers": [
+        "Sense and Sensibility"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_04",
+      "title": "Who wrote the classic science fiction novel \"Helliconia Spring\"?",
+      "answers": [
+        "Brian W. Aldiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_05",
+      "title": "Who wrote the 1994 novel \"Inspector Proby’s Christmas\"?",
+      "answers": [
+        "John Gano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_06",
+      "title": "According to the Bible, how many sons did Jacob have?",
+      "answers": [
+        "Twelve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_07",
+      "title": "What is the one-eyed giant of Greek mythology?",
+      "answers": [
+        "Cyclops"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_08",
+      "title": "What famous chorus from Verdi's \"Il Trovatore\" is sung by hammer-wielding Spanish gypsies at dawn?",
+      "answers": [
+        "The Anvil Chorus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_09",
+      "title": "What author's novel \"East of Eden\" was a symbolic recreation of the story of Cain and Abel?",
+      "answers": [
+        "John Steinbeck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_10",
+      "title": "What musical is based on the book \"Anna and the King of Siam\"?",
+      "answers": [
+        "The King and I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_11",
+      "title": "What does the prefix \"pseudo\" mean?",
+      "answers": [
+        "False"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_12",
+      "title": "What Scottish poet’s works inspired the book titles \"Of Mice and Men\" and \"Catcher in the Rye\"?",
+      "answers": [
+        "Robert Burns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_13",
+      "title": "Who wrote the opera \"Rigoletto\"?",
+      "answers": [
+        "Giuseppe Verdi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_14",
+      "title": "The Newbery Medal is awarded annually for what genre of writing?",
+      "answers": [
+        "Children's literature"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_15",
+      "title": "Which impresionist artist's most important work was his series of paintings based around Hampton on the river Thames?",
+      "answers": [
+        "Alfred Sisley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_16",
+      "title": "Alan Moore co-created which antihero that first appeared in an 1985 issue of \"The Saga of the Swamp Thing\"?",
+      "answers": [
+        "John Constantine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_17",
+      "title": "In what Edgar Allen Poe poem does the narrator lament the loss of his lover, Lenore?",
+      "answers": [
+        "The Raven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_18",
+      "title": "In Jonathan Swift’s \"Gulliver’s Travels\", what is the name of the island inhabited by tiny people?",
+      "answers": [
+        "Lilliput"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_19",
+      "title": "In which Franz Kafka novel did the main character turn into a cockroach?",
+      "answers": [
+        "Metamorphosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_20",
+      "title": "Does \"verbatim\" mean?",
+      "answers": [
+        "In the same words"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_21",
+      "title": "Who wrote \"The Legend of Sleepy Hollow\"?",
+      "answers": [
+        "Washington Irving"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_22",
+      "title": "Who turned all he touched to gold?",
+      "answers": [
+        "King Midas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_23",
+      "title": "Who is \"the Lord\" referred to in the title \"Lord of the Rings\"?",
+      "answers": [
+        "Sauron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_24",
+      "title": "What comic strip sometimes features a mailman named Beasley?",
+      "answers": [
+        "Blondie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_25",
+      "title": "What cartoon earned Garry Trudeau a Pulitzer Prize in 1975?",
+      "answers": [
+        "Doonesbury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_26",
+      "title": "What author created the character of Nero Wolfe?",
+      "answers": [
+        "Rex Stout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_27",
+      "title": "What's the opposite of \"synonym\"?",
+      "answers": [
+        "Antonym"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_28",
+      "title": "What nationality is author Gabriel Garcia Marquez, famed for his 1967 novel \"One Hundred Years of Solitude\"?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_29",
+      "title": "Who wrote the Booker prize winning novel \"The Bone People\"?",
+      "answers": [
+        "Kerry Hulme"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_30",
+      "title": "What is the name of the food that was miraculously provided to the desert-dwelling Israelites of the Old Testament?",
+      "answers": [
+        "Manna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_31",
+      "title": "What classic novel's subtitle is \"The Modern Prometheus\"?",
+      "answers": [
+        "Frankenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_32",
+      "title": "What company publishes \"The Walking Dead\" comic book series?",
+      "answers": [
+        "Image Comics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_33",
+      "title": "What classic novel was originally published with the title \"Fiesta\" in the U.K.?",
+      "answers": [
+        "\"The Sun Also Rises"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_34",
+      "title": "From what language did English borrow the word \"dungarees\"?",
+      "answers": [
+        "Hindi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_35",
+      "title": "Which of his ten fingers is God using to give Adam life on the ceiling of the Sistine Chapel?",
+      "answers": [
+        "His index finger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_36",
+      "title": "What English writer died on the on the same date as Spanish author and poet Miguel de Cervantes?",
+      "answers": [
+        "William Shakespeare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_37",
+      "title": "Who was the protagonist in the book \"Fahrenheit 451\"?",
+      "answers": [
+        "Guy Montag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_38",
+      "title": "What cartoon was created by Gary Larson?",
+      "answers": [
+        "The Far Side"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_39",
+      "title": "Who wrote the 1939 novel \"The Grapes of Wrath\"?",
+      "answers": [
+        "John Steinbeck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_40",
+      "title": "What year did Stella Gibbons publish the novel \"Cold Comfort Farm\"?",
+      "answers": [
+        "1932"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_41",
+      "title": "Whose treasure is said to be the subject of the \"Treasure Island\" map?",
+      "answers": [
+        "Captain Flint's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_42",
+      "title": "What did Longfellow say \"must fall...into each life\"?",
+      "answers": [
+        "Rain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_43",
+      "title": "Whose novels include \"The Chamber\", \"The Client\", and \"The Firm\"?",
+      "answers": [
+        "John Grisham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_44",
+      "title": "What crashes from the ceiling to provide one of the highlights of Lloyd Weber's \"The Phantom of the Opera\"?",
+      "answers": [
+        "Chandelier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_45",
+      "title": "Who painted \"The Persistence of Memory\"?",
+      "answers": [
+        "Salvador Dali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_46",
+      "title": "During what war was the novel \"Richard III\" set?",
+      "answers": [
+        "Wars of the Roses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_47",
+      "title": "Which technique did Vincent van Gogh use to paint his \"Sunflowers\"?",
+      "answers": [
+        "Impasto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_48",
+      "title": "Who wrote the opera \"The Turn of the Screw\"?",
+      "answers": [
+        "Benjamin Britten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_49",
+      "title": "In Shakespeare's play who was the wife of Othello?",
+      "answers": [
+        "Desdemona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_20_50",
+      "title": "What are the names of the four original Berenstain Bears?",
+      "answers": [
+        "Papa, Mama, Sister, Brother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

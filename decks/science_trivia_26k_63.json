@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_63",
+  "name": "Science Trivia 26K 63",
+  "description": "Science 3101 - 3150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_63_01",
+      "title": "What is it called when you make light change direction by passing it through a lens?",
+      "answers": [
+        "Refraction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_02",
+      "title": "What birds do Chinese and Japanese fisherman commonly use?",
+      "answers": [
+        "Cormorants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_03",
+      "title": "Phobos is the name of one of the moons of which planet?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_04",
+      "title": "On average, how long does it take food to pass through the human body?",
+      "answers": [
+        "53 hours"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_05",
+      "title": "The nest of an eagle or bird of prey is called a what?",
+      "answers": [
+        "Eyrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_06",
+      "title": "What group of natural pigments affects the color of the hair and skin?",
+      "answers": [
+        "Melanin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_07",
+      "title": "What is the functional unit of heredity?",
+      "answers": [
+        "Gene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_08",
+      "title": "What is the actual name of the flower known as daffodil?",
+      "answers": [
+        "Narcissus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_09",
+      "title": "What is the name heavy material stabilizing a ship?",
+      "answers": [
+        "Ballast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_10",
+      "title": "With what is sulfur and charcoal mixed to make gunpowder?",
+      "answers": [
+        "Saltpeter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_11",
+      "title": "In the Steve Miller song \"The Joker\", what men’s name do \"some people call him\"?",
+      "answers": [
+        "Maurice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_12",
+      "title": "What is the name of Google's mobile operating system?",
+      "answers": [
+        "Android"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_13",
+      "title": "In what part of the body would you find sebum?",
+      "answers": [
+        "The skin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_14",
+      "title": "What is the largest cat in the America's?",
+      "answers": [
+        "Jaguar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_15",
+      "title": "Ataxophobia is the fear of what?",
+      "answers": [
+        "Disorder or untidiness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_16",
+      "title": "A Calorie is a measurement of what?",
+      "answers": [
+        "Energy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_17",
+      "title": "Where do bumblebees normally build their nests?",
+      "answers": [
+        "Underground"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_18",
+      "title": "What do dragonflies eat?",
+      "answers": [
+        "Mosquitoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_19",
+      "title": "What tool did Charles Moncke invent?",
+      "answers": [
+        "The monkey wrench"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_20",
+      "title": "What is another name for the disease known as Varicella?",
+      "answers": [
+        "Chickenpox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_21",
+      "title": "What ore is the primary source of Aluminium?",
+      "answers": [
+        "Bauxite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_22",
+      "title": "How many bones are there in the human skull?",
+      "answers": [
+        "22"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_23",
+      "title": "What is the world's fastest dog?",
+      "answers": [
+        "The greyhound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_24",
+      "title": "Where is the axillary temperature taken?",
+      "answers": [
+        "Armpit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_25",
+      "title": "What hormone enables women to have a sense of smell superior to men?",
+      "answers": [
+        "Estrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_26",
+      "title": "What name is given to animals which eat both plants and meat?",
+      "answers": [
+        "Omnivore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_27",
+      "title": "What plant is opium derived from?",
+      "answers": [
+        "The opium poppy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_28",
+      "title": "\"Coulrophobia\" is the fear of what?",
+      "answers": [
+        "Clowns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_29",
+      "title": "What is a mammal with a pouch for its young called?",
+      "answers": [
+        "A marsupial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_30",
+      "title": "What’s the difference between green and black olives?",
+      "answers": [
+        "Ripeness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_31",
+      "title": "Which US president’s daughter had a shade of blue named after her?",
+      "answers": [
+        "Theodore Roosevelt's daughter Alice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_32",
+      "title": "What 16th century physician is often credited for revolutionized anatomy by performing dissections?",
+      "answers": [
+        "Andreas Vesalius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_33",
+      "title": "What is the dog breed \"Borzoi\" sometimes called?",
+      "answers": [
+        "Russian wolfhound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_34",
+      "title": "What is the study of grasses called?",
+      "answers": [
+        "Agrostology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_35",
+      "title": "Amazon river dolphins, also known as pink river dolphins, are also referred to as what?",
+      "answers": [
+        "Botos or bufeos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_36",
+      "title": "The electric eel is native only to what continent?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_37",
+      "title": "On what number is the decimal system based?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_38",
+      "title": "What is a manometer used to measure?",
+      "answers": [
+        "Pressure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_39",
+      "title": "How many nights can a vampire bat go without blood before it dies?",
+      "answers": [
+        "Two nights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_40",
+      "title": "What is Mars' atmosphere mostly made of?",
+      "answers": [
+        "Carbon dioxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_41",
+      "title": "On which planet did the spacecraft Venus 8 land in 1972?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_42",
+      "title": "What is most likely to occur when your diaphragm goes into spasms?",
+      "answers": [
+        "Hiccups"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_43",
+      "title": "What is the heaviest internal organ in the human body?",
+      "answers": [
+        "The liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_44",
+      "title": "Which member of the cat family cannot retract its claws?",
+      "answers": [
+        "The cheetah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_45",
+      "title": "What are pouched animals called?",
+      "answers": [
+        "Marsupials"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_46",
+      "title": "The average adult human has 32 of what?",
+      "answers": [
+        "Teeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_47",
+      "title": "What are the fuzzy ends of a dandelion called?",
+      "answers": [
+        "Seed Heads"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_48",
+      "title": "What does LPG stands for?",
+      "answers": [
+        "Liquid Petroleum Gas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_49",
+      "title": "What is the branch of mathematics that deals with the size and shape of objects?",
+      "answers": [
+        "Geometry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_63_50",
+      "title": "Miranda orbits what planet of the solar system?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

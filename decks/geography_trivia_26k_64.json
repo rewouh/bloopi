@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_64",
+  "name": "Geography Trivia 26K 64",
+  "description": "Geography 3151 - 3200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_64_01",
+      "title": "What famous aqueduct is located in Wales?",
+      "answers": [
+        "Pontcysyllte Aqueduct and Canal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_02",
+      "title": "In what country is the Great Sandy Desert located?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_03",
+      "title": "Which US state is named after a British island?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_04",
+      "title": "Which city is known as the Windy City?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_05",
+      "title": "What country borders the Republic of Guinea-Bissau to the north?",
+      "answers": [
+        "Senegal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_06",
+      "title": "How many McDonald's are in the country of Iceland?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_07",
+      "title": "Vienna is the capital of which country?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_08",
+      "title": "Which country owns the island of Corfu?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_09",
+      "title": "In which US state can one visit the Appomattox Court House National Historical Park?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_10",
+      "title": "What is the longest river in the UK?",
+      "answers": [
+        "Severn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_11",
+      "title": "Where is the world’s longest train tunnel?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_12",
+      "title": "In what city is Ebenezer Baptist Church, where Martin Luther King Jr. and his father were pastors?",
+      "answers": [
+        "Atlanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_13",
+      "title": "Reaching 20,320 feet (6,194 meters) above sea level, Denali is located in what US state?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_14",
+      "title": "What is the largest borough of New York City?",
+      "answers": [
+        "Queens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_15",
+      "title": "Which country borders Sweden only by bridge?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_16",
+      "title": "What Ivy League school is located in Ithaca?",
+      "answers": [
+        "Cornell University"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_17",
+      "title": "On which river does Saint. Petersburg lie?",
+      "answers": [
+        "Neva River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_18",
+      "title": "What city named its airport after John Lennon?",
+      "answers": [
+        "Liverpool"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_19",
+      "title": "What city serves as the capital of Northern Ireland?",
+      "answers": [
+        "Belfast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_20",
+      "title": "What is the official language of Cuba?",
+      "answers": [
+        "Spanish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_21",
+      "title": "Where would one find Catalonia on a map?",
+      "answers": [
+        "In Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_22",
+      "title": "What is the second largest of the Hawaiian Islands?",
+      "answers": [
+        "Maui"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_23",
+      "title": "Victoria is the capital of which country and archipelago located northeast of Madagascar?",
+      "answers": [
+        "Seychelles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_24",
+      "title": "What is the nickname for the island of Trinidad?",
+      "answers": [
+        "Land of the Hummingbird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_25",
+      "title": "Where is the USA's first ski town located?",
+      "answers": [
+        "Woodstock, Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_26",
+      "title": "Which university’s mascot is the same as its state’s animal?",
+      "answers": [
+        "Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_27",
+      "title": "Which country is home of the didgeridoos?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_28",
+      "title": "Which city is the capital of Australia?",
+      "answers": [
+        "Canberra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_29",
+      "title": "Which US state is nicknamed the \"Treasure State\"?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_30",
+      "title": "Mt. Everest is located on the border of the Chinese region of Tibet and what other country?",
+      "answers": [
+        "Nepal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_31",
+      "title": "What is the capital of Norway?",
+      "answers": [
+        "Oslo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_32",
+      "title": "What is the only country that displays the Bible on its national flag?",
+      "answers": [
+        "The Dominican Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_33",
+      "title": "Where were the world's largest pearls found?",
+      "answers": [
+        "The Philippines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_34",
+      "title": "Which country has Damascus as its capital city?",
+      "answers": [
+        "Syria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_35",
+      "title": "What was the capital of East Germany until 1990?",
+      "answers": [
+        "East Berlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_36",
+      "title": "What river runs through both Lyon and Marseilles?",
+      "answers": [
+        "Rhone River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_37",
+      "title": "Yaren is the capital of which country?",
+      "answers": [
+        "Nauru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_38",
+      "title": "Chablis comes from which French wine region?",
+      "answers": [
+        "Burgundy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_39",
+      "title": "Warsaw is the capital of what country?",
+      "answers": [
+        "Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_40",
+      "title": "Which is the only independent state smaller than Monaco?",
+      "answers": [
+        "The Vatican"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_41",
+      "title": "Before the oil industry grew in the 1940s, what was the major industry for Qatar.",
+      "answers": [
+        "Pearls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_42",
+      "title": "What is the world's second largest country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_43",
+      "title": "\"Chili crab\" is a dish from which country?",
+      "answers": [
+        "Singapore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_44",
+      "title": "By what name do Germans refer to Austria?",
+      "answers": [
+        "Ӧsterreich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_45",
+      "title": "Where can you find the \"Dancing House\"?",
+      "answers": [
+        "Prague, Czech Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_46",
+      "title": "What is the modern day equivalent of Ceylon?",
+      "answers": [
+        "Sri Lanka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_47",
+      "title": "In which city will you find the Brandenburg Gate?",
+      "answers": [
+        "Berlin, Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_48",
+      "title": "What country is nicknamed the \"Land of a Thousand Smiles\"?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_49",
+      "title": "What city is home to the Coit Tower?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_64_50",
+      "title": "Which European state has an area of 0.44 square kilometers?",
+      "answers": [
+        "Vatican City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

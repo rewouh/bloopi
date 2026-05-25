@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_02",
+  "name": "Geography Trivia 26K 02",
+  "description": "Geography 51 - 100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_02_01",
+      "title": "In which city is the Peace Tower part of the Canadian Parliament Buildings?",
+      "answers": [
+        "Ottawa, Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_02",
+      "title": "What is the flatest state in the U.S.?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_03",
+      "title": "The Easter lily is a plant endemic to which Japanese islands?",
+      "answers": [
+        "Ryukyu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_04",
+      "title": "What is the fastest flowing river in the world?",
+      "answers": [
+        "Amazon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_05",
+      "title": "What state is home to the Crazy Horse Memorial?",
+      "answers": [
+        "South Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_06",
+      "title": "What is the least populated continguous U.S. state?",
+      "answers": [
+        "Wyoming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_07",
+      "title": "What major river runs through Seoul?",
+      "answers": [
+        "Han"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_08",
+      "title": "Which city is the Arch of Hadrian located in?",
+      "answers": [
+        "Athens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_09",
+      "title": "Which country of Europe is called the land of humane bullfights: where the bulls are not killed?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_10",
+      "title": "What capital city is located on the shores of Chesapeake Bay?",
+      "answers": [
+        "Annapolis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_11",
+      "title": "What cave, found in central Kentucky, is the world's longest cave system?",
+      "answers": [
+        "Mammoth Cave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_12",
+      "title": "What city is the capital of the US state Arkansas?",
+      "answers": [
+        "Little Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_13",
+      "title": "What is the capital of Romania?",
+      "answers": [
+        "Bucharest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_14",
+      "title": "Which US state is home to Cape Lookout National Seashore?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_15",
+      "title": "Paramaribo is the capital of which South American country?",
+      "answers": [
+        "Suriname"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_16",
+      "title": "The coast of what National Seashore is known as the \"Graveyard of the Atlantic\"?",
+      "answers": [
+        "Cape Hatteras National Seashore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_17",
+      "title": "What is the largest landlocked county in England?",
+      "answers": [
+        "Shropshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_18",
+      "title": "What popular tourist destination is Thailand's largest island?",
+      "answers": [
+        "Phuket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_19",
+      "title": "Where is the \"Land of 10,000 Lakes\"?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_20",
+      "title": "Which Scandinavian nation has a yellow cross on its flag?",
+      "answers": [
+        "Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_21",
+      "title": "What was Saint Petersburg called for a short period of time before being renamed to Leningrad?",
+      "answers": [
+        "Petrograd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_22",
+      "title": "Where is the Parthenon located?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_23",
+      "title": "In which modern day country would you find the region known as Transylvania?",
+      "answers": [
+        "Romania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_24",
+      "title": "What country's entire population was condemned to death by the Spanish Inquisition?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_25",
+      "title": "What is the only nation that borders both Israel and Libya?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_26",
+      "title": "Which Canadian city was originally called Bytown?",
+      "answers": [
+        "Ottawa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_27",
+      "title": "Which US state is Chicago in?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_28",
+      "title": "What is the capital of Central African Republic?",
+      "answers": [
+        "Bangui"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_29",
+      "title": "What European nation still pledges its allegiance to a foreign monarch in its national anthem?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_30",
+      "title": "In terms of area, what is the largest borough in New York City?",
+      "answers": [
+        "Queens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_31",
+      "title": "The city of Santa Cruz is located on the shores of what bay?",
+      "answers": [
+        "Monterey Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_32",
+      "title": "Grenada is part of which continent?",
+      "answers": [
+        "North America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_33",
+      "title": "Andorra is bordered by which two countries?",
+      "answers": [
+        "France and Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_34",
+      "title": "Sofia is the capital of which nation?",
+      "answers": [
+        "Bulgaria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_35",
+      "title": "Providence is the capital of which US state?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_36",
+      "title": "As what is \"South West Township\" known in South Africa?",
+      "answers": [
+        "Soweto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_37",
+      "title": "What old Massachusetts town is nicknamed \"Witch city\"?",
+      "answers": [
+        "Salem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_38",
+      "title": "In which European city would you find Orly airport?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_39",
+      "title": "What is the only nation that borders both Uruguay and Venezuela?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_40",
+      "title": "In the Western Hemisphere, what is the most western national capital?",
+      "answers": [
+        "Mexico City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_41",
+      "title": "The city of Mumbai in India was formerly known by what name?",
+      "answers": [
+        "Bombay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_42",
+      "title": "The Niagara Falls name is derived from an Iroquois word meaning what?",
+      "answers": [
+        "Thunder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_43",
+      "title": "The powerful Inca empire had its capital seat at Cuzco in what modern-day South American country?",
+      "answers": [
+        "Peru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_44",
+      "title": "What is the capital of Arizona?",
+      "answers": [
+        "Phoenix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_45",
+      "title": "On which Hawaiian island would you find Diamond Head?",
+      "answers": [
+        "Oahu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_46",
+      "title": "Which Arab country's flag has a green cedar tree in the center?",
+      "answers": [
+        "Lebanon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_47",
+      "title": "Which European country replaced the Guilder with the Euro?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_48",
+      "title": "What island was once called Van Diemen's Land?",
+      "answers": [
+        "Tasmania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_49",
+      "title": "The shoreline of which US state is broken by Albemarle Sound?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_02_50",
+      "title": "Which US President was responsible for the \"Louisiana Purchase\"?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

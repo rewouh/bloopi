@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_36",
+  "name": "Science Trivia 26K 36",
+  "description": "Science 1751 - 1800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_36_01",
+      "title": "What color is produced by the complete absorption of light rays?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_02",
+      "title": "What metal was Danish astronomer Tycho Brahe's nose made of?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_03",
+      "title": "What is the most common blood type?",
+      "answers": [
+        "O Positive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_04",
+      "title": "In 2016, which vessel became the first solar-powered aircraft to circumnavigate the Earth?",
+      "answers": [
+        "Solar Impulse 2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_05",
+      "title": "A pimento is what type of fruit?",
+      "answers": [
+        "Pepper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_06",
+      "title": "What are sterile female honey bees called?",
+      "answers": [
+        "Workers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_07",
+      "title": "What is Diazepam better known as?",
+      "answers": [
+        "Valium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_08",
+      "title": "What does a Forensic Pathologist typically perform?",
+      "answers": [
+        "Autopsies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_09",
+      "title": "What is the more common name for a Peritonsillar abscess?",
+      "answers": [
+        "Quinsy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_10",
+      "title": "What animal has the most teeth?",
+      "answers": [
+        "Snails"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_11",
+      "title": "What keeps the Earth's atmosphere from leaving the planet?",
+      "answers": [
+        "Gravity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_12",
+      "title": "What plastic often has its name shortened to PS?",
+      "answers": [
+        "Polystyrene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_13",
+      "title": "What is the study of the atmosphere called?",
+      "answers": [
+        "Meteorology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_14",
+      "title": "What are the four stages of cell mitosis?",
+      "answers": [
+        "Prophase, Metaphase, Anaphase, Telophase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_15",
+      "title": "What are the three-time periods of the dinosaurs?",
+      "answers": [
+        "Triassic, Jurassic, and Cretaceous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_16",
+      "title": "Which electronic component can be classified as NPN or PNP?",
+      "answers": [
+        "Transistor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_17",
+      "title": "What is the common name for the condition dyspepsia?",
+      "answers": [
+        "Indigestion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_18",
+      "title": "Which two numbers are used in the binary system?",
+      "answers": [
+        "Zero and one"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_19",
+      "title": "What is the name of the cartilage tissue which prevents food going down the wrong way?",
+      "answers": [
+        "Epiglottis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_20",
+      "title": "What two dogs are bred to make a puggle?",
+      "answers": [
+        "Pug and beagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_21",
+      "title": "In what organ of the human body would you find the cornea?",
+      "answers": [
+        "The eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_22",
+      "title": "What connects flower buds to the stem?",
+      "answers": [
+        "Sepals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_23",
+      "title": "What name is given to the unit of electrical resistance?",
+      "answers": [
+        "Ohm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_24",
+      "title": "What spectral class does our sun belong to?",
+      "answers": [
+        "G"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_25",
+      "title": "Which country invented the Wankel engine, also known as a rotary engine?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_26",
+      "title": "How many zeros are in a quadrillion?",
+      "answers": [
+        "15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_27",
+      "title": "What lives in a formicary?",
+      "answers": [
+        "Ants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_28",
+      "title": "What acid gives vinegar its smell and taste?",
+      "answers": [
+        "Acetic acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_29",
+      "title": "Cynophobia is the fear of what?",
+      "answers": [
+        "Dogs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_30",
+      "title": "What constellation is represented by scales?",
+      "answers": [
+        "Libra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_31",
+      "title": "What branch of science is concerned with the interaction between matter and electromagnetic radiation?",
+      "answers": [
+        "Spectroscopy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_32",
+      "title": "Atychiphobia is the fear of what?",
+      "answers": [
+        "Failure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_33",
+      "title": "Pedophobia is the fear of what?",
+      "answers": [
+        "Children"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_34",
+      "title": "What kind of oil, a product of the flax plant, is used to make most oil paints?",
+      "answers": [
+        "Linseed oil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_35",
+      "title": "What is isolophobia the fear of?",
+      "answers": [
+        "Being alone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_36",
+      "title": "What was the common archaic name for a giraffe?",
+      "answers": [
+        "Camelopard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_37",
+      "title": "What is the addictive chemical in cigarettes?",
+      "answers": [
+        "Nicotine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_38",
+      "title": "If someone is taking your axillary temperature, where have they put the thermometer?",
+      "answers": [
+        "Under your arm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_39",
+      "title": "What caused fjords?",
+      "answers": [
+        "Glaciers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_40",
+      "title": "What was Uranus originally called?",
+      "answers": [
+        "Georgium Sidus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_41",
+      "title": "Barophobia is the fear of what?",
+      "answers": [
+        "Gravity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_42",
+      "title": "Autophobia is the fear of what?",
+      "answers": [
+        "Being alone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_43",
+      "title": "To be classified as perennial, a plant must have a life cycle of more than how many years?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_44",
+      "title": "Nosocomephobia is the fear of what?",
+      "answers": [
+        "Hospitals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_45",
+      "title": "What was the first spacecraft to land on Mars?",
+      "answers": [
+        "Mars 2 lander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_46",
+      "title": "Durian fruit is banned from certain public places in South East Asia because of its what?",
+      "answers": [
+        "Smell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_47",
+      "title": "Who is considered the \"father\" of organic chemistry?",
+      "answers": [
+        "Friedrich Wöhler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_48",
+      "title": "Which planet has a year that lasts 88 days?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_49",
+      "title": "Where is your Popliteal Fossa located?",
+      "answers": [
+        "Back of the knee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_36_50",
+      "title": "Which letter represents Potassium on the Periodic Table of Elements?",
+      "answers": [
+        "K"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

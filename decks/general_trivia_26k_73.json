@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_73",
+  "name": "General Trivia 26K 73",
+  "description": "General 3601 - 3650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_73_01",
+      "title": "What kind of animal is a hellbender?",
+      "answers": [
+        "Salamander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_02",
+      "title": "How many players are there in a standard quidditch team?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_03",
+      "title": "The organization PETA stands for \"People for\" what?",
+      "answers": [
+        "Ethical Treatment of Animals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_04",
+      "title": "What Hyundai model gets its name from the Spanish word for \"shark\"?",
+      "answers": [
+        "The Tiburon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_05",
+      "title": "Which is the only team in NFL history to have scored three touchdowns in less than a minute?",
+      "answers": [
+        "New England Patriots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_06",
+      "title": "What color were stop signs originally?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_07",
+      "title": "What alien species is affected by the Genophage in the Mass Effect Series?",
+      "answers": [
+        "Krogan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_08",
+      "title": "What was originally sold in 1965 under the name \"Chemgrass\"?",
+      "answers": [
+        "AstroTurf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_09",
+      "title": "By what name was Badminton known as in its early days?",
+      "answers": [
+        "Poona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_10",
+      "title": "What replaced the GameCube on November 19, 2006?",
+      "answers": [
+        "The Wii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_11",
+      "title": "What London landmark did Queen Elizabeth II open up to tourism in 1993?",
+      "answers": [
+        "Buckingham Palace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_12",
+      "title": "What is meant by the cooking term \"farci\"?",
+      "answers": [
+        "Stuffed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_13",
+      "title": "Ostraconophobia is the fear of what?",
+      "answers": [
+        "Shellfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_14",
+      "title": "What Apple product was code-named Dulcimer during its development?",
+      "answers": [
+        "iPod"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_15",
+      "title": "What airline announced its bankruptcy in January, 1991?",
+      "answers": [
+        "Eastern Airlines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_16",
+      "title": "Who was the first winner of the Fifa World Cup?",
+      "answers": [
+        "Uruguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_17",
+      "title": "In 1908, boxer Jack Johnson became the first African-American to do what?",
+      "answers": [
+        "Win the heavyweight title"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_18",
+      "title": "Which sport was invented by Dr. James Naismith in 1891?",
+      "answers": [
+        "Basketball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_19",
+      "title": "What is the primary liquor by volume in a \"Sex on the Beach\" cocktail?",
+      "answers": [
+        "Vodka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_20",
+      "title": "Before starting to make cars, what was Toyota's first product?",
+      "answers": [
+        "A loom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_21",
+      "title": "What chess piece makes an L-shaped move?",
+      "answers": [
+        "Knight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_22",
+      "title": "What year did Barbie doll first appear on the market?",
+      "answers": [
+        "1959"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_23",
+      "title": "What American company marketed the first home video game console ­the Odyssey ­in 1972?",
+      "answers": [
+        "Magnavox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_24",
+      "title": "How many years does a sesquicentennial celebrate?",
+      "answers": [
+        "150"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_25",
+      "title": "How long is the hour hand on Big Ben?",
+      "answers": [
+        "9 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_26",
+      "title": "Which modern instrument was called the sackbut until the nineteenth century?",
+      "answers": [
+        "The trombone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_27",
+      "title": "What tools' variations include mill, geared head and radial arm?",
+      "answers": [
+        "Drills'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_28",
+      "title": "What is the sum of all the numbers on a roulette wheel?",
+      "answers": [
+        "666"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_29",
+      "title": "What are the \"ten\" referred to when a surfer \"hangs ten\" on a wave?",
+      "answers": [
+        "His ten toes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_30",
+      "title": "\"100% Squeezed Sunshine\" has been which company's ad slogan?",
+      "answers": [
+        "Tropicana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_31",
+      "title": "How many wheels are there on the trailer of an \"18-wheeler\" truck?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_32",
+      "title": "What is used to thicken gazpacho?",
+      "answers": [
+        "Bread"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_33",
+      "title": "Which fruit can restore your health in Donkey Kong 64?",
+      "answers": [
+        "Watermelon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_34",
+      "title": "What is the total weight of a full standard set of billiards balls, including the cue ball?",
+      "answers": [
+        "6 pounds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_35",
+      "title": "A pentagram's four lower points symbolize air, fire, water and which other item?",
+      "answers": [
+        "Earth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_36",
+      "title": "What popular game prompted Valve to begin development of the distribution platform Steam?",
+      "answers": [
+        "Counter-Strike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_37",
+      "title": "What is the telephone area code for the White House?",
+      "answers": [
+        "202"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_38",
+      "title": "What is another term for a badminton bird?",
+      "answers": [
+        "Shuttlecock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_39",
+      "title": "What does the abbreviation BC stand for?",
+      "answers": [
+        "Before Christ"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_40",
+      "title": "What does the BMW logo represent?",
+      "answers": [
+        "A spinning propeller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_41",
+      "title": "Triple Sec is a clear liqueur of what flavor?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_42",
+      "title": "According to the KFC ads, how many herbs and spices are in Colonel's secret recipe?",
+      "answers": [
+        "Eleven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_43",
+      "title": "How many states are named on the US $5 bill?",
+      "answers": [
+        "26"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_44",
+      "title": "What is the ball, or flat plate, that sits on top of a flag pole called?",
+      "answers": [
+        "Truck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_45",
+      "title": "What product was originally called \"Baby Gays\"?",
+      "answers": [
+        "Q-Tips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_46",
+      "title": "Creme de Cacao, cream, and cognac make up which type of cocktail?",
+      "answers": [
+        "Brandy Alexander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_47",
+      "title": "What was the name of the first nuclear-powered submarine?",
+      "answers": [
+        "USS Nautilus SSN-571"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_48",
+      "title": "What feline was the first-ever character balloon in the Macy's Thanksgiving Day Parade?",
+      "answers": [
+        "Felix the Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_49",
+      "title": "What is the most popular day for people to eat ice cream?",
+      "answers": [
+        "Sunday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_73_50",
+      "title": "What L.A. Dodgers pitcher famously skipped his World Series starting assignment in 1965 because it fell on Yom Kippur?",
+      "answers": [
+        "Sandy Koufax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

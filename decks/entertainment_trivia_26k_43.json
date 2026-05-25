@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_43",
+  "name": "Entertainment Trivia 26K 43",
+  "description": "Entertainment 2101 - 2150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_43_01",
+      "title": "What year was the film \"The Fly\", starring Jeff Goldblum, released in theaters?",
+      "answers": [
+        "1986"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_02",
+      "title": "What is the real first name of rock star Prince?",
+      "answers": [
+        "Prince"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_03",
+      "title": "Kelsey Grammar sings and plays the theme song for which TV show?",
+      "answers": [
+        "Frasier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_04",
+      "title": "In which city does the film \"Home Alone\" take place?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_05",
+      "title": "What was the real first name of David Soul's \"Hutch\" on \"Starsky and Hutch\"?",
+      "answers": [
+        "Ken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_06",
+      "title": "What pop star's fans are famed for wearing grass skirts and doing the \"fin dance\" at shows?",
+      "answers": [
+        "Jimmy Buffet's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_07",
+      "title": "What former \"Little House on the Prairie\" star served two consecutive terms as president of the Screen Actors Guild?",
+      "answers": [
+        "Melissa Gilbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_08",
+      "title": "What is the name of Futurama's first episode aired in 1999?",
+      "answers": [
+        "Space Pilot 3000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_09",
+      "title": "Which main character dies in the 2014 movie \"The Amazing Spider-Man 2\"?",
+      "answers": [
+        "Gwen Stacy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_10",
+      "title": "Who did agent John Drake work for in \"Secret Agent\"?",
+      "answers": [
+        "NATO"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_11",
+      "title": "Who did Michael Caine play in the 1965 film \"The Ipcress File\"?",
+      "answers": [
+        "Harry Palmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_12",
+      "title": "Who played Adrian Cronauer in the film \"Good Morning, Vietnam\"?",
+      "answers": [
+        "Robin Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_13",
+      "title": "What TV show featured the fictional \"The Caribou Lodge\" fraternity?",
+      "answers": [
+        "Everybody Loves Raymond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_14",
+      "title": "Which group sang the song \"Original Prankster\"?",
+      "answers": [
+        "The Offspring"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_15",
+      "title": "What was the first American film to show a toilet flushing?",
+      "answers": [
+        "Psycho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_16",
+      "title": "Who killed Count Dooku by cutting off his head?",
+      "answers": [
+        "Anakin Skywalker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_17",
+      "title": "In the film \"Thirteen Days\", who played role of President John F. Kennedy?",
+      "answers": [
+        "Bruce Greenwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_18",
+      "title": "\"V-Bucks\" are the in-game currency for which famous videogame franchise?",
+      "answers": [
+        "\"Fortnite\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_19",
+      "title": "Who was the the reality show \"Survivor\" first winner?",
+      "answers": [
+        "Richard Hatch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_20",
+      "title": "Tamla Records is the former name of which well-established record label?",
+      "answers": [
+        "Motown Records"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_21",
+      "title": "Which TV show used the song \"Bad Reputation\" by Joan Jett as its theme song?",
+      "answers": [
+        "Freaks and Geeks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_22",
+      "title": "What actress earned an Oscar nomination for her first screen appearance in \"On the Waterfront\"?",
+      "answers": [
+        "Eva Marie Saint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_23",
+      "title": "What Norwegian band hit number 1 in the US in 1985 with the song \"Take On Me\"?",
+      "answers": [
+        "a-Ha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_24",
+      "title": "Who played Rachel Green on the TV show \"Friends\"?",
+      "answers": [
+        "Jennifer Aniston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_25",
+      "title": "What was the name of the club in Liverpool made famous for the Beatles early appearances?",
+      "answers": [
+        "The Cavern"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_26",
+      "title": "Who is the only actor/actress to be nominated for an Oscar for their role in the original Star Wars trilogy?",
+      "answers": [
+        "Sir Alec Guinness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_27",
+      "title": "Which Australian played James Bond?",
+      "answers": [
+        "George Lazenby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_28",
+      "title": "The band \"The Who\" were also known as \"The Detours\" and what other name?",
+      "answers": [
+        "The High Numbers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_29",
+      "title": "What comic sang in public for the first time at her Broadway debut as Rizzo in Grease?",
+      "answers": [
+        "Rosie O'Donnell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_30",
+      "title": "Which band member of Red Hot Chili Peppers died of drug overdose?",
+      "answers": [
+        "Hillel Slovak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_31",
+      "title": "What TV show did \"Melrose Place\" spin off from?",
+      "answers": [
+        "Beverly Hills 90210"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_32",
+      "title": "What was the first cooking show on television, hosted by James Beard in 1946, called?",
+      "answers": [
+        "\"I Love to Eat\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_33",
+      "title": "What Merrilee Rush hit was written by Chip Taylor, the brother of actor Jon Voight?",
+      "answers": [
+        "Angel of the Morning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_34",
+      "title": "What novel did Universal Studios pay Michael Crichton $2 million for before it was even published?",
+      "answers": [
+        "Jurassic Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_35",
+      "title": "\"Fear takes flight\" is the tagline for what 2005 film?",
+      "answers": [
+        "\"Red Eye\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_36",
+      "title": "What was Anna Nicole Smith's full birth name?",
+      "answers": [
+        "Vickie Lynn Hogan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_37",
+      "title": "Who is often referred to as the \"Fifth Beatle\"?",
+      "answers": [
+        "Stu Sutcliffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_38",
+      "title": "\"Eyes Wide Shut\" was the last film of which director?",
+      "answers": [
+        "Stanley Kubrick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_39",
+      "title": "What reality show gave America the catchphrase \"That's hot\"?",
+      "answers": [
+        "The Simple Life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_40",
+      "title": "What actress played James Bond's love interest in the 2006 movie \"Casino Royale\"?",
+      "answers": [
+        "Eva Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_41",
+      "title": "In the movie \"Leon\", who plays the role of Mathilda?",
+      "answers": [
+        "Natalie Portman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_42",
+      "title": "What does police chief Martin Brody use to kill the shark at the end of \"Jaws\"?",
+      "answers": [
+        "A scuba tank"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_43",
+      "title": "What city was the setting of the TV show \"Friends\"?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_44",
+      "title": "What is the name of the Warden in Chicago?",
+      "answers": [
+        "Matron 'Mama' Morton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_45",
+      "title": "What was the title of the very first James Bond film adaptation, released in 1962?",
+      "answers": [
+        "Dr. No"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_46",
+      "title": "What were the names of the host and his sidekick on the TV show \"Fantasy Island\"?",
+      "answers": [
+        "Mr. Roarke and Tattoo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_47",
+      "title": "Who wanted you to \"Shake Your Groove Thing\"?",
+      "answers": [
+        "Peaches & Herb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_48",
+      "title": "Which Seinfeld creator plays himself in the TV show \"Curb Your Enthusiasm\"?",
+      "answers": [
+        "Larry David"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_49",
+      "title": "In \"Spirited Away\", what name does Yubaba give to Chihiro?",
+      "answers": [
+        "Sen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_43_50",
+      "title": "Who played Will on the TV show \"Will & Grace\"?",
+      "answers": [
+        "Eric McCormack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

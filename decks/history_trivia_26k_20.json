@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_20",
+  "name": "History Trivia 26K 20",
+  "description": "History 951 - 1000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_20_01",
+      "title": "What plan was developed by General Winfield Scott to defeat the Confederate Army?",
+      "answers": [
+        "Anaconda Plan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_02",
+      "title": "The Suez Crisis of 1956 was precipitated by Egypt's plans to do what?",
+      "answers": [
+        "Nationalize the Suez Canal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_03",
+      "title": "What nation was led by Frederick the Great?",
+      "answers": [
+        "Prussia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_04",
+      "title": "Who was Erik Weisz better known as?",
+      "answers": [
+        "Harry Houdini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_05",
+      "title": "What famous gangster played the banjo in a prison band?",
+      "answers": [
+        "Al Capone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_06",
+      "title": "Who was the only two-term president of the Republic of Texas?",
+      "answers": [
+        "Sam Houston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_07",
+      "title": "When was John F. Kennedy assassinated?",
+      "answers": [
+        "November 22, 1963"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_08",
+      "title": "During what decade did the Charleston become the dance craze?",
+      "answers": [
+        "1920s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_09",
+      "title": "Who did the German Nazi regime replace Santa Claus with?",
+      "answers": [
+        "Odin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_10",
+      "title": "Who won the first American college football game played in 1869?",
+      "answers": [
+        "Rutgers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_11",
+      "title": "Which US Senator was nominated as Hillary Clinton’s vice presidential running mate?",
+      "answers": [
+        "Tim Kaine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_12",
+      "title": "Who was in charge of the German Luftwaffe during World War II?",
+      "answers": [
+        "Hermann Goering"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_13",
+      "title": "Who was shot dead by the FBI after leaving the Biograph Theater on July, 22, 1934?",
+      "answers": [
+        "John Dillinger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_14",
+      "title": "Who was the second president of the United States?",
+      "answers": [
+        "John Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_15",
+      "title": "What country's Meiji Restoration began in 1866?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_16",
+      "title": "What is said to be the first table top game to exist?",
+      "answers": [
+        "Dice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_17",
+      "title": "The Mason-Dixon line ran between Maryland and which other American State?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_18",
+      "title": "Which battle brought the end of Napoleon's European conquests?",
+      "answers": [
+        "Battle of Waterloo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_19",
+      "title": "Gangster Al Capone was eventually arrested and convicted on what charge?",
+      "answers": [
+        "Tax evasion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_20",
+      "title": "What organisation was given the only Nobel peace prize awarded during World War I?",
+      "answers": [
+        "International Red Cross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_21",
+      "title": "What year did Ian Gillian replace Ronnie James Dio in Black Sabbath?",
+      "answers": [
+        "1982"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_22",
+      "title": "In what US state was the outlaw Jesse James born?",
+      "answers": [
+        "Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_23",
+      "title": "Whose concert was the target of a terrorist attack in May, 2017, in Manchester, UK?",
+      "answers": [
+        "Ariana Grande’s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_24",
+      "title": "Which famous entrepreneur is credited with inventing the weekend?",
+      "answers": [
+        "Henry Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_25",
+      "title": "Where did Britain restore parliamentary powers after Sinn Fein agreed to disarm?",
+      "answers": [
+        "Northern Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_26",
+      "title": "What virtue do the red stripes on the American flag stand for?",
+      "answers": [
+        "Valor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_27",
+      "title": "What year marked the appearance of Doc Savage?",
+      "answers": [
+        "1933"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_28",
+      "title": "Who was the first US actress to be featured on a US postage stamp?",
+      "answers": [
+        "Grace Kelly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_29",
+      "title": "How did the Hapsburg family gain control of central Europe?",
+      "answers": [
+        "Arranged marriages"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_30",
+      "title": "In what form was chocolate originally enjoyed?",
+      "answers": [
+        "In a drink"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_31",
+      "title": "In what year did Alexander the Great conquer Egypt?",
+      "answers": [
+        "332 B.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_32",
+      "title": "How did Buffalo Bill die?",
+      "answers": [
+        "Kidney failure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_33",
+      "title": "What was the most important celestial object for the Aztecs?",
+      "answers": [
+        "The sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_34",
+      "title": "A 1634 Spanish decree called what city \"Key to the New World and Rampart of the West Indies\"?",
+      "answers": [
+        "Havana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_35",
+      "title": "In what type of container was Lord Nelson’s body returned to England?",
+      "answers": [
+        "Cask/barrel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_36",
+      "title": "Who was the first man to reach the South Pole?",
+      "answers": [
+        "Roald Amundsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_37",
+      "title": "When did the United States Post Office Department release its first Christmas stamp?",
+      "answers": [
+        "1962"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_38",
+      "title": "What country is East Pakistan now known as?",
+      "answers": [
+        "Bangladesh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_39",
+      "title": "What company printed its first mail-order catalog in 1887?",
+      "answers": [
+        "Sears Roebuck and Co."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_40",
+      "title": "When did Vladimir Lenin serve as the head of the Soviet Union?",
+      "answers": [
+        "1922 to 1924"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_41",
+      "title": "How many witches in Salem were burned at the stake?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_42",
+      "title": "Which US president lived in Monticello?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_43",
+      "title": "What Danish peninsula lent its name to the largest naval battle of World War I?",
+      "answers": [
+        "Jutland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_44",
+      "title": "Who was assassinated at the Lorraine Motel in Memphis,Tennessee?",
+      "answers": [
+        "Martin Luther King Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_45",
+      "title": "Who is said to have been presented to Julius Caesar in a carpet?",
+      "answers": [
+        "Cleopatra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_46",
+      "title": "Which planet was discovered in 1846?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_47",
+      "title": "What year was the battle of Bannockburn fought between the English and the Scots?",
+      "answers": [
+        "1314"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_48",
+      "title": "What famous horse belonged to Napoleon?",
+      "answers": [
+        "Marengo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_49",
+      "title": "What was the name of the place where Washington’s troops encamped in the winter of 1777?",
+      "answers": [
+        "Valley Forge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_20_50",
+      "title": "What queen led a famous revolt against the Roman Empire?",
+      "answers": [
+        "Zenobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

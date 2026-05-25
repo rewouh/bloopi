@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_32",
+  "name": "Science Trivia 26K 32",
+  "description": "Science 1551 - 1600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_32_01",
+      "title": "What bird is referred to as \"windhover\" in some areas?",
+      "answers": [
+        "Kestrel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_02",
+      "title": "What general color does skin turn as a result of jaundice?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_03",
+      "title": "If a chemical is \"anhydrous\", what does it not contain?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_04",
+      "title": "What constellation is Polaris located in?",
+      "answers": [
+        "Ursa Minor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_05",
+      "title": "In the field of medicine, what does MRI stand for?",
+      "answers": [
+        "Magnetic Resonance Imaging"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_06",
+      "title": "What is the formula of sulphuric acid?",
+      "answers": [
+        "H2SO4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_07",
+      "title": "Isolophobia is the fear of what?",
+      "answers": [
+        "Being alone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_08",
+      "title": "What is brass an alloy of?",
+      "answers": [
+        "Copper and zinc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_09",
+      "title": "Which country deliberately introduced myxomatosis to reduce its rabbit population?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_10",
+      "title": "Which element appears tenth on the periodic table?",
+      "answers": [
+        "Neon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_11",
+      "title": "What fruit comes in Beefsteak and Roma variety?",
+      "answers": [
+        "Tomatoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_12",
+      "title": "What is Frank Whittle credited with inventing?",
+      "answers": [
+        "Turbojet engine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_13",
+      "title": "What are the small bones that make up a backbone called?",
+      "answers": [
+        "Vertebrae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_14",
+      "title": "What is it that turns red litmus paper blue?",
+      "answers": [
+        "Basic solution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_15",
+      "title": "The strength of prescription eyeglasses is measured in what unit?",
+      "answers": [
+        "Diopters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_16",
+      "title": "In distance measuring, what does AU stand for?",
+      "answers": [
+        "Astronomical Unit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_17",
+      "title": "What is the name of the ship Darwin sailed on when he made his historic visit to the Galápagos Islands?",
+      "answers": [
+        "H.M.S Beagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_18",
+      "title": "What shape is the body of an Erlenmeyer flask?",
+      "answers": [
+        "Conical"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_19",
+      "title": "Which astronomical body is 3.67 billion miles from the sun?",
+      "answers": [
+        "Pluto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_20",
+      "title": "Which British designer invented the Dual Cyclone bagless vacuum cleaner?",
+      "answers": [
+        "James Dyson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_21",
+      "title": "What is the common name for the star Sirius?",
+      "answers": [
+        "Dog Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_22",
+      "title": "When a human bone breaks only on one side, it is called what?",
+      "answers": [
+        "Greenstick fracture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_23",
+      "title": "How long is the giraffe's tongue?",
+      "answers": [
+        "17 inches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_24",
+      "title": "Which breed did the English call a coach dog",
+      "answers": [
+        "Dalmatian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_25",
+      "title": "What is known as the energy required to start a chemical reaction?",
+      "answers": [
+        "Activation energy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_26",
+      "title": "What name is given to the study of the behavior and flow of air around objects?",
+      "answers": [
+        "Aerodynamics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_27",
+      "title": "Pteromerhanophobia is the fear of what?",
+      "answers": [
+        "Flying"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_28",
+      "title": "On the periodic table, an element’s atomic number represents the number of what in it's atom?",
+      "answers": [
+        "Protons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_29",
+      "title": "The Plato Scale is used specifically in the making of what beverage?",
+      "answers": [
+        "Beer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_30",
+      "title": "Where is the observatory where Percival Lowell first theorized the existence of Pluto?",
+      "answers": [
+        "Flagstaff, Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_31",
+      "title": "What do goldfish lose if kept in dimly lit or running water?",
+      "answers": [
+        "Their color"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_32",
+      "title": "How many daily tides do coastal cities experience?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_33",
+      "title": "What is the fastest ocean fish?",
+      "answers": [
+        "Sailfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_34",
+      "title": "What does an entomologist study?",
+      "answers": [
+        "Insects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_35",
+      "title": "What is the more common name for the Bigelow Expandable Activity Module that was added to the International Space Station in 2016?",
+      "answers": [
+        "BEAM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_36",
+      "title": "Which two gems are different colors of the same mineral?",
+      "answers": [
+        "Ruby and sapphire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_37",
+      "title": "What is the curved line between any two points on a circle?",
+      "answers": [
+        "An arc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_38",
+      "title": "What element makes up about 90% of the known universe?",
+      "answers": [
+        "Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_39",
+      "title": "Which was the first Space-ready Shuttle to be launched?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_40",
+      "title": "What is the technical term for what we commonly refer to as \"laser eye surgery\"?",
+      "answers": [
+        "LASIK"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_41",
+      "title": "Which once-common disease was also known as the \"Great white plague\"?",
+      "answers": [
+        "Tuberculosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_42",
+      "title": "What does a panophobe fear?",
+      "answers": [
+        "Everything"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_43",
+      "title": "What common garden flowers are fed to chickens to give their skin an appealing golden color?",
+      "answers": [
+        "Marigolds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_44",
+      "title": "What did Al-Kindi refute in the 9th century?",
+      "answers": [
+        "Transmutation of metals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_45",
+      "title": "A unit of electromotive force is called what?",
+      "answers": [
+        "Volt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_46",
+      "title": "What part of the brain controls hunger?",
+      "answers": [
+        "Hypothalamus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_47",
+      "title": "What type of information does a DNA molecule carry?",
+      "answers": [
+        "Genetic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_48",
+      "title": "What valuable product is obtained from the sturgeon?",
+      "answers": [
+        "Caviar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_49",
+      "title": "What bird is also known as the South American ostrich?",
+      "answers": [
+        "Rhea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_32_50",
+      "title": "Which planet in our solar system has a moon named Phoebe?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

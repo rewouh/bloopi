@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_03",
+  "name": "Geography Trivia 26K 03",
+  "description": "Geography 101 - 150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_03_01",
+      "title": "Where is Lake Como?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_02",
+      "title": "The Mississippi River flows into what body of water?",
+      "answers": [
+        "Gulf of Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_03",
+      "title": "What river defines the southern border of Oklahoma?",
+      "answers": [
+        "Red River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_04",
+      "title": "Which mountain range separates Spain from France?",
+      "answers": [
+        "Pyrenees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_05",
+      "title": "Through which African countries do the Atlas Mountains stretch?",
+      "answers": [
+        "Morocco, Algeria and Tunisia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_06",
+      "title": "Carson City is the capital of which US state?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_07",
+      "title": "Where was shoe manufacturer Reebok founded?",
+      "answers": [
+        "Bolton, England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_08",
+      "title": "The northernmost point in mainland Australia is on what geographic feature?",
+      "answers": [
+        "Cape York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_09",
+      "title": "What Turkish city has spread to both sides of the Bosphorus Strait?",
+      "answers": [
+        "Istanbul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_10",
+      "title": "Where is the lowest freshwater lake by altitude in the world?",
+      "answers": [
+        "Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_11",
+      "title": "Which country do the Shetland Islands belong to?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_12",
+      "title": "Which hills divide England And Scotland?",
+      "answers": [
+        "Cheviot Hills"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_13",
+      "title": "Which country has the oldest airport in the world that's still in operation?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_14",
+      "title": "Greenland is part of which kingdom?",
+      "answers": [
+        "Kingdom of Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_15",
+      "title": "The \"Atomium\" landmark is located in which country?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_16",
+      "title": "What are the three colors of the flag of the United Kingdom?",
+      "answers": [
+        "Red, White and Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_17",
+      "title": "In the first Punic War, Rome and Carthage fought over possession of what Mediterranean island?",
+      "answers": [
+        "Sicily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_18",
+      "title": "What is the literal translation of Montenegro's name?",
+      "answers": [
+        "Black mountain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_19",
+      "title": "In what US state would you find Fort Ticonderoga?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_20",
+      "title": "Tangier is a coastal town in which Arab country?",
+      "answers": [
+        "Morocco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_21",
+      "title": "How many states does India have?",
+      "answers": [
+        "28"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_22",
+      "title": "Toronto is on the shores of which Great Lake?",
+      "answers": [
+        "Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_23",
+      "title": "What countries share land borders with Cambodia?",
+      "answers": [
+        "Thailand, Laos and Vietnam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_24",
+      "title": "Which country do Belgium, France and Germany border?",
+      "answers": [
+        "Luxembourg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_25",
+      "title": "What country owns Corsica?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_26",
+      "title": "Where is the tallest mosque in the world?",
+      "answers": [
+        "Morocco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_27",
+      "title": "What is the capital of Wales?",
+      "answers": [
+        "Cardiff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_28",
+      "title": "What is the name of the mainland portion of the province originally called Newfoundland?",
+      "answers": [
+        "Labrador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_29",
+      "title": "Which non-coastal western US state has the seagull as its official state bird?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_30",
+      "title": "The Union of the Comoros is located on the northern end of which water channel?",
+      "answers": [
+        "Mozambique Channel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_31",
+      "title": "The town of Whitby in North Yorkshire is situated at the mouth of what river?",
+      "answers": [
+        "River Esk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_32",
+      "title": "The English explorer Admiral John Franklin discovered what in the 1840s?",
+      "answers": [
+        "The Northwest Passage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_33",
+      "title": "What volcanic peak can you see from Naples?",
+      "answers": [
+        "Mount Vesuvius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_34",
+      "title": "What is the capital of Papua New Guinea?",
+      "answers": [
+        "Port Moresby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_35",
+      "title": "Which US state is nicknamed \"Keystone state\"?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_36",
+      "title": "How was the country of Belize known prior to 1973?",
+      "answers": [
+        "British Honduras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_37",
+      "title": "Where is Grant’s Tomb?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_38",
+      "title": "Which South American country has borders only with Brazil and Argentina?",
+      "answers": [
+        "Uruguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_39",
+      "title": "What US state capital is located on the Hudson River?",
+      "answers": [
+        "Albany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_40",
+      "title": "Where is the Trafalgar Cemetery located?",
+      "answers": [
+        "Gibraltar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_41",
+      "title": "The majority of the World's real cinnamon comes from what island nation?",
+      "answers": [
+        "Sri Lanka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_42",
+      "title": "Which precious stones are found in the Namib desert in Africa?",
+      "answers": [
+        "Diamonds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_43",
+      "title": "What major river runs through Cairo?",
+      "answers": [
+        "Nile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_44",
+      "title": "Sahti is a type of beer that is traditionally flavored with juniper and it is most likely found in which country?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_45",
+      "title": "What country is completely enclosed by South Africa?",
+      "answers": [
+        "Lesotho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_46",
+      "title": "In which country would you most likely find the traditional Mariachi bands?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_47",
+      "title": "What US city is home to the Field Museum of Natural History?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_48",
+      "title": "In what country would you find the active volcano \"Lamington\"?",
+      "answers": [
+        "Papua New Guinea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_49",
+      "title": "What country was policed by the Blackshirts for almost 25 years?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_03_50",
+      "title": "Where is the world's longest golf course?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

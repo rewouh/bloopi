@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_19",
+  "name": "General Trivia 26K 19",
+  "description": "General 901 - 950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_19_01",
+      "title": "How many regular-season games did Jaromir Jagr play in his time in the NHL?",
+      "answers": [
+        "1,733 games"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_02",
+      "title": "How long is the minute hand on Big Ben?",
+      "answers": [
+        "14 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_03",
+      "title": "How many ring are there on the olympic flag?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_04",
+      "title": "Which British opera festival was started in 1934?",
+      "answers": [
+        "Glyndebourne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_05",
+      "title": "What is the fear of the color purple called?",
+      "answers": [
+        "Porphyrophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_06",
+      "title": "In the world of business, what does DJIA stand for?",
+      "answers": [
+        "Dow Jones Industrial Average"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_07",
+      "title": "How many ounces of coffee are there in a Starbucks \"tall\" size?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_08",
+      "title": "Which Latin word is used to express the meaning \"word for word\"?",
+      "answers": [
+        "Verbatim"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_09",
+      "title": "Which Christmas decorations did Edward H. Johnson popularize?",
+      "answers": [
+        "Christmas lights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_10",
+      "title": "What nickname was given to pitcher Mordecai Brown?",
+      "answers": [
+        "Mordecai \"Three Finger\" Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_11",
+      "title": "What company makes the \"Playstation\" console?",
+      "answers": [
+        "Sony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_12",
+      "title": "What shape is \"chiocciole\" pasta?",
+      "answers": [
+        "Snail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_13",
+      "title": "What is the usual age for a Jewish boy to celebrate his Bar Mitzvah?",
+      "answers": [
+        "13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_14",
+      "title": "What is converted into alcohol during brewing?",
+      "answers": [
+        "Sugar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_15",
+      "title": "When was Coca-Cola first introduced?",
+      "answers": [
+        "1886"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_16",
+      "title": "What direction should you stir your Christmas pudding according to tradition?",
+      "answers": [
+        "East to West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_17",
+      "title": "What year did professional tennis player, Andre Agassi, retire from tennis in?",
+      "answers": [
+        "2006"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_18",
+      "title": "What type of a tree killed Jim Croce?",
+      "answers": [
+        "Pecan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_19",
+      "title": "What 2 letters in scrabble have the highest point value?",
+      "answers": [
+        "Q and Z"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_20",
+      "title": "What was the original name of Diet Pepsi?",
+      "answers": [
+        "Patio Diet Cola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_21",
+      "title": "What is the basic flavoring of Kahlua?",
+      "answers": [
+        "Coffee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_22",
+      "title": "How many World Professional Snooker championships did Joe Davis win?",
+      "answers": [
+        "15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_23",
+      "title": "What is the name of the Cheeto's Cheetah?",
+      "answers": [
+        "Chester"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_24",
+      "title": "Who was the first Toronto Blue Jay player to lead the American league in home runs?",
+      "answers": [
+        "Jesse Barfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_25",
+      "title": "What is the longest English word with only one vowel?",
+      "answers": [
+        "Strengths"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_26",
+      "title": "What part of a building do trusses support?",
+      "answers": [
+        "Roof"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_27",
+      "title": "What popular spirit can be made from potatoes?",
+      "answers": [
+        "Vodka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_28",
+      "title": "In what city was the Wright brothers' bicycle shop?",
+      "answers": [
+        "Dayton, Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_29",
+      "title": "What does the abbreviation MBA stand for in the MBA master's degree designation?",
+      "answers": [
+        "Master of Business Administration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_30",
+      "title": "What is the historical term, \"Dipsomania\" another name for what modern day condition?",
+      "answers": [
+        "Alcholism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_31",
+      "title": "Intermittent windshield wipers were introduced to the mass market by which large automotive company?",
+      "answers": [
+        "Ford Motor Corporation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_32",
+      "title": "What soft drink, introduced in 1982, was the number three US seller within two years?",
+      "answers": [
+        "Diet Coke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_33",
+      "title": "What candy company makes Goobers and Raisinets?",
+      "answers": [
+        "Nestle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_34",
+      "title": "What year did Brett Favre officially retire from his football career?",
+      "answers": [
+        "2011"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_35",
+      "title": "What newspaper is nicknamed \"the Gray Lady\"?",
+      "answers": [
+        "The New York Times"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_36",
+      "title": "In 2012, students at MIT hacked the lighting system of an entire building to play which game?",
+      "answers": [
+        "Tetris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_37",
+      "title": "The average American will eat 35,000 what in a lifetime?",
+      "answers": [
+        "Cookies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_38",
+      "title": "Angelo Sicilano better know as who?",
+      "answers": [
+        "Charles Atlas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_39",
+      "title": "What Kimberly-Clark product was advertised as having a snug elastic fit and an hourglass shape?",
+      "answers": [
+        "Huggies diapers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_40",
+      "title": "How many notes are there on a standard grand piano?",
+      "answers": [
+        "88"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_41",
+      "title": "Which language has the longest alphabet?",
+      "answers": [
+        "Cambodian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_42",
+      "title": "What is the highest grade for steaks in the U.S?",
+      "answers": [
+        "Prime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_43",
+      "title": "The \"Arenga Micrantha\" species of flowering plants is more commonly known as what?",
+      "answers": [
+        "The Tibetan sugar palm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_44",
+      "title": "Which Thanksgiving favorite did Marcus L. Urann invent?",
+      "answers": [
+        "Cranberry sauce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_45",
+      "title": "What is Santa's name in France?",
+      "answers": [
+        "Pere Noel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_46",
+      "title": "In pool, what color is the eight ball?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_47",
+      "title": "What player received the fastest/earliest red card in World Cup history?",
+      "answers": [
+        "Jose Batista"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_48",
+      "title": "What are the two most common coffee bean types?",
+      "answers": [
+        "Arabica and Robusta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_49",
+      "title": "What company produced the \"Brownie\" camera?",
+      "answers": [
+        "Kodak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_19_50",
+      "title": "\"A whole different animal\" is the slogan for which airline?",
+      "answers": [
+        "Frontier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

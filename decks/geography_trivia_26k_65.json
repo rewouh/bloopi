@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_65",
+  "name": "Geography Trivia 26K 65",
+  "description": "Geography 3201 - 3250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_65_01",
+      "title": "What city in Texas is named for President James K. Polk's Vice-President?",
+      "answers": [
+        "Dallas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_02",
+      "title": "In what country is Mt. Ararat located?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_03",
+      "title": "The Potomac River empties into what bay?",
+      "answers": [
+        "Chesapeake Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_04",
+      "title": "What is Europe's busiest cruise port?",
+      "answers": [
+        "Barcelona, Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_05",
+      "title": "Which city is the capital of the Italian region of Tuscany?",
+      "answers": [
+        "Florence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_06",
+      "title": "What Asian city has an egg-shaped Space Museum?",
+      "answers": [
+        "Hong Kong"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_07",
+      "title": "What is the name of the lowest freshwater lake, by altitude, in the world?",
+      "answers": [
+        "Lake Tiberias"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_08",
+      "title": "The city known as Hot Coffee is located in what US state?",
+      "answers": [
+        "Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_09",
+      "title": "Which ocean is The Gulf Stream in?",
+      "answers": [
+        "The Atlantic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_10",
+      "title": "Which French landmark is known for its red windmill?",
+      "answers": [
+        "Moulin Rouge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_11",
+      "title": "On which continent did the Boer War take place?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_12",
+      "title": "In what Australian state would you find Whyalla?",
+      "answers": [
+        "South Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_13",
+      "title": "What city named its airport after Charles de Gaulle?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_14",
+      "title": "In what time zone is the state of Nevada located?",
+      "answers": [
+        "Pacific Time Zone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_15",
+      "title": "On which of the Canary Island would you find the holiday destination of Corralejo?",
+      "answers": [
+        "Fuerteventura"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_16",
+      "title": "Which mountain range is home to the snow leopard?",
+      "answers": [
+        "Himalayas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_17",
+      "title": "In what city would you find Tiergarten?",
+      "answers": [
+        "Berlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_18",
+      "title": "Which country borders Macedonia to the south?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_19",
+      "title": "In what country would you find the active volcano \"Nyiragongo\"?",
+      "answers": [
+        "The Congo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_20",
+      "title": "What ocean is Christmas Island located in?",
+      "answers": [
+        "Indian Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_21",
+      "title": "Wellington is the capital of what island nation?",
+      "answers": [
+        "New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_22",
+      "title": "Port of Spain is the capital of what country?",
+      "answers": [
+        "Trinidad and Tobago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_23",
+      "title": "What country has the most coastline?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_24",
+      "title": "Bengui is the capital of which land-locked country?",
+      "answers": [
+        "Central African Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_25",
+      "title": "What was New York's Bedloe's Island renamed in 1956?",
+      "answers": [
+        "Liberty Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_26",
+      "title": "What sea borders China to the east and north, and South Korea to the west?",
+      "answers": [
+        "Yellow Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_27",
+      "title": "The Galapagos Islands are part of which country?",
+      "answers": [
+        "Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_28",
+      "title": "How many islands are in the so-called Thousand Islands area of the Saint Lawrence River?",
+      "answers": [
+        "1,864"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_29",
+      "title": "The Albemarle Sound is located in what body of water?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_30",
+      "title": "What US city is named after Saint Francis of Assisi?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_31",
+      "title": "Which city is the only one located on two continents?",
+      "answers": [
+        "Istanbul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_32",
+      "title": "Where is King Tut’s tomb?",
+      "answers": [
+        "Valley of the Kings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_33",
+      "title": "In which country did the Mambo dance originate?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_34",
+      "title": "What London square is home to Nelson's Column?",
+      "answers": [
+        "Trafalgar Square"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_35",
+      "title": "What time zone is the North Pole in?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_36",
+      "title": "Which US state is known as the \"Breadbasket of America\"?",
+      "answers": [
+        "Kansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_37",
+      "title": "What city is graced with Michelangelo's David?",
+      "answers": [
+        "Florence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_38",
+      "title": "What nation's legislative body is named the Diet?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_39",
+      "title": "In what country was the Terracotta Army sealed underground?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_40",
+      "title": "Which US state is nicknamed the \"Yellowhammer State\"?",
+      "answers": [
+        "Alabama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_41",
+      "title": "What South American country is home to Atacama Desert?",
+      "answers": [
+        "Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_42",
+      "title": "Which continent would you find the \"Strait of Magellan\" in?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_43",
+      "title": "In what country would you find the mouths of the Amazon river?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_44",
+      "title": "What are the three official languages of Luxembourg?",
+      "answers": [
+        "French, German, and Luxembourgish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_45",
+      "title": "The Shenandoah Valley is located in which eastern US state?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_46",
+      "title": "What river acts as a natural boundary between the counties of Norfolk and Suffolk?",
+      "answers": [
+        "River Waveney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_47",
+      "title": "Which is the smallest South American country",
+      "answers": [
+        "Suriname"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_48",
+      "title": "What is the second largest country in the world?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_49",
+      "title": "Brisbane is the state capital of which Australian state?",
+      "answers": [
+        "Queensland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_65_50",
+      "title": "Prague is the capital of which country?",
+      "answers": [
+        "Czech Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

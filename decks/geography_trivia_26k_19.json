@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_19",
+  "name": "Geography Trivia 26K 19",
+  "description": "Geography 901 - 950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_19_01",
+      "title": "What is the coldest sea on Earth?",
+      "answers": [
+        "White Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_02",
+      "title": "What island is home to nearly all the lemurs?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_03",
+      "title": "Where can you find \"Aphrodite's Rock\"?",
+      "answers": [
+        "Cyprus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_04",
+      "title": "What sea is located directly north of Poland?",
+      "answers": [
+        "Baltic Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_05",
+      "title": "What is the official state fruit of New Hampshire?",
+      "answers": [
+        "Pumpkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_06",
+      "title": "Which Toronto street was once thought to be the world’s longest street?",
+      "answers": [
+        "Yonge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_07",
+      "title": "What river was dammed to create Lake Chickamauga?",
+      "answers": [
+        "Tennessee River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_08",
+      "title": "Columbia is the capital of which US state?",
+      "answers": [
+        "South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_09",
+      "title": "Approximately how long is the Congo River?",
+      "answers": [
+        "2,900 miles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_10",
+      "title": "Nuku'alofa is the capital of which country?",
+      "answers": [
+        "Tonga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_11",
+      "title": "What animal does California have on its state flag?",
+      "answers": [
+        "Bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_12",
+      "title": "Where is the world's largest tropical orchid garden?",
+      "answers": [
+        "Singapore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_13",
+      "title": "Liege municipality is located in which country?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_14",
+      "title": "What is the state capital of New York?",
+      "answers": [
+        "Albany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_15",
+      "title": "What is the capital of Azerbaijan?",
+      "answers": [
+        "Baku"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_16",
+      "title": "What is the capital of the state of Texas?",
+      "answers": [
+        "Austin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_17",
+      "title": "What are the only two South American countries that do not border Brazil?",
+      "answers": [
+        "Chile and Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_18",
+      "title": "On which harbour is the Sydney Opera House located?",
+      "answers": [
+        "Sydney Harbour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_19",
+      "title": "What is the easternmost state in the contiguous US?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_20",
+      "title": "The Bermuda Triangle is located in what ocean?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_21",
+      "title": "On which US coast can Redwood trees be found?",
+      "answers": [
+        "West coast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_22",
+      "title": "What is the World's 9th largest country by land area?",
+      "answers": [
+        "Kazakhstan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_23",
+      "title": "What year did the Seychelles gain their independence from the United Kingdom?",
+      "answers": [
+        "1976"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_24",
+      "title": "What country comprises most of the Jutland peninsula?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_25",
+      "title": "The city of New Orleans is on which river?",
+      "answers": [
+        "Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_26",
+      "title": "What is the most earthquake-prone state?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_27",
+      "title": "What U.S. state has the longest freshwater shoreline?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_28",
+      "title": "What is the only Central American country with English as an official language?",
+      "answers": [
+        "Belize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_29",
+      "title": "In which continent would you find the Republic of Guinea-Bissau?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_30",
+      "title": "What river flows into the world's largest waterfall?",
+      "answers": [
+        "Zambezi River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_31",
+      "title": "What structure links Detroit, Michigan, and Windsor, Ontario?",
+      "answers": [
+        "Ambassador Bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_32",
+      "title": "What area of the Atlantic is said to be responsible for the disappearance of ships and aircraft?",
+      "answers": [
+        "Bermuda Triangle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_33",
+      "title": "What do Spaniards call a bullfight?",
+      "answers": [
+        "Corrida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_34",
+      "title": "What is the largest city in India?",
+      "answers": [
+        "Mumbai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_35",
+      "title": "Which area of Romania is known as the home of Dracula?",
+      "answers": [
+        "Transylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_36",
+      "title": "Which eastern US state is home to the Kittatinny Mountains?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_37",
+      "title": "How many US states were there in 1900?",
+      "answers": [
+        "45"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_38",
+      "title": "What is the street address of the White House?",
+      "answers": [
+        "1600 Pennsylvania Avenue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_39",
+      "title": "What capital city is built around the famous Plaza Mayor and Puerta del Sol?",
+      "answers": [
+        "Madrid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_40",
+      "title": "What did William H. Seward buy from Russia in 1867?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_41",
+      "title": "What Georgia city was Jimmy Carter's hometown?",
+      "answers": [
+        "Plains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_42",
+      "title": "What is the capital of Monaco?",
+      "answers": [
+        "Monaco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_43",
+      "title": "Tokyo is located on which main island?",
+      "answers": [
+        "Honshu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_44",
+      "title": "In which European city are the headquarters of OPEC?",
+      "answers": [
+        "Vienna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_45",
+      "title": "What US city is home to the annual \"All-American Soap Box Derby\"?",
+      "answers": [
+        "Akron, Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_46",
+      "title": "What is the capital of Slovenia?",
+      "answers": [
+        "Ljubljana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_47",
+      "title": "Which ocean does Mozambique has water access to?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_48",
+      "title": "Times Square is located in what US city?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_49",
+      "title": "Which is the longest river in Australia?",
+      "answers": [
+        "Murray River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_19_50",
+      "title": "What is the capital of Louisiana?",
+      "answers": [
+        "Baton Rouge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

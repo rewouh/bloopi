@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_41",
+  "name": "Science Trivia 26K 41",
+  "description": "Science 2001 - 2050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_41_01",
+      "title": "What fruit has a regeneration rate?",
+      "answers": [
+        "The apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_02",
+      "title": "How many feet is a fathom?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_03",
+      "title": "What was the name of the last known Pinta Island tortoise?",
+      "answers": [
+        "Lonesome George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_04",
+      "title": "What is the name for a young deer?",
+      "answers": [
+        "Fawn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_05",
+      "title": "Eastern Diamondback, Massasauga and Timber are species of what animal?",
+      "answers": [
+        "Rattlesnake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_06",
+      "title": "What are the seasonal rains that occur in southeast Asia called?",
+      "answers": [
+        "Monsoons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_07",
+      "title": "What does the equation E=mc2 represent?",
+      "answers": [
+        "Mass-energy equivalency"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_08",
+      "title": "What name is given to a main downward-growing root of a plant?",
+      "answers": [
+        "Taproot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_09",
+      "title": "What is the name for a virus that infects a bacteria?",
+      "answers": [
+        "Bacteriophage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_10",
+      "title": "What is it that turns blue litmus paper red?",
+      "answers": [
+        "Acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_11",
+      "title": "During what era did mammals rule?",
+      "answers": [
+        "Cenozoic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_12",
+      "title": "Which planet is the hottest in our Solar System?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_13",
+      "title": "In the human body, what mineral is necessary in the production of hemoglobin?",
+      "answers": [
+        "Iron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_14",
+      "title": "What is the common name for the fluid expelled from the body by the process of lacrimation?",
+      "answers": [
+        "Tears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_15",
+      "title": "Karl Landsteiner won the \"Nobel Prize Physiology or Medicine\" in 1930 for his discovery of what?",
+      "answers": [
+        "Blood groups"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_16",
+      "title": "What is the smallest marine mammal?",
+      "answers": [
+        "The Sea otter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_17",
+      "title": "When it comes to dog breeds, a \"dorgi\" is a cross between a corgi and a what?",
+      "answers": [
+        "Dachshund"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_18",
+      "title": "What is the chemical element Azote now referred to as?",
+      "answers": [
+        "Nitrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_19",
+      "title": "A buck, or male deer, is also called a what?",
+      "answers": [
+        "Stag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_20",
+      "title": "What children's toy started out as wallpaper cleaner?",
+      "answers": [
+        "Play-Doh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_21",
+      "title": "What name is given to animals which only eat plants?",
+      "answers": [
+        "Herbivores"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_22",
+      "title": "What is a group of locusts called?",
+      "answers": [
+        "Plague"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_23",
+      "title": "Koinoniphobia is the fear of what?",
+      "answers": [
+        "Rooms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_24",
+      "title": "In what organ of the human body would you find the sclera?",
+      "answers": [
+        "The eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_25",
+      "title": "What is an external agent that alters foetal development is called?",
+      "answers": [
+        "Teratogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_26",
+      "title": "Who formulated the theory of evolution in his book, \"The Origin of Species\"?",
+      "answers": [
+        "Charles Darwin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_27",
+      "title": "What are the three main fossil fuels?",
+      "answers": [
+        "Coal, oil, natural gas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_28",
+      "title": "In radio, what does AM stand for?",
+      "answers": [
+        "Amplitude Modulation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_29",
+      "title": "What plant takes its name for the Chinese words for \"man root\"?",
+      "answers": [
+        "Ginseng"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_30",
+      "title": "What fluid is stored in the gallbladder?",
+      "answers": [
+        "Bile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_31",
+      "title": "Who performed the first human heart transplant?",
+      "answers": [
+        "Dr. Chris Barnard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_32",
+      "title": "What is kept in a ship's binnacle?",
+      "answers": [
+        "Compass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_33",
+      "title": "What is the middle part of an atom called?",
+      "answers": [
+        "Nucleus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_34",
+      "title": "What element is given the symbol \"I\"?",
+      "answers": [
+        "Iodine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_35",
+      "title": "What is the anti-matter equivalent of an electron?",
+      "answers": [
+        "Positron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_36",
+      "title": "What abbreviation comes from libra, meaning pound in Latin?",
+      "answers": [
+        "lb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_37",
+      "title": "If one goes into space, what impact will it have on one's height?",
+      "answers": [
+        "It will increase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_38",
+      "title": "What is the fear of flying called?",
+      "answers": [
+        "Aviatophobia or pteromerhanophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_39",
+      "title": "What is the \"Davy Lamp\" commonly referred to as?",
+      "answers": [
+        "Miner's lamp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_40",
+      "title": "What's the name for the chemical and electrical connections formed at the gaps between nerve cells?",
+      "answers": [
+        "Synapses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_41",
+      "title": "Cyberphobia is the fear of what?",
+      "answers": [
+        "Computers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_42",
+      "title": "What name is given to the broad gap between the Saturn's A ring and B ring?",
+      "answers": [
+        "The Cassini Division"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_43",
+      "title": "What part of the eye changes shape in LASIK surgery?",
+      "answers": [
+        "The cornea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_44",
+      "title": "How many chromosomes does the average human have in each cell?",
+      "answers": [
+        "46"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_45",
+      "title": "Which acid is the main gastric acid present in the human stomach?",
+      "answers": [
+        "Hydrochloric Acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_46",
+      "title": "What is the name of an eagle's nest?",
+      "answers": [
+        "An Eyrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_47",
+      "title": "What was the main method of food preservation used by the Incas to store their potatoes?",
+      "answers": [
+        "Freeze drying"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_48",
+      "title": "The gopher is a member of what order of mammals?",
+      "answers": [
+        "Rodents"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_49",
+      "title": "Which creatures produce gossamer?",
+      "answers": [
+        "Spiders"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_41_50",
+      "title": "Some animals spend the winter in a sleep-like state known as what?",
+      "answers": [
+        "Hibernation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

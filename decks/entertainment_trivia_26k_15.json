@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_15",
+  "name": "Entertainment Trivia 26K 15",
+  "description": "Entertainment 701 - 750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_15_01",
+      "title": "Mr. Giles French was a character on which US TV show in the late 1960's?",
+      "answers": [
+        "Family Affair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_02",
+      "title": "What synthpop instrumental was the biggest hit for \"Hot Butter\"?",
+      "answers": [
+        "Popcorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_03",
+      "title": "What comedian had a cable special in 1999 titled \"Bigger and Blacker\"?",
+      "answers": [
+        "Chris Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_04",
+      "title": "Allan \"Rocky\" Lane provided the voice of what 1960's sitcom title character?",
+      "answers": [
+        "Mister Ed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_05",
+      "title": "Diane Belmont was the stage name of which famous actress?",
+      "answers": [
+        "Lucille Ball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_06",
+      "title": "Who was the winner of the first season of the reality TV show \"Survivor\"?",
+      "answers": [
+        "Richard Hatch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_07",
+      "title": "What was rapper Eminem's first album titled?",
+      "answers": [
+        "Infinite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_08",
+      "title": "What is the astronomical event the astronauts travel through in the film \"Interstellar\"?",
+      "answers": [
+        "A wormhole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_09",
+      "title": "What year was Freddie Mercury born?",
+      "answers": [
+        "1946"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_10",
+      "title": "Who directed the 1941 movie \"The Lady Eve\"?",
+      "answers": [
+        "Preston Sturges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_11",
+      "title": "Which popular musician did artist Feist, share a Queen West apartment with in the late 1990s?",
+      "answers": [
+        "Peaches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_12",
+      "title": "What TV family had a road manager named Reuben Kincaid?",
+      "answers": [
+        "The Partridge Family"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_13",
+      "title": "What is Prince's surname?",
+      "answers": [
+        "Nelson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_14",
+      "title": "Based on total pop chart success, what woman was named \"Artist of the Decade\" for the 1990's by Billboard magazine?",
+      "answers": [
+        "Mariah Carey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_15",
+      "title": "What sci-fi movie featured John Travolta and Forest Whitaker?",
+      "answers": [
+        "Battlefield Earth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_16",
+      "title": "What was the name of cat who could drive a car on \"Saturday Night Live\"?",
+      "answers": [
+        "Toonces"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_17",
+      "title": "What company designed the New York Yankees logo?",
+      "answers": [
+        "Tiffany & Co."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_18",
+      "title": "Who was the first person to receive an \"Honorary Award\" at the Academy Awards?",
+      "answers": [
+        "Charlie Chaplin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_19",
+      "title": "What classical composer was the subject of a #1 hit song in 1986 by Falco?",
+      "answers": [
+        "Mozart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_20",
+      "title": "How many years was Robinson Crusoe marooned on his desert island?",
+      "answers": [
+        "28"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_21",
+      "title": "Who had a No. 1 R&B hit in US 1971 with \"Bridge over Troubled Water\"?",
+      "answers": [
+        "Aretha Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_22",
+      "title": "What show featured the five orphaned Salinger siblings?",
+      "answers": [
+        "Party of Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_23",
+      "title": "Mila Kunis played what role on \"That '70s Show\"?",
+      "answers": [
+        "Jackie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_24",
+      "title": "Who recorded the song \"I Can't Explain\" in 1964?",
+      "answers": [
+        "The Who"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_25",
+      "title": "For which film did Anthony Quinn win an Oscar for Best Suporting Actor in 1957?",
+      "answers": [
+        "Lust for Life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_26",
+      "title": "What title was the movie \"Evil Dead III\" released under?",
+      "answers": [
+        "Army of Darkness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_27",
+      "title": "What famous rapper's real name is Calvin Broadus?",
+      "answers": [
+        "Snoop Dogg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_28",
+      "title": "What are the names of the brothers in the band \"Oasis\"?",
+      "answers": [
+        "Liam and Noel Gallagher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_29",
+      "title": "What was the name of Tom Hanks' character in the movie \"Cast Away\"?",
+      "answers": [
+        "Chuck Noland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_30",
+      "title": "What actress played Jane in the 2005 remake of the movie \"Fun with Dick and Jane\"?",
+      "answers": [
+        "Tea Leoni"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_31",
+      "title": "What Norwegian pop band included Morten, Pal & Mags?",
+      "answers": [
+        "A Ha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_32",
+      "title": "What is Forrest Gump's IQ?",
+      "answers": [
+        "75"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_33",
+      "title": "What movie did the villain Joan Crawford appear in?",
+      "answers": [
+        "Mommie Dearest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_34",
+      "title": "Who directed the 1968 \"Planet of the Apes\" movie?",
+      "answers": [
+        "Franklin J. Schaffner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_35",
+      "title": "Which movie studio has a roaring lion as its logo?",
+      "answers": [
+        "MGM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_36",
+      "title": "How many kids does Uncle Buck take care of in the movie of the same name?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_37",
+      "title": "What was the first TV soap opera to regularly broadcast hour-long shows?",
+      "answers": [
+        "Another World"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_38",
+      "title": "What actor plays the role of Cole in the 1990 movie \"Days of Thunder\"?",
+      "answers": [
+        "Tom Cruise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_39",
+      "title": "What common household object appears in the opening scene of the film \"The Sixth Sense\"?",
+      "answers": [
+        "A light bulb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_40",
+      "title": "Who sang the song \"Californication\"?",
+      "answers": [
+        "Red Hot Chilli Peppers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_41",
+      "title": "What is the name of the smelly green ghost in \"Ghostbusters\"?",
+      "answers": [
+        "Slimer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_42",
+      "title": "What famous entertainer's tombstone reads, \"Everybody Loves Somebody Sometime\"?",
+      "answers": [
+        "Dean Martin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_43",
+      "title": "Where are all the adults in \"Children of the Corn\"?",
+      "answers": [
+        "In the cornfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_44",
+      "title": "Which 1947 film, starring Cary Grant and Loretta Young was directed by Henry Koster?",
+      "answers": [
+        "The Bishop's Wife"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_45",
+      "title": "Who first recorded the song \"Ain't That A Shame\"?",
+      "answers": [
+        "Fats Domino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_46",
+      "title": "What artist received the most Grammy Awards in 2016?",
+      "answers": [
+        "Kendrick Lamar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_47",
+      "title": "Who created the TV show \"SpongeBob SquarePants\"?",
+      "answers": [
+        "Stephen Hillenburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_48",
+      "title": "The bands Whitesnake and Rainbow were both splinter groups from what British rock band?",
+      "answers": [
+        "Deep Purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_49",
+      "title": "Where did we meet Newkirk, Carter, LeBeau and Kinchlow?",
+      "answers": [
+        "Hogan's Heroes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_15_50",
+      "title": "What wrestler supplied the torso for the Scorpion King in the movie \"The Mummy Returns\"?",
+      "answers": [
+        "The Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

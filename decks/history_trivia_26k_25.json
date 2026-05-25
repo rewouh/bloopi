@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_25",
+  "name": "History Trivia 26K 25",
+  "description": "History 1201 - 1250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_25_01",
+      "title": "What team won the 100th anniversary Stanley Cup?",
+      "answers": [
+        "The Montreal Canadiens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_02",
+      "title": "Vienna's famous Schönbrunn Palace is home to the world's oldest what?",
+      "answers": [
+        "Zoo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_03",
+      "title": "In which country did Buddhism originate?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_04",
+      "title": "The middle finger of which famous scientist is on display in a museum?",
+      "answers": [
+        "Galileo's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_05",
+      "title": "When was the first time that the city of Chicago dyed the famous Chicago River green in commemoration of St. Patrick's Day?",
+      "answers": [
+        "1962"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_06",
+      "title": "What was known as the Lady of the Lamp?",
+      "answers": [
+        "Florence Nightingale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_07",
+      "title": "Who was known as the Virgin Queen?",
+      "answers": [
+        "Elizabeth I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_08",
+      "title": "Who was also known as \"The Scourge of God\"?",
+      "answers": [
+        "Attila the Hun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_09",
+      "title": "What was the nickname of American frontiersman Christopher Houston Carson?",
+      "answers": [
+        "Kit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_10",
+      "title": "In which present-day country is the site of the battle of Waterloo?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_11",
+      "title": "What US city was destroyed by an earthquake in 1906?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_12",
+      "title": "When was the steam turbine invented?",
+      "answers": [
+        "First century A.D."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_13",
+      "title": "What song was originally called \"Defense of Fort M'Henry\"?",
+      "answers": [
+        "The Star-Spangled Banner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_14",
+      "title": "In 1980, what executed man was added to the Anglican Church's calendar of saint?",
+      "answers": [
+        "Sir Thomas More"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_15",
+      "title": "Who uttered the line \"Who am I? Why am I here?\" during a debate?",
+      "answers": [
+        "James Stockdale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_16",
+      "title": "Who was the top Australian flying ace in World War I?",
+      "answers": [
+        "Robert Little"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_17",
+      "title": "Which islands were the subject of a war between Argentina and United Kingdom in the 1980s?",
+      "answers": [
+        "Falklands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_18",
+      "title": "Who declared: \"I have a dream\"?",
+      "answers": [
+        "Martin Luther King Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_19",
+      "title": "Who rode Shergar to victory in the Epsom Derby?",
+      "answers": [
+        "Walter Swinburn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_20",
+      "title": "Prior to becoming president, George W. Bush was the governor of which US state?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_21",
+      "title": "What was the pennant number of HMS Hood?",
+      "answers": [
+        "51"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_22",
+      "title": "Who was nominated as the Democratic Party's presidential candidate for the 1968 US election?",
+      "answers": [
+        "Hubert Humphrey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_23",
+      "title": "Whittaker Chambers hid Alger Hiss' purloined State Department documents in a hollowed-out what?",
+      "answers": [
+        "Pumpkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_24",
+      "title": "The Bolshevik Revolution is sometimes known by the name of what month in which it began?",
+      "answers": [
+        "October"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_25",
+      "title": "Which US fast food burger chain celebrated its 86th birthday in 2007?",
+      "answers": [
+        "Whte Castle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_26",
+      "title": "Who did Arthur Bremer try to assassinate in 1972?",
+      "answers": [
+        "George Wallace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_27",
+      "title": "Which staircase in the Leaning Tower of Pisa has fewer steps?",
+      "answers": [
+        "The north-facing one"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_28",
+      "title": "Which country was the first to enact daylight savings time?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_29",
+      "title": "Which Aegean Island's volcanic eruption may have possibly produced the Atlantis legend?",
+      "answers": [
+        "Thera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_30",
+      "title": "Which US president ordered the first troops into Vietnam, starting the ground war for the US?",
+      "answers": [
+        "Lyndon B. Johnson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_31",
+      "title": "In 1919, 21 people were killed in Boston due to a flood of what?",
+      "answers": [
+        "Molasses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_32",
+      "title": "What was the name of Adolf Hitler's political party (abbr.)?",
+      "answers": [
+        "NSDAP"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_33",
+      "title": "The \"Indus Valley Civilization\" is also known by what other name?",
+      "answers": [
+        "Harappan Civilization"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_34",
+      "title": "What job did Queen Elizabeth II have during World War II?",
+      "answers": [
+        "Auto mechanic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_35",
+      "title": "What is the official name of the U.S. holiday celebrated on the third Monday in February?",
+      "answers": [
+        "Washington's Birthday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_36",
+      "title": "Who added \"under God\" to the Pledge of Allegiance?",
+      "answers": [
+        "President Eisenhower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_37",
+      "title": "In 1906, who became the first American to win the Nobel Peace Prize?",
+      "answers": [
+        "Teddy Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_38",
+      "title": "What year marked the end of production of the first generation Volkswagen Golf?",
+      "answers": [
+        "1983"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_39",
+      "title": "What was former US President William Taft’s pet cow named?",
+      "answers": [
+        "Pauline"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_40",
+      "title": "Former Yugoslavian leader Josip Broz was also known by what other name?",
+      "answers": [
+        "Tito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_41",
+      "title": "The \"girl in the polka dot dress\" was an eye witness in whose assassination?",
+      "answers": [
+        "Robert F. Kennedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_42",
+      "title": "What year did Hawaii become a US state?",
+      "answers": [
+        "1959"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_43",
+      "title": "Who founded the \"American Red Cross\"?",
+      "answers": [
+        "Clara Barton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_44",
+      "title": "What is the museum in Plymouth, Massachusetts that replicates the original settlement of the Plymouth Colony?",
+      "answers": [
+        "Plimouth Plantation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_45",
+      "title": "What year was the state of Israel declared?",
+      "answers": [
+        "1948"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_46",
+      "title": "What year did Wagner compose \"Tannhauser\"?",
+      "answers": [
+        "1845"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_47",
+      "title": "The first Olympic Games were held in whose honor?",
+      "answers": [
+        "Zeus'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_48",
+      "title": "What model of automatic rifle was the most commonly used by American soldiers in South Vietnam?",
+      "answers": [
+        "M-16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_49",
+      "title": "The French king Louis V, who died in 987, was the last French king of what dynasty?",
+      "answers": [
+        "Carolingian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_25_50",
+      "title": "Aristotle tutored which person who would go on to conquer most of the then-known world?",
+      "answers": [
+        "Alexander the Great"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

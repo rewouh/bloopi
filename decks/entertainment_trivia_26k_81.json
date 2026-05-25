@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_81",
+  "name": "Entertainment Trivia 26K 81",
+  "description": "Entertainment 4001 - 4050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_81_01",
+      "title": "In the TV show \"The Simpsons\", what is Apu's last name?",
+      "answers": [
+        "Nahasapeemapetilon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_02",
+      "title": "What is the setting for the film \"It's a Wonderful Life\"?",
+      "answers": [
+        "Bedford Falls, New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_03",
+      "title": "What song earned Natalie Cole and Nat King Cole a Grammy Award in 1991?",
+      "answers": [
+        "Unforgettable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_04",
+      "title": "In the 1979 \"Alien\", the blue laser lights used in the alien ship's egg chamber were borrowed from what band?",
+      "answers": [
+        "The Who"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_05",
+      "title": "Who had a 1999 hit single with \"I Try\"?",
+      "answers": [
+        "Macy Gray"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_06",
+      "title": "Which city was the setting for the TV show \"Room 222\"?",
+      "answers": [
+        "Los Angeles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_07",
+      "title": "Who wrote the novel on which the movie, by the same name, \"Jurassic Park\" is based on?",
+      "answers": [
+        "Michael Crichton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_08",
+      "title": "Who won a Grammy Award for her song \"Killing Me Softly\"?",
+      "answers": [
+        "Roberta Flack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_09",
+      "title": "What famous rapper's real name is Dennis Coles?",
+      "answers": [
+        "Ghostface Killah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_10",
+      "title": "On what TV show did Gene Gene the Dancing Machine perform?",
+      "answers": [
+        "The Gong Show"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_11",
+      "title": "What screen legend made his final appearance in the movie \"The Shootist\"?",
+      "answers": [
+        "John Wayne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_12",
+      "title": "What is the fairy tale equivalent of Augustus in the show \"Once Upon A Time\"?",
+      "answers": [
+        "Pinocchio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_13",
+      "title": "How did actor Humphrey Bogart die?",
+      "answers": [
+        "Esophageal cancer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_14",
+      "title": "What year was the setting for the movie \"Animal House\"?",
+      "answers": [
+        "1962"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_15",
+      "title": "Which very successful pop duo consist of Roland Orzabal and Curt Smith?",
+      "answers": [
+        "Tears for Fears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_16",
+      "title": "What nationality are the members of the 80's pop band \"A-ha\"?",
+      "answers": [
+        "Norwegian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_17",
+      "title": "Which former Golden Girl reads an audio version of one of Peter's erotic novels in \"Family Guy\"?",
+      "answers": [
+        "Betty White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_18",
+      "title": "What is the name of the Air company in the movie \"The Lorax\"?",
+      "answers": [
+        "O'Hare Air"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_19",
+      "title": "In what Disney movie would you find the character of Briar Rose?",
+      "answers": [
+        "\"Sleeping Beauty\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_20",
+      "title": "Who stars as Clarence in True Romance?",
+      "answers": [
+        "Christian Slater"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_21",
+      "title": "What weekly TV show was the first one to be assigned a TV-MA rating in the US?",
+      "answers": [
+        "South Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_22",
+      "title": "In \"Game of Thrones\", what is the language of the White Walkers?",
+      "answers": [
+        "Skroth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_23",
+      "title": "When Harrison Ford was the Fugitive who was the lawman?",
+      "answers": [
+        "Tommy Lee Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_24",
+      "title": "In what 1992 movie does Jennifer Jason Leigh play a dangerous \"roommate from Hell\"?",
+      "answers": [
+        "Single White Female"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_25",
+      "title": "Glen Frey and Don Henley were members of which band?",
+      "answers": [
+        "Eagles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_26",
+      "title": "Which UK band had a 1974 hit with \"Billy Don't Be A Hero\"?",
+      "answers": [
+        "Paper Lace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_27",
+      "title": "Which song became synonymous with \"The Bridge on the River Kwai\"?",
+      "answers": [
+        "The Colonel Bogey March"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_28",
+      "title": "Which town do Fred, Wilma, Barney, and Betty live in?",
+      "answers": [
+        "Bedrock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_29",
+      "title": "What Kubrick film feature gangs of punks loose in future England?",
+      "answers": [
+        "A Clockwork Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_30",
+      "title": "Which Disney's cartoon character's love interest is named Captain Li?",
+      "answers": [
+        "Mulan's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_31",
+      "title": "\"2001: A Space Odyssey\" features which artificially-intelligent computer?",
+      "answers": [
+        "HAL 9000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_32",
+      "title": "Which actor played the role of Dawson on the TV show \"Dawson's Creek\"?",
+      "answers": [
+        "James Van Der Beek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_33",
+      "title": "Who plays Auntie Wainwright in the TV show \"Last Of The Summer Wine\"?",
+      "answers": [
+        "Jean Alexander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_34",
+      "title": "In which movie did Eddie Murphy play a character named Prince Akeem?",
+      "answers": [
+        "Coming to America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_35",
+      "title": "Who is the eleventh member of the group LOONA to debut",
+      "answers": [
+        "Go Won"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_36",
+      "title": "Whose self-titled debut solo album spent the first of three weeks at #1 on Billboard‘s Country album chart?",
+      "answers": [
+        "Wynonna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_37",
+      "title": "Which artist recorded the 1982 hit song \"Bad to the Bone\"?",
+      "answers": [
+        "George Thorogood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_38",
+      "title": "In the TV show \"The Simpsons\", what was the name of Barney's snowplowing business?",
+      "answers": [
+        "Plow King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_39",
+      "title": "What actor played the role of Captain James T. Kirk in the original Star Trek series?",
+      "answers": [
+        "William Shatner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_40",
+      "title": "What popular one-named musician's last name is Armstrong?",
+      "answers": [
+        "Dido"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_41",
+      "title": "The musical score for Hitchcock's \"Psycho\" uses which type of instruments exclusively?",
+      "answers": [
+        "Stringed instruments"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_42",
+      "title": "In the TV show \"Sabrina the Teenage Witch\", what was the name of Sabrina's cat?",
+      "answers": [
+        "Salem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_43",
+      "title": "What Beatles movie features bad guys called Blue Meanies?",
+      "answers": [
+        "Yellow Submarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_44",
+      "title": "What is the last name of the brothers in the band AC/DC?",
+      "answers": [
+        "Young"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_45",
+      "title": "Which Yankee was nicknamed \"The Iron Horse\"?",
+      "answers": [
+        "Lou Gehrig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_46",
+      "title": "In Disney's \"Peter Pan\", what is the name of the Chiefs daughter?",
+      "answers": [
+        "Tiger Lily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_47",
+      "title": "In November 1997, what Australian rock singer was found dead in his hotel room?",
+      "answers": [
+        "Michael Hutchence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_48",
+      "title": "The I-V-vi-IV chord progression is commonly referred to by what alliterative name?",
+      "answers": [
+        "Pop-punk progression"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_49",
+      "title": "In the TV show \"The Simpsons\", what is the name of Apu's wife?",
+      "answers": [
+        "Manjula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_81_50",
+      "title": "What is Indiana Jones' first name?",
+      "answers": [
+        "Henry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

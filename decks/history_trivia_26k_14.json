@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_14",
+  "name": "History Trivia 26K 14",
+  "description": "History 651 - 700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_14_01",
+      "title": "What did the first vending machine dispense?",
+      "answers": [
+        "Holy Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_02",
+      "title": "What newspaper was founded in 1889 by Charles H. Dow and Edward Jones?",
+      "answers": [
+        "Wall Street Journal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_03",
+      "title": "Who led the raid on Harper’s Ferry in 1859?",
+      "answers": [
+        "John Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_04",
+      "title": "Which US president had a mockingbird he carried on his shoulder?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_05",
+      "title": "Which world leader's dentures were auctioned off for $23,000 in 2010?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_06",
+      "title": "When did the \"War of Jenkins' Ear\", waged between Britain and Spain, end?",
+      "answers": [
+        "1748"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_07",
+      "title": "Who was the first woman to win the Pulitzer Prize?",
+      "answers": [
+        "Edith Wharton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_08",
+      "title": "Which US President fathered children with former slave Sally Hemmings?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_09",
+      "title": "When did the Massacre of Glencoe occur?",
+      "answers": [
+        "February 12 1692"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_10",
+      "title": "One­-third of all the US Marines that died during World War II died on what island?",
+      "answers": [
+        "Iwo Jima"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_11",
+      "title": "What was Canadian politician's, Pierre Trudeau, personal motto?",
+      "answers": [
+        "Reason before passion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_12",
+      "title": "What year was the first color photograph taken?",
+      "answers": [
+        "1861"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_13",
+      "title": "Which Empire is typically associated with the invention of the early fork?",
+      "answers": [
+        "Roman Empire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_14",
+      "title": "What replaced English as the official language of Kenya in 1974?",
+      "answers": [
+        "Swahili"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_15",
+      "title": "Which Cambodian party was Pol Pot the leader of?",
+      "answers": [
+        "Khmer Rouge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_16",
+      "title": "Which was the first country to leave the Commonwealth in 1949?",
+      "answers": [
+        "Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_17",
+      "title": "What popular diet cola first appeared in 1963",
+      "answers": [
+        "Tab"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_18",
+      "title": "What English party was politician Arthur Hayday associated with?",
+      "answers": [
+        "Labour Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_19",
+      "title": "What flooded part of Boston in 1919?",
+      "answers": [
+        "Molasses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_20",
+      "title": "In what year was New York City divided into its boroughs?",
+      "answers": [
+        "1898"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_21",
+      "title": "The first cable car in the world began service in 1873 in what city?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_22",
+      "title": "Who was the first First Lady of the United States to wear pants in public?",
+      "answers": [
+        "Eleanor Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_23",
+      "title": "Which president signed the legislation to create the Secret Service?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_24",
+      "title": "Which enemy of the Roman Empire was nicknamed the \"Scourge of God\" by the Catholic Church?",
+      "answers": [
+        "Attila the Hun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_25",
+      "title": "What world leader was assassinated in Cairo on October 6, 1981?",
+      "answers": [
+        "Anwar Sadat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_26",
+      "title": "What ancient people based their law on Hammurabi's Code?",
+      "answers": [
+        "Mesopotamians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_27",
+      "title": "By what name is El-Hajj Malik El-Shabazz better known?",
+      "answers": [
+        "Malcolm X"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_28",
+      "title": "What kind of natural disaster destroyed three of the Seven Wonders of the Ancient World?",
+      "answers": [
+        "Earthquakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_29",
+      "title": "Which prominent US statesman was known as \"The Great Compromiser\" and helped allegedly swing the 1824 election?",
+      "answers": [
+        "Henry Clay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_30",
+      "title": "What U.S. states were once independent republics?",
+      "answers": [
+        "Texas, Hawaii, California, Delaware"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_31",
+      "title": "What type of beetle is the scarab, which was worshipped by ancient Egyptians?",
+      "answers": [
+        "Dung beetle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_32",
+      "title": "What two words were added to the US \"Pledge of Allegiance\" in 1954?",
+      "answers": [
+        "Under God"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_33",
+      "title": "In 1641, who married Mary Stuart, the daughter of England's King Charles I?",
+      "answers": [
+        "William of Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_34",
+      "title": "In what city did American colonists dress as Native Americans and dump an entire, expensive tea into the sea",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_35",
+      "title": "What is the name of President's George Washington's 500 acre Virginia estate, and current tourist attraction?",
+      "answers": [
+        "Mount Vernon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_36",
+      "title": "The National Geographic Society was founded in 1888, in which US city?",
+      "answers": [
+        "Washington, D.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_37",
+      "title": "Who proposed the idea of \"Laissez-faire\"?",
+      "answers": [
+        "Adam Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_38",
+      "title": "Who was the first woman to run for President of the United States,?",
+      "answers": [
+        "Victoria Woodhull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_39",
+      "title": "Which Saint was murdered at Canterbury Cathedral in 1170?",
+      "answers": [
+        "Thomas Beckett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_40",
+      "title": "Who wrote the 95 Thesis against the Catholic Church?",
+      "answers": [
+        "Martin Luther"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_41",
+      "title": "Who served as the Minister of Armaments and War Production in Nazi Germany during most of World War II.",
+      "answers": [
+        "Albert Speer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_42",
+      "title": "When did boxer John L. Sullivan die?",
+      "answers": [
+        "1918"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_43",
+      "title": "Who, per her dying wish, is buried next to Wild Bill Hickok?",
+      "answers": [
+        "Calamity Jane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_44",
+      "title": "Who was the youngest declared monarch in history?",
+      "answers": [
+        "Mary, Queen Scots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_45",
+      "title": "What U.S. president called a Super Bowl coach to suggest a play?",
+      "answers": [
+        "Richard Nixon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_46",
+      "title": "What was Ponce de Leon in search of when he discovered Florida?",
+      "answers": [
+        "The Fountain of Youth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_47",
+      "title": "What title was Mother Teresa given by Pope John Paul II after her death?",
+      "answers": [
+        "Blessed Teresa of Calcutta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_48",
+      "title": "Who said, \" The first and best victory is to conquer self. To be conquered by self is, of all things, the most shameful and vile\"?",
+      "answers": [
+        "Plato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_49",
+      "title": "When did construction of the Berlin Wall begin?",
+      "answers": [
+        "1961"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_14_50",
+      "title": "What was the primary source of food for the Comanche Indians?",
+      "answers": [
+        "American bison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_10",
+  "name": "History Trivia 26K 10",
+  "description": "History 451 - 500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_10_01",
+      "title": "The \"Harappan Civilization\" is also known by what other name?",
+      "answers": [
+        "Indus Valley Civilization"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_02",
+      "title": "Who was the first U.S. president to be on the radio?",
+      "answers": [
+        "Warring G. Harding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_03",
+      "title": "Mariner IV sent the first pictures of which planet back to earth?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_04",
+      "title": "What was Martin Luther King, Jr.'s birth name?",
+      "answers": [
+        "Michael"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_05",
+      "title": "The US was among several nations that sent troops to quell which 1900 uprising in China?",
+      "answers": [
+        "The Boxer Rebellion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_06",
+      "title": "Who said, \"Success is the ability to go from one failure to another with no loss of enthusiasm.\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_07",
+      "title": "What was the name given to the laws aimed at enforcing segregation in public places in the United States?",
+      "answers": [
+        "Jim Crow Laws"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_08",
+      "title": "What military legend was nicknamed \"The Marble Man\"?",
+      "answers": [
+        "Robert E. Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_09",
+      "title": "Shark Island was an infamous Civil War-era prison in what US state?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_10",
+      "title": "What year was the computer mouse first patented?",
+      "answers": [
+        "1970"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_11",
+      "title": "What are the earliest known Christmas tree decorations?",
+      "answers": [
+        "Apples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_12",
+      "title": "Who was abducted by the Symbionese Liberation Army in 1974?",
+      "answers": [
+        "Patty Hearst"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_13",
+      "title": "Which ancient wonder was burned down by a fame-seeking arsonist?",
+      "answers": [
+        "Artemis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_14",
+      "title": "Which king decided to transform Versailles into a royal court in 1661?",
+      "answers": [
+        "Louis XIV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_15",
+      "title": "What was the Allie's code name for the \"D-Day\" invasion of Normandy?",
+      "answers": [
+        "Operation Overlord"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_16",
+      "title": "Who was the first woman to run for President of the U.S.?",
+      "answers": [
+        "Victoria Woodhull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_17",
+      "title": "What two countries fought in the Battle of the Plains of Abraham?",
+      "answers": [
+        "Great Britain and France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_18",
+      "title": "Ayatollah Khomeini called for a fatwa on which author of 1988's \"The Satanic Verses\"?",
+      "answers": [
+        "Salman Rushdie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_19",
+      "title": "In 1961, who sent in troops to eject the Portuguese from their colony of Goa?",
+      "answers": [
+        "Jawaharlal Nehru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_20",
+      "title": "How many months did it take the Mayflower to cross the Atlantic Ocean?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_21",
+      "title": "On August 2, 1876, Jack McCall gunned down which famous lawman?",
+      "answers": [
+        "Wild Bill Hickok"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_22",
+      "title": "What European theme park did French intellectuals hope to keep from opening in the 1990's?",
+      "answers": [
+        "Euro Disney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_23",
+      "title": "The first time someone bought something with bitcoins, 10,000 of them were exchanged for what?",
+      "answers": [
+        "Two pizzas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_24",
+      "title": "Who was the first African-American woman elected to the U.S. Senate?",
+      "answers": [
+        "Carol Moseley Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_25",
+      "title": "Who patented the first practical fountain pen back in 1884?",
+      "answers": [
+        "Lewis Waterman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_26",
+      "title": "Who did Dwight Eisenhower defeat twice in presidential elections during the 1950s?",
+      "answers": [
+        "Adlai Stevenson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_27",
+      "title": "Who led the resistance against Italy in Ethiopia during World War II?",
+      "answers": [
+        "Haile Selassie I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_28",
+      "title": "In what year did the Black Monday event occur?",
+      "answers": [
+        "1987"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_29",
+      "title": "What war ended at the Battle of San Jacinto?",
+      "answers": [
+        "Texas Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_30",
+      "title": "Seeds for what fruit were found in King Tut’s tomb?",
+      "answers": [
+        "Watermelon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_31",
+      "title": "What billionaire piloted the first hot-air balloon ever to cross the Atlantic?",
+      "answers": [
+        "Richard Branson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_32",
+      "title": "Jackie Robinson became famous for breaking the color barrier in what sport?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_33",
+      "title": "Who was the captain of the \"Pinta\" on Christopher Columbus' voyage in 1492?",
+      "answers": [
+        "Martin Alonso Pinzon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_34",
+      "title": "Which US president lived in The Beeches?",
+      "answers": [
+        "Calvin Coolidge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_35",
+      "title": "Who became UK's Prime Minister following the assassination of Spencer Perceval in 1812?",
+      "answers": [
+        "Robert Banks Jenkinson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_36",
+      "title": "What was the series of campaigns to wrest the Holy Land from Muslim Turks called?",
+      "answers": [
+        "The Crusades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_37",
+      "title": "Where can you find Pont Du Gard, part of an ancient Roman aqueduct?",
+      "answers": [
+        "Nîmes, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_38",
+      "title": "Who killed the Portuguese explorer Ferdinand Magellan in 1521?",
+      "answers": [
+        "Lapu-Lapu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_39",
+      "title": "The Eiffel Tower was originally intended for what city?",
+      "answers": [
+        "Barcelona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_40",
+      "title": "What US state is represented by the figures of Will Rogers and Sequoyah in the Capitol's Statuary Hall?",
+      "answers": [
+        "Oklahoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_41",
+      "title": "Which Argentinean Marxist, who became a bedroom poster icon of the 1960s, was once one of Fidel Castro's commander?",
+      "answers": [
+        "Ernesto (Che) Guevara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_42",
+      "title": "Who was the first President to deliver his inaugural address entirely from memory?",
+      "answers": [
+        "Franklin Pierce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_43",
+      "title": "The Mayflower is famous for being the first ship to transport what to the New World?",
+      "answers": [
+        "English Puritans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_44",
+      "title": "Who was the last Emperor of the Austro-Hungarian Empire?",
+      "answers": [
+        "Karl I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_45",
+      "title": "Shortly after the start of the Spanish-American War, the US Navy blockaded what island?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_46",
+      "title": "Construction of the Colosseum began under the ruling of which emperor?",
+      "answers": [
+        "Vespasian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_47",
+      "title": "The first controlled nuclear chain reaction took place in what year?",
+      "answers": [
+        "1942"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_48",
+      "title": "Before he escaped and returned to France, Napoleon had been exiled to what island in 1814?",
+      "answers": [
+        "Elba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_49",
+      "title": "Who was the primary author of the Declaration of Independence?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_10_50",
+      "title": "US flags flew at half-staff following the assassination of what Israeli prime minister in 1995?",
+      "answers": [
+        "Yitzhak Rabin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

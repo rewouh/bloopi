@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_26",
+  "name": "General Trivia 26K 26",
+  "description": "General 1251 - 1300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_26_01",
+      "title": "What is the only weight in the International Radio Alphabet?",
+      "answers": [
+        "Kilo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_02",
+      "title": "What hockey great wore the number 68 to commemorate the Prague Spring of 1968?",
+      "answers": [
+        "Jaromir Jagr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_03",
+      "title": "What designer was the first man to appear on the cover of British Vogue?",
+      "answers": [
+        "Manolo Blahnik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_04",
+      "title": "What do the bar code letters UPC stand for?",
+      "answers": [
+        "Universal Product Code"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_05",
+      "title": "Which beauty supply company started out selling dental supplies?",
+      "answers": [
+        "OPI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_06",
+      "title": "What is the main ingredient of guacamole?",
+      "answers": [
+        "Avocados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_07",
+      "title": "Granchio is Italian for what seafood?",
+      "answers": [
+        "Crab"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_08",
+      "title": "What sauce is used in traditional eggs Benedict?",
+      "answers": [
+        "Hollandaise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_09",
+      "title": "What is the name of the Italian anise-flavored liqueur?",
+      "answers": [
+        "Sambuca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_10",
+      "title": "What is the ninth month of the Islamic calendar called?",
+      "answers": [
+        "Ramadan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_11",
+      "title": "What is the name for the group of men who elect a Pope?",
+      "answers": [
+        "College of Cardinals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_12",
+      "title": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+      "answers": [
+        "Volvo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_13",
+      "title": "In 1998 which one of the best-selling US magazines finally took its table of contents off its front cover?",
+      "answers": [
+        "Reader's Digest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_14",
+      "title": "What cosmetic brand gets its name from the Latin for \"snow-white\"?",
+      "answers": [
+        "Nivea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_15",
+      "title": "What color is the supposedly cursed Hope Diamond?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_16",
+      "title": "How long is a lane in a bowling alley, measured from the foul line to the head pin?",
+      "answers": [
+        "60 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_17",
+      "title": "What is Lambeau Field's nickname?",
+      "answers": [
+        "The Frozen Tundra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_18",
+      "title": "How many dice are there in the game of \"Boggle\"?",
+      "answers": [
+        "Sixteen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_19",
+      "title": "What colour caps do the Australian cricket team wear?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_20",
+      "title": "What fashion brand was co-founded by artist Bono?",
+      "answers": [
+        "Edun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_21",
+      "title": "What traditional fruit cake do Germans eat around the Christmas season?",
+      "answers": [
+        "Stollen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_22",
+      "title": "Creme de Menthe and cognac make which cocktail?",
+      "answers": [
+        "A Stinger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_23",
+      "title": "Metamorphic, sedimentary, and igneous are types of what?",
+      "answers": [
+        "Rocks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_24",
+      "title": "What color is always at the top of a single rainbow?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_25",
+      "title": "What sport is Tucker Dupree associated with?",
+      "answers": [
+        "Swimming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_26",
+      "title": "Who was the first Ronald McDonald?",
+      "answers": [
+        "Willard Scott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_27",
+      "title": "What did retired Seattle dentist Barney Clark make headlines for receiving on December 2, 1982?",
+      "answers": [
+        "An artificial heart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_28",
+      "title": "How long do rodeo bull and bronco riders have to stay on their mounts for?",
+      "answers": [
+        "8 seconds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_29",
+      "title": "Klaxon horns were used on what type of vehicle during World War II?",
+      "answers": [
+        "Submarines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_30",
+      "title": "What would you get if you were to receive a Xoloitzcuintli as a gift?",
+      "answers": [
+        "A dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_31",
+      "title": "To make beer, what is barley normally made into?",
+      "answers": [
+        "Malt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_32",
+      "title": "Which English club was formed as Ardwick FC?",
+      "answers": [
+        "Manchester United"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_33",
+      "title": "What common item is usually made up of twelve pentagons and twenty hexagons?",
+      "answers": [
+        "A soccer ball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_34",
+      "title": "What movie franchise action figures did Kenner start producing in the 1970s that led to its success and the popularization of the 3.75 inch action figure?",
+      "answers": [
+        "Star Wars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_35",
+      "title": "In what US state was the first Six Flags theme park located?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_36",
+      "title": "This is the Southeast Asian method of dying fabric using wax to create designs?",
+      "answers": [
+        "Batik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_37",
+      "title": "Central Europe Time is equal to Greenwich Mean Time plus how many hours?",
+      "answers": [
+        "1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_38",
+      "title": "Who created the operating system \"Linux\"?",
+      "answers": [
+        "Linus Torvalds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_39",
+      "title": "What did the letter Q originally stand for in NASDAQ?",
+      "answers": [
+        "Quotations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_40",
+      "title": "Who was Liverpool's captain when they won their first European Cup final in 1977?",
+      "answers": [
+        "Emlyn Hughes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_41",
+      "title": "In 1950, which country beat Brazil and won the FIFA World Cup?",
+      "answers": [
+        "Uruguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_42",
+      "title": "\"Open Your Hand And Smile\" has been which product's ad slogan?",
+      "answers": [
+        "M&M\"s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_43",
+      "title": "The BLAT variation of the BLT sandwich adds what ingredient?",
+      "answers": [
+        "Avocado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_44",
+      "title": "In Judaism, what day of the week is considered a day of rest?",
+      "answers": [
+        "Saturday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_45",
+      "title": "How many animals are represented in the Chinese Zodiac?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_46",
+      "title": "What company introduced commercially the first widespread videocassette in 1971?",
+      "answers": [
+        "Sony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_47",
+      "title": "How many red stripes are there on the American flag?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_48",
+      "title": "What sport is sometimes called rugger?",
+      "answers": [
+        "Rugby union"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_49",
+      "title": "What world's currency is the Linden dollar?",
+      "answers": [
+        "Second Life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_26_50",
+      "title": "Which Premier League team's mascot is the Red Devil?",
+      "answers": [
+        "Manchester United"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

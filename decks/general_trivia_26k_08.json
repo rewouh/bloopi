@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_08",
+  "name": "General Trivia 26K 08",
+  "description": "General 351 - 400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_08_01",
+      "title": "Albert DeSalvo is better known as whom?",
+      "answers": [
+        "The Boston Strangler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_02",
+      "title": "What material are jeans made of?",
+      "answers": [
+        "Cotton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_03",
+      "title": "Who was the star of the TV cooking show \"The Galloping Gourmet\"?",
+      "answers": [
+        "Graham Kerr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_04",
+      "title": "What was the first Hot Wheels car?",
+      "answers": [
+        "Camaro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_05",
+      "title": "What language was left unpunctuated until the modern age?",
+      "answers": [
+        "Japanese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_06",
+      "title": "Florists in the U.S. record more than half of their yearly sale of flowers on which holiday?",
+      "answers": [
+        "Valentine’s Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_07",
+      "title": "What year were the first Olympic Games after World War II held?",
+      "answers": [
+        "1948"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_08",
+      "title": "Whose emblem came from a sketch Lamar Hunt drew on a napkin in 1963?",
+      "answers": [
+        "The Kansas City Chiefs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_09",
+      "title": "What automobile brand invented the three point seatbelt, then waived their patent rights, allowing competitors to copy?",
+      "answers": [
+        "Volvo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_10",
+      "title": "What is a Spanish canvas sandal decorated with rope called?",
+      "answers": [
+        "Espadrille"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_11",
+      "title": "What flower symbolizes the throne of the Japanese emperor?",
+      "answers": [
+        "The chrysanthemum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_12",
+      "title": "What does a linguist study?",
+      "answers": [
+        "Languages"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_13",
+      "title": "What is the eagle in the Great Seal of the United States holding in its right talon?",
+      "answers": [
+        "Olive branch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_14",
+      "title": "In the Christmas song, The Holly and The Ivy which one bears the crown?",
+      "answers": [
+        "The holly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_15",
+      "title": "What color is New York's Staten Island Ferry?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_16",
+      "title": "Which country were the 1952 Summer Olympic Games held in?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_17",
+      "title": "A person described as a \"towhead\" has what color hair?",
+      "answers": [
+        "Blonde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_18",
+      "title": "What is the NATO phonetic alphabet word for \"I\"?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_19",
+      "title": "What is ochophobia the fear of?",
+      "answers": [
+        "Riding in vehicles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_20",
+      "title": "What two months are named for men?",
+      "answers": [
+        "July and August"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_21",
+      "title": "What does a bibliophobe fear, or hate?",
+      "answers": [
+        "Books"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_22",
+      "title": "How many times are Jews supposed to wash their hands at the Seder table?",
+      "answers": [
+        "Two times"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_23",
+      "title": "The name \"Otto\" is German for what?",
+      "answers": [
+        "Wealth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_24",
+      "title": "The holiday of Christmas is celebrated in what month by Eastern Orthodox churches?",
+      "answers": [
+        "January"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_25",
+      "title": "Necrophobia is the fear of what?",
+      "answers": [
+        "Death or dead bodies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_26",
+      "title": "A \"hot dog\" is a colloquial term used for what food?",
+      "answers": [
+        "Frankfurter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_27",
+      "title": "How many spikes are on the Statue of Liberty's crown?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_28",
+      "title": "How many holes can be found in the standard bowling ball?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_29",
+      "title": "Who was the first American president to appear on the cover of \"People\" magazine?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_30",
+      "title": "What French word describes the person working at the front desk of a hotel?",
+      "answers": [
+        "Concierge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_31",
+      "title": "What two snacks are mentioned in \"Take Me Out to the Ballgame\"?",
+      "answers": [
+        "Peanuts and Cracker Jack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_32",
+      "title": "What British automobile company made a car called the Super Snipe?",
+      "answers": [
+        "Humber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_33",
+      "title": "What is the largest football stadium in Brazil?",
+      "answers": [
+        "The Maracana stadium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_34",
+      "title": "Who invented \"Jell-O\"?",
+      "answers": [
+        "Pearle Wait"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_35",
+      "title": "Guru Nanak founded which religion?",
+      "answers": [
+        "Sikhism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_36",
+      "title": "What sport uses clowns to protect the competitors?",
+      "answers": [
+        "Rodeo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_37",
+      "title": "In the card game Blackjack, what two values does the Ace have?",
+      "answers": [
+        "1 and 11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_38",
+      "title": "Where was the game Chinese Checkers originally produced?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_39",
+      "title": "What country produced Saab automobiles?",
+      "answers": [
+        "Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_40",
+      "title": "How many tablespoons are there in a standard US cup?",
+      "answers": [
+        "16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_41",
+      "title": "What are the names of the \"see no evil, hear no evil, speak no evil\" monkey statues?",
+      "answers": [
+        "Mizaru, Kikazaru, and Iwazaru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_42",
+      "title": "What type of a tree killed Jackson Pollock?",
+      "answers": [
+        "Oak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_43",
+      "title": "In what year was \"Magic: The Gathering\" first released?",
+      "answers": [
+        "1993"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_44",
+      "title": "In the standard game of Scrabble, what is the value of the letter \"Q\"?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_45",
+      "title": "What is Pele's birth name?",
+      "answers": [
+        "Edson Arantes do Nascimento"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_46",
+      "title": "In what sport is the Heisman Trophy awarded?",
+      "answers": [
+        "American college football"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_47",
+      "title": "What is the only US city to boast a radio station whose call letters are the exact same name of the city?",
+      "answers": [
+        "Waco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_48",
+      "title": "Which American family dynasty is Anderson Cooper related to?",
+      "answers": [
+        "Vanderbilt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_49",
+      "title": "A clowder is a name given to a group of what?",
+      "answers": [
+        "Domestic cats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_08_50",
+      "title": "How many stars are on the flag of New Zealand?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

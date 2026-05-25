@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_73",
+  "name": "Entertainment Trivia 26K 73",
+  "description": "Entertainment 3601 - 3650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_73_01",
+      "title": "What country music artist was nicknamed \"Chief\" after his maternal grandfather, who was Chief of Police?",
+      "answers": [
+        "Eric Church"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_02",
+      "title": "Who was the highest-paid TV host in 2018?",
+      "answers": [
+        "Judge Judy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_03",
+      "title": "In the movie \"Bullitt\", what car does Steve McQueen drive?",
+      "answers": [
+        "Ford Mustang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_04",
+      "title": "Who was the first president of the Academy of Motion of Picture Arts and Sciences?",
+      "answers": [
+        "Douglas Fairbanks Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_05",
+      "title": "What year did Johnny Depp receive his Hollywood Walk of Fame star in?",
+      "answers": [
+        "1999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_06",
+      "title": "Who was Arthur Jefferson's comedy partner?",
+      "answers": [
+        "Oliver Hardy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_07",
+      "title": "In 1978, which band asked \"Ever Fallen In Love\"?",
+      "answers": [
+        "The Buzzcocks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_08",
+      "title": "What is Alastor Moody's nickname?",
+      "answers": [
+        "Mad Eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_09",
+      "title": "What kid's show that contains the song \"We Are Number One\" ran from 2004-2014?",
+      "answers": [
+        "Lazy Town"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_10",
+      "title": "What was Billie Holiday also known as during her career?",
+      "answers": [
+        "Lady Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_11",
+      "title": "In the 1954 film \"A Star Is Born\" who played the leading man?",
+      "answers": [
+        "James Mason"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_12",
+      "title": "Who plays the role of the Prime Minister, in the 2003 film \"Love Actually\"?",
+      "answers": [
+        "Hugh Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_13",
+      "title": "Who played Inspector Morse in the TV series by the same name?",
+      "answers": [
+        "John Thaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_14",
+      "title": "What was Walt Disney afraid of?",
+      "answers": [
+        "Mice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_15",
+      "title": "Who was the only bare-footed Beatle on the Abbey Road album cover?",
+      "answers": [
+        "Paul McCartney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_16",
+      "title": "William Shatner, who starred in the TV series Star Trek and T.J. Hooker, was born in what country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_17",
+      "title": "Who does Jabba intend to feed to Sarlacc in the movie \"Star Wars - Return of the Jedi\"?",
+      "answers": [
+        "Luke and Han"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_18",
+      "title": "Who is Sulley's sidekick in the movie \"Monsters, Inc.\"?",
+      "answers": [
+        "Mike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_19",
+      "title": "Taking advantage of a fad at the time, what song became a #1 hit for Ray Stevens in 1974?",
+      "answers": [
+        "The Streak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_20",
+      "title": "Who is the first mainstream artist known for utilizing the infamous Auto-Tune vocal distortion technique?",
+      "answers": [
+        "Cher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_21",
+      "title": "What singer was born Cherilyn Sarkisian?",
+      "answers": [
+        "Cher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_22",
+      "title": "On \"The Beverly Hillbillies\" TV show, what was the name of Jethro's mother?",
+      "answers": [
+        "Pearl Bodine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_23",
+      "title": "What famous TV cops drove a 1974 Ford Torino?",
+      "answers": [
+        "Starsky & Hutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_24",
+      "title": "What Looney Toons cartoon character often used the catchphrase \"Thufferin' Thuccotash\"?",
+      "answers": [
+        "Sylvester the cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_25",
+      "title": "In the movie \"The Karate Kid\", what is the name of Daniel's master?",
+      "answers": [
+        "Mr. Miyagi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_26",
+      "title": "In 1997, who released the hit song entitled \"I'll Be Missing You\"?",
+      "answers": [
+        "Puff Daddy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_27",
+      "title": "Who recorded such songs as \"Toys in the Attic\" and \"Angel\", and also wrote music for the film \"Armageddon\"?",
+      "answers": [
+        "Aerosmith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_28",
+      "title": "Anthony Robert McMillan is more famous as who?",
+      "answers": [
+        "Robbie Coltrane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_29",
+      "title": "Who directed the film \"The Silence of the Lambs\"?",
+      "answers": [
+        "Johnathan Demme"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_30",
+      "title": "What sitcom was almost titled \"Six of One\" or \"Across the Hall\"?",
+      "answers": [
+        "Friends"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_31",
+      "title": "About whose sister is John Lennon's song \"Dear Prudence\"?",
+      "answers": [
+        "Mia Farrow's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_32",
+      "title": "Who directed \"Raiders of the Lost Ark\"?",
+      "answers": [
+        "Steven Spielberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_33",
+      "title": "What was Clarence Rutherford’s nickname on the TV show \"Leave it to Beaver\"?",
+      "answers": [
+        "Lumpy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_34",
+      "title": "Who plays the role of Martin Riggs in the Lethal Weapon movie series?",
+      "answers": [
+        "Mel Gibson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_35",
+      "title": "Why did the Simpsons go to New York CIty?",
+      "answers": [
+        "Retrieve a lost car"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_36",
+      "title": "What was Bruce Hornsby's backing band?",
+      "answers": [
+        "The Range"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_37",
+      "title": "Which group released the album \"O.K. Computer\" in 1997?",
+      "answers": [
+        "Radiohead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_38",
+      "title": "What teenage trauma did Ben Folds commemorate in his 1997 hit \"Brick\"?",
+      "answers": [
+        "His girlfriend's abortion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_39",
+      "title": "Which band comprises sisters Andrea, Sharon, and Caroline with their brother Jim?",
+      "answers": [
+        "The Corrs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_40",
+      "title": "Who played the role of Grant in the 1966 film \"Fantastic Voyage\"?",
+      "answers": [
+        "Stephen Boyd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_41",
+      "title": "What season did The Simpsons enter in 2018?",
+      "answers": [
+        "30"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_42",
+      "title": "Which actor played the movie character known as \"The One\"?",
+      "answers": [
+        "Keanu Reeves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_43",
+      "title": "Which US actor, widely known for his portrayal of Batman, passed away on June 9, 2017?",
+      "answers": [
+        "Adam West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_44",
+      "title": "What did Leonard Nimoy need a new pair of every few days in the late 1960's?",
+      "answers": [
+        "Ears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_45",
+      "title": "The 1980s \"High Society\" was a musical remake of which 1930s play?",
+      "answers": [
+        "The Philadelphia Story"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_46",
+      "title": "In the TV show \"The Simpsons\", what is Milhouse's last name?",
+      "answers": [
+        "Van Houten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_47",
+      "title": "The first album by the Velvet Underground featured what fruit on the cover?",
+      "answers": [
+        "A banana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_48",
+      "title": "In the 1996 film \"Carpool\", what is the name of the carnival owner?",
+      "answers": [
+        "Franklin Laszlo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_49",
+      "title": "In what city was the Fresh Prince of Bel-Air born and raised?",
+      "answers": [
+        "Philadelphia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_73_50",
+      "title": "Which villain did Terence Stamp play in the 1980 movie \"Superman II\"?",
+      "answers": [
+        "General Zod"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

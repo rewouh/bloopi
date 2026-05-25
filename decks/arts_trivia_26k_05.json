@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_05",
+  "name": "Arts Trivia 26K 05",
+  "description": "Arts 201 - 250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_05_01",
+      "title": "What philosopher argued for natural rights in his 1651 \"Leviathan\"?",
+      "answers": [
+        "Thomas Hobbes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_02",
+      "title": "The novel \"Barnaby Rudge\" is set during which riots?",
+      "answers": [
+        "Gordon Riots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_03",
+      "title": "What's the only consonant sound that can end a word in Japanese?",
+      "answers": [
+        "N"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_04",
+      "title": "What song about her age did Charmain Carr sing in the movie version of \"The Sound of Music\"?",
+      "answers": [
+        "Sixteen Going on Seventeen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_05",
+      "title": "What war saw the bombing of Guernica that inspired one of Picasso's most moving paintings?",
+      "answers": [
+        "Spanish Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_06",
+      "title": "What was Dr. Seuss' real name?",
+      "answers": [
+        "Theodor Seuss Geisel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_07",
+      "title": "Which author wrote \"The Wild Palms\"?",
+      "answers": [
+        "William Faulkner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_08",
+      "title": "Who is the Roman Patron Saint of hangovers?",
+      "answers": [
+        "Saint Bibiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_09",
+      "title": "Which character killed Richard Cory?",
+      "answers": [
+        "Himself"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_10",
+      "title": "From what language did English borrow the word \"ukulele\"?",
+      "answers": [
+        "Hawaiian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_11",
+      "title": "What major comedy star played Garp in the movie adaptation of John Irving's \"The World According to Garp\"?",
+      "answers": [
+        "Robin Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_12",
+      "title": "What author created Neverland?",
+      "answers": [
+        "J. M. Barrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_13",
+      "title": "Who wrote \"Great Expectations\"?",
+      "answers": [
+        "Charles Dickens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_14",
+      "title": "What Emily Bronte novel features Heathcliff?",
+      "answers": [
+        "Wuthering Heights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_15",
+      "title": "In the comic book series \"Strangers in Paradise\", what nickname did Katchoo go by when working in L.A. as an escort?",
+      "answers": [
+        "Baby June"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_16",
+      "title": "Who replaced Stanley Kubrick on the western film \"One-Eyed Jacks\", making it the only film he ever directed?",
+      "answers": [
+        "Marlon Brando"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_17",
+      "title": "What original literary work was the movie \"Christmas with the Kranks\" based on?",
+      "answers": [
+        "Skipping Christmas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_18",
+      "title": "What is the name of the raven in George Orwell's \"Animal Farm\"?",
+      "answers": [
+        "Moses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_19",
+      "title": "On what short story was the 1946 film \"It’s a Wonderful Life\" based on?",
+      "answers": [
+        "The Greatest Gift"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_20",
+      "title": "In what year was Boy George's autobiography published?",
+      "answers": [
+        "2000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_21",
+      "title": "In Greek mythology, Hamadryad spirits guarded what?",
+      "answers": [
+        "Trees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_22",
+      "title": "Who is shown crossing the Alps in Jacques Louis David's famous painting?",
+      "answers": [
+        "Napoleon Bonaparte"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_23",
+      "title": "During what war was \"The Iliad\" set?",
+      "answers": [
+        "Trojan War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_24",
+      "title": "Who wrote the dystopian novel \"A Clockwork Orange\"?",
+      "answers": [
+        "Anthony Burgess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_25",
+      "title": "What is the birthname of author George Orwell?",
+      "answers": [
+        "Eric Arthur Blair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_26",
+      "title": "What mythical creature was born from the blood when Perseus chopped off Medusa's head?",
+      "answers": [
+        "Pegasus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_27",
+      "title": "Who was the husband of the female Judge Deborah in the Bible?",
+      "answers": [
+        "Lapidoth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_28",
+      "title": "Who wrote the detective novel \"The Maltese Falcon\"?",
+      "answers": [
+        "Dashiell Hammett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_29",
+      "title": "What Christmas treat does Pip give to the hungry convict in \"Great Expectations\"?",
+      "answers": [
+        "Pork Pie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_30",
+      "title": "What drug did Sherlock Holmes take at the start of his career?",
+      "answers": [
+        "Cocaine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_31",
+      "title": "Who is the Roman equivalent of Dionysus, the Greek god of wine?",
+      "answers": [
+        "Bacchus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_32",
+      "title": "Who wrote \"Slaughterhouse Five\"?",
+      "answers": [
+        "Kurt Vonnegut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_33",
+      "title": "In Greek mythology, who were Hades' parents?",
+      "answers": [
+        "Cronus and Rhea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_34",
+      "title": "Which influential French novelist was a close friend of Paul Cezanne?",
+      "answers": [
+        "Emile Zola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_35",
+      "title": "Which famous piece of artwork depicts the \"Battle of Hastings\"?",
+      "answers": [
+        "Bayeux Tapestry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_36",
+      "title": "Who wrote the novels \"The Deceiver\" and \"The Fist of God\"?",
+      "answers": [
+        "Frederick Forsyth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_37",
+      "title": "What place did Dante describe as having \"Abandon hope, all ye who enter here\" written over its doors?",
+      "answers": [
+        "Hell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_38",
+      "title": "Who is novelist Helen Fielding's most famous character?",
+      "answers": [
+        "Bridget Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_39",
+      "title": "What 1925 novel was originally titled \"Trimalchio in West Egg\"?",
+      "answers": [
+        "The Great Gatsby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_40",
+      "title": "What original literary work was the movie \"Eyes Wide Shut\" based on?",
+      "answers": [
+        "Traumnovelle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_41",
+      "title": "Which literary bear got its name from a London railway station?",
+      "answers": [
+        "Paddington Bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_42",
+      "title": "What singers lure sailors to crash on the rocks with their songs?",
+      "answers": [
+        "Sirens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_43",
+      "title": "What is the Roman name of the Greek god Hypnos?",
+      "answers": [
+        "Somnus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_44",
+      "title": "What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",
+      "answers": [
+        "Manticore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_45",
+      "title": "In the comic book series \"Strangers in Paradise\", what is Katchoo’s full name?",
+      "answers": [
+        "Katina Marie Choovanski"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_46",
+      "title": "Stephen King's \"The Shining\" is set at which hotel?",
+      "answers": [
+        "Overlook Hotel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_47",
+      "title": "The Last Supper mural originally included which body part of Christ that has since been removed?",
+      "answers": [
+        "Feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_48",
+      "title": "What Broadway musical featured the song \"Manchester England\"?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_49",
+      "title": "During what war was the novel \"The Short-Timers\" set?",
+      "answers": [
+        "Vietnam War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_05_50",
+      "title": "What is the third movement of a symphony called?",
+      "answers": [
+        "Minuet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

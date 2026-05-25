@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_90",
+  "name": "General Trivia 26K 90",
+  "description": "General 4451 - 4500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_90_01",
+      "title": "Which modern-day country is often considered as the birthplace of coffee?",
+      "answers": [
+        "Ethiopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_02",
+      "title": "A luffa is a type of what?",
+      "answers": [
+        "Plant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_03",
+      "title": "What flavor is Cointreau?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_04",
+      "title": "What space lies between Baltic Avenue and Reading Railroad on a standard Monopoly game board?",
+      "answers": [
+        "Income Tax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_05",
+      "title": "For what college did Dan Marino play football?",
+      "answers": [
+        "University of Pittsburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_06",
+      "title": "What is the NATO phonetic alphabet word for \"H\"?",
+      "answers": [
+        "Hotel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_07",
+      "title": "HO scale is the most popular size of what?",
+      "answers": [
+        "Model trains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_08",
+      "title": "What is the name of the tallest tree in the world?",
+      "answers": [
+        "Hyperion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_09",
+      "title": "What is the body of the DMC DeLorean car made out of?",
+      "answers": [
+        "Stainless steel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_10",
+      "title": "What is an albatross in golf scoring?",
+      "answers": [
+        "3 under par"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_11",
+      "title": "If you think a stock's price will fall in the coming months, what option would you purchase?",
+      "answers": [
+        "Put option"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_12",
+      "title": "What was the theme of the first Macy's Thanksgiving Parade?",
+      "answers": [
+        "Mother Goose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_13",
+      "title": "What are the four primary ingredients in beer?",
+      "answers": [
+        "Malt, hops, yeast, water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_14",
+      "title": "What happens when you roll three consecutive doubles in a game of Monopoly?",
+      "answers": [
+        "You go to jail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_15",
+      "title": "What is LP Field also known as?",
+      "answers": [
+        "The Woodshed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_16",
+      "title": "Where was the first Chipotle restaurant located?",
+      "answers": [
+        "Denver, Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_17",
+      "title": "The necktie dates back to what century?",
+      "answers": [
+        "17th"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_18",
+      "title": "What birds were used by Japanese and Chinese fishermen to help catch fish?",
+      "answers": [
+        "Cormorant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_19",
+      "title": "What object is said to bring bad luck if it is broken?",
+      "answers": [
+        "Mirror"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_20",
+      "title": "What does the abbreviation VH1 stand for in the TV station by the same name?",
+      "answers": [
+        "Video Hits 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_21",
+      "title": "Football player Pelé was born in which Brazilian state?",
+      "answers": [
+        "Minas Gerais"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_22",
+      "title": "What is the seventh sign of the Zodiac?",
+      "answers": [
+        "Libra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_23",
+      "title": "What color moves first in checkers?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_24",
+      "title": "What critically, and commercially successful indie game released in 2017, borrowed its art style from 1930s cartoons?",
+      "answers": [
+        "Cuphead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_25",
+      "title": "The correction fluid Liquid Paper was invented in what year?",
+      "answers": [
+        "1951"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_26",
+      "title": "What fashion brand was co-founded by artist Justin Timberlake?",
+      "answers": [
+        "William Rast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_27",
+      "title": "The Acol system is used in which card game?",
+      "answers": [
+        "Bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_28",
+      "title": "What nationality is the racing driver Jean Alesi?",
+      "answers": [
+        "French"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_29",
+      "title": "What is the highest hand in straight poker?",
+      "answers": [
+        "A royal flush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_30",
+      "title": "What team did the Atlanta Braves defeat in the 1995 World Series?",
+      "answers": [
+        "Cleveland Indians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_31",
+      "title": "What does WD stand for in WD 40?",
+      "answers": [
+        "Water Displacement"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_32",
+      "title": "Chartreuse is a color between yellow and what?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_33",
+      "title": "What is the fear of odors known as?",
+      "answers": [
+        "Olfactophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_34",
+      "title": "What method of coffee preparation requires the beans to be ground as coarsely as possible?",
+      "answers": [
+        "Cold brew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_35",
+      "title": "What is a male witch called?",
+      "answers": [
+        "A warlock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_36",
+      "title": "Of the four suits in a deck of cards, which suit is the highest ranking in a game of bridge?",
+      "answers": [
+        "Spades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_37",
+      "title": "What NFL team moved into Soldier Field in 1971?",
+      "answers": [
+        "Chicago Bears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_38",
+      "title": "What would you find in a bento box?",
+      "answers": [
+        "Food"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_39",
+      "title": "In which year was the wearing of seat belts made compulsory in the UK?",
+      "answers": [
+        "1983"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_40",
+      "title": "Who delivers gifts to children in Germany on Christmas?",
+      "answers": [
+        "Christkind or Christkindl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_41",
+      "title": "What does the abbreviation HTML stand for?",
+      "answers": [
+        "HyperText Markup Language"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_42",
+      "title": "Which Jamaican city was Olympic sprinter, Don Quarrie, born in?",
+      "answers": [
+        "Kingston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_43",
+      "title": "What is the official cocktail of the Kentucky Oaks?",
+      "answers": [
+        "\"Oaks Lily\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_44",
+      "title": "Which U.S. restaurant chain has the slogan \"Service with the speed of sound\"?",
+      "answers": [
+        "Sonic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_45",
+      "title": "In \"The Farmer in the Dell\", what did the cat take?",
+      "answers": [
+        "The rat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_46",
+      "title": "What was the name of British Prince Philip's mother?",
+      "answers": [
+        "Princess Alice of Battenberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_47",
+      "title": "What garden vegetable was known for years as green Italian squash?",
+      "answers": [
+        "Zucchini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_48",
+      "title": "A Kamikaze cocktail contains vodka, lime juice and what?",
+      "answers": [
+        "Triple sec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_49",
+      "title": "What is the term for a single strand of spaghetti?",
+      "answers": [
+        "Spaghetto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_90_50",
+      "title": "St Apollonia is the patron saint of what?",
+      "answers": [
+        "Dentistry and Toothache"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

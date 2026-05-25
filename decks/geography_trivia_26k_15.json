@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_15",
+  "name": "Geography Trivia 26K 15",
+  "description": "Geography 701 - 750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_15_01",
+      "title": "Which is Earth's smallest ocean?",
+      "answers": [
+        "Arctic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_02",
+      "title": "What European country is named in honor of the Dinaric Alps and their appearance?",
+      "answers": [
+        "Montenegro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_03",
+      "title": "Which US state is home to Theodore Roosevelt National Park?",
+      "answers": [
+        "North Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_04",
+      "title": "What two US state names end with the letter Y?",
+      "answers": [
+        "Kentucky and New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_05",
+      "title": "According to legend, what city was founded on Palatine Hill?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_06",
+      "title": "In which US city will you find Louis Armstrong International Airport?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_07",
+      "title": "What is the capital of Sweden?",
+      "answers": [
+        "Stockholm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_08",
+      "title": "In what Tahitian bay did Captain Cook first land?",
+      "answers": [
+        "Matavai Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_09",
+      "title": "Which European country's name is derived from the term \"hollow land\"?",
+      "answers": [
+        "Holland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_10",
+      "title": "What Australian state shares a nickname with the US state of Florida?",
+      "answers": [
+        "Queensland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_11",
+      "title": "What Scottish landmark borders on Fort Augustus?",
+      "answers": [
+        "Loch Ness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_12",
+      "title": "What Canadian province boasts the longest freshwater beach in the world?",
+      "answers": [
+        "Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_13",
+      "title": "What is the deepest part of the Atlantic Ocean?",
+      "answers": [
+        "Milwaukee Deep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_14",
+      "title": "Which state boasts the world's largest flat-top mountain?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_15",
+      "title": "Which is the largest state in the US?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_16",
+      "title": "What is India's national fruit?",
+      "answers": [
+        "Mango"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_17",
+      "title": "What US city is nicknamed the \"Motor City\"?",
+      "answers": [
+        "Detroit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_18",
+      "title": "What is the only US state with a single syllable name?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_19",
+      "title": "Minnesota, it is illegal to be what in bed?",
+      "answers": [
+        "Naked"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_20",
+      "title": "In which US state is Glacier National Park?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_21",
+      "title": "Maputo is the capital of which country?",
+      "answers": [
+        "Mozambique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_22",
+      "title": "Into what sea does the Elbe River flow?",
+      "answers": [
+        "North Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_23",
+      "title": "What U.S. state is proud to call itself \"the Beaver State\"?",
+      "answers": [
+        "Oregon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_24",
+      "title": "Big Bend National Park protects what mountain range?",
+      "answers": [
+        "Chisos Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_25",
+      "title": "In the Southern Hemisphere, summer begins in what month?",
+      "answers": [
+        "December"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_26",
+      "title": "Which US state is home to Newberry National Volcanic Monument?",
+      "answers": [
+        "Oregon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_27",
+      "title": "What country is directly west of Spain?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_28",
+      "title": "What Notting Hill road is home to London's most famous antique market?",
+      "answers": [
+        "Portobello Road"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_29",
+      "title": "What US state is called the \"Centennial State\"?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_30",
+      "title": "What country is home to the Negev Desert?",
+      "answers": [
+        "Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_31",
+      "title": "Which U.S. city is referred to as \"The Hub of the Universe\"?",
+      "answers": [
+        "Boston, Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_32",
+      "title": "What is the biggest island in Canada?",
+      "answers": [
+        "Baffin Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_33",
+      "title": "Which country's capital is Belmopan?",
+      "answers": [
+        "Belize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_34",
+      "title": "Where is Machu Picchu?",
+      "answers": [
+        "Peru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_35",
+      "title": "What is the capital of Hawaii?",
+      "answers": [
+        "Honolulu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_36",
+      "title": "What US city is the home to mile high stadium?",
+      "answers": [
+        "Denver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_37",
+      "title": "What city in Ohio is known as the \"rubber capital of the US\"?",
+      "answers": [
+        "Akron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_38",
+      "title": "Which country has the longest coastline?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_39",
+      "title": "What strategic body of water does Singapore overlook?",
+      "answers": [
+        "Straits Of Malacca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_40",
+      "title": "What US city is known as the \"Cradle of Liberty\"?",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_41",
+      "title": "The Grand Coulee Dam was built on what river?",
+      "answers": [
+        "Columbia River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_42",
+      "title": "Zagreb is the capital of which European country?",
+      "answers": [
+        "Croatia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_43",
+      "title": "What is the capital of Antigua and Barbuda?",
+      "answers": [
+        "St. John's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_44",
+      "title": "How many countries border on the Alps?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_45",
+      "title": "What country borders the Caspian Sea, Persian Gulf, and Gulf of Oman?",
+      "answers": [
+        "Iran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_46",
+      "title": "What is the only country that begins with the letter \"O\" ?",
+      "answers": [
+        "Oman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_47",
+      "title": "What is the only Canadian Province which borders the Pacific Ocean?",
+      "answers": [
+        "British Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_48",
+      "title": "Which ocean is the world's largest ocean?",
+      "answers": [
+        "Pacific Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_49",
+      "title": "In which US city is the United States Naval Academy located?",
+      "answers": [
+        "Annapolis, Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_15_50",
+      "title": "In which country will you find the cities Toledo and Granada?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

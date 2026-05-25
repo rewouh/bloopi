@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_03",
+  "name": "Arts Trivia 26K 03",
+  "description": "Arts 101 - 150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_03_01",
+      "title": "What is the Roman name of the Greek goddess Aphrodite?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_02",
+      "title": "What fictional pirate commanded the Jolly Roger?",
+      "answers": [
+        "Captain Hook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_03",
+      "title": "What brief tune was Chopin's attempt to describe a puppy chasing its tail?",
+      "answers": [
+        "The Minute Waltz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_04",
+      "title": "What Tennessee Williams title character is married to Brick Pollitt?",
+      "answers": [
+        "Maggie the Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_05",
+      "title": "What was the name of the sacred river in Samuel Taylor Coleridge's Xanadu?",
+      "answers": [
+        "Alph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_06",
+      "title": "In addition to the other eleven gifts, what did my true love give to me on the twelfth day of Christmas?",
+      "answers": [
+        "Twelve drummers drumming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_07",
+      "title": "Who is the creator of Perry Mason?",
+      "answers": [
+        "Erle Stanley Gardner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_08",
+      "title": "Joseph Pulitzer founded a school of journalism at which university?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_09",
+      "title": "Who is Holden Caulfield's sister in \"The Catcher in the Rye\"?",
+      "answers": [
+        "Phoebe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_10",
+      "title": "What year saw the release of H. G. Wells' \"The Time Machine\"?",
+      "answers": [
+        "1895"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_11",
+      "title": "What nationality was author Jules Verne?",
+      "answers": [
+        "French"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_12",
+      "title": "Who published his Civil War poetry in \"Drum-Taps\"?",
+      "answers": [
+        "Walt Whitman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_13",
+      "title": "Who was the first American artist to have a painting on display in the Louvre?",
+      "answers": [
+        "James Whistler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_14",
+      "title": "In the 1975 novel \"The Moneychangers\", what is the name of Alex Vandervoort's wife?",
+      "answers": [
+        "Celia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_15",
+      "title": "Which Wagner opera shares its name with a doomed ship?",
+      "answers": [
+        "The Flying Dutchman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_16",
+      "title": "What is the name of the first book in the \"Bourne Trilogy\"?",
+      "answers": [
+        "The Bourne Identity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_17",
+      "title": "What is the fourth book in the Harry Potter series?",
+      "answers": [
+        "The Goblet Of Fire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_18",
+      "title": "What was the first Christian country in Africa?",
+      "answers": [
+        "Ethiopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_19",
+      "title": "Which is Shakespeare's shortest play?",
+      "answers": [
+        "The Comedy of Errors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_20",
+      "title": "Who was the last king of Troy killed by Achilles son Pyrrhus?",
+      "answers": [
+        "Priam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_21",
+      "title": "What is the Roman name of the Greek goddess Eris?",
+      "answers": [
+        "Discordia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_22",
+      "title": "In 1803 The Louvre was renamed to what?",
+      "answers": [
+        "Musée Napoléon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_23",
+      "title": "Whose paintings include \"Campbell's Soup Can\" and \"Green Coca-Cola Bottles\"?",
+      "answers": [
+        "Andy Warhol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_24",
+      "title": "Herodotus is commonly referred to as what?",
+      "answers": [
+        "The Father of History"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_25",
+      "title": "What musical is set in the fictional English town of Everington?",
+      "answers": [
+        "Billy Elliot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_26",
+      "title": "What is the German title of Thomas Mann's novella \"Death in Venice\"?",
+      "answers": [
+        "Der Tod in Venedig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_27",
+      "title": "In what year did the French author Charles Perrault die?",
+      "answers": [
+        "1703"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_28",
+      "title": "Where is the first underwater art museum in the U.S.?",
+      "answers": [
+        "Santa Rosa Beach, Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_29",
+      "title": "Which character killed Fyodor Karamazov?",
+      "answers": [
+        "Smerdyakov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_30",
+      "title": "Who in the New Testament got shipwrecked on one of his missionaries?",
+      "answers": [
+        "Paul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_31",
+      "title": "What was William Shakespeare's hometown?",
+      "answers": [
+        "Stratford-upon-Avon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_32",
+      "title": "After giving up mural painting, Gustav Klimt designed for what industry?",
+      "answers": [
+        "Fashion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_33",
+      "title": "Rembrandt opened his first art studio at which age?",
+      "answers": [
+        "19"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_34",
+      "title": "What baseball player is Santiago's hero in \"The Old Man and the Sea\"?",
+      "answers": [
+        "Joe DiMaggio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_35",
+      "title": "What book does each girl receive as a Christmas present at the start of \"Little Women\"?",
+      "answers": [
+        "The Pilgrim's Progress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_36",
+      "title": "What actress wrote the autobiography \"Call Me Anna\"?",
+      "answers": [
+        "Patty Duke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_37",
+      "title": "What is the only bird in the famous witches' cauldron ingredient list from Macbeth?",
+      "answers": [
+        "An owl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_38",
+      "title": "Who wrote the 1956 novel \"The Hundred and One Dalmatians\"?",
+      "answers": [
+        "Dodie Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_39",
+      "title": "Who wrote the poem \"Anthem for Doomed Youth\"?",
+      "answers": [
+        "Wilfred Owen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_40",
+      "title": "In the Book of Deuteronomy, which mountain is also known as the Mount of Blessing?",
+      "answers": [
+        "Mount Gerizim"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_41",
+      "title": "Which brotherly duo created the comic book series \"Ultra\"?",
+      "answers": [
+        "The Luna Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_42",
+      "title": "Which is the only book published by Margaret Mitchell during her lifetime?",
+      "answers": [
+        "Gone with the Wind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_43",
+      "title": "Which literary character first appeared in the novel \"The Mysterious Affair at Styles\"?",
+      "answers": [
+        "Hercule Poirot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_44",
+      "title": "In the late 1700's Francisco Goya took a job drawing for what type of royal factory?",
+      "answers": [
+        "Tapestry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_45",
+      "title": "What year did E. M. Forster publish the novel \"Howards End\"?",
+      "answers": [
+        "1910"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_46",
+      "title": "What was the first name of the American artist \"Grandma Moses\"?",
+      "answers": [
+        "Anna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_47",
+      "title": "What kind of creature is Mowgli's enemy Shere Khan in \"The Jungle Book\"?",
+      "answers": [
+        "Tiger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_48",
+      "title": "What does Miss Havisham constantly wear in Dickens' \"Great Expectations\"?",
+      "answers": [
+        "Her wedding dress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_49",
+      "title": "What year was Mario Puzo's novel \"The Godfather\" published?",
+      "answers": [
+        "1969"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_03_50",
+      "title": "Whose \"Coffee Cantata\" concerns a girl whose father demands she loses her addiction to coffee before marriage?",
+      "answers": [
+        "Johann Sebastian Bach's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

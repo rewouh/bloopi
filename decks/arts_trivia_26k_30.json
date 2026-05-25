@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_30",
+  "name": "Arts Trivia 26K 30",
+  "description": "Arts 1451 - 1500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_30_01",
+      "title": "Which author wrote the \"Winnie-the-Pooh\" books?",
+      "answers": [
+        "A. A. Milne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_02",
+      "title": "In the Bible, who are Abraham's brothers?",
+      "answers": [
+        "Nahor and Haran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_03",
+      "title": "What author created the character of Mike Hammer?",
+      "answers": [
+        "Mickey Spillane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_04",
+      "title": "As what is Beethoven's piano sonata in C-sharp minor more commonly known?",
+      "answers": [
+        "The Moonlight Sonata"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_05",
+      "title": "What is the oldest operating Broadway theater?",
+      "answers": [
+        "The Lyceum Theater"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_06",
+      "title": "Who wrote the novel \"The Moneychangers\"?",
+      "answers": [
+        "Arthur Hailey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_07",
+      "title": "The Broadway musical \"Man of La Mancha\" was based on which novel?",
+      "answers": [
+        "Don Quixote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_08",
+      "title": "What two kinds of opera do the Arts recognize?",
+      "answers": [
+        "Comic and Grand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_09",
+      "title": "From what language did English borrow the word \"guitar\"?",
+      "answers": [
+        "Spanish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_10",
+      "title": "Who was the Roman equivalent of the Greek goddess Hebe?",
+      "answers": [
+        "Juventas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_11",
+      "title": "Which character killed Clare Quilty?",
+      "answers": [
+        "Humbert Humbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_12",
+      "title": "Who is the only poet to win four Pulitzer Prizes?",
+      "answers": [
+        "Robert Frost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_13",
+      "title": "What war is the setting for the novel \"All Quiet on the Western Front\"?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_14",
+      "title": "What letter accounts for one of every eight used in written English?",
+      "answers": [
+        "E"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_15",
+      "title": "Who is the Norse god of verility, prosperity, and sun?",
+      "answers": [
+        "Frey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_16",
+      "title": "What year did Arthur Hailey publish the novel \"The Moneychangers\"?",
+      "answers": [
+        "1975"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_17",
+      "title": "Which English director founded the Theatre Workshop?",
+      "answers": [
+        "Joan Littlewood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_18",
+      "title": "Who wrote the epic poem \"Paradise Lost\"?",
+      "answers": [
+        "John Milton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_19",
+      "title": "Who was the real-life model for the character of Doris Mann in the novel \"Postcards from the Edge\"?",
+      "answers": [
+        "Debbie Reynolds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_20",
+      "title": "Who painted \"The Haywain Triptych\"?",
+      "answers": [
+        "Hieronymus Bosch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_21",
+      "title": "Who created the character Conan the Barbarian?",
+      "answers": [
+        "Robert E. Howard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_22",
+      "title": "Who wrote, Spirit of the Season in 1993?",
+      "answers": [
+        "Heather Graham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_23",
+      "title": "In Greek mythology Penthesilea was the queen of which people?",
+      "answers": [
+        "Amazons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_24",
+      "title": "What is the name of Dana and Em's father in the comic book series \"Revival\"?",
+      "answers": [
+        "Wayne Cypress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_25",
+      "title": "Whose skull does Hamlet hold and talk to in Shakespeare's play by the same name?",
+      "answers": [
+        "Yorick's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_26",
+      "title": "Who is the Greek goddess of love?",
+      "answers": [
+        "Aphrodite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_27",
+      "title": "What Italian phrase for \"from the beginning\" is used in music notation to indicate a repeated passage?",
+      "answers": [
+        "Da capo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_28",
+      "title": "Which opera was the last composed by Benjamin Britten?",
+      "answers": [
+        "Death in Venice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_29",
+      "title": "What American playwright titled his autobiography \"Timebends\"?",
+      "answers": [
+        "Arthur Miller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_30",
+      "title": "What group of artists was known for its paintings of the Catskill Mountains?",
+      "answers": [
+        "Hudson River School"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_31",
+      "title": "Galt MacDermot wrote the music for what 1967 musical?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_32",
+      "title": "Which nursery rhyme character \"kissed the girls and made them cry\"?",
+      "answers": [
+        "Georgie Porgie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_33",
+      "title": "What was the first James Bond novel?",
+      "answers": [
+        "Casino Royale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_34",
+      "title": "Which author wrote the \"Redwall\" series of novels?",
+      "answers": [
+        "Brian Jacques"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_35",
+      "title": "What color is the \"Power stone\" in the 2017 Marvel Legacy relaunch?",
+      "answers": [
+        "Purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_36",
+      "title": "In Greek mythology, who was Jason's great-grandfather?",
+      "answers": [
+        "Hermes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_37",
+      "title": "Puccini's \"Turandot\" is set in which country?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_38",
+      "title": "Which artist is known as the \"Father of Impressionism\"?",
+      "answers": [
+        "Camille Pissarro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_39",
+      "title": "In Greek mythology, \"Sirens\" were represented as a combination of woman and what animal?",
+      "answers": [
+        "Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_40",
+      "title": "Mr. Mybug was only interested in sex with Flora in what book?",
+      "answers": [
+        "Cold Comfort Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_41",
+      "title": "What was Hebe the goddess of?",
+      "answers": [
+        "Youth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_42",
+      "title": "What word comes from the Greek for \"thick-skinned\"?",
+      "answers": [
+        "Pachyderm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_43",
+      "title": "What was John Grisham's first number one bestseller?",
+      "answers": [
+        "The Firm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_44",
+      "title": "What was the Roman equivalent of the Greek god Poseidon?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_45",
+      "title": "What is the only food that cannot give Tony Chu a psychic sensation in the comic series \"Chew\"?",
+      "answers": [
+        "Beets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_46",
+      "title": "What is the land of the giants called in Gulliver’s Travels?",
+      "answers": [
+        "Brobdingnag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_47",
+      "title": "Who wrote the novel \"Tarzan of the Apes\"?",
+      "answers": [
+        "Edgar Rice Burroughs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_48",
+      "title": "In the novel by Jules Verne, who made it around the world in 80 days?",
+      "answers": [
+        "Phileas Fogg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_49",
+      "title": "Who wrote the novel \"The Moonstone\"?",
+      "answers": [
+        "Wilkie Collins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_30_50",
+      "title": "What philosopher/author lived on the shores of Walden Pond?",
+      "answers": [
+        "Henry David Thoreau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

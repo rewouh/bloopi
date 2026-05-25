@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_48",
+  "name": "Geography Trivia 26K 48",
+  "description": "Geography 2351 - 2400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_48_01",
+      "title": "Which U.S. state is closest to the Tropic of Cancer?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_02",
+      "title": "What is the second largest country in South America?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_03",
+      "title": "What is the capital of Fiji?",
+      "answers": [
+        "Suva"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_04",
+      "title": "What creature do the Galapagos Islands take their name from?",
+      "answers": [
+        "Tortoise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_05",
+      "title": "The Okapi is native to which African country?",
+      "answers": [
+        "Congo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_06",
+      "title": "The Bering Strait separates Russia from which US state?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_07",
+      "title": "What country has 61 as its International Calling Code?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_08",
+      "title": "In which sea would you find the island of Bornholm?",
+      "answers": [
+        "Baltic Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_09",
+      "title": "Which continental South American country borders Panama?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_10",
+      "title": "What city, located on the Mississippi River, is known as \"The Gateway to the West\"?",
+      "answers": [
+        "St. Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_11",
+      "title": "Which US state was named after the King of France?",
+      "answers": [
+        "Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_12",
+      "title": "What country is directly north of the continental United States?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_13",
+      "title": "What country is the Mekong Delta located in?",
+      "answers": [
+        "Vietnam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_14",
+      "title": "Which US state is nicknamed the \"Old Line State\"?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_15",
+      "title": "What was the Asian nation of Myanmar known as prior to 1989?",
+      "answers": [
+        "Burma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_16",
+      "title": "What is the capital of the United Arab Emirates?",
+      "answers": [
+        "Abu Dhabi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_17",
+      "title": "What is Moscow's famed opera house?",
+      "answers": [
+        "The Bolshoi Theatre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_18",
+      "title": "Which ocean is between South America and Africa?",
+      "answers": [
+        "Atlantic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_19",
+      "title": "Where do people traditionally dance the flamenco?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_20",
+      "title": "Where is the world's shortest commercial runway?",
+      "answers": [
+        "Saba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_21",
+      "title": "Which state is located directly to the east of Washington D.C.?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_22",
+      "title": "What is the highest navigable body of water in the world?",
+      "answers": [
+        "Lake Titicaca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_23",
+      "title": "What country are you most likely to hear its residents speak Malagasy?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_24",
+      "title": "Which is the third largest Caribbean island?",
+      "answers": [
+        "Jamaica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_25",
+      "title": "Australia’s capital city, Canberra, is located in which territory?",
+      "answers": [
+        "Australian Capital Territory"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_26",
+      "title": "What three-mile-wide New Brunswick island was FDR's summer home?",
+      "answers": [
+        "Campobello"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_27",
+      "title": "What US city is famous for its French Quarter?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_28",
+      "title": "Where is Normandy?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_29",
+      "title": "What is the capital of the state of Mississippi?",
+      "answers": [
+        "Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_30",
+      "title": "Which city in the U.S. is home to the National Mustard Museum?",
+      "answers": [
+        "Middleton, Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_31",
+      "title": "In which continent would you find the Atlas Mountains?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_32",
+      "title": "What is the state animal for Florida?",
+      "answers": [
+        "Panther"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_33",
+      "title": "NATO's headquarters are located in which city?",
+      "answers": [
+        "Brussels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_34",
+      "title": "Where are the doldrums?",
+      "answers": [
+        "Near the equator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_35",
+      "title": "What is the two-letter postal code for the state of Hawaii?",
+      "answers": [
+        "HI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_36",
+      "title": "Pamlico Sound is located along the shores of which state?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_37",
+      "title": "What three countries does Borneo belong to?",
+      "answers": [
+        "Indonesia, Malaysia, and Brunei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_38",
+      "title": "What is the capital of the Australia's Northern Territory?",
+      "answers": [
+        "Darwin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_39",
+      "title": "Where in England is the Stonehenge monument located?",
+      "answers": [
+        "Wiltshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_40",
+      "title": "Where can you visit Reflection Canyon?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_41",
+      "title": "What is the tourism slogan for the U.S.?",
+      "answers": [
+        "\"All within your reach\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_42",
+      "title": "In which city could you find Bondi beach?",
+      "answers": [
+        "Sydney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_43",
+      "title": "In what state would you find the Black Rock Desert?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_44",
+      "title": "Cincinnati is located on the shores of what river?",
+      "answers": [
+        "Ohio River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_45",
+      "title": "Which country does Denmark share its only land border with?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_46",
+      "title": "What country's flag features a trident?",
+      "answers": [
+        "Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_47",
+      "title": "What city is home to the Telstra Tower?",
+      "answers": [
+        "Canberra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_48",
+      "title": "What is the only National Park located in Michigan?",
+      "answers": [
+        "Isle Royale National Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_49",
+      "title": "In which country was the Rosetta Stone found?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_48_50",
+      "title": "What Surrey town is famed for its salts?",
+      "answers": [
+        "Epsom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

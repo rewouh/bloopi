@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_34",
+  "name": "Entertainment Trivia 26K 34",
+  "description": "Entertainment 1651 - 1700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_34_01",
+      "title": "What year marked the appearance of Betty Boop?",
+      "answers": [
+        "1930"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_02",
+      "title": "What movie features the following line \"This war talk’s spoiling all the fun at every party this spring\"?",
+      "answers": [
+        "Gone with the Wind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_03",
+      "title": "Heather O'Rourke was best known for her role in what movie franchise?",
+      "answers": [
+        "Poltergeist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_04",
+      "title": "What kind of gun did Han Solo use in the Star Wars films?",
+      "answers": [
+        "Mauser C96"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_05",
+      "title": "Who played Rodney Trotter in the TV series \"Only Fools and Horses\"?",
+      "answers": [
+        "Nicholas Lyndhurst"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_06",
+      "title": "What Disney movie was the song \"Speechless\" featured in?",
+      "answers": [
+        "Aladdin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_07",
+      "title": "An episode of what sitcom spawned the phrase \"jumped the shark\"?",
+      "answers": [
+        "Happy Days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_08",
+      "title": "What movie follows the ins and outs of Lester Burnham's mid-life crisis?",
+      "answers": [
+        "American Beauty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_09",
+      "title": "Who wrote the music for \"Joseph and the Amazing Technicolor Dreamcoat\"?",
+      "answers": [
+        "Andrew Lloyd Webber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_10",
+      "title": "What Broadway Musical is based off the opera \"La Bohem\"?",
+      "answers": [
+        "Rent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_11",
+      "title": "What TV sidekick was portrayed by Jay Silverheels?",
+      "answers": [
+        "Tonto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_12",
+      "title": "Which TV show used the song \"Love and Marriage\" by Frank Sinatra as its theme song?",
+      "answers": [
+        "Married...with Children"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_13",
+      "title": "Which \"Simpsons\" character has a doctorate in Computer Science?",
+      "answers": [
+        "Apu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_14",
+      "title": "Who played the role of the Joker in the 1989 \"Batman\" movie?",
+      "answers": [
+        "Jack Nicholson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_15",
+      "title": "What Creedence Clearwater Revival song became a signature song for Ike & Tina Turner?",
+      "answers": [
+        "Proud Mary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_16",
+      "title": "Between 1964 and 1975, what Motown group scored 37 Top 40 hits?",
+      "answers": [
+        "The Temptations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_17",
+      "title": "Who provided the original voice for The Iron Giant?",
+      "answers": [
+        "Vin Diesel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_18",
+      "title": "Who directed the 1956 film \"High Society\"?",
+      "answers": [
+        "Charles Walters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_19",
+      "title": "What fictitious planet did ALF claim to be an alien from?",
+      "answers": [
+        "Melmac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_20",
+      "title": "What was the first spin­-off series of the TV show \"The Cosby Show\"?",
+      "answers": [
+        "A Different World"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_21",
+      "title": "Who directed the movie \"Reservoir Dogs\"?",
+      "answers": [
+        "Quentin Tarantino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_22",
+      "title": "During the 1960's, what musician formed and fronted the band \"The Mothers of Invention\"?",
+      "answers": [
+        "Frank Zappa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_23",
+      "title": "Who was the youngest member of the Jackson 5?",
+      "answers": [
+        "Michael Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_24",
+      "title": "How does Tony Montana pronounce his home country in Scarface?",
+      "answers": [
+        "Coo-ba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_25",
+      "title": "What was the name of the protagonist in the 2016 film “Zootopia”?",
+      "answers": [
+        "Judy Hopps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_26",
+      "title": "What did the Wicked Witch of the West spell out with her broomstick in the sky in the 1939 film \"The Wizard of Oz\"?",
+      "answers": [
+        "Surrender Dorothy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_27",
+      "title": "The pop band, The Bangles, would like for their fans to walk like what?",
+      "answers": [
+        "An Egyptian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_28",
+      "title": "Which US soul singer was known as \"Lady Day\"?",
+      "answers": [
+        "Billie Holiday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_29",
+      "title": "What year saw the release of the first \"Planet of the Apes\" film?",
+      "answers": [
+        "1968"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_30",
+      "title": "What band recorded the album \"A Night at the Opera\"?",
+      "answers": [
+        "Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_31",
+      "title": "In the movie \"Ferris Bueller’s Day Off\", what was Ferris’ girlfriend’s first name?",
+      "answers": [
+        "Sloan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_32",
+      "title": "What is the name of the Japanese anime starring a wandering samurai with a cross shaped scar?",
+      "answers": [
+        "Rurouni Kenshin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_33",
+      "title": "Who does Bruce Banner turn into when he gets angry?",
+      "answers": [
+        "The Hulk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_34",
+      "title": "What year did singer Cherilyn Sarkisian La Piere Bono Allman legally change her name to just Cher?",
+      "answers": [
+        "1978"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_35",
+      "title": "In the TV show \"The Simpsons\", whose mother did Comic Book Guy once date?",
+      "answers": [
+        "Principal Skinner's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_36",
+      "title": "What country's civil war is the setting for the film \"Blood Diamond\"?",
+      "answers": [
+        "Sierra Leone's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_37",
+      "title": "What is the first name of Inspector Morse in the TV series by the same name?",
+      "answers": [
+        "Endeavour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_38",
+      "title": "What was the name of the item Andy went to fetch from the storage room in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Hexlite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_39",
+      "title": "Who plays the last man on Earth in I Am Legend?",
+      "answers": [
+        "Will Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_40",
+      "title": "What was the first Broadway adaptation by Disney?",
+      "answers": [
+        "\"Beauty and the Beast\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_41",
+      "title": "Which Star Wars character is the first to be partially named after director George Lucas’ son?",
+      "answers": [
+        "Dexter Jettster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_42",
+      "title": "What character from a pop song wears electric boots and a mohair suit?",
+      "answers": [
+        "Bennie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_43",
+      "title": "What Van Halen album, featuring Sammy Hagar on vocals, had only numbers in the title?",
+      "answers": [
+        "5150"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_44",
+      "title": "Who directed the 1989 film \"The War of the Roses\"?",
+      "answers": [
+        "Danny DeVito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_45",
+      "title": "In what decade does the movie \"Girl, Interrupted\" take place?",
+      "answers": [
+        "1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_46",
+      "title": "What 1986 Europe hit was Gob's magic act theme song on TV's \"Arrested Development\"?",
+      "answers": [
+        "The Final Countdown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_47",
+      "title": "What is the name of the popular Christmas song that Will’s dad composed in the 2002 film \"About a Boy\"?",
+      "answers": [
+        "Santa’s Super Sleigh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_48",
+      "title": "What actor/singer played the role of Right Arm in the 1997 movie \"The Fifth Element\"?",
+      "answers": [
+        "Tricky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_49",
+      "title": "What movie was Robert Downey Jr.'s first movie?",
+      "answers": [
+        "Pound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_34_50",
+      "title": "What movie helped popularize disco music worldwide?",
+      "answers": [
+        "Saturday Night Fever"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

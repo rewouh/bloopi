@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_65",
+  "name": "Science Trivia 26K 65",
+  "description": "Science 3201 - 3250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_65_01",
+      "title": "Herpetophobia is the fear of what?",
+      "answers": [
+        "Reptiles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_02",
+      "title": "What percent of jellyfish is water?",
+      "answers": [
+        "95%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_03",
+      "title": "What type of plant is an Organ Pipe?",
+      "answers": [
+        "Cactus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_04",
+      "title": "What is the more common name for the star cluster, Pleiades?",
+      "answers": [
+        "Seven Sisters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_05",
+      "title": "What does Fauna refer to?",
+      "answers": [
+        "Animal life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_06",
+      "title": "What is Gregor Mendel known to be the father of?",
+      "answers": [
+        "Genetics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_07",
+      "title": "What are you afraid of if you have \"chionophobia\"?",
+      "answers": [
+        "Snow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_08",
+      "title": "What fruit did Algerian priest Pierre Clement create in 1902?",
+      "answers": [
+        "Clementine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_09",
+      "title": "Atoms of the same chemical element but with different atomic masses are known as what?",
+      "answers": [
+        "Isotopes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_10",
+      "title": "Tachophobia is the fear of what?",
+      "answers": [
+        "Speed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_11",
+      "title": "What fruit was once called a Persian apple?",
+      "answers": [
+        "Peach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_12",
+      "title": "What element's atomic number is 74?",
+      "answers": [
+        "Tungsten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_13",
+      "title": "In which hemisphere can penguins be found?",
+      "answers": [
+        "Southern"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_14",
+      "title": "What does an ichthyologist study?",
+      "answers": [
+        "Fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_15",
+      "title": "What is the chemical symbol for Hydrogen?",
+      "answers": [
+        "H"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_16",
+      "title": "What do you call a group of skunks?",
+      "answers": [
+        "A surfeit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_17",
+      "title": "What scoop out cirques, coombs, and corries?",
+      "answers": [
+        "Glaciers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_18",
+      "title": "What is the study of the Sun called?",
+      "answers": [
+        "Heliology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_19",
+      "title": "What fruit comes in Key and Kaffir variety?",
+      "answers": [
+        "Limes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_20",
+      "title": "What is the name for a group of cobras?",
+      "answers": [
+        "Quiver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_21",
+      "title": "In what organ of the human body would you find the malleus?",
+      "answers": [
+        "The ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_22",
+      "title": "What layer of the Earth's atmosphere makes radio communications possible?",
+      "answers": [
+        "Ionosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_23",
+      "title": "In what year was DNA first isolated?",
+      "answers": [
+        "1869"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_24",
+      "title": "What is the fattiest human organ?",
+      "answers": [
+        "Brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_25",
+      "title": "DuPont chemist Wallace Carothers developed what new plastic material in 1930?",
+      "answers": [
+        "Nylon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_26",
+      "title": "What's the term for a leopard's spots?",
+      "answers": [
+        "Rosettes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_27",
+      "title": "Oranges are a hybrid of which two fruits?",
+      "answers": [
+        "Mandarin and pomelo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_28",
+      "title": "What part of the human body is affected by scoliosis?",
+      "answers": [
+        "Spine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_29",
+      "title": "Theobromine, a substance found in what aphrodisiac, is poisonous to dogs?",
+      "answers": [
+        "Chocolate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_30",
+      "title": "What disorder's name is derived from the Greek for \"without appetite\"?",
+      "answers": [
+        "Anorexia's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_31",
+      "title": "Laliophobia is the fear of what?",
+      "answers": [
+        "Speaking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_32",
+      "title": "In computing, the term \"bit\" is an abbreviation of what?",
+      "answers": [
+        "Binary Digit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_33",
+      "title": "Which planet has moons named Hippocamp and Proteus?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_34",
+      "title": "What openings in a leaf allow gas exchange?",
+      "answers": [
+        "Stomata"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_35",
+      "title": "What potentially fatal disease is also known as \"rabbit fever\"?",
+      "answers": [
+        "Tularemia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_36",
+      "title": "Pineapples, kiwis and papayas contain enzymes that can do what?",
+      "answers": [
+        "Tenderize meat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_37",
+      "title": "How long does a day last on Saturn?",
+      "answers": [
+        "Approximately 10.5 hours"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_38",
+      "title": "What is an emasculated stallion called?",
+      "answers": [
+        "Gelding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_39",
+      "title": "What animal is known as \"the unicorn of the sea\"?",
+      "answers": [
+        "Narwhal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_40",
+      "title": "What is another name for Nitre?",
+      "answers": [
+        "Saltpetre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_41",
+      "title": "A heptagon has how many sides?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_42",
+      "title": "Which scientific term refers to the formation of a new species?",
+      "answers": [
+        "Speciation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_43",
+      "title": "What gives eyes their color?",
+      "answers": [
+        "Melanin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_44",
+      "title": "What is the minimum number of bars on an abacus?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_45",
+      "title": "What is the center of an atom called?",
+      "answers": [
+        "Nucleus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_46",
+      "title": "Who invented the equals symbol?",
+      "answers": [
+        "Robert Recorde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_47",
+      "title": "What type of animal is a Borzoi?",
+      "answers": [
+        "A dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_48",
+      "title": "Zoophobia is the fear of what?",
+      "answers": [
+        "Animals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_49",
+      "title": "What movie award appears in the International Radio Alphabet?",
+      "answers": [
+        "Oscar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_65_50",
+      "title": "Mageirocophobia is the fear of what?",
+      "answers": [
+        "Cooking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

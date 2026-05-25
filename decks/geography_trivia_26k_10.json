@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_10",
+  "name": "Geography Trivia 26K 10",
+  "description": "Geography 451 - 500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_10_01",
+      "title": "In which continent would you find the Volga River?",
+      "answers": [
+        "Europe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_02",
+      "title": "Which European city is served by Galileo Galilei Airport?",
+      "answers": [
+        "Pisa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_03",
+      "title": "What is the tallest peak in Colorado?",
+      "answers": [
+        "Mt. Elbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_04",
+      "title": "What is the only US state that ends with the state's own postal abbreviation?",
+      "answers": [
+        "Kentucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_05",
+      "title": "What was the last Province or Territory that joined Canada?",
+      "answers": [
+        "Nunavut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_06",
+      "title": "In which North American city would you find the C.N. Tower?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_07",
+      "title": "The telephone country code 82 would connect you with which country?",
+      "answers": [
+        "South Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_08",
+      "title": "What is the longest river solely in England?",
+      "answers": [
+        "The Thames"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_09",
+      "title": "What postal code has Canada Post assigned to Santa Claus's residence at the North Pole?",
+      "answers": [
+        "H0H 0H0"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_10",
+      "title": "Where is the world’s longest underwater cave?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_11",
+      "title": "\"The Running of the Bulls\" event is held in what Spanish city?",
+      "answers": [
+        "Pamplona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_12",
+      "title": "What are Easter Island's famous statues called?",
+      "answers": [
+        "Moai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_13",
+      "title": "Which US state is nicknamed the \"Tar Heel State\"?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_14",
+      "title": "What country proclaimed the birth of its billionth citizen in 2000?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_15",
+      "title": "What country borders Ukraine to the east?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_16",
+      "title": "What European city celebrates Christmas every year with a straw goat?",
+      "answers": [
+        "Gävle, Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_17",
+      "title": "What was the Republic of Nauru previously known as?",
+      "answers": [
+        "Pleasant Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_18",
+      "title": "What is the capital of Armenia?",
+      "answers": [
+        "Yerevan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_19",
+      "title": "What country's major seaport is Alexandria?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_20",
+      "title": "What is the record snowfall in Phoenix, Arizona?",
+      "answers": [
+        "One inch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_21",
+      "title": "The Wyandotte Cave is located in which US state?",
+      "answers": [
+        "Indiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_22",
+      "title": "Which country’s late monarch, King Bhumibol Adulyadej, got a patent for a rainmaking technology?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_23",
+      "title": "Which mountain range is home to the largest U.S. National Park?",
+      "answers": [
+        "Saint Elias Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_24",
+      "title": "What two notable leaders attended the Casablanca Conference?",
+      "answers": [
+        "Roosevelt and Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_25",
+      "title": "West Virginia has a shoreline along which ocean?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_26",
+      "title": "The US state of California was originally part of which Spanish territorial colony?",
+      "answers": [
+        "New Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_27",
+      "title": "Where is the \"Top of Europe\"?",
+      "answers": [
+        "Jungfraujoch, Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_28",
+      "title": "What is the capital of Zimbabwe?",
+      "answers": [
+        "Harare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_29",
+      "title": "In what country would you find the mouths of the Dnieper river?",
+      "answers": [
+        "Ukraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_30",
+      "title": "In which European city would you find the Rijksmuseum?",
+      "answers": [
+        "Amsterdam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_31",
+      "title": "What island has Australia’s tallest mountain?",
+      "answers": [
+        "Heard Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_32",
+      "title": "Thimphu is the capital of which country?",
+      "answers": [
+        "Bhutan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_33",
+      "title": "What California region includes Alameda and Contra Costa counties?",
+      "answers": [
+        "East Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_34",
+      "title": "Which state is directly south of Virginia?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_35",
+      "title": "Where is Pennsylvania Station?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_36",
+      "title": "What South American cities inhabitants are called \"portenos\"?",
+      "answers": [
+        "Buenos Aires"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_37",
+      "title": "What is the capital of Guam?",
+      "answers": [
+        "Hagatna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_38",
+      "title": "Which country has the most embassies abroad?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_39",
+      "title": "The Gulf of Bothnia is considered to be part of which continent?",
+      "answers": [
+        "Europe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_40",
+      "title": "The Band-Aid supergroup was formed in 1984 to raise money for famine relief in what troubled African nation?",
+      "answers": [
+        "Ethiopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_41",
+      "title": "In what Australian state would you find Parkes?",
+      "answers": [
+        "New South Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_42",
+      "title": "What California desert boasted the first solar power plant able to store heat, in 1996?",
+      "answers": [
+        "Mojave Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_43",
+      "title": "Lake Titicaca sits on the border between what two nations?",
+      "answers": [
+        "Bolivia and Peru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_44",
+      "title": "What US state's southern border is marked by the original Mason Dixon Line?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_45",
+      "title": "What is the biggest country without a river?",
+      "answers": [
+        "Saudi Arabia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_46",
+      "title": "What German city is famed for a scent it produces?",
+      "answers": [
+        "Cologne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_47",
+      "title": "Mount Elbrus is the highest mountain in which country?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_48",
+      "title": "Which desert is found in South East Mongolia and Northern China?",
+      "answers": [
+        "Gobi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_49",
+      "title": "Into which bay does the Golden Gate Strait lead?",
+      "answers": [
+        "San Francisco Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_10_50",
+      "title": "Where can you find the biggest glacier outside of Antarctica?",
+      "answers": [
+        "Greenland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

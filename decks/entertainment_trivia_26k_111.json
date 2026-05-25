@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_111",
+  "name": "Entertainment Trivia 26K 111",
+  "description": "Entertainment 5501 - 5550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_111_01",
+      "title": "Who played the role of the US president in the movie \"Fail-Safe\"?",
+      "answers": [
+        "Henry Fonda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_02",
+      "title": "Which band member of The Germs died of drug overdose?",
+      "answers": [
+        "Darby Crash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_03",
+      "title": "Who first recorded the song \"Venus\"?",
+      "answers": [
+        "Shocking Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_04",
+      "title": "In the opening scene of the credits for \"The Brady Brunch\", which of the females appears in the upper corner?",
+      "answers": [
+        "Marcia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_05",
+      "title": "In which Star Wars movie does Darth Vader reveal that he is Luke Skywalker's father?",
+      "answers": [
+        "The Empire Strikes Back"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_06",
+      "title": "What sport is the focus of the movie \"Lagaan\"?",
+      "answers": [
+        "Cricket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_07",
+      "title": "In the TV show \"The Simpsons\", which character is allergic to regular milk?",
+      "answers": [
+        "Milhouse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_08",
+      "title": "Who's the lead singer of the band \"Simply Red\"?",
+      "answers": [
+        "Mick Hucknall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_09",
+      "title": "Whose Atlantic recordings are collected in a set called \"Queen of Soul\"?",
+      "answers": [
+        "Aretha Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_10",
+      "title": "What dance craze inspired the 1990 film \"The Forbidden Dance\"?",
+      "answers": [
+        "The lambada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_11",
+      "title": "Fond of flesh and fava beans, what bad guy was named the American film institutes top villain of all time?",
+      "answers": [
+        "Hannibal Lecter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_12",
+      "title": "What French word for \"jewel\" became a common name for American movie houses?",
+      "answers": [
+        "Bijou"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_13",
+      "title": "Which two Spice Girls shared the same first name?",
+      "answers": [
+        "Scary and Sporty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_14",
+      "title": "Who directed the 2011 movie \"Red State\"?",
+      "answers": [
+        "Kevin Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_15",
+      "title": "What band earned their first #1 hit song with \"Boondocks\"?",
+      "answers": [
+        "Little Big Town"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_16",
+      "title": "What nickname does Marshall Samuel Gerard go by in the 1993 movie \"The Fugitive\"?",
+      "answers": [
+        "Big Dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_17",
+      "title": "What decade did the TV special \"It's the Great Pumpkin, Charlie Brown\" come out in?",
+      "answers": [
+        "1960s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_18",
+      "title": "Which band recorded the song \"Killing in the Name\"?",
+      "answers": [
+        "Rage Against the Machine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_19",
+      "title": "Who joined Alicia Keys on the 2002 hit song \"Gangsta Lovin'\"?",
+      "answers": [
+        "Eve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_20",
+      "title": "Which footballer starred in the film \"Lock, Stock and Two Smoking Barrels\"?",
+      "answers": [
+        "Vinnie Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_21",
+      "title": "What movie gave us the line \"Nobody puts Baby in a corner!\"?",
+      "answers": [
+        "Dirty Dancing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_22",
+      "title": "Who recorded the album \"Parallel Lines\"?",
+      "answers": [
+        "Blondie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_23",
+      "title": "What actor played the role of Jack Horner in the movie \"Boogie Nights\"?",
+      "answers": [
+        "Burt Reynolds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_24",
+      "title": "What real American Revolution battle served as inspiration for the film \"The Patriot?\"",
+      "answers": [
+        "The Battle of Cowpens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_25",
+      "title": "In the TV show \"Family Guy\", Franz Gutentag was once what?",
+      "answers": [
+        "A Nazi war criminal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_26",
+      "title": "What city hosted the debut of ‘90s reality TV pioneer \"The Real World\"?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_27",
+      "title": "In The Simpsons, according to Mr. Burns, who was a man that could get things done?",
+      "answers": [
+        "Rommel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_28",
+      "title": "What artist sang the 1972 number 1 US hit, \"Alone Again (Naturally)\"?",
+      "answers": [
+        "Gilbert O'Sulivan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_29",
+      "title": "In season 13 of the Big Brother show, half of this duo was the first eliminated and the other half remained?",
+      "answers": [
+        "Keith and Porsche"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_30",
+      "title": "What was Leonard Nimoy's character's name in Star Trek?",
+      "answers": [
+        "Mr. Spock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_31",
+      "title": "Which of Mark Wahlberg's brothers appears in the film \"The Sixth Sense\"?",
+      "answers": [
+        "Donnie Wahlberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_32",
+      "title": "What is the name of the disembodied hand in \"The Addams Family\"?",
+      "answers": [
+        "Thing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_33",
+      "title": "Who won an Oscar for her performance in \"Mary Poppins\"?",
+      "answers": [
+        "Julie Andrews"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_34",
+      "title": "Who was the first winner of the UK \"Big Brother\"?",
+      "answers": [
+        "Craig Phillips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_35",
+      "title": "In Disney's \"Snow White\", what kind of animal heart does the Huntsman give to the Queen in place of Snow White's?",
+      "answers": [
+        "A Pig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_36",
+      "title": "What kind of animal is the title character in the 2003 movie \"Finding Nemo\"?",
+      "answers": [
+        "Clownfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_37",
+      "title": "Which 1954 film won eight Oscars?",
+      "answers": [
+        "On the Waterfront"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_38",
+      "title": "The Emmy Awards honor excellence in what industry?",
+      "answers": [
+        "Television"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_39",
+      "title": "In \"Howl's Moving Castle\", Sophie tells Howl that Calcifer hired her as a what?",
+      "answers": [
+        "Cleaning lady"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_40",
+      "title": "What year did Nirvana frontman, Kurt Cobain, die?",
+      "answers": [
+        "1994"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_41",
+      "title": "What 1922 silent picture featured a vampire?",
+      "answers": [
+        "Nosferatu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_42",
+      "title": "In which country is the musical and film \"Mamma Mia\" set?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_43",
+      "title": "\"The War of the Worlds\" was first broadcast on radio in what year?",
+      "answers": [
+        "1938"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_44",
+      "title": "What is the name of the leader of the gang that often assaulted Andy in prison in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Bogs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_45",
+      "title": "On the day of his wife's murder, what drink was Andy drinking in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Bourbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_46",
+      "title": "What TV character's first spoken words were \"Goodbye kids\"?",
+      "answers": [
+        "Clarabell the Clown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_47",
+      "title": "What is the name of Holly's cat in \"Breakfast at Tiffany's\"?",
+      "answers": [
+        "Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_48",
+      "title": "Who directed the Lord of the Rings movies?",
+      "answers": [
+        "Peter Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_49",
+      "title": "What popular Christmas song did Eartha Kitt record in 1953?",
+      "answers": [
+        "Santa Baby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_111_50",
+      "title": "What US city was Walt Disney born in?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

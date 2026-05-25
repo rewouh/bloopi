@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_37",
+  "name": "Science Trivia 26K 37",
+  "description": "Science 1801 - 1850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_37_01",
+      "title": "Which chemical element did the ancients call brimstone?",
+      "answers": [
+        "Sulfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_02",
+      "title": "\"Consumption\" was the former name of what disease?",
+      "answers": [
+        "Tuberculosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_03",
+      "title": "What is the chemical symbol for Calcium?",
+      "answers": [
+        "Ca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_04",
+      "title": "Who is credited with the discovery of penicillin?",
+      "answers": [
+        "Alexander Fleming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_05",
+      "title": "What is the change from a chrysalis to a butterfly called?",
+      "answers": [
+        "Metamorphosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_06",
+      "title": "What seven-letter \"B\"­word is often applied to those suffering from manic depression?",
+      "answers": [
+        "Bipolar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_07",
+      "title": "At what wind speed does a tropical storm become a hurricane?",
+      "answers": [
+        "74mph (119km/hr)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_08",
+      "title": "What is the name for a female fox?",
+      "answers": [
+        "Vixen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_09",
+      "title": "The fruit of the rose plant shares its name with what part of the body?",
+      "answers": [
+        "The hips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_10",
+      "title": "What shape is produced by bees when constructing a honeycomb?",
+      "answers": [
+        "A hexagon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_11",
+      "title": "In mathematics which prefix refers to 10 to the power of minus 15?",
+      "answers": [
+        "Femto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_12",
+      "title": "Encephalitis is the swelling of what bodily organ?",
+      "answers": [
+        "The brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_13",
+      "title": "What is the second derivative of displacement?",
+      "answers": [
+        "Instantaneous Acceleration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_14",
+      "title": "Killer Whales are more commonly seen on which North American coast?",
+      "answers": [
+        "West coast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_15",
+      "title": "Trypophobia is the fear of what?",
+      "answers": [
+        "Holes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_16",
+      "title": "What is the name of the robotic arm used on some of NASA’s Space Shuttle flights?",
+      "answers": [
+        "Canadarm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_17",
+      "title": "What is the chemical name for a dentist's \"laughing gas\"?",
+      "answers": [
+        "Nitrous oxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_18",
+      "title": "What is another name for the eggplant?",
+      "answers": [
+        "Aubergine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_19",
+      "title": "What are catfish missing that many other fish have?",
+      "answers": [
+        "Scales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_20",
+      "title": "Gastritis affects which body organ?",
+      "answers": [
+        "Stomach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_21",
+      "title": "What digit does not exist in Roman Numerals?",
+      "answers": [
+        "Zero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_22",
+      "title": "What is the chemical name for the mineral known as \"Fool's gold\"?",
+      "answers": [
+        "Iron sulfide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_23",
+      "title": "All planets in our Solar System except Earth are named after Gods from where?",
+      "answers": [
+        "The Roman Pantheon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_24",
+      "title": "What is the slowest moving, living land mammal?",
+      "answers": [
+        "Three-toed sloth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_25",
+      "title": "What is the common term for an injury to the neck caused by a jerk of the head?",
+      "answers": [
+        "Whiplash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_26",
+      "title": "Gregor Mendel bred what plant to discover the laws of inheritance?",
+      "answers": [
+        "Pea plants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_27",
+      "title": "How much does the adult giraffe heart weigh?",
+      "answers": [
+        "25 lbs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_28",
+      "title": "Where are carpal bones found?",
+      "answers": [
+        "Wrist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_29",
+      "title": "What are deheaded, deveined and sorted by size in a Laitram machine?",
+      "answers": [
+        "Shrimp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_30",
+      "title": "This protein makes the blood red in color?",
+      "answers": [
+        "Hemoglobin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_31",
+      "title": "What color does blue litmus paper change to in acid?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_32",
+      "title": "What are the suction-like cups on a gecko's toes that allows it to attach itself to any surface called?",
+      "answers": [
+        "Setae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_33",
+      "title": "What flowers are known as \"mums\"?",
+      "answers": [
+        "Chrysanthemums"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_34",
+      "title": "What type of animal flew to space in the US V2 rocket launched in 1949?",
+      "answers": [
+        "A monkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_35",
+      "title": "What astronomical model positioned the Sun near the center of the Universe?",
+      "answers": [
+        "Copernican model"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_36",
+      "title": "A \"scarlet runner\" is a type of what?",
+      "answers": [
+        "Plant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_37",
+      "title": "Which insect uses the Milky Way to navigate?",
+      "answers": [
+        "African dung beetle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_38",
+      "title": "On the Mohs scale, what is the softest mineral?",
+      "answers": [
+        "Talc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_39",
+      "title": "What is the chemical symbol for the element \"Cesium\"?",
+      "answers": [
+        "Cs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_40",
+      "title": "Which element appears eighth on the periodic table?",
+      "answers": [
+        "Oxygen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_41",
+      "title": "How many toes does a gorilla have?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_42",
+      "title": "How many hairs does the average human lose each day?",
+      "answers": [
+        "Between 40 and 100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_43",
+      "title": "What is the SI physical unit of dynamic viscosity?",
+      "answers": [
+        "Pascal-second"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_44",
+      "title": "In what organ of the human body would you find the islets of Langerhans?",
+      "answers": [
+        "The pancreas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_45",
+      "title": "Jaundice tends to turn one's skin, and sometimes the whites of the eyes, what color?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_46",
+      "title": "What is the name of Pluto's largest satellite?",
+      "answers": [
+        "Charon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_47",
+      "title": "Which planet is known for its rings?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_48",
+      "title": "The cerebrum is the largest part of what organ?",
+      "answers": [
+        "The brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_49",
+      "title": "Which spacecraft was the first one to leave the Solar System?",
+      "answers": [
+        "Voyager 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_37_50",
+      "title": "The North Star is also known as?",
+      "answers": [
+        "Polaris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

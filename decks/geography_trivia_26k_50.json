@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_50",
+  "name": "Geography Trivia 26K 50",
+  "description": "Geography 2451 - 2500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_50_01",
+      "title": "What is the capital of Morocco?",
+      "answers": [
+        "Rabat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_02",
+      "title": "Which city is served by Schwechat airport?",
+      "answers": [
+        "Vienna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_03",
+      "title": "On which river is Warsaw to be found?",
+      "answers": [
+        "Vistula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_04",
+      "title": "What city was formerly known as Saigon?",
+      "answers": [
+        "Ho Chi Minh City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_05",
+      "title": "What aquifer provides water for Nebraska, Kansas and Oklahoma?",
+      "answers": [
+        "Ogallala aquifer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_06",
+      "title": "What is the longest river in Australia?",
+      "answers": [
+        "The Murray River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_07",
+      "title": "What is the last remaining French territory in North America?",
+      "answers": [
+        "Saint-Pierre and Miquelon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_08",
+      "title": "What city was host to the first official Association football game in 1863?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_09",
+      "title": "In what city would you find the most famous street named \"Bourbon Street\"?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_10",
+      "title": "What modern city is situated near Mount Vesuvius?",
+      "answers": [
+        "Naples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_11",
+      "title": "What was the most-visited attraction in the UK in 2017?",
+      "answers": [
+        "British Museum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_12",
+      "title": "What river flows between Nebraska and Iowa?",
+      "answers": [
+        "Missouri River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_13",
+      "title": "What is the capital of Australia's Western Australia state?",
+      "answers": [
+        "Perth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_14",
+      "title": "What is the only US state with only one syllable?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_15",
+      "title": "How many countries border Chile?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_16",
+      "title": "Which famous French civil engineer is rumoured to have designed Angola’s Iron Palace?",
+      "answers": [
+        "Gustave Eiffel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_17",
+      "title": "The Republic of Benin shares a border with which other African country to the east?",
+      "answers": [
+        "Nigeria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_18",
+      "title": "Warsaw is the capital of which European country?",
+      "answers": [
+        "Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_19",
+      "title": "What country has the largest tar pit?",
+      "answers": [
+        "Trinidad and Tobago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_20",
+      "title": "What colors are the Swiss Flag?",
+      "answers": [
+        "Red and White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_21",
+      "title": "What is the official State fruit of New York?",
+      "answers": [
+        "Apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_22",
+      "title": "What city's buildings include the John Hancock Center and the Amoco Building?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_23",
+      "title": "The remains of which ancient city are found in Iraq?",
+      "answers": [
+        "Babylon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_24",
+      "title": "What nation's legislative body is named The Bundestag?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_25",
+      "title": "Ladin is primarily spoken in which area of the world?",
+      "answers": [
+        "Northern Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_26",
+      "title": "The US has shoreline along which oceans?",
+      "answers": [
+        "Atlantic, Arctic and Pacific"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_27",
+      "title": "Niamey is the capital of which country?",
+      "answers": [
+        "Niger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_28",
+      "title": "In which US city would you find the Space Needle?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_29",
+      "title": "What country is the \"pearl of the orient seas\"?",
+      "answers": [
+        "Philippines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_30",
+      "title": "What US state is nicknamed the \"Grand Canyon State\"?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_31",
+      "title": "In which US state is the Acadia National Park located?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_32",
+      "title": "What agricultural crop is Cuba's main export?",
+      "answers": [
+        "Sugar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_33",
+      "title": "Buenos Aires is the capital of what country?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_34",
+      "title": "What is the largest bay in Rhode Island?",
+      "answers": [
+        "Narragansett Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_35",
+      "title": "In England, what is \"Brown Willy\"?",
+      "answers": [
+        "A hill in Cornwall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_36",
+      "title": "Phnom Penh is the capital of which Asian country?",
+      "answers": [
+        "Cambodia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_37",
+      "title": "Parma and Tuscany are regions of what country?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_38",
+      "title": "What country is named for the founder of the \"Friars Preachers\" religious order?",
+      "answers": [
+        "The Dominican Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_39",
+      "title": "What city was nicknamed \"The Paris of the West\"?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_40",
+      "title": "The Republic of Upper Volta was the official name of which African country before August 1984?",
+      "answers": [
+        "Burkina Faso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_41",
+      "title": "What US city was once called New Amsterdam?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_42",
+      "title": "The island of Madeira belongs to which European country?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_43",
+      "title": "What two US states border Mexico's largest state, Chihuahua?",
+      "answers": [
+        "Texas and New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_44",
+      "title": "Thursday Island is located in the Torres Strait off the coast of what country?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_45",
+      "title": "Dhaka is the capital of which country?",
+      "answers": [
+        "Bangladesh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_46",
+      "title": "What island does the The Statue of Liberty stand on?",
+      "answers": [
+        "Liberty Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_47",
+      "title": "What is the second largest country in the World?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_48",
+      "title": "Which ocean does Ghana have water access to?",
+      "answers": [
+        "Atlantic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_49",
+      "title": "In which city is the Sistine Chapel?",
+      "answers": [
+        "Vatican City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_50_50",
+      "title": "What country uses the gourde as its currency?",
+      "answers": [
+        "Haiti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

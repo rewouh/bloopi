@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_63",
+  "name": "Geography Trivia 26K 63",
+  "description": "Geography 3101 - 3150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_63_01",
+      "title": "What two states are bordered by more states than any other?",
+      "answers": [
+        "Tennessee and Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_02",
+      "title": "What country has competitive office chair racing?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_03",
+      "title": "Into what ocean does the Zambezi River flow?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_04",
+      "title": "What colors are featured on the Chinese flag?",
+      "answers": [
+        "Red and yellow."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_05",
+      "title": "How many territories does the US administer over?",
+      "answers": [
+        "16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_06",
+      "title": "Which country is named \"Suomi\" in its own language?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_07",
+      "title": "The Yukon River flows through which US state?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_08",
+      "title": "In terms of area, how much bigger is Queensland than the UK?",
+      "answers": [
+        "Seven times"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_09",
+      "title": "Falcon State is located in which South American country?",
+      "answers": [
+        "Venezuela"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_10",
+      "title": "What is the name of the 760 ­foot volcanic crater located near Honolulu, Hawaii?",
+      "answers": [
+        "Diamond Head"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_11",
+      "title": "What is the name of the avenue that lies between 12th and 14th Avenue in San Francisco?",
+      "answers": [
+        "Funston Avenue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_12",
+      "title": "Vatican City and what other country have square flags?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_13",
+      "title": "At the delta of the Danube River, what body of water does it flow into?",
+      "answers": [
+        "The Black Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_14",
+      "title": "What city is overlooked by a large statue named \"Christ the Redeemer\"?",
+      "answers": [
+        "Rio de Janeiro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_15",
+      "title": "In which national capital can you find around 200,000 gers (traditional round tents) alongside other kinds of housing?",
+      "answers": [
+        "Ulaanbaatar, Mongolia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_16",
+      "title": "What nation's legislative body is named The States-General?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_17",
+      "title": "Which US state is home to Acadia National Park?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_18",
+      "title": "In which US state would you find the \"Everglades\"?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_19",
+      "title": "What is the capital of Nauru?",
+      "answers": [
+        "Yaren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_20",
+      "title": "In which continent would you find Andorra?",
+      "answers": [
+        "Europe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_21",
+      "title": "What is the official language of Guyana?",
+      "answers": [
+        "English"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_22",
+      "title": "What country does the food \"Khachapuri\" originate from?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_23",
+      "title": "In which country is the Simpson Desert located?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_24",
+      "title": "Trenton is the capital of which US state?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_25",
+      "title": "Which African city is famous for its native penguin population?",
+      "answers": [
+        "Cape Town, South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_26",
+      "title": "In which European city would you find the \"Atomium\" landmark?",
+      "answers": [
+        "Brussels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_27",
+      "title": "Which city served as the capital of West Germany?",
+      "answers": [
+        "Bonn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_28",
+      "title": "The strait which connects the East China Sea with the South China Sea is named for what island nation?",
+      "answers": [
+        "Taiwan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_29",
+      "title": "The city of Cleveland is located on the shores of which Great Lake?",
+      "answers": [
+        "Lake Erie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_30",
+      "title": "The Makah Indians lived on which coast?",
+      "answers": [
+        "West coast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_31",
+      "title": "What country borders Zambia to the east?",
+      "answers": [
+        "Malawi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_32",
+      "title": "Which international airport sits on an artificial island?",
+      "answers": [
+        "Hong Kong International Airport"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_33",
+      "title": "What is the capital of Germany?",
+      "answers": [
+        "Berlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_34",
+      "title": "The port of Piraeus is located in which European country?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_35",
+      "title": "Greenland is a dependency of what European country?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_36",
+      "title": "What is the capital of Oregon?",
+      "answers": [
+        "Salem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_37",
+      "title": "The names of how many countries start with the letter \"A\"?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_38",
+      "title": "Which US state is \"Almost Heaven\"?",
+      "answers": [
+        "West Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_39",
+      "title": "A tandoor is a type of what?",
+      "answers": [
+        "Oven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_40",
+      "title": "Which state is home to a \"singing beach\"?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_41",
+      "title": "What Ivy League school is located in Massachusetts?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_42",
+      "title": "Which city is the only capital located on the Rhine River?",
+      "answers": [
+        "Vaduz, Liechtenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_43",
+      "title": "In what modern day country was Dalmatia located?",
+      "answers": [
+        "Croatia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_44",
+      "title": "What state capital city lies on the River Torrens?",
+      "answers": [
+        "Adelaide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_45",
+      "title": "In what US state would you find Area 51?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_46",
+      "title": "What body of water separates Connecticut and Long Island?",
+      "answers": [
+        "Long Island Strait"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_47",
+      "title": "What is the world's longest lake?",
+      "answers": [
+        "Lake Tanganyika"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_48",
+      "title": "Skopje is the capital of which European country?",
+      "answers": [
+        "Macedonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_49",
+      "title": "Which two African countries merged into Tanzania?",
+      "answers": [
+        "Tanganyika and Zanzibar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_63_50",
+      "title": "If you are in Thailand and cross the bridge over the River Kwai, what country will you be in?",
+      "answers": [
+        "Myanmar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

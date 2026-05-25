@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_15",
+  "name": "Science Trivia 26K 15",
+  "description": "Science 701 - 750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_15_01",
+      "title": "What scientist was also the sixth abbot of Brno's Abbey of Saint Thomas?",
+      "answers": [
+        "Gregor Mendel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_02",
+      "title": "What is the technical term for the voice box found in mammals?",
+      "answers": [
+        "Larynx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_03",
+      "title": "Who wrote the first algorithm intended to be carried out by a machine?",
+      "answers": [
+        "Ada Lovelace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_04",
+      "title": "By what name is \"Calcium oxide\" more commonly known?",
+      "answers": [
+        "Quicklime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_05",
+      "title": "What disease grounded astronaut Ken Mattingly from Apollo 13?",
+      "answers": [
+        "The measles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_06",
+      "title": "Ageusia is the loss of which sense?",
+      "answers": [
+        "Taste"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_07",
+      "title": "Which planet is famous for its rings?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_08",
+      "title": "A duck-billed platypus is one of the only three mammals in the world that can do what?",
+      "answers": [
+        "Lay eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_09",
+      "title": "How many items are in a gross?",
+      "answers": [
+        "144"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_10",
+      "title": "What is the minimum number of sides required to create a Polygon?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_11",
+      "title": "What is the largest muscle in the human body?",
+      "answers": [
+        "Gluteus Maximus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_12",
+      "title": "With what global issue does the 2016 Paris Agreement deal with?",
+      "answers": [
+        "Climate change"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_13",
+      "title": "What is the name of the number system using only the symbols 1 and 0?",
+      "answers": [
+        "The binary system"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_14",
+      "title": "Anthophobia is the fear of what?",
+      "answers": [
+        "Flowers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_15",
+      "title": "On the pH scale, which number represents \"Neutral?\"",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_16",
+      "title": "What is the name of Mars' smaller moon?",
+      "answers": [
+        "Deimos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_17",
+      "title": "What animal can dig a tunnel 300 feet long in just one night?",
+      "answers": [
+        "A mole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_18",
+      "title": "Which astronomer gave his name to a telescope launched into space in 1990?",
+      "answers": [
+        "Edwin Hubble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_19",
+      "title": "What fraction pure is 18-carat gold?",
+      "answers": [
+        "Three-quarters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_20",
+      "title": "What color is eigengrau?",
+      "answers": [
+        "Dark gray"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_21",
+      "title": "How many colors are there in the spectrum?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_22",
+      "title": "How many arms does a typical snowflake have?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_23",
+      "title": "What color tongue does the Chow-Chow dog breed have?",
+      "answers": [
+        "Black or blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_24",
+      "title": "What is the scientific method of dating tree rings called?",
+      "answers": [
+        "Dendrochronology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_25",
+      "title": "What is the rarest blood type?",
+      "answers": [
+        "AB negative"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_26",
+      "title": "At which pole would you find penguins?",
+      "answers": [
+        "The South Pole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_27",
+      "title": "Which element has the atomic number of 12?",
+      "answers": [
+        "Magnesium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_28",
+      "title": "Charon orbits what planet of the solar system?",
+      "answers": [
+        "Pluto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_29",
+      "title": "Astraphobia is the fear of what?",
+      "answers": [
+        "Lightening or thunder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_30",
+      "title": "What is the Shaddock a variety of?",
+      "answers": [
+        "Citrus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_31",
+      "title": "Which famous retailer started out as a mail-order watch business?",
+      "answers": [
+        "Sears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_32",
+      "title": "How many kilograms make up a short ton?",
+      "answers": [
+        "907"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_33",
+      "title": "What animals does a hippophobe fear?",
+      "answers": [
+        "Horses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_34",
+      "title": "CH3COOH is the chemical formula for what common household item?",
+      "answers": [
+        "Vinegar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_35",
+      "title": "What is the largest living structure on Earth?",
+      "answers": [
+        "The Great Barrier Reef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_36",
+      "title": "What geographic term describes a hill with sharply sloping sides and a flat top?",
+      "answers": [
+        "Butte"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_37",
+      "title": "The Egyptian plover is a bird best known for its symbiotic relationship with what host animal?",
+      "answers": [
+        "The crocodile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_38",
+      "title": "Which theory explains the movement of the Earth's continents?",
+      "answers": [
+        "Continental drift"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_39",
+      "title": "What is the chemical symbol for gold?",
+      "answers": [
+        "Au"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_40",
+      "title": "Iatrophobia is the fear of what?",
+      "answers": [
+        "Doctors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_41",
+      "title": "What grows in the brain when doing cognitive exercises?",
+      "answers": [
+        "Dendrites"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_42",
+      "title": "What is the more common name for benzoic sulfinide?",
+      "answers": [
+        "Saccharin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_43",
+      "title": "How many kilograms are there in a short ton?",
+      "answers": [
+        "907"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_44",
+      "title": "What plant do scientists use to clean up radioactive waste?",
+      "answers": [
+        "Sunflowers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_45",
+      "title": "What is the most dense stable element?",
+      "answers": [
+        "Osmium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_46",
+      "title": "How many kilograms make up a metric tonne?",
+      "answers": [
+        "1000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_47",
+      "title": "What's the main ingredient in glass?",
+      "answers": [
+        "Silica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_48",
+      "title": "What does the abbreviation USB stand for?",
+      "answers": [
+        "Universal Serial Bus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_49",
+      "title": "The device for measuring the pressure in a closed system is called what?",
+      "answers": [
+        "Manometer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_15_50",
+      "title": "What is the most common reference material when measuring the Specific Gravity of a substance?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

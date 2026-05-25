@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_31",
+  "name": "Geography Trivia 26K 31",
+  "description": "Geography 1501 - 1550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_31_01",
+      "title": "What nation's legislative body is named The Kuvendi?",
+      "answers": [
+        "Albania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_02",
+      "title": "In what European country is the Po River?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_03",
+      "title": "What tree appears on the national flag of Lebanon?",
+      "answers": [
+        "Cedar tree"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_04",
+      "title": "What is a resident of Manchester called?",
+      "answers": [
+        "Mancunian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_05",
+      "title": "In what province or territory will you find Canada's tallest mountain?",
+      "answers": [
+        "Yukon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_06",
+      "title": "Tarawa is located in what group of islands?",
+      "answers": [
+        "The Gilbert Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_07",
+      "title": "Which US state shares a border with the Yukon territory?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_08",
+      "title": "What city is home to the Oriental Pearl Tower?",
+      "answers": [
+        "Shanghai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_09",
+      "title": "Which US president on Mount Rushmore has a mustache?",
+      "answers": [
+        "Theodore Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_10",
+      "title": "The city of Chicago lies in which state?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_11",
+      "title": "In which two European countries can you hear residents speaking Basque?",
+      "answers": [
+        "France and Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_12",
+      "title": "What is the capital of Philippines?",
+      "answers": [
+        "Manila"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_13",
+      "title": "Which constellation appears on Australia's flag?",
+      "answers": [
+        "The Southern Cross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_14",
+      "title": "What is the volcano near Tokyo, Japan called?",
+      "answers": [
+        "Mount Fuji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_15",
+      "title": "What two countries share land borders with Tunisia?",
+      "answers": [
+        "Algeria and Libya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_16",
+      "title": "Zagreb is the capital of what European country?",
+      "answers": [
+        "Croatia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_17",
+      "title": "In which European city can you find the \"Mouth of Truth\"?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_18",
+      "title": "Nicosia is the capital of which country?",
+      "answers": [
+        "Cyprus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_19",
+      "title": "Which mountain range separates Europe from Asia?",
+      "answers": [
+        "The Ural Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_20",
+      "title": "What US city is named for a Roman general famed for leaving his troops and retiring to his farm?",
+      "answers": [
+        "Cincinnati"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_21",
+      "title": "What European country's highest mountain is Ben Nevis?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_22",
+      "title": "What is the capital of the Isle of Man?",
+      "answers": [
+        "Douglas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_23",
+      "title": "One of the Midwest's \"Quad Cities\" is named for what three-mile-long island in the Mississippi?",
+      "answers": [
+        "Rock Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_24",
+      "title": "Although it's referred to as a \"sea\", what body of water is actually the largest lake in the world?",
+      "answers": [
+        "Caspian Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_25",
+      "title": "What is the official language of Liechtenstein?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_26",
+      "title": "What city was founded by Brigham Young in 1847?",
+      "answers": [
+        "Salt Lake City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_27",
+      "title": "What is the official state animal of the US state of Oregon?",
+      "answers": [
+        "The beaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_28",
+      "title": "What is Canberra's Telstra Tower also known as?",
+      "answers": [
+        "Black Mountain Tower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_29",
+      "title": "Doha is the capital of which Middle-Eastern country?",
+      "answers": [
+        "Qatar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_30",
+      "title": "In what country is the San Andreas Fault located?",
+      "answers": [
+        "United States"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_31",
+      "title": "What harbor is overlooked by Victoria Peak?",
+      "answers": [
+        "Hong Kong"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_32",
+      "title": "Which city has a building nicknamed \"the Walkie-Talkie building\"?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_33",
+      "title": "What is the windiest continent?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_34",
+      "title": "What does the 49th parallel separate Montana from?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_35",
+      "title": "What river flows through Jackson Hole, Wyoming?",
+      "answers": [
+        "The Snake River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_36",
+      "title": "What famous landmark is located in Agra, India?",
+      "answers": [
+        "Taj Mahal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_37",
+      "title": "What major river runs through Florence?",
+      "answers": [
+        "Arno"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_38",
+      "title": "Which country set a new Guinness World Record for steepest street in 2019?",
+      "answers": [
+        "Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_39",
+      "title": "What country is the world's largest supplier of olives?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_40",
+      "title": "Where is the lowest elevation in the US?",
+      "answers": [
+        "Death Valley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_41",
+      "title": "What word is used in Hawaii as both a greeting and a farewell?",
+      "answers": [
+        "Aloha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_42",
+      "title": "Albuquerque is located on the shores of what river?",
+      "answers": [
+        "Rio Grande River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_43",
+      "title": "What river runs through Baghdad?",
+      "answers": [
+        "The Tigris River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_44",
+      "title": "The two largest islands in the Mediterranean Sea are part of what country?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_45",
+      "title": "What modern country includes the ancient region of Mesopotamia?",
+      "answers": [
+        "Iraq"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_46",
+      "title": "What is the easternmost Caribbean country?",
+      "answers": [
+        "Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_47",
+      "title": "Which element gained notoriety from poisoning the waters around Japan?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_48",
+      "title": "Central African Republic shares its northern border with mostly which country?",
+      "answers": [
+        "Chad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_49",
+      "title": "Which country consists of the 4 main islands, Honshu Hokkaido Shikoku & Kyushu?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_31_50",
+      "title": "In which country can you find a beach that resembles a \"golden horn\"?",
+      "answers": [
+        "Croatia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

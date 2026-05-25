@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_09",
+  "name": "General Trivia 26K 09",
+  "description": "General 401 - 450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_09_01",
+      "title": "Which NFL team won Super Bowl 50?",
+      "answers": [
+        "Denver Broncos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_02",
+      "title": "Often worn by young girls, \"Mary Janes\" are what type of fashion item?",
+      "answers": [
+        "Shoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_03",
+      "title": "Who launched her signature fragrance, \"Moi\", in 1998?",
+      "answers": [
+        "Miss Piggy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_04",
+      "title": "Which female gymnast won 3 golds and a silver at the 1972 Summer Olympics?",
+      "answers": [
+        "Olga Korbut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_05",
+      "title": "What NHL team won the Stanley Cup six times during the 1970’s?",
+      "answers": [
+        "Montreal Canadiens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_06",
+      "title": "How many players are there on a standard soccer team on field?",
+      "answers": [
+        "11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_07",
+      "title": "What's the name of the Jolly Green Giant's sidekick?",
+      "answers": [
+        "Little Green Sprout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_08",
+      "title": "A Kamikaze cocktail contains vodka, triple sec and what?",
+      "answers": [
+        "Lime juice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_09",
+      "title": "Mean Joe Greene helped what team win four Super Bowls?",
+      "answers": [
+        "Pittsburgh Steelers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_10",
+      "title": "Wearing headphones for just an hour increases what in your ear 700 times?",
+      "answers": [
+        "Bacteria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_11",
+      "title": "What do you call three under par in golf?",
+      "answers": [
+        "Albatross or double eagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_12",
+      "title": "Since 1995 which state has led the U.S. in milk production?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_13",
+      "title": "What restaurant is known as Mai Dang Lao in China?",
+      "answers": [
+        "McDonalds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_14",
+      "title": "What year was Marmite first launched onto the market?",
+      "answers": [
+        "1902"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_15",
+      "title": "At the Seder table, people eat and drink in a reclining position. What does this represent?",
+      "answers": [
+        "Freedom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_16",
+      "title": "Mr. Big is the largest chocolate bar produced by what British confectioner?",
+      "answers": [
+        "Cadbury's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_17",
+      "title": "In which card game might you be dealt a \"Yarborough\" hand?",
+      "answers": [
+        "Bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_18",
+      "title": "How many children did Noah have?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_19",
+      "title": "How far from shore do international waters start?",
+      "answers": [
+        "200 nautical miles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_20",
+      "title": "In what city is the Kentucky Derby held every year?",
+      "answers": [
+        "Louisville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_21",
+      "title": "How many times are traditional Mexican refried beans fried?",
+      "answers": [
+        "Once"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_22",
+      "title": "Which world champion was beaten by a machine called Deep Blue in 1997?",
+      "answers": [
+        "Gary Kasparov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_23",
+      "title": "In photography, what kind of \"number\" is used to measure lens speed?",
+      "answers": [
+        "f"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_24",
+      "title": "What type of food is Taramasalata?",
+      "answers": [
+        "Cured cod roe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_25",
+      "title": "In Cajun cuisine, what crustaceans are playfully referred to as mud bugs?",
+      "answers": [
+        "Crawfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_26",
+      "title": "What's the traditional meat on a Reuben sandwich?",
+      "answers": [
+        "Corned beef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_27",
+      "title": "Gouda cheese originated in which country?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_28",
+      "title": "What European car maker was purchased by VW in 1969?",
+      "answers": [
+        "Audi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_29",
+      "title": "What kind of nuts are used in marzipan?",
+      "answers": [
+        "Almonds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_30",
+      "title": "What is the name of Twitter's blue bird mascot?",
+      "answers": [
+        "Larry the Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_31",
+      "title": "The anniversary of the death of what magician is recognized as National Magic Day in the US?",
+      "answers": [
+        "Harry Houdini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_32",
+      "title": "What are the two fruit juices in a cosmopolitan?",
+      "answers": [
+        "Cranberry and lime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_33",
+      "title": "What flavor was the Twinkie's original filling?",
+      "answers": [
+        "Banana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_34",
+      "title": "What animal has been called the “poor man’s cow”?",
+      "answers": [
+        "The goat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_35",
+      "title": "What do you get when you mix bourbon, sugar, angostura bitters and water?",
+      "answers": [
+        "An Old Fashioned"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_36",
+      "title": "What do you get when you mix white rum, lime juice, mint and sugar?",
+      "answers": [
+        "A Mojito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_37",
+      "title": "What is the nickname of the Great Bell at the Palace of Westminster?",
+      "answers": [
+        "Big Ben"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_38",
+      "title": "How many squares are there on the traditional \"Snakes & Ladders\" board?",
+      "answers": [
+        "100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_39",
+      "title": "What does Karaoke literally mean?",
+      "answers": [
+        "Empty Orchestra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_40",
+      "title": "Which is larger, a baseball or a softball?",
+      "answers": [
+        "A softball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_41",
+      "title": "What sport's lingo uses the term \"Googly\"?",
+      "answers": [
+        "Cricket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_42",
+      "title": "A silk-screened print is also known as what?",
+      "answers": [
+        "Serigraph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_43",
+      "title": "On a dart board, which number is positioned between 1 and 5?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_44",
+      "title": "What video game, that peaked in the late 2000's, got people to try stumping a cartoon genie?",
+      "answers": [
+        "Akinator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_45",
+      "title": "What number shirt did Pele wear?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_46",
+      "title": "Which chess piece was originally an elephant?",
+      "answers": [
+        "Bishop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_47",
+      "title": "What former US president founded the University of Virginia?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_48",
+      "title": "What spirit is made from fermented molasses?",
+      "answers": [
+        "Rum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_49",
+      "title": "Who first said, \"Genius is one percent inspiration, ninety-nine percent perspiration\"?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_09_50",
+      "title": "What is the process of raising silkworms and making silk called?",
+      "answers": [
+        "Sericulture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

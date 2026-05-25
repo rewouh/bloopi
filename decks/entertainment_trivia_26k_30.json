@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_30",
+  "name": "Entertainment Trivia 26K 30",
+  "description": "Entertainment 1451 - 1500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_30_01",
+      "title": "Belle, Spike, Olaf, Marbles, and Andy are siblings of which Peanuts character?",
+      "answers": [
+        "Snoopy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_02",
+      "title": "What was Ozzy Osbourne's first single released as a solo artist?",
+      "answers": [
+        "Crazy Train"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_03",
+      "title": "Who performed the song \"The Power of Love\" with his band in the movie \"Back to the Future\"?",
+      "answers": [
+        "Huey Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_04",
+      "title": "In the 1986 movie \"Aliens\", what was Newt's real name?",
+      "answers": [
+        "Rebecca Jorden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_05",
+      "title": "The \"Iron Chef America\" TV shows are modeled after \"Iron Chef\" shows originating in what country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_06",
+      "title": "Which cartoon family lives in 742 Evergreen Terrace, Springfield, USA?",
+      "answers": [
+        "The Simpsons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_07",
+      "title": "Which popular artist was born Gordon Matthew Thomas Sumner?",
+      "answers": [
+        "Sting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_08",
+      "title": "What fast food businessman does Michael Keaton portray in the 2016 film “The Founder”?",
+      "answers": [
+        "Ray Kroc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_09",
+      "title": "What kind of sneakers did Rocky wear in his training montage?",
+      "answers": [
+        "Chuck Taylor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_10",
+      "title": "What is the name of the summer camp in the \"Friday the 13th\" movie series?",
+      "answers": [
+        "Camp Crystal Lake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_11",
+      "title": "Who released the album \"Brothers in Arms\"?",
+      "answers": [
+        "Dire Straits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_12",
+      "title": "What musical instrument did Helen play on the TV show \"Wings\"?",
+      "answers": [
+        "Cello"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_13",
+      "title": "What John Ford film featured John Wayne, Shirley Temple and Henry Fonda?",
+      "answers": [
+        "Fort Apache"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_14",
+      "title": "What is the leading female singer in an opera called?",
+      "answers": [
+        "The Prima Donna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_15",
+      "title": "What tunnel does Tony Soprano use in the \"Sopranos\" opening credits?",
+      "answers": [
+        "The Lincoln Tunnel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_16",
+      "title": "Which electronic duo did The Weeknd collaborate with for his song, \"Starboy\"?",
+      "answers": [
+        "Daft Punk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_17",
+      "title": "What actor was the executive producer of the mystery series \"Push, Nevada\"?",
+      "answers": [
+        "Ben Affleck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_18",
+      "title": "Whose famous balloon says \"State Fair Omaha\" on the outside?",
+      "answers": [
+        "The Wizard of Oz's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_19",
+      "title": "Who played the female lead in the film \"Man on Fire\"?",
+      "answers": [
+        "Dakota Fanning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_20",
+      "title": "What kind of dinosaur is the Flintstones' Dino?",
+      "answers": [
+        "A snorkasaurus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_21",
+      "title": "What instrument does Meg White play in the band White Stripes?",
+      "answers": [
+        "Drums"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_22",
+      "title": "Which 1980's song includes the lyric \"Creatures crawl in search of blood. To terrorize y'alls neighborhood!\"?",
+      "answers": [
+        "Thriller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_23",
+      "title": "Where is Paddington Bear from?",
+      "answers": [
+        "Peru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_24",
+      "title": "How many Oscar nominations did the 2002 movie \"Chicago\" receive?",
+      "answers": [
+        "Thirteen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_25",
+      "title": "Who had a hit in 1994 with the song \"Shakermaker\"?",
+      "answers": [
+        "Oasis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_26",
+      "title": "What actor played The Riddler in the original \"Batman\" TV series?",
+      "answers": [
+        "Frank Gorshin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_27",
+      "title": "In the 2006 movie \"Flicka,\" what type of animal is Flicka?",
+      "answers": [
+        "Horse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_28",
+      "title": "Which former NBA player went by the moniker Chocolate Thunder?",
+      "answers": [
+        "Darryl Dawkins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_29",
+      "title": "\"Blackstar\" was whose last album, released just days before his death?",
+      "answers": [
+        "David Bowie's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_30",
+      "title": "Who was Larry Sanders' sidekick on \"The Larry Sanders Show\"?",
+      "answers": [
+        "Hank Kingsley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_31",
+      "title": "What TV show takes place in the fictional city of Norwich, Vermont?",
+      "answers": [
+        "Newhart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_32",
+      "title": "Who provided the original voice for Daffy Duck?",
+      "answers": [
+        "Mel Blanc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_33",
+      "title": "Who played the title role in the 1962 award-winning film \"Lawrence of Arabia\"?",
+      "answers": [
+        "Peter O’Toole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_34",
+      "title": "Who played the role of TV's D. J. Conner?",
+      "answers": [
+        "Michael Fishman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_35",
+      "title": "What US city is mentioned in the first line of the Bob Seger song \"Turn the Page\"?",
+      "answers": [
+        "Omaha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_36",
+      "title": "What 2006 movie is sub-titled \"Hell on Heels\"?",
+      "answers": [
+        "The Devil Wears Prada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_37",
+      "title": "Which year was Marilyn Monroe born?",
+      "answers": [
+        "1926"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_38",
+      "title": "In which film did a Rolls Royce have the number plate AU1?",
+      "answers": [
+        "Goldfinger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_39",
+      "title": "Who are the members of the band Wilson Phillips?",
+      "answers": [
+        "Carnie, Wendy and Chynna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_40",
+      "title": "In the entertainment world, MGM stands for what?",
+      "answers": [
+        "Metro-Goldwyn-Mayer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_41",
+      "title": "What actor originated the role of Inspector Clouseau?",
+      "answers": [
+        "Peter Sellers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_42",
+      "title": "Which band member of Blind Melon died of drug overdose?",
+      "answers": [
+        "Shannon Hoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_43",
+      "title": "Which Saturday Night Live cast member played the Land Shark?",
+      "answers": [
+        "Chevy Chase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_44",
+      "title": "What year did actress Betty Grable die?",
+      "answers": [
+        "1973"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_45",
+      "title": "\"Citizens on Patrol\" and \"Mission to Moscow\" are subtitles of sequels to what 1980’s series of movies?",
+      "answers": [
+        "Police Academy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_46",
+      "title": "In the TV show \"The Simpsons\", what color is the Simpson's refrigerator?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_47",
+      "title": "What famous singer was born with the name Cherilyn Sarkisian?",
+      "answers": [
+        "Cher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_48",
+      "title": "Which character in the \"Street Fighter\" series was inspired by martial-arts legend Bruce Lee?",
+      "answers": [
+        "Fei Long"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_49",
+      "title": "Who does the voice over for Dory from \"Finding Nemo\" and \"Finding Dory\"?",
+      "answers": [
+        "Ellen DeGeneres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_30_50",
+      "title": "Tom Petty's video for his song \"Don't Come Around Here No More\" was inspired by what story?",
+      "answers": [
+        "Alice in Wonderland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

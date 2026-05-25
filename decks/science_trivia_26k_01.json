@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_01",
+  "name": "Science Trivia 26K 01",
+  "description": "Science 1 - 50 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_01_01",
+      "title": "N2O is more commonly known as what?",
+      "answers": [
+        "Laughing gas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_02",
+      "title": "What creatures does an ichthyologist study?",
+      "answers": [
+        "Fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_03",
+      "title": "What operation brought over 1,500 German scientists, engineers and technicians following the end of World War II to the US to aid in military research?",
+      "answers": [
+        "Operation Paperclip"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_04",
+      "title": "Polaris is commonly known as what star?",
+      "answers": [
+        "The North Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_05",
+      "title": "What number is represented by \"V\" in Roman numerals?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_06",
+      "title": "The fear of men is known as what?",
+      "answers": [
+        "Androphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_07",
+      "title": "What unit of weight is equal to approximately .002 pounds?",
+      "answers": [
+        "1 gram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_08",
+      "title": "What is the \"disk\" that encircles a black hole called?",
+      "answers": [
+        "Accretion Disk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_09",
+      "title": "What is the only planet in the solar system that is named after a female figure?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_10",
+      "title": "What phenomenon is caused by the gravitational attraction of the Earth's moon?",
+      "answers": [
+        "Tides"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_11",
+      "title": "Which dinosaur had 15 horns?",
+      "answers": [
+        "Kosmoceratops"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_12",
+      "title": "What was magnetite called by the early",
+      "answers": [
+        "Lodestone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_13",
+      "title": "What was British physicist Ernest Rutherford the first to uncover the structure of in the 1910's?",
+      "answers": [
+        "Structure of the atom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_14",
+      "title": "Mimas orbits what planet of the solar system?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_15",
+      "title": "What is the top speed a freefalling object can reach called?",
+      "answers": [
+        "Terminal Velocity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_16",
+      "title": "What is a sphygmomanometer used to measure?",
+      "answers": [
+        "Blood pressure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_17",
+      "title": "What name is given to an elephant's second incisors?",
+      "answers": [
+        "Tusks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_18",
+      "title": "Seafloor spreading at midoceanic ridges is how scientists first discovered the periodic reversal of what?",
+      "answers": [
+        "The earth's magnetic field"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_19",
+      "title": "What is used to measure horizontal and vertical angles in surveying?",
+      "answers": [
+        "A theodolite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_20",
+      "title": "How many stomachs does a llama have?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_21",
+      "title": "Gynophobia is the fear of what?",
+      "answers": [
+        "Women"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_22",
+      "title": "What type of rock is obsidian?",
+      "answers": [
+        "Igneous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_23",
+      "title": "What’s the botanical term for the stem of a fruit or vegetable?",
+      "answers": [
+        "Peduncle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_24",
+      "title": "When was the Halley's Comet periodicity discovered?",
+      "answers": [
+        "1705"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_25",
+      "title": "Morello is a variety of which fruit?",
+      "answers": [
+        "Cherry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_26",
+      "title": "What is the Larynx often referred to as?",
+      "answers": [
+        "Voice box"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_27",
+      "title": "What irrational mathematical constant is known as the golden ratio?",
+      "answers": [
+        "1.6180339887"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_28",
+      "title": "What plant when ingested (in small quantities) can make the oil of your skin poisonous?",
+      "answers": [
+        "Oleander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_29",
+      "title": "The curlew is a type of what?",
+      "answers": [
+        "Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_30",
+      "title": "What animal species coined a phrase describing very cold temperatures?",
+      "answers": [
+        "Monkeys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_31",
+      "title": "What is the name for the tiny blood vessels that branch off from arteries and veins?",
+      "answers": [
+        "Capillaries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_32",
+      "title": "What is the longest muscle in the human body?",
+      "answers": [
+        "Sartorius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_33",
+      "title": "Leprosy is often referred to by what other name?",
+      "answers": [
+        "Hansen's disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_34",
+      "title": "What do you call someone who studies sea shells?",
+      "answers": [
+        "Conchologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_35",
+      "title": "What is the fear of heredity known as?",
+      "answers": [
+        "Patroiophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_36",
+      "title": "Which nickname was given to the skeleton of the Piltdown Man, discovered in 1912?",
+      "answers": [
+        "Missing Link"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_37",
+      "title": "What was ornithologist Robert Stroud's nickname?",
+      "answers": [
+        "The Birdman of Alcatraz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_38",
+      "title": "What is usually added to tin to make solder?",
+      "answers": [
+        "Lead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_39",
+      "title": "What is the name given to the animals that live their lives both in water and on land?",
+      "answers": [
+        "Amphibians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_40",
+      "title": "The hottest natural chemical according to the Scoville Scale, resiniferatoxin, comes from what plant?",
+      "answers": [
+        "Resin spurge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_41",
+      "title": "What are the four states of matter?",
+      "answers": [
+        "Gas, liquid, solid, plasma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_42",
+      "title": "Which planet orbits the Sun the quickest?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_43",
+      "title": "What is the longest and heaviest bone in the human body?",
+      "answers": [
+        "Femur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_44",
+      "title": "What is Eisoptrophobia the fear of?",
+      "answers": [
+        "Mirrors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_45",
+      "title": "What is the largest member of the deer family living in the US?",
+      "answers": [
+        "The moose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_46",
+      "title": "The Asteroid Belt can be found between which two planets?",
+      "answers": [
+        "Mars and Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_47",
+      "title": "What winds bring warm, dry, smog-free weather to southern California every autumn?",
+      "answers": [
+        "The Santa Ana winds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_48",
+      "title": "How many ribs does the typical human body have?",
+      "answers": [
+        "24"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_49",
+      "title": "What mineral is also referred to as \"Fool's gold\"?",
+      "answers": [
+        "Pyrite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_01_50",
+      "title": "Whistle pig is another name for what animal?",
+      "answers": [
+        "Groundhog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

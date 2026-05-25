@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_101",
+  "name": "Entertainment Trivia 26K 101",
+  "description": "Entertainment 5001 - 5050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_101_01",
+      "title": "Who recorded the album \"Nine Tonight\"?",
+      "answers": [
+        "Bob Seger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_02",
+      "title": "What is Indiana Jones searching for in the movie \"Indiana Jones and The Last Crusade\"?",
+      "answers": [
+        "The Holy Grail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_03",
+      "title": "In what movie did Molly Ringwald and Emilio Estevez spent a day in detention?",
+      "answers": [
+        "The Breakfast Club"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_04",
+      "title": "Who directed the 1993 movie \"Nightmare Before Christmas\"?",
+      "answers": [
+        "Henry Selick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_05",
+      "title": "What Vin Diesel film did David Twohy direct?",
+      "answers": [
+        "\"The Chronicles Of Riddick\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_06",
+      "title": "Which actress turned singer released an album in 2009 entitled \"Come To Life\"?",
+      "answers": [
+        "Natalie Imbruglia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_07",
+      "title": "Which band is known in Spain as U-Dos?",
+      "answers": [
+        "U2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_08",
+      "title": "In the movie \"Hangover\", what name did Alan use to refer to his circle of friends?",
+      "answers": [
+        "The wolf pack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_09",
+      "title": "What is the name of the inventor in the 1989 film \"Honey, I Shrunk the Kids\"?",
+      "answers": [
+        "Wayne Szalinski"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_10",
+      "title": "Who played the blind character in the movie \"Butterflies Are Free\"?",
+      "answers": [
+        "Edward Albert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_11",
+      "title": "What profession did George Constanza often pretend to be in the sitcom \"Seinfeld\"?",
+      "answers": [
+        "Architect"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_12",
+      "title": "In \"The Wolf of Wall Street\", what did the actors snort in scenes that involved cocaine?",
+      "answers": [
+        "Vitamin B"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_13",
+      "title": "Who was the first singer to have five #1 singles off of one album?",
+      "answers": [
+        "Michael Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_14",
+      "title": "For what movie did Joe Pesci win an Academy Award?",
+      "answers": [
+        "Goodfellas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_15",
+      "title": "What year was Bryan Adams' \"Cuts Like a Knife\" album released in?",
+      "answers": [
+        "1983"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_16",
+      "title": "Who played the role of the fugitive in the 1993 movie by the same name?",
+      "answers": [
+        "Harrison Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_17",
+      "title": "What is \"Shawshank\" in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "A prison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_18",
+      "title": "Nat King Cole died in which year?",
+      "answers": [
+        "1965"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_19",
+      "title": "Who directed the 1999 movie \"The Green Mile\"?",
+      "answers": [
+        "Frank Darabont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_20",
+      "title": "In which city was Tupac Shakur shot dead?",
+      "answers": [
+        "Las Vegas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_21",
+      "title": "Who played Dracula in the 1931 vampire-horror film \"Dracula\"?",
+      "answers": [
+        "Bela Lugosi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_22",
+      "title": "Who keeps telling Captain Kirk that Earthlings are \"highly illogical\"?",
+      "answers": [
+        "Spock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_23",
+      "title": "Who was the first winner of the British version of the TV reality show \"Big Brother\"?",
+      "answers": [
+        "Craig Phillips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_24",
+      "title": "What year did actor Arthur Stanley Jefferson die?",
+      "answers": [
+        "1965"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_25",
+      "title": "What 2005 Gwen Stefani song was the first single to amass one million paid digital downloads?",
+      "answers": [
+        "Hollaback Girl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_26",
+      "title": "What was the name of the Clampett’s dog on \"The Beverly Hillbillies\"?",
+      "answers": [
+        "Duke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_27",
+      "title": "The Broadway show \"Movin' Out\" was based on songs written by what singing star?",
+      "answers": [
+        "Billy Joel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_28",
+      "title": "In the TV show \"Family Guy\", what is Stewie's favorite TV show?",
+      "answers": [
+        "Jolly Farm Revue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_29",
+      "title": "What movie did the villain Dr. Szell appear in?",
+      "answers": [
+        "Marathon Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_30",
+      "title": "Who played the judge in the 1997 film \"Rainmaker\"?",
+      "answers": [
+        "Danny Glover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_31",
+      "title": "John Oliver began hosting what show for HBO in 2014?",
+      "answers": [
+        "Last Week Tonight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_32",
+      "title": "In the movie \"Toy Story\" what is the name of the boy next door who blows up toys?",
+      "answers": [
+        "Sid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_33",
+      "title": "Which musical do the songs \"Look at Me I'm Sandra Dee\" and \"Beauty School Dropout\" come from?",
+      "answers": [
+        "Grease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_34",
+      "title": "What Beatles song is referenced in the opening verse to Bad Company's \"Shooting Star\"?",
+      "answers": [
+        "Love Me Do"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_35",
+      "title": "The diegesis of a film is also known as what?",
+      "answers": [
+        "Plot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_36",
+      "title": "What was the subtitle of the 2005 movie \"Miss Congeniality 2\"?",
+      "answers": [
+        "Armed and Fabulous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_37",
+      "title": "What was the longest-running musical on Broadway during the 20th century?",
+      "answers": [
+        "Cats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_38",
+      "title": "What videogame's original series featured the fictional cities Liberty City, Vice City and San Andreas?",
+      "answers": [
+        "Grand Theft Auto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_39",
+      "title": "Who played the role of TV's A.C. Slater?",
+      "answers": [
+        "Mario Lopez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_40",
+      "title": "What Grammy-­winning 1990’s band was fronted by Darius Rucker?",
+      "answers": [
+        "Hootie & the Blowfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_41",
+      "title": "Don Mclean's \"American Pie\" was dedicated to which singer?",
+      "answers": [
+        "Buddy Holly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_42",
+      "title": "What 2005 movie stars Ellen Page and Sandra Oh?",
+      "answers": [
+        "Hard Candy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_43",
+      "title": "In which 1985 film does Michael Palin co-star with a pig?",
+      "answers": [
+        "A Private Function"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_44",
+      "title": "What was the first Mickey Mouse cartoon?",
+      "answers": [
+        "Plane Crazy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_45",
+      "title": "What was the name of Derek Zoolander's rival male model, played by Owen Wilson, in the 2001 movie \"Zoolander\"?",
+      "answers": [
+        "Hansel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_46",
+      "title": "Who played Roseanne’s sister, Jackie, on the TV show “Roseanne”?",
+      "answers": [
+        "Laurie Metcalf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_47",
+      "title": "In the movie \"Reservoir Dogs\", who keeps are razor blade in his boot?",
+      "answers": [
+        "Mr. Blonde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_48",
+      "title": "What movie kills off a racehorse named Khartoum?",
+      "answers": [
+        "The Godfather"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_49",
+      "title": "Who did Luther Vandross duet with in the 1992 single \"Best Things In Life Are Free\"?",
+      "answers": [
+        "Janet Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_101_50",
+      "title": "Who played bad girl Sammy Jo in \"Dynasty\", then bad girl Amanda in \"Melrose Place\"?",
+      "answers": [
+        "Heather Locklear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

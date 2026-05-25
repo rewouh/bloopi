@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_54",
+  "name": "Science Trivia 26K 54",
+  "description": "Science 2651 - 2700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_54_01",
+      "title": "Paraskevidekatriaphobia or Friggatriskaidekaphobia is the fear of what?",
+      "answers": [
+        "Friday the 13th"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_02",
+      "title": "What is a nanominute?",
+      "answers": [
+        "One-billionth of a minute"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_03",
+      "title": "What is the common name for \"graphospasm\"?",
+      "answers": [
+        "Writer's cramp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_04",
+      "title": "What is the name of the instrument used for listening to the heart?",
+      "answers": [
+        "Stethoscope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_05",
+      "title": "What is a capon?",
+      "answers": [
+        "A castrated rooster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_06",
+      "title": "Which element of the periodic table is named after the formulator of the periodic table?",
+      "answers": [
+        "Mendelevium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_07",
+      "title": "Which element appears fifth on the periodic table?",
+      "answers": [
+        "Boron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_08",
+      "title": "What ­word is the mathematical term for a triangle whose sides are all different lengths?",
+      "answers": [
+        "Scalene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_09",
+      "title": "What is another name for tetanus?",
+      "answers": [
+        "Lockjaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_10",
+      "title": "What scientific unit is used to measure mass?",
+      "answers": [
+        "Kilogram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_11",
+      "title": "What cosmologist theorized the creation of the universe from quantum fluctuations?",
+      "answers": [
+        "Alexander Vilenkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_12",
+      "title": "What animal has been dubbed nature's skyscraper?",
+      "answers": [
+        "The giraffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_13",
+      "title": "What is the worlds fastest growing plant?",
+      "answers": [
+        "Bamboo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_14",
+      "title": "What animal lives in a lodge?",
+      "answers": [
+        "The Beaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_15",
+      "title": "What is gymnophobia the fear of?",
+      "answers": [
+        "Nudity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_16",
+      "title": "How many hours are there in 1 week?",
+      "answers": [
+        "168 hours"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_17",
+      "title": "What blood vessels carry blood towards the heart?",
+      "answers": [
+        "Veins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_18",
+      "title": "What animal can you smell a mile away?",
+      "answers": [
+        "The skunk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_19",
+      "title": "What kind of creature is a Tasmanian devil?",
+      "answers": [
+        "A Marsupial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_20",
+      "title": "The \"canebrake\", \"timber\" and \"pygmy\" are types of what?",
+      "answers": [
+        "Rattlesnakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_21",
+      "title": "Which is a small flightless bird, also New Zealand's national symbol?",
+      "answers": [
+        "Kiwi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_22",
+      "title": "In math, what lists can be summed into series?",
+      "answers": [
+        "Sequences"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_23",
+      "title": "How many crew members died when the space shuttle Challenger exploded in 1986?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_24",
+      "title": "Which physical force is the only one that is always attractive, never repulsive?",
+      "answers": [
+        "Gravity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_25",
+      "title": "How many sides are there on a pentagon?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_26",
+      "title": "What is the square root of one-quarter?",
+      "answers": [
+        "one-half"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_27",
+      "title": "Burning potassium has what color flame?",
+      "answers": [
+        "Purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_28",
+      "title": "The genetic trait that is most likely to be expressed is called what?",
+      "answers": [
+        "Dominant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_29",
+      "title": "How many sides does a hexagon have?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_30",
+      "title": "What gender are whiptail lizards?",
+      "answers": [
+        "Female"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_31",
+      "title": "An herb that increases lactation is called what?",
+      "answers": [
+        "Galactagogue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_32",
+      "title": "In medicine, what does the abbreviation LASIK stand for?",
+      "answers": [
+        "Laser-Assisted In Situ Keratomileusis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_33",
+      "title": "What is another name for the prairie wolf?",
+      "answers": [
+        "Coyote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_34",
+      "title": "What is the hardest substance in the human body?",
+      "answers": [
+        "Enamel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_35",
+      "title": "What happened to animals as humans evolved?",
+      "answers": [
+        "They shrank"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_36",
+      "title": "In older television sets and computer monitors, what does the abbreviation CRT stand for?",
+      "answers": [
+        "Cathode Ray Tube"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_37",
+      "title": "What is the temperature, at which dew forms, called?",
+      "answers": [
+        "Dew point"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_38",
+      "title": "Neophobia is the fear of what?",
+      "answers": [
+        "New things"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_39",
+      "title": "How many canine teeth does the human adult have?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_40",
+      "title": "What is the chemical symbol for Gold?",
+      "answers": [
+        "Au"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_41",
+      "title": "What is the sixth planet from the Sun?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_42",
+      "title": "Who is credited with inventing and patenting the radial tire in 1915?",
+      "answers": [
+        "Arthur W. Savage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_43",
+      "title": "Chorophobia is fear of what?",
+      "answers": [
+        "Dancing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_44",
+      "title": "What species is the tallest tree in the world?",
+      "answers": [
+        "California Redwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_45",
+      "title": "What is the main source of food for the badger?",
+      "answers": [
+        "Earthworms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_46",
+      "title": "What physicist discovered that a wave's frequency changes when the source and the observer are in motion relative to one another?",
+      "answers": [
+        "Christian Doppler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_47",
+      "title": "How many fluid ounces in a gill?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_48",
+      "title": "Animals that are active during dawn and dusk are called what type of animals?",
+      "answers": [
+        "Crepuscular"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_49",
+      "title": "Hippopotomonstrosesquipedaliophobia is the fear of what?",
+      "answers": [
+        "Long words"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_54_50",
+      "title": "The fear of punishment is known as what?",
+      "answers": [
+        "Poinephobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

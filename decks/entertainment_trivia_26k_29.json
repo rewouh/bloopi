@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_29",
+  "name": "Entertainment Trivia 26K 29",
+  "description": "Entertainment 1401 - 1450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_29_01",
+      "title": "Who directed the film \"Home Alone?\"",
+      "answers": [
+        "Chris Columbus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_02",
+      "title": "Which British actor played the role of Spider-Man in the 2016 film \"Captain America: Civil War\"?",
+      "answers": [
+        "Tom Holland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_03",
+      "title": "What popular movie musical, directed by John Huston, was released in 1982?",
+      "answers": [
+        "\"Annie\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_04",
+      "title": "What 1993 movie's title character is actually out-of-work voice actor Daniel Hillard?",
+      "answers": [
+        "Mrs. Doubtfire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_05",
+      "title": "Who was the cook on the TV show \"Bonanza\"?",
+      "answers": [
+        "Hop Sing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_06",
+      "title": "What 2004 movie remake found Denzel Washington playing a role originated by Frank Sinatra in 1962?",
+      "answers": [
+        "The Manchurian Candidate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_07",
+      "title": "What TV show began with the words \"Space, the final frontier\"?",
+      "answers": [
+        "Star Trek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_08",
+      "title": "What was Eddie Money's career before becoming a musician?",
+      "answers": [
+        "Police officer (trainee)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_09",
+      "title": "What was the \"Sanford and Son\" junkyard converted to when the two stars left the show?",
+      "answers": [
+        "A residential hotel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_10",
+      "title": "John Paul Jones was the bassist and keyboardist for what rock band?",
+      "answers": [
+        "Led Zeppelin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_11",
+      "title": "What was the occupation of James Woods' character on the TV show \"Shark\"?",
+      "answers": [
+        "Lawyer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_12",
+      "title": "Which film features the line, \"I could have been a contender\"?",
+      "answers": [
+        "On the Waterfront"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_13",
+      "title": "Who wrote the music for the Holiday classic film \"White Christmas\"?",
+      "answers": [
+        "Irving Berlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_14",
+      "title": "For what film did Meryl Streep win her first Oscar?",
+      "answers": [
+        "\"Kramer Vs. Kramer\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_15",
+      "title": "Who first recorded the song \"Last Christmas\"?",
+      "answers": [
+        "Wham!"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_16",
+      "title": "Who was the final act at Woodstock?",
+      "answers": [
+        "Jimi Hendrix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_17",
+      "title": "Who recorded the song \"Rockin’ Around the Christmas Tree\" in 1958?",
+      "answers": [
+        "Brenda Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_18",
+      "title": "What coach's team won the first challenge in season 14 of the TV show \"Big Brother\"?",
+      "answers": [
+        "Britney's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_19",
+      "title": "In 1994, Mary Ramsey replaced Natalie Merchant as the lead singer for what group?",
+      "answers": [
+        "10,000 Maniacs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_20",
+      "title": "What TV title role did Jay North play for four seasons?",
+      "answers": [
+        "Dennis the Menace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_21",
+      "title": "Ian Brown fronts which English band?",
+      "answers": [
+        "The Stone Roses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_22",
+      "title": "What TV show featured the fictional \"The Kings of Queens\" fraternity?",
+      "answers": [
+        "All in the Family"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_23",
+      "title": "Who won an Oscar for her portrayal of a young dancer in the movie \"Black Swan\"?",
+      "answers": [
+        "Natalie Portman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_24",
+      "title": "Who released the 1970's album entitled \"Pretzel Logic\"?",
+      "answers": [
+        "Steely Dan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_25",
+      "title": "What director founded the film production company named \"That's A Bad Hat Harry\"?",
+      "answers": [
+        "Bryan Singer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_26",
+      "title": "In the TV show \"The Simpsons\", what is the name of Shelbyville's version of Moe's Tavern?",
+      "answers": [
+        "Joe's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_27",
+      "title": "What was piloted by Vietnam veteran Stringfellow Hawke?",
+      "answers": [
+        "Airwolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_28",
+      "title": "In the original Star Trek series, what was Dr. McCoy's nickname?",
+      "answers": [
+        "Bones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_29",
+      "title": "Who played Gilligan on \"Gilligan's Island\"?",
+      "answers": [
+        "Bob Denver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_30",
+      "title": "Who is the lead guitarist in the band \"The Who\"?",
+      "answers": [
+        "Pete Townsend"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_31",
+      "title": "Who directed the 1946 film \"It’s a Wonderful Life\"?",
+      "answers": [
+        "Frank Capra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_32",
+      "title": "In The Simpsons, what was Martin's soap box racer named?",
+      "answers": [
+        "The Honor Roller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_33",
+      "title": "What year did the interval act \"Riverdance\" debut at the Eurovision Song Contest?",
+      "answers": [
+        "1994"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_34",
+      "title": "What actor was the narrator in the 2006 movie \"Charlotte's Web\"?",
+      "answers": [
+        "Sam Shepard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_35",
+      "title": "In The Simpsons, who said: \"Hello, beautiful. No ring, I see. So you are only arranged to be married.\"?",
+      "answers": [
+        "Apu Nahasapeemapetilon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_36",
+      "title": "Who sang a cover of \"Never Can Say Goodbye\" in 1974?",
+      "answers": [
+        "Gloria Gaynor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_37",
+      "title": "Who plays the character \"Eleven\" in the TV show \"Stranger Things\"?",
+      "answers": [
+        "Millie Bobby Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_38",
+      "title": "Where was golf's Vijay Singh born?",
+      "answers": [
+        "Fiji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_39",
+      "title": "Billy Joel's \"Uptown Girl\" music video featured which supermodel?",
+      "answers": [
+        "Christie Brinkley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_40",
+      "title": "What country singer released the album \"Pieces of the Sky\"?",
+      "answers": [
+        "Emmylou Harris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_41",
+      "title": "What jazz singer was the U2 song Angel of Harlem about?",
+      "answers": [
+        "Billie Holiday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_42",
+      "title": "Who has been played in a movie by both Cate Blanchett and Judi Dench?",
+      "answers": [
+        "Queen Elizabeth I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_43",
+      "title": "In the TV show \"The Simpsons\", who is Apu married to?",
+      "answers": [
+        "Manjula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_44",
+      "title": "Andy's bag that contained the stolen clothes was tied to which leg of his in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Right leg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_45",
+      "title": "Who is pictured with her eyes wide open on posters for Kubrick's \"Eyes Wide Shut\" movie?",
+      "answers": [
+        "Nicole Kidman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_46",
+      "title": "What movie inspired the director of \"The Shawshank Redemption\" into using a voice-over narration.",
+      "answers": [
+        "\"Goodfellas\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_47",
+      "title": "What year was Jodie Foster's directorial debut film, \"Little Man Tate\", released?",
+      "answers": [
+        "1991"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_48",
+      "title": "What was Marlon Brando's screen name in \"The Godfather\"?",
+      "answers": [
+        "Vito Corleone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_49",
+      "title": "What colour was Oscar the Grouch during the first season of Sesame Street?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_29_50",
+      "title": "Bruce Willis played a convict turned time traveler in what 1995 movie?",
+      "answers": [
+        "\"12 Monkeys\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_48",
+  "name": "Science Trivia 26K 48",
+  "description": "Science 2351 - 2400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_48_01",
+      "title": "What type of bear has a clear eyelid?",
+      "answers": [
+        "Polar Bears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_02",
+      "title": "What is the smallest organ in the human body?",
+      "answers": [
+        "Pineal gland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_03",
+      "title": "A baby oyster is called a what?",
+      "answers": [
+        "A spat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_04",
+      "title": "Int the medical field, what do the initials E.E.G stand for?",
+      "answers": [
+        "Electroencephalograph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_05",
+      "title": "What gas is the main component in natural gas?",
+      "answers": [
+        "Methane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_06",
+      "title": "When held to ultraviolet light, what animal’s urine glows in the dark?",
+      "answers": [
+        "Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_07",
+      "title": "Approximately how many light years is the North Star from Earth?",
+      "answers": [
+        "434"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_08",
+      "title": "In what organ of the human body would you find Bowman's capsules?",
+      "answers": [
+        "The kidneys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_09",
+      "title": "What kind of mountains are the Himalayas?",
+      "answers": [
+        "Young Fold mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_10",
+      "title": "The age of a woolly mammoth can be determined by examining what?",
+      "answers": [
+        "Tusks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_11",
+      "title": "What is the chemical symbol for Titanium?",
+      "answers": [
+        "Ti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_12",
+      "title": "The rate of change of velocity is known as what?",
+      "answers": [
+        "Acceleration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_13",
+      "title": "Who developed the world's first vaccine?",
+      "answers": [
+        "Edward Jenner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_14",
+      "title": "What unit of measurement is one tenth of a nautical mile?",
+      "answers": [
+        "A Cable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_15",
+      "title": "What is frozen to make dry ice?",
+      "answers": [
+        "Carbon dioxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_16",
+      "title": "What professor of physics oversaw the design and assembly of the first atomic bomb?",
+      "answers": [
+        "J. Robert Oppenheimer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_17",
+      "title": "How many muscles are there in an elephant's trunk?",
+      "answers": [
+        "40,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_18",
+      "title": "In what lunar phase is the moon when it is three-quarters full?",
+      "answers": [
+        "Gibbous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_19",
+      "title": "What is a single piece of coiled DNA is known as?",
+      "answers": [
+        "Chromosome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_20",
+      "title": "Aurum was the old Latin name used in chemistry for which precious metal?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_21",
+      "title": "A medicine that hastens the emptying of the bowels is called a what?",
+      "answers": [
+        "Laxative"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_22",
+      "title": "What cells are responsible for forming new bone?",
+      "answers": [
+        "Osteoblasts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_23",
+      "title": "How is the year 2000 written in Roman numerals?",
+      "answers": [
+        "MM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_24",
+      "title": "What is permanently-frozen subsoil called?",
+      "answers": [
+        "Permafrost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_25",
+      "title": "What is at an average distance of 238,857 miles from the Earth?",
+      "answers": [
+        "The Moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_26",
+      "title": "Which part of a cow does chuck meat come from?",
+      "answers": [
+        "Shoulder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_27",
+      "title": "Where is the tragus located on a human body?",
+      "answers": [
+        "Near the ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_28",
+      "title": "Microphobia is the fear of what?",
+      "answers": [
+        "Small things"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_29",
+      "title": "What is a group of jelly fish called?",
+      "answers": [
+        "A smack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_30",
+      "title": "What creature takes its name from Indigenous Australian language for \"no drink\"?",
+      "answers": [
+        "Koala"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_31",
+      "title": "Where in the body will you find your aqueous humour?",
+      "answers": [
+        "Eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_32",
+      "title": "What year was the element Californium first synthesized?",
+      "answers": [
+        "1950"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_33",
+      "title": "Which English philosopher believed that people in a state of nature are violent?",
+      "answers": [
+        "Thomas Hobbes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_34",
+      "title": "Chionophobia is the fear of what?",
+      "answers": [
+        "Snow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_35",
+      "title": "What year was carbon 14 first discovered?",
+      "answers": [
+        "1940"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_36",
+      "title": "Which planet is known as the red planet?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_37",
+      "title": "What are you if you are myopic?",
+      "answers": [
+        "Near-sighted"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_38",
+      "title": "What is the shape of the goat's pupil?",
+      "answers": [
+        "Horizontal slit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_39",
+      "title": "What color is on the outside arc of a rainbow?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_40",
+      "title": "A baby guinea pig is called what?",
+      "answers": [
+        "A pup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_41",
+      "title": "What element is most commonly found in Earths atmosphere?",
+      "answers": [
+        "Nitrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_42",
+      "title": "What two-word term is the top speed reached by a free-falling object?",
+      "answers": [
+        "Terminal velocity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_43",
+      "title": "What does the scientist called a \"cytologist\" do?",
+      "answers": [
+        "Study cells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_44",
+      "title": "What was the name of the very first space-ready shuttle?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_45",
+      "title": "What is the purpose of \"seeding\" a cloud?",
+      "answers": [
+        "To create rain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_46",
+      "title": "What does the word \"lodestone\" mean?",
+      "answers": [
+        "Leading stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_47",
+      "title": "People with hypertrichosis have lots of what?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_48",
+      "title": "What popular computer language shares its name with the serpent Apollo slew at Delphi?",
+      "answers": [
+        "Python"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_49",
+      "title": "Who invented the telephone?",
+      "answers": [
+        "Alexander Graham Bell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_48_50",
+      "title": "What is the universal solvent?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

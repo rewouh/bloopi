@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_65",
+  "name": "History Trivia 26K 65",
+  "description": "History 3201 - 3250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_65_01",
+      "title": "Instead of bombs, what did the British Royal Air Force drop on Germany in early WWII?",
+      "answers": [
+        "Propaganda leaflets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_02",
+      "title": "Which New England state was an independent republic for 14 years before joining the union?",
+      "answers": [
+        "Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_03",
+      "title": "What was the first product to have a barcode?",
+      "answers": [
+        "Wrigley's gum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_04",
+      "title": "In 1879 James Ritty invented what?",
+      "answers": [
+        "Cash Register"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_05",
+      "title": "What French entertainer, activist and secret agent had a pet cheetah named Chiquita?",
+      "answers": [
+        "Josephine Baker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_06",
+      "title": "Which U.S. president was the first to pardon a turkey with an official ceremony?",
+      "answers": [
+        "John F. Kennedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_07",
+      "title": "What military legend was nicknamed \"Unconditional Surrender\"?",
+      "answers": [
+        "Ulysses S. Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_08",
+      "title": "What popular figure was assassinated by Sirhan Sirhan?",
+      "answers": [
+        "Robert F. Kennedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_09",
+      "title": "Who was the architect of the \"Final Solution\"?",
+      "answers": [
+        "Heinrich Himmler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_10",
+      "title": "The first Nobel Prize was awarded in which country?",
+      "answers": [
+        "Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_11",
+      "title": "Which nation's Conquistadors took over from the Incas?",
+      "answers": [
+        "Spain's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_12",
+      "title": "What does the Latin word \"circa\" before a date mean?",
+      "answers": [
+        "Approximately"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_13",
+      "title": "What was the U.S. first commercial radio station?",
+      "answers": [
+        "KDKA in Pittsburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_14",
+      "title": "Who built a private apartment near the top of a tower named for himself and entertained Thomas Edison in it?",
+      "answers": [
+        "Gustave Eiffel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_15",
+      "title": "Who was the first American in space?",
+      "answers": [
+        "Alan Shepard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_16",
+      "title": "Who was the first sitting U.S. President to ride a train?",
+      "answers": [
+        "Andrew Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_17",
+      "title": "In what year was Stanley sent to Africa to search for Livingstone?",
+      "answers": [
+        "1871"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_18",
+      "title": "Who was the first US president to have a woman serving in his cabinet?",
+      "answers": [
+        "Franklin D. Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_19",
+      "title": "What English code breaker created a machine that helped to decrypt Nazi messages?",
+      "answers": [
+        "Alan Turing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_20",
+      "title": "What royal subject married Marie Antoinette?",
+      "answers": [
+        "Louis XVI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_21",
+      "title": "What year was Mother Teresa born?",
+      "answers": [
+        "1910"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_22",
+      "title": "During what century was the first Thanksgiving Day celebration?",
+      "answers": [
+        "17th century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_23",
+      "title": "Who was the first European explorer under the flag of England to reach North America?",
+      "answers": [
+        "John Cabot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_24",
+      "title": "In 1984 who became the first Australian born person to travel into space?",
+      "answers": [
+        "Paul Scully-Power"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_25",
+      "title": "What year was the Galapagos Islands archipelago declared a whale sanctuary?",
+      "answers": [
+        "1990"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_26",
+      "title": "What woman disguised herself as a man and fought alongside her husband during the American Civil War?",
+      "answers": [
+        "Malinda Blalock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_27",
+      "title": "Who was President Nixon's first vice president?",
+      "answers": [
+        "Spiro T. Agnew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_28",
+      "title": "What was the name of the first operational nuclear-powered submarine?",
+      "answers": [
+        "USS Nautilus SSN-571"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_29",
+      "title": "How many delegates signed the US Declaration of Independence?",
+      "answers": [
+        "56"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_30",
+      "title": "The Khmer words for \"city temple\" give what building its name?",
+      "answers": [
+        "Angkor Wat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_31",
+      "title": "What American won the Nobel Peace Prize in 2007?",
+      "answers": [
+        "Al Gore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_32",
+      "title": "What was the name of the Mayflower's sister ship?",
+      "answers": [
+        "Speedwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_33",
+      "title": "Which of Henry VIII's wives is buried beside him?",
+      "answers": [
+        "Jane Seymour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_34",
+      "title": "Who was the first person to fly solo across the Atlantic ocean?",
+      "answers": [
+        "Charles Lindbergh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_35",
+      "title": "How many future presidents signed the US Declaration of Independence?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_36",
+      "title": "What California coastal town hosted the first major rock festival in 1967?",
+      "answers": [
+        "Monterey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_37",
+      "title": "Former French prime minister Georges Clemenceau was called what?",
+      "answers": [
+        "The Tiger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_38",
+      "title": "On what date did the Titanic sink?",
+      "answers": [
+        "April 15, 1912"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_39",
+      "title": "Who was known as \"Moses\" of the Underground Railroad?",
+      "answers": [
+        "Harriet Tubman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_40",
+      "title": "In which country was the umbrella invented?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_41",
+      "title": "What was the name of the scandal that forced President Nixon to resign?",
+      "answers": [
+        "Watergate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_42",
+      "title": "Who was the first US president born in a Hospital?",
+      "answers": [
+        "Jimmy Carter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_43",
+      "title": "Who was called \"The Hero of San Juan Hill\"?",
+      "answers": [
+        "Theodore Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_44",
+      "title": "Who is Cleveland, Ohio, named after?",
+      "answers": [
+        "General Moses Cleveland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_45",
+      "title": "The ancient Romans used the word \"mala\" to refer to what food?",
+      "answers": [
+        "Apples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_46",
+      "title": "Who was the first wife of King Henry VIII?",
+      "answers": [
+        "Catherine of Aragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_47",
+      "title": "General George H. Thomas was nicknamed the \"Rock of Chickamauga\" during what war?",
+      "answers": [
+        "Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_48",
+      "title": "Who became the 17th president, after Abraham Lincoln was assassinated?",
+      "answers": [
+        "Andrew Johnson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_49",
+      "title": "What was the nationallity of Rasputin?",
+      "answers": [
+        "Russian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_65_50",
+      "title": "Refugees on which ship were refused entry to both Cuba and the U.S. in 1939?",
+      "answers": [
+        "St. Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

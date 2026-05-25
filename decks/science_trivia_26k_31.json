@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_31",
+  "name": "Science Trivia 26K 31",
+  "description": "Science 1501 - 1550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_31_01",
+      "title": "Angora wool is produced from what animal's coat?",
+      "answers": [
+        "The Angora rabbit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_02",
+      "title": "What is the average lifespan of the hummingbird?",
+      "answers": [
+        "5 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_03",
+      "title": "What do we call the lower chambers of the human heart?",
+      "answers": [
+        "Ventricles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_04",
+      "title": "How many seconds are there in 1 hour?",
+      "answers": [
+        "3,600 seconds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_05",
+      "title": "Which decade saw the first flight of a space shuttle commanded by a woman?",
+      "answers": [
+        "1990s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_06",
+      "title": "Which side of the brain is responsible for logic and rational thought?",
+      "answers": [
+        "The left side"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_07",
+      "title": "Which is larger, the U.S. gallon or the Imperial gallon?",
+      "answers": [
+        "The Imperial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_08",
+      "title": "Which substance has the chemical formula HCl?",
+      "answers": [
+        "Hydrochloric acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_09",
+      "title": "What is energy typically measured in what SI units?",
+      "answers": [
+        "Joules"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_10",
+      "title": "Who collaborated with Beno Gutenburg to devise a system of measuring the intensity of earthquakes?",
+      "answers": [
+        "Charles Richter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_11",
+      "title": "What is the more common name for Naris?",
+      "answers": [
+        "Nostril"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_12",
+      "title": "Where is the heart of a shrimp?",
+      "answers": [
+        "Head"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_13",
+      "title": "What color is a Great Egret?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_14",
+      "title": "What are the cells in the pancreas that secrete insulin?",
+      "answers": [
+        "Islets Of Langerhans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_15",
+      "title": "What is the name of the cord joining a mother and her unborn child?",
+      "answers": [
+        "Umbilical cord"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_16",
+      "title": "What is produced using the Kroll process?",
+      "answers": [
+        "Metallic titanium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_17",
+      "title": "Parr, Smolt and Grilse are lifecycle stages for what fish?",
+      "answers": [
+        "Salmon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_18",
+      "title": "Despite its name, what species of whale is most likely to die in mass strandings on the beach?",
+      "answers": [
+        "Pilot whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_19",
+      "title": "What chemical makes plants green?",
+      "answers": [
+        "Chlorophyll"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_20",
+      "title": "An octopus can fit through any hole larger than its what?",
+      "answers": [
+        "Its beak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_21",
+      "title": "The lumbar spine consists of how many vertebrae?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_22",
+      "title": "What black stone is the most common volcanic rock on Earth?",
+      "answers": [
+        "Basalt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_23",
+      "title": "What is the sea parrot commonly known as?",
+      "answers": [
+        "Puffin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_24",
+      "title": "What bird, also known as a Man O'War, can glide for hours without flapping its wings?",
+      "answers": [
+        "Magnificent Frigatebird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_25",
+      "title": "The insomnia medication zolpidem tartrate is most commonly marketed in the US under what trade name?",
+      "answers": [
+        "Ambien"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_26",
+      "title": "What phenomenon is named for the French words for \"already seen\"?",
+      "answers": [
+        "Deja vu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_27",
+      "title": "What is a particle of light called?",
+      "answers": [
+        "A photon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_28",
+      "title": "How many planets in our solar system have rings?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_29",
+      "title": "Sophophobia is known as the phobia of what?",
+      "answers": [
+        "Learning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_30",
+      "title": "What common ailment can't you catch at the North Pole?",
+      "answers": [
+        "A Cold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_31",
+      "title": "Karakul, Dorset, Urial, and Jacob are types of what?",
+      "answers": [
+        "Sheep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_32",
+      "title": "Why are trees covered in bark?",
+      "answers": [
+        "For protection"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_33",
+      "title": "The fear of speaking is known as what?",
+      "answers": [
+        "Laliophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_34",
+      "title": "What bird bone is known as the \"wishbone\"?",
+      "answers": [
+        "Collarbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_35",
+      "title": "What is the atomic number for Hydrogen?",
+      "answers": [
+        "1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_36",
+      "title": "What planet was the first to be discovered by mathematical prediction and not observation?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_37",
+      "title": "What large reptile gets its name from the Spanish meaning \"the lizard\"?",
+      "answers": [
+        "Alligator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_38",
+      "title": "What everyday item did John Walker invent?",
+      "answers": [
+        "Friction matches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_39",
+      "title": "Which bone exists as five separate bones when you are an infant?",
+      "answers": [
+        "Cranium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_40",
+      "title": "What metal has the chemical symbol Pb?",
+      "answers": [
+        "Lead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_41",
+      "title": "What does the X in \"X-ray\" stand for?",
+      "answers": [
+        "\"Unknown\" type of radiation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_42",
+      "title": "What general family are orcas in?",
+      "answers": [
+        "Dolphins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_43",
+      "title": "Where can you find the \"pudu\", the world’s smallest deer?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_44",
+      "title": "What is the chemical process for converting sugar into alcohol?",
+      "answers": [
+        "Fermentation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_45",
+      "title": "What is the largest kangaroo?",
+      "answers": [
+        "The red kangaroo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_46",
+      "title": "In what organ of the human body would you find the nephrons?",
+      "answers": [
+        "The kidneys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_47",
+      "title": "What type of creature is a \"sidewinder\"?",
+      "answers": [
+        "A snake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_48",
+      "title": "What do you call the application of science to criminal investigation?",
+      "answers": [
+        "Forensic science"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_49",
+      "title": "What vitamin is sometimes referred to as the \"sunshine vitamin\"?",
+      "answers": [
+        "Vitamin D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_31_50",
+      "title": "What astronomical unit of distance equals about 5.88 trillion miles?",
+      "answers": [
+        "1 light year"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

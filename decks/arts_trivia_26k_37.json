@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_37",
+  "name": "Arts Trivia 26K 37",
+  "description": "Arts 1801 - 1850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_37_01",
+      "title": "What name is given to the metal bars running across the neck of a guitar?",
+      "answers": [
+        "Frets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_02",
+      "title": "What is the full name of author C. S. Lewis?",
+      "answers": [
+        "Clive Staples Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_03",
+      "title": "The comic books and movie titled \"300\" is based off of which famous battle?",
+      "answers": [
+        "The Battle of Thermopylae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_04",
+      "title": "What artifact did Moses use to perform miracles and wonders in Egypt?",
+      "answers": [
+        "A wooden staff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_05",
+      "title": "What is the name of Squire Trelawney's ship in \"Treasure Island\"?",
+      "answers": [
+        "Hispaniola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_06",
+      "title": "Who is the protagonist of \"The Hunger Games\"?",
+      "answers": [
+        "Katniss Everdeen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_07",
+      "title": "What famous name in opera was the son-in-law of composer Franz Liszt?",
+      "answers": [
+        "Richard Wagner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_08",
+      "title": "When was the book “National Velvet” first published?",
+      "answers": [
+        "1935"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_09",
+      "title": "Which Hans Christian Andersen fairy tale figure sits by the waterside in Copenhagen?",
+      "answers": [
+        "The Little Mermaid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_10",
+      "title": "What book introduced readers to 11-year-old Anne Shirley?",
+      "answers": [
+        "Anne of Green Gables"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_11",
+      "title": "Who is Othello's wife?",
+      "answers": [
+        "Desdemona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_12",
+      "title": "What is Dr. Zhivago's first name?",
+      "answers": [
+        "Yuri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_13",
+      "title": "How old was poet Sylvia Plath when she committed suicide?",
+      "answers": [
+        "30"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_14",
+      "title": "In Greek mythology, who was Paris' wife before he was smitten by Helen?",
+      "answers": [
+        "Oenone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_15",
+      "title": "Who was the composer of the classical piece known as \"Zadok the Priest\"?",
+      "answers": [
+        "George Frideric Handel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_16",
+      "title": "What's the highest-pitched instrument in the orchestra?",
+      "answers": [
+        "The piccolo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_17",
+      "title": "Who first appeared in the novel \"The Mysterious Affair at Styles\"?",
+      "answers": [
+        "Hercule Poirot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_18",
+      "title": "What 1964 Broadway hit centered on a milkman and his five daughters?",
+      "answers": [
+        "Fiddler on the Roof"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_19",
+      "title": "In Greek mythology, what is Demeter the goddess of what?",
+      "answers": [
+        "Harvest and agriculture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_20",
+      "title": "What is the literary term for a word that is spelled the same backwards as it is forwards?",
+      "answers": [
+        "Palindrome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_21",
+      "title": "What was the name of Don Quixote's horse?",
+      "answers": [
+        "Rocinante"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_22",
+      "title": "What nationality was Vincent van Gogh?",
+      "answers": [
+        "Dutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_23",
+      "title": "What American writer went \"On the Road\" to find life's answers?",
+      "answers": [
+        "Jack Keroauc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_24",
+      "title": "What comic strip cat was created by Otto Messmer and Pat Sullivan in 1919?",
+      "answers": [
+        "Felix the Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_25",
+      "title": "Who wrote the novel \"Barnaby Rudge\"?",
+      "answers": [
+        "Charles Dickens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_26",
+      "title": "During what war was the novel \"The Hornet's Nest\" set?",
+      "answers": [
+        "American Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_27",
+      "title": "What is the oldest-known epic tale?",
+      "answers": [
+        "\"Epic of Gilgamesh\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_28",
+      "title": "What is the Roman name of the Greek god Pan?",
+      "answers": [
+        "Faunus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_29",
+      "title": "What is the full name of writer H. G. Wells?",
+      "answers": [
+        "Herbert George Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_30",
+      "title": "What is the name of Sergeant Snorkle’s dog in “Beetle Bailey”?",
+      "answers": [
+        "Otto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_31",
+      "title": "What word describes the act of marking a document in red?",
+      "answers": [
+        "Rubrication"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_32",
+      "title": "The book \"20,000 Leagues Under the Sea\" was written by whom?",
+      "answers": [
+        "Jules Verne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_33",
+      "title": "What famous American author published Ulysses S. Grant's \"Personal Memoirs\"?",
+      "answers": [
+        "Mark Twain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_34",
+      "title": "What species are mingled to produce a Griffin?",
+      "answers": [
+        "Eagle and lion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_35",
+      "title": "In which Shakespeare play does Launcelot Gobbo appear?",
+      "answers": [
+        "The Merchant of Venice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_36",
+      "title": "From what language did English borrow the word \"kumquat\"?",
+      "answers": [
+        "Cantonese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_37",
+      "title": "Which novelist created the character Helen West?",
+      "answers": [
+        "Frances Fyfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_38",
+      "title": "Who published his last novel, \"A Passage to India\", in 1924, though he lived 46 more years?",
+      "answers": [
+        "E. M. Forster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_39",
+      "title": "What was the name of the winged horse in Greek mythology?",
+      "answers": [
+        "Pegasus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_40",
+      "title": "What musical did \"Cats\" surpass as the longest running in Broadway history?",
+      "answers": [
+        "A Chorus Line"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_41",
+      "title": "What detective was created by Dashiell Hammett in his novel, \"The Maltese Falcon\"?",
+      "answers": [
+        "Sam Spade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_42",
+      "title": "What kind of a creature is Hobbes from the comic strip \"Calvin and Hobbes\"?",
+      "answers": [
+        "A tiger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_43",
+      "title": "What is the shortest and bloodiest of Shakespeare's plays?",
+      "answers": [
+        "Macbeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_44",
+      "title": "In the Bible, what does Gideon's name mean?",
+      "answers": [
+        "Tree cutter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_45",
+      "title": "Who is the Roman god of fire?",
+      "answers": [
+        "Vulcan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_46",
+      "title": "Who was Moses' sister in the Bible?",
+      "answers": [
+        "Miriam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_47",
+      "title": "What was one of Franz Liszt's most notable talents?",
+      "answers": [
+        "Ability to improvise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_48",
+      "title": "What is the only signed work of Michelangelo?",
+      "answers": [
+        "The Pieta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_49",
+      "title": "What historical event is central to the novel “A Tale of Two Cities”?",
+      "answers": [
+        "The French Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_37_50",
+      "title": "Who is Asterix' best friend?",
+      "answers": [
+        "Obelix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

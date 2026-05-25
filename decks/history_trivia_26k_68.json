@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_68",
+  "name": "History Trivia 26K 68",
+  "description": "History 3351 - 3400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_68_01",
+      "title": "What US first lady helped draft the Universal Declaration of Human Rights?",
+      "answers": [
+        "Eleanor Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_02",
+      "title": "Which country hosted the 1900 Olympic Games?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_03",
+      "title": "Which amendment to the US Constitution deals with abolishing slavery?",
+      "answers": [
+        "Thirteenth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_04",
+      "title": "What US Navy intelligence vessel was attacked by North Korea on January 23, 1968?",
+      "answers": [
+        "USS Pueblo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_05",
+      "title": "What kind of planes were used in the Doolittle Raid?",
+      "answers": [
+        "B-25 bombers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_06",
+      "title": "Who was the first American astronaut to enter space?",
+      "answers": [
+        "Alan B. Shepard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_07",
+      "title": "Which U.S. president had a home called The Hermitage?",
+      "answers": [
+        "Andrew Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_08",
+      "title": "Carlos Menem was elected president of what country in 1989?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_09",
+      "title": "Which Wild West crime was last documented on December 5, 1916?",
+      "answers": [
+        "Stagecoach robbery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_10",
+      "title": "What was the Statue of Liberty originally designed to commemorate?",
+      "answers": [
+        "Freed enslaved people"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_11",
+      "title": "How were Theodore and Franklin Roosevelt related?",
+      "answers": [
+        "They were fifth cousins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_12",
+      "title": "Which President's library has their actual Air Force One Boeing 707 on display?",
+      "answers": [
+        "Ronald Reagan's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_13",
+      "title": "According to Betsy Ross' family, what was the first American flag made from?",
+      "answers": [
+        "Hemp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_14",
+      "title": "Where did yoga originate?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_15",
+      "title": "Who was the 15th President of the US?",
+      "answers": [
+        "James Buchanan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_16",
+      "title": "Which country experienced a period called the Meiji Restoration?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_17",
+      "title": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+      "answers": [
+        "The Mayans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_18",
+      "title": "Who was the only US president to not marry?",
+      "answers": [
+        "James Buchanan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_19",
+      "title": "How many states were in the original US Confederacy?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_20",
+      "title": "Who did \"Time\" magazine choose as its Person of the Century in 1999?",
+      "answers": [
+        "Albert Einstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_21",
+      "title": "What was the first cash crop in America?",
+      "answers": [
+        "Tobacco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_22",
+      "title": "What did women use to redden their lips during the era of Louis XIV?",
+      "answers": [
+        "Lemons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_23",
+      "title": "Erik Rotheim patented the first aerosol spray can in Oslo in what year?",
+      "answers": [
+        "1927"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_24",
+      "title": "Who was the first tennis player to win the Grand Slam?",
+      "answers": [
+        "Don Budge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_25",
+      "title": "How many people signed both the Declaration of Independence and the U.S. Constitution?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_26",
+      "title": "Where did the Vikings first attack England?",
+      "answers": [
+        "Lindisfarne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_27",
+      "title": "What Undersecretary of the United Nations became the first African-American to win the Nobel Peace Prize?",
+      "answers": [
+        "Ralph Bunche"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_28",
+      "title": "What collapsed in 1928 near the city of Santa Paula, killing over 450 people?",
+      "answers": [
+        "St. Francis Dam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_29",
+      "title": "Who said, \"Champagne should be dry, cold, and free\".?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_30",
+      "title": "Which amendment to the US Constitution deals with the income tax?",
+      "answers": [
+        "Sixteenth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_31",
+      "title": "What was the name of the 1783 treaty that formally ended the American Revolutionary War?",
+      "answers": [
+        "The Treaty of Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_32",
+      "title": "The Vanderbilt fortune initially began in what industry?",
+      "answers": [
+        "Shipping Industry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_33",
+      "title": "What US state was first to legalize same-sex marriage?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_34",
+      "title": "Which \"Committee of Five\" member was the only one to sign all four of the US state papers?",
+      "answers": [
+        "Roger Sherman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_35",
+      "title": "The first female U.S. senator was from what state?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_36",
+      "title": "What decade saw the first US postage stamp issued?",
+      "answers": [
+        "1840s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_37",
+      "title": "What was the tiny pocket in jeans originally meant to store?",
+      "answers": [
+        "Pocket watch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_38",
+      "title": "In 1947, US telephone companies began using what?",
+      "answers": [
+        "Area codes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_39",
+      "title": "How many Jews did the real-life Oskar Schindler save during the Holocaust?",
+      "answers": [
+        "1200"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_40",
+      "title": "On July 4, 1776, how many English colonies proclaimed a Declaration of Independence?",
+      "answers": [
+        "13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_41",
+      "title": "Who did Muhammad Ali defeat to gain the World Heavyweight boxing title for the first time?",
+      "answers": [
+        "Sonny Liston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_42",
+      "title": "Whose body was exhumed from Westminster Abbey, more than two years after his death, to be \"executed\" for treason?",
+      "answers": [
+        "Oliver Cromwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_43",
+      "title": "What was founded in the UK in 1694 because of war with France?",
+      "answers": [
+        "Bank of England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_44",
+      "title": "What did the US government purchase from Spain in 1819?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_45",
+      "title": "In what church was the twentieth century's first \"Unknown Soldier\" buried?",
+      "answers": [
+        "Westminster Abbey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_46",
+      "title": "The first significant gold rush in the US occurred in what state?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_47",
+      "title": "Abraham Zapruder gained fame for filming what important event in US history?",
+      "answers": [
+        "JFK assassination"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_48",
+      "title": "Which battle saw the final defeat of the Jacobites in 1746?",
+      "answers": [
+        "Battle of Culloden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_49",
+      "title": "In the 15th Century, in which ship did John Cabot sail to Canada?",
+      "answers": [
+        "Matthew of Bristol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_68_50",
+      "title": "Which US president delivered the Gettysburg Address?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

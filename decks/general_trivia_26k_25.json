@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_25",
+  "name": "General Trivia 26K 25",
+  "description": "General 1201 - 1250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_25_01",
+      "title": "What style of yoga is practiced in a very warm room?",
+      "answers": [
+        "Bikram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_02",
+      "title": "How many dots are there on a die?",
+      "answers": [
+        "21"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_03",
+      "title": "What is the highest score in darts from three different doubles?",
+      "answers": [
+        "114"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_04",
+      "title": "What soft drink used the ad slogan \"Obey your thirst\" for almost two decades?",
+      "answers": [
+        "Sprite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_05",
+      "title": "What is the fear of darkness called?",
+      "answers": [
+        "Scotophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_06",
+      "title": "What is the front of a saddle called?",
+      "answers": [
+        "Pommel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_07",
+      "title": "What does an Apiarist keep?",
+      "answers": [
+        "Bees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_08",
+      "title": "Who invented corn flakes?",
+      "answers": [
+        "Dr. John Harvey Kellogg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_09",
+      "title": "Who was Strongbow cider named after?",
+      "answers": [
+        "Richard de Clare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_10",
+      "title": "What year did the Boston Tea Party take place?",
+      "answers": [
+        "1773"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_11",
+      "title": "What is the most expensive publicly traded stock in the world?",
+      "answers": [
+        "Berkshire Hathaway (BRK.A)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_12",
+      "title": "In 2001, what surpassed tuna as America's most eaten seafood?",
+      "answers": [
+        "Shrimp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_13",
+      "title": "What number is at 12 o'clock on a dartboard?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_14",
+      "title": "Which Scandinavian country awards the Nobel Peace prize?",
+      "answers": [
+        "Norway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_15",
+      "title": "Bacon is the flesh of what barnyard animal?",
+      "answers": [
+        "Pig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_16",
+      "title": "Sweet Baby Broccoli is another name for what vegetable?",
+      "answers": [
+        "Broccolini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_17",
+      "title": "What trade name comes from combining the French words for velvet and hook?",
+      "answers": [
+        "Velcro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_18",
+      "title": "Christopher Cockerell is best known for invented what?",
+      "answers": [
+        "The hovercraft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_19",
+      "title": "Which sport would you be playing when competing for the Davis Cup?",
+      "answers": [
+        "Tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_20",
+      "title": "Which English word is a combination of the first 2 letters of the Greek alphabet?",
+      "answers": [
+        "Alphabet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_21",
+      "title": "Who did ESPN name the greatest athlete of the 20th century?",
+      "answers": [
+        "Michael Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_22",
+      "title": "In ancient times, what material where the first musical instruments made of?",
+      "answers": [
+        "Bones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_23",
+      "title": "What drink is sometimes called \"La Fée Verte\"?",
+      "answers": [
+        "Absinthe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_24",
+      "title": "What US state was the home of General Motors' original \"Saturn\" automobile plant?",
+      "answers": [
+        "Tennessee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_25",
+      "title": "Who said: \"Santa has the right idea. Visit people once a year.\"?",
+      "answers": [
+        "Victor Borge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_26",
+      "title": "What type of dog did Queen Elizabeth II of England call her favorite?",
+      "answers": [
+        "Corgi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_27",
+      "title": "In architecture, what is the structure that forms the arms of a cross-shaped church named?",
+      "answers": [
+        "Transept"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_28",
+      "title": "What year did Volkswagen introduce the Golf R32 model?",
+      "answers": [
+        "2002"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_29",
+      "title": "What bar is credited with debuting the Grasshopper cocktail?",
+      "answers": [
+        "Tujague's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_30",
+      "title": "A rabbit punch is a blow to what part of the body?",
+      "answers": [
+        "Neck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_31",
+      "title": "How many points is the outer white ring of an Olympic archery target worth?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_32",
+      "title": "What toy company first produced the Spirograph drawing toy back in 1966?",
+      "answers": [
+        "Kenner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_33",
+      "title": "Wild Turkey is what kind of alcohol?",
+      "answers": [
+        "Straight bourbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_34",
+      "title": "Where did the corgi dog breed get its name?",
+      "answers": [
+        "Welsh for \"dwarf\" dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_35",
+      "title": "What is the full moon nearest the autumnal equinox called?",
+      "answers": [
+        "Harvest moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_36",
+      "title": "What year was the social giant Facebook founded?",
+      "answers": [
+        "2004"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_37",
+      "title": "In the US, the horn of plenty is a common symbol of which holiday?",
+      "answers": [
+        "Thanksgiving"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_38",
+      "title": "When was the polka dot jersey first awarded at the Tour de France to the \"King of the Mountains\"?",
+      "answers": [
+        "1975"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_39",
+      "title": "Facebook was first limited to students at what university?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_40",
+      "title": "What do Las Vegas blackjack dealers stand on?",
+      "answers": [
+        "17"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_41",
+      "title": "\"A la Crecy\" is a French cooking term that describes a dish that is made or is garnished with what?",
+      "answers": [
+        "Carrots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_42",
+      "title": "What is tripe on a menu?",
+      "answers": [
+        "Stomach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_43",
+      "title": "Frigophobia is a fear of what?",
+      "answers": [
+        "Becoming cold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_44",
+      "title": "What name is given to the vertical bar of a window?",
+      "answers": [
+        "Mullion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_45",
+      "title": "Who is credited with the invention of the Phillips screw design?",
+      "answers": [
+        "John P. Thompson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_46",
+      "title": "How many balls are normally racked in the triangle in pocket billiards?",
+      "answers": [
+        "15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_47",
+      "title": "When was the Red Bull energy drink first introduced?",
+      "answers": [
+        "1987"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_48",
+      "title": "A group of elephants is called what?",
+      "answers": [
+        "A parade or memory"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_49",
+      "title": "What was the only place Tandy's popular TRS-80 computers were sold?",
+      "answers": [
+        "RadioShack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_25_50",
+      "title": "What is the wife of a duke called?",
+      "answers": [
+        "Duchess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

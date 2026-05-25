@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_38",
+  "name": "Geography Trivia 26K 38",
+  "description": "Geography 1851 - 1900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_38_01",
+      "title": "What is the capital of the US state of North Carolina?",
+      "answers": [
+        "Raleigh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_02",
+      "title": "What US state is Helena the capital of?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_03",
+      "title": "In which Asian city is the historic waterfront called The Bund?",
+      "answers": [
+        "Shanghai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_04",
+      "title": "The Bical grape originates from which European country?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_05",
+      "title": "What is the capital of the US state of Alabama?",
+      "answers": [
+        "Montgomery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_06",
+      "title": "What is the capital of Belarus?",
+      "answers": [
+        "Minsk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_07",
+      "title": "What is the capital of Canada?",
+      "answers": [
+        "Ottawa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_08",
+      "title": "In which district of the United Kingdom is Scaffel Pike, England's highest peak, found?",
+      "answers": [
+        "The Lake District"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_09",
+      "title": "What is the highest mountain in Greece?",
+      "answers": [
+        "Mount Olympus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_10",
+      "title": "What is the most mountainous country in the world?",
+      "answers": [
+        "Bhutan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_11",
+      "title": "What is the capital of Guyana?",
+      "answers": [
+        "Georgetown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_12",
+      "title": "Which US state has the highest relative humidity?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_13",
+      "title": "What nation does the island of Okinawa belong to?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_14",
+      "title": "Prudence Island is the third largest island in which US state?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_15",
+      "title": "What desert gets its name from the Arabic word meaning \"desert\"?",
+      "answers": [
+        "Sahara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_16",
+      "title": "What name is given to the mainland peninsula that's part of Hong Kong?",
+      "answers": [
+        "Kowloon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_17",
+      "title": "In which US state is the largest county?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_18",
+      "title": "Malé is the capital of which country?",
+      "answers": [
+        "Maldives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_19",
+      "title": "Which country borders Suriname to the west?",
+      "answers": [
+        "Guyana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_20",
+      "title": "Where is the world's oldest royal residence still in use?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_21",
+      "title": "What country’s land is mostly on an island, although most of its people live on a peninsula across the South China Sea?",
+      "answers": [
+        "Malaysia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_22",
+      "title": "The phrase \"banana republic\" was first coined by O. Henry in reference to what country?",
+      "answers": [
+        "Honduras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_23",
+      "title": "What mountain chain runs from Maine to Alabama?",
+      "answers": [
+        "Appalachian Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_24",
+      "title": "Which state is nicknamed the \"Empire State\"?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_25",
+      "title": "What object marks the geographic South Pole?",
+      "answers": [
+        "A plaque"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_26",
+      "title": "\"Lost City of the Incas\" is another name for what Peruvian site?",
+      "answers": [
+        "Machu Picchu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_27",
+      "title": "What country covers an entire continent?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_28",
+      "title": "Which is the most Northerly African country through which the Greenwich meridian passes?",
+      "answers": [
+        "Algeria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_29",
+      "title": "What three countries share a land border with Somalia?",
+      "answers": [
+        "Ethiopia, Djibouti and Kenya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_30",
+      "title": "What river forms much of the border between Washington and Oregon?",
+      "answers": [
+        "Columbia River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_31",
+      "title": "Lansing is the capital of which US state?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_32",
+      "title": "In what country would you find the mouths of the Murray river?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_33",
+      "title": "On what continent is Mt. Vesuvius?",
+      "answers": [
+        "Europe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_34",
+      "title": "In which U.S. state did the world's largest recorded snowflake fall?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_35",
+      "title": "Dodoma is the capital of which African country?",
+      "answers": [
+        "Tanzania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_36",
+      "title": "What takes place in Happy Valley, Hong Kong?",
+      "answers": [
+        "Horse racing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_37",
+      "title": "What country borders Sudan to the north?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_38",
+      "title": "How many neighbors does Lesotho have?",
+      "answers": [
+        "Only 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_39",
+      "title": "Which sea is located east of Sudan?",
+      "answers": [
+        "Red Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_40",
+      "title": "In which city is the world famous La Scala opera house?",
+      "answers": [
+        "Milan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_41",
+      "title": "What is the only US state with a Spanish motto?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_42",
+      "title": "What is the world’s largest plateau?",
+      "answers": [
+        "Tibetan Plateau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_43",
+      "title": "Which US state is home to the Odessa Crater?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_44",
+      "title": "In which French city would you find the Pont Neuf bridge?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_45",
+      "title": "Where is Africa's westernmost point?",
+      "answers": [
+        "Cape Verde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_46",
+      "title": "Which country has the oldest flag in the world?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_47",
+      "title": "Port Louis is the capital of which country?",
+      "answers": [
+        "Mauritius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_48",
+      "title": "What nation's legislative body is named The Great Khural?",
+      "answers": [
+        "Mongolia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_49",
+      "title": "Where is the Pentagon building physically located?",
+      "answers": [
+        "Arlington, Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_38_50",
+      "title": "What is the only nation that borders both Tajikistan and Russia?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

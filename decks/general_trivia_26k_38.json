@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_38",
+  "name": "General Trivia 26K 38",
+  "description": "General 1851 - 1900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_38_01",
+      "title": "Triskaidekaphobia is the fear of what?",
+      "answers": [
+        "The number 13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_02",
+      "title": "Which American colonial beverage was produced by freeze-distilling cider throughout the cold winter months?",
+      "answers": [
+        "Applejack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_03",
+      "title": "What is the regulation height for a pin in Ten Pin bowling?",
+      "answers": [
+        "Fifteen inches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_04",
+      "title": "\"Friends of Bill W.\" is another name for what?",
+      "answers": [
+        "Alcoholics Anonymous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_05",
+      "title": "In which state was the first Wal-Mart store opened?",
+      "answers": [
+        "Arkansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_06",
+      "title": "In the standard game of Scrabble, which two letters have the highest values?",
+      "answers": [
+        "Q and Z"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_07",
+      "title": "What is the eleventh sign of the Zodiac?",
+      "answers": [
+        "Aquarius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_08",
+      "title": "What is the American equivalent of the Irish Poitin?",
+      "answers": [
+        "Moonshine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_09",
+      "title": "What is a traditional karate uniform called?",
+      "answers": [
+        "Gi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_10",
+      "title": "How many pawns does each player have at the start of a chess game?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_11",
+      "title": "What is the Binot-Simon Scale used to measure?",
+      "answers": [
+        "Intelligence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_12",
+      "title": "Which popular tea blend is named for a British Prime Minister?",
+      "answers": [
+        "Earl Grey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_13",
+      "title": "What are Common Darter and Southern Hawker types of?",
+      "answers": [
+        "Dragonflies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_14",
+      "title": "Rioja wine comes from which country?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_15",
+      "title": "What is the maximum number of levels to play in Pac-Man?",
+      "answers": [
+        "255"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_16",
+      "title": "Which small guitar associated with George Formby was patented in Hawaii in 1917?",
+      "answers": [
+        "Ukulele"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_17",
+      "title": "What is the fear of sunlight called?",
+      "answers": [
+        "Heliophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_18",
+      "title": "What Apple computer was named after Steve Jobs' daughter?",
+      "answers": [
+        "Lisa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_19",
+      "title": "What celebrity had their dog cloned, twice?",
+      "answers": [
+        "Barbara Streisand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_20",
+      "title": "Moroccan stews are cooked and served in a pot called what?",
+      "answers": [
+        "Tagine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_21",
+      "title": "\"The Champagne Of Bottled Beer\" has been which company's ad slogan?",
+      "answers": [
+        "Miller Beer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_22",
+      "title": "In the world of LEGO, what does SNOT mean?",
+      "answers": [
+        "Studs Not On Top"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_23",
+      "title": "Which French salad containing tuna, anchovies, tomatoes, olives and hard boiled eggs?",
+      "answers": [
+        "Salade nicoise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_24",
+      "title": "What is traditionally broken at the end of a Jewish wedding?",
+      "answers": [
+        "A glass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_25",
+      "title": "The dish \"rosti\" originated from which country?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_26",
+      "title": "What game can you \"squidge\", \"squop\" and \"pot out\" in?",
+      "answers": [
+        "Tiddlywinks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_27",
+      "title": "What belt driven engine accessory pressurizes the intake air in an automobile engine?",
+      "answers": [
+        "Supercharger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_28",
+      "title": "What word is used to describe the employees' side of a casino table?",
+      "answers": [
+        "Pit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_29",
+      "title": "In flight systems, what does the initialism \"TCAS\" stand for?",
+      "answers": [
+        "Traffic Collision Avoidance System"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_30",
+      "title": "What nationality was Pope John Paul II?",
+      "answers": [
+        "Polish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_31",
+      "title": "What sportsmen are divided into naturals and goofy-foots?",
+      "answers": [
+        "Surfers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_32",
+      "title": "Approximately how much more beer would you get in a pint served in the UK compared to one served in the US?",
+      "answers": [
+        "95 mL"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_33",
+      "title": "How long is a tiger's tooth (canine teeth)?",
+      "answers": [
+        "3 inches long"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_34",
+      "title": "What do climbers rub on their hands for extra grip?",
+      "answers": [
+        "Chalk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_35",
+      "title": "What is America's oldest brewery?",
+      "answers": [
+        "Yuengling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_36",
+      "title": "In American football, the area behind the line of scrimmage is known as what?",
+      "answers": [
+        "The backfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_37",
+      "title": "What is the name of the badge you get in Pokemon from Saffron gym?",
+      "answers": [
+        "Marsh Badge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_38",
+      "title": "Including the end zones, how long is an NFL regulation football field?",
+      "answers": [
+        "120 yards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_39",
+      "title": "What does the term \"contrived patina\" mean?",
+      "answers": [
+        "A weathered-looking surface"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_40",
+      "title": "Emetophobia is the fear of what?",
+      "answers": [
+        "Vomit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_41",
+      "title": "What number was retired by the Chicago Bulls to honor Michael Jordan?",
+      "answers": [
+        "23"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_42",
+      "title": "What is Grappa?",
+      "answers": [
+        "An Alcoholic Drink"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_43",
+      "title": "A light shining atop of Big Ben's tower indicates what?",
+      "answers": [
+        "Parliament is in session"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_44",
+      "title": "Introduced in 1993, what was Apple's first tablet computer?",
+      "answers": [
+        "Newton MessagePad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_45",
+      "title": "Rennet, an enzyme-filled juice from animal stomachs, is used in the making of what?",
+      "answers": [
+        "Cheese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_46",
+      "title": "Which product has used the ad slogan \"Isn't Life Delicious\"?",
+      "answers": [
+        "Life Savers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_47",
+      "title": "What designer introduced the miniskirt in 1965?",
+      "answers": [
+        "Mary Quant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_48",
+      "title": "What is the longest running event in a decathlon?",
+      "answers": [
+        "1500 meters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_49",
+      "title": "Who is Edson Arantes do Nascimento better known as?",
+      "answers": [
+        "Pele"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_38_50",
+      "title": "In Formula One what does it mean when a black flag is being waved?",
+      "answers": [
+        "Disqualification"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_22",
+  "name": "General Trivia 26K 22",
+  "description": "General 1051 - 1100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_22_01",
+      "title": "What is Barbie's last name?",
+      "answers": [
+        "Roberts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_02",
+      "title": "Which chess piece was originally called \"the elephant\"?",
+      "answers": [
+        "The bishop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_03",
+      "title": "What is a Winter Banana?",
+      "answers": [
+        "A variety of apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_04",
+      "title": "Which vintage player is known as the first superstar of the NFL?",
+      "answers": [
+        "Red Grange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_05",
+      "title": "What color flag is waved to indicate \"caution\" in auto racing?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_06",
+      "title": "May Day is not considered a public holiday in England unless it falls on which day of the week?",
+      "answers": [
+        "Monday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_07",
+      "title": "What does \"dakota\" mean in the Sioux language?",
+      "answers": [
+        "Friend"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_08",
+      "title": "Along with Indiana Ave, and Illinois Ave, what is the third third red property on a Monopoly board?",
+      "answers": [
+        "Kentucky Ave."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_09",
+      "title": "What sport was Arthur Ashe associated with?",
+      "answers": [
+        "Tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_10",
+      "title": "In 1968, what became a required part of the automobile's safety equipment in the US?",
+      "answers": [
+        "The seat belt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_11",
+      "title": "Jimmy Connors won the men's doubles at the 1973 Wimbledon with which partner?",
+      "answers": [
+        "Ilie Nastase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_12",
+      "title": "What instrument is jazz musician Charlie Mingus mostly associated with?",
+      "answers": [
+        "Double Bass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_13",
+      "title": "When was the first Masters Tournament played?",
+      "answers": [
+        "1934"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_14",
+      "title": "The Naismith Award is an award given in what field?",
+      "answers": [
+        "College basketball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_15",
+      "title": "What citrus ­flavored soft drink was introduced by Coca-Cola in 1979 to compete with Pepsi's Mountain Dew?",
+      "answers": [
+        "Mello Yello"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_16",
+      "title": "What did my true love give to me on the fifth day of Christmas?",
+      "answers": [
+        "Five golden rings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_17",
+      "title": "What is the opposite of an utopia?",
+      "answers": [
+        "Dystopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_18",
+      "title": "What does a pedometer count?",
+      "answers": [
+        "Steps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_19",
+      "title": "What was the home country of famed jeweller Peter Carl Faberge?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_20",
+      "title": "What does a monophobe fear?",
+      "answers": [
+        "Being alone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_21",
+      "title": "Which country were the 2014 Winter Olympic Games held in?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_22",
+      "title": "How old was boxer John L. Sullivan when he died in 1918?",
+      "answers": [
+        "59"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_23",
+      "title": "The use of astronomical phenomena to predict earthly and human events is called what?",
+      "answers": [
+        "Astrology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_24",
+      "title": "How many rooms are in Buckingham Palace?",
+      "answers": [
+        "775"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_25",
+      "title": "According to the 1940s jingle, after what two men pitched did Boston Braves fans \"pray for rain\"?",
+      "answers": [
+        "Spahn and Sain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_26",
+      "title": "Prior to 2016, which pitcher was the last to win back to back Cy Young Awards in the American League?",
+      "answers": [
+        "Pedro Martinez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_27",
+      "title": "What does the Statue of Liberty wear on her feet?",
+      "answers": [
+        "Sandals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_28",
+      "title": "How many individual stitches are on a regulation baseball ball?",
+      "answers": [
+        "216"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_29",
+      "title": "What is a perfect score in bowling?",
+      "answers": [
+        "300"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_30",
+      "title": "What word did the University of Hawaii Warriors drop from their team name in 2001?",
+      "answers": [
+        "Rainbow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_31",
+      "title": "What year was the first Super Bowl played?",
+      "answers": [
+        "1967"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_32",
+      "title": "What is the body of water that surrounds a castle called?",
+      "answers": [
+        "A moat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_33",
+      "title": "Who designed the Sydney Opera House?",
+      "answers": [
+        "Jorn Utzon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_34",
+      "title": "What month's birthstone places highest on the Mohs scale?",
+      "answers": [
+        "April's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_35",
+      "title": "Which player was selected first in the 1983 NBA Draft?",
+      "answers": [
+        "Ralph Sampson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_36",
+      "title": "Who was Randy Mario Poffo better known as?",
+      "answers": [
+        "\"Macho Man\" Randy Savage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_37",
+      "title": "What is the soft, triangular, fleshy part of the inside of a horse's hoof called?",
+      "answers": [
+        "Frog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_38",
+      "title": "What word describes a handbag without straps or handles?",
+      "answers": [
+        "Clutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_39",
+      "title": "Where is Sclerotinite found?",
+      "answers": [
+        "Coal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_40",
+      "title": "What gets wetter and wetter the more it dries?",
+      "answers": [
+        "A towel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_41",
+      "title": "Which college did Bill Gates drop out from?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_42",
+      "title": "How many strikes in a row earns you a perfect game in regular 10­ pin bowling?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_43",
+      "title": "What's the opposite of the Orient?",
+      "answers": [
+        "The Occident"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_44",
+      "title": "Poona was the original name of what sport?",
+      "answers": [
+        "Badminton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_45",
+      "title": "Monterey Jack is a type of what?",
+      "answers": [
+        "Cheese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_46",
+      "title": "A traditional Greyhound cocktail is made with vodka, or gin, and what else?",
+      "answers": [
+        "Grapefruit juice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_47",
+      "title": "How many points are needed to win a game of handball?",
+      "answers": [
+        "21"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_48",
+      "title": "The \"Ugu Youth\" radio station is broadcast in which African country?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_49",
+      "title": "What secret society is the oldest men's club in the world?",
+      "answers": [
+        "Freemasons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_22_50",
+      "title": "Who is Edson Arantes do Nascimento more widely known as?",
+      "answers": [
+        "Pele"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

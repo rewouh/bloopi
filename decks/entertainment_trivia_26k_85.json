@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_85",
+  "name": "Entertainment Trivia 26K 85",
+  "description": "Entertainment 4201 - 4250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_85_01",
+      "title": "What daytime soap opera takes place in the fictional town of Salem?",
+      "answers": [
+        "Days of Our Lives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_02",
+      "title": "What was the name of the debut single for the 1990's German band \"Snap!\"?",
+      "answers": [
+        "The Power"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_03",
+      "title": "Who plays the title character in the 1955 musical \"Daddy Long Legs\"?",
+      "answers": [
+        "Fred Astaire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_04",
+      "title": "Sleeping Beauty is also known by what other two names?",
+      "answers": [
+        "Aurora and Rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_05",
+      "title": "In the movie \"The Big Lebowski\", what item did the Dude take from the Big Lebowski mansion as compensation?",
+      "answers": [
+        "A rug"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_06",
+      "title": "What comedian was nickname \"Mr. Television\"?",
+      "answers": [
+        "Milton Berle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_07",
+      "title": "What year was the movie \"Star Trek: The Motion Picture\" released?",
+      "answers": [
+        "1979"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_08",
+      "title": "In the world of entertainment, how is \"Dana Owens\" more commonly known as?",
+      "answers": [
+        "Queen Latifah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_09",
+      "title": "Who played the male lead role in the film \"Clash of the Titans\"?",
+      "answers": [
+        "Sam Worthington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_10",
+      "title": "Who played the role of Peachy Carnehan in the 1975 movie \"The Man Who Would Be King\"?",
+      "answers": [
+        "Michael Caine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_11",
+      "title": "Who did comedian George Burns marry in 1926?",
+      "answers": [
+        "Gracie Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_12",
+      "title": "In the film industry, what is the primary job of the \"Foley Artist\"?",
+      "answers": [
+        "To add sound effects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_13",
+      "title": "What does Bruce Springsteen have tucked in his back pocket on the cover of \"Born in the USA\"?",
+      "answers": [
+        "A baseball cap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_14",
+      "title": "Who recorded the song \"King for a Day\"?",
+      "answers": [
+        "Thompson Twins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_15",
+      "title": "Which character did Jack Nicholson portray in the 1974 film \"Chinatown\"?",
+      "answers": [
+        "J.J. Gittes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_16",
+      "title": "Who played the role of the US president in the movie \"Superman II\"?",
+      "answers": [
+        "E. G. Marshall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_17",
+      "title": "Who shot JR?",
+      "answers": [
+        "Kristin Shepard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_18",
+      "title": "What were the nicknames of the Salt-N-Pepa members?",
+      "answers": [
+        "Salt, Pepa and Spinderella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_19",
+      "title": "What album earned the Bee Gees a Grammy Award in 1978?",
+      "answers": [
+        "Saturday Night Fever"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_20",
+      "title": "Who had a multi million best seller with \"(How Much Is) That Doggie In The Window\"?",
+      "answers": [
+        "Patti Page"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_21",
+      "title": "Who directed the 1966 film \"Fantastic Voyage\"?",
+      "answers": [
+        "Richard Fleischer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_22",
+      "title": "In which movie does Al Pacino play a character named Ricky Roma?",
+      "answers": [
+        "Glengarry Glen Ross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_23",
+      "title": "Who provided the original voice for Inspector Gadget?",
+      "answers": [
+        "Don Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_24",
+      "title": "What was Harold Lloyd Jenkins' stage name?",
+      "answers": [
+        "Conway Twitty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_25",
+      "title": "What were the children allergic to in the movie \"The Others\"?",
+      "answers": [
+        "Light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_26",
+      "title": "Who had Top 10 hits in the 1950’s with \"Ain’t That a Shame\" and \"Blueberry Hill\"?",
+      "answers": [
+        "Fats Domino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_27",
+      "title": "Who directed the 2003 film \"Love Actually\"?",
+      "answers": [
+        "Richard Curtis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_28",
+      "title": "What is the stage name of Reginald Kenneth Dwight?",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_29",
+      "title": "What is the name of the NFL's all-star exhibition game?",
+      "answers": [
+        "Pro Bowl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_30",
+      "title": "Which film producer said \"Anyone who goes to a psychiatrist ought to have his head examined\"?",
+      "answers": [
+        "Samuel Goldwyn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_31",
+      "title": "What actress had the word \"Miss\" listed before her first name in the credits of \"The Waltons\"?",
+      "answers": [
+        "Michael Learned"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_32",
+      "title": "What musical artist sang, It's the Most Wonderful Time of the Year?",
+      "answers": [
+        "Andy Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_33",
+      "title": "What is the name of Kathy Bates' character in the movie \"Misery\"?",
+      "answers": [
+        "Annie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_34",
+      "title": "What did Francis Coppola call his re-edited version of the movie \"Apocalypse Now\"?",
+      "answers": [
+        "Apocalypse Now Redux"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_35",
+      "title": "What major global event serves as the background setting for the film \"The Green Mile\"?",
+      "answers": [
+        "The Great Depression"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_36",
+      "title": "In what country was Shakira born?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_37",
+      "title": "In The Simpsons, who do Jumbo and Kearney usually hang around with?",
+      "answers": [
+        "Dolph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_38",
+      "title": "What was the name of the toy store in the film \"Home Alone 2\"?",
+      "answers": [
+        "Duncan’s Toy Chest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_39",
+      "title": "In the 1985 film \"Witness\", Harrison Ford's character goes undercover in what type of community?",
+      "answers": [
+        "Amish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_40",
+      "title": "The script for what movie was written during shooting breaks on the set of \"Raiders of the Lost Ark\"?",
+      "answers": [
+        "E.T. the Extra-Terrestrial"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_41",
+      "title": "Who played Louie De Palma in the TV series \"Taxi\"?",
+      "answers": [
+        "Danny DeVito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_42",
+      "title": "Which actress won an Oscar for her performance in the 1998 movie \"Shakespeare in Love\"?",
+      "answers": [
+        "Gwyneth Paltrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_43",
+      "title": "What TV show starred Queen Latifah as Khadijah James?",
+      "answers": [
+        "Living Single"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_44",
+      "title": "Which band's debut album was entitled \"Appetite for Destruction\"?",
+      "answers": [
+        "Guns N' Roses'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_45",
+      "title": "Where does Julia Roberts go shopping in the 1990 movie \"Pretty Woman\"?",
+      "answers": [
+        "Rodeo Drive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_46",
+      "title": "Lou Gramm was a member of which British-American rock band?",
+      "answers": [
+        "Foreigner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_47",
+      "title": "What was the original name for the Grammy Award(s)?",
+      "answers": [
+        "Gramophone Award"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_48",
+      "title": "What do the letters stand for in the band CCR?",
+      "answers": [
+        "Creedence Clearwater Revival"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_49",
+      "title": "How old is Kevin in the 1990 classic, Home Alone?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_85_50",
+      "title": "What dancer from Omaha was born Fred Austerlitz?",
+      "answers": [
+        "Fred Astaire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

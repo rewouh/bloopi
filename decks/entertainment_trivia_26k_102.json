@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_102",
+  "name": "Entertainment Trivia 26K 102",
+  "description": "Entertainment 5051 - 5100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_102_01",
+      "title": "What is the nickname of Andy's prison buddy in \"The Shawshank Redemption\"?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_02",
+      "title": "In the cartoon \"Wacky Races\", who drove the Creepy Coupe?",
+      "answers": [
+        "The Gruesome Twosome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_03",
+      "title": "What TV show won the most Emmys in 2018?",
+      "answers": [
+        "The Marvelous Mrs. Maisel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_04",
+      "title": "In the title of a 1986 song by Lionel Richie, what part of the room was he dancing on?",
+      "answers": [
+        "The ceiling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_05",
+      "title": "Which TV show used the song \"A Little Less Conversation\" by Elvis Presley as its theme song?",
+      "answers": [
+        "Las Vegas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_06",
+      "title": "Which former member of Genesis had a hit with \"One More Night\"?",
+      "answers": [
+        "Phil Collins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_07",
+      "title": "What is Indiana Jones' real first name?",
+      "answers": [
+        "Henry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_08",
+      "title": "What musical tells the story of a group of young artists struggling to survive in New York?",
+      "answers": [
+        "Rent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_09",
+      "title": "Which famous English actor was charged with lewd conduct in 1995?",
+      "answers": [
+        "Hugh Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_10",
+      "title": "What Clint Eastwood film was loosely inspired by the 1960's serial killer known as the Zodiac Killer?",
+      "answers": [
+        "Dirty Harry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_11",
+      "title": "Kim Kardashian and Kanye West’s second baby’s name is what?",
+      "answers": [
+        "Saint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_12",
+      "title": "In the movie \"Dirty Dancing\", what did Baby carry?",
+      "answers": [
+        "A watermelon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_13",
+      "title": "Who recorded the 1960's song \"Mellow Yellow\"?",
+      "answers": [
+        "Donovan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_14",
+      "title": "What Sonic Youth LP did \"Entertainment Weekly\" call the best album of 1992?",
+      "answers": [
+        "Dirty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_15",
+      "title": "What was baseball great Jackie Robinson's uniform number?",
+      "answers": [
+        "42"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_16",
+      "title": "In 1997 movie, \"Titanic\", what was the name of Rose's maid?",
+      "answers": [
+        "Trudy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_17",
+      "title": "Who played Spock in the original Star Trek television series?",
+      "answers": [
+        "Leonard Nimoy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_18",
+      "title": "In episode of \"Seinfeld\", what popular candy did Jerry become addicted to?",
+      "answers": [
+        "Pez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_19",
+      "title": "What Rolling Stones song did VH1 rank as the greatest song in rock­ and ­roll history?",
+      "answers": [
+        "Satisfaction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_20",
+      "title": "30 Rock refers to what in the TV series \"30 Rock\"?",
+      "answers": [
+        "30 Rockefeller Plaza"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_21",
+      "title": "Which of the four Beatles was the eldest?",
+      "answers": [
+        "Ringo Starr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_22",
+      "title": "What is the name of the soap opera that Miranda loves watching in \"Sex and the City\"?",
+      "answers": [
+        "Jules and Mimi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_23",
+      "title": "Who won the first season of American Idol?",
+      "answers": [
+        "Kelly Clarkson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_24",
+      "title": "Who played Willie Scott in the movie \"Indiana Jones and the Temple of Doom\"?",
+      "answers": [
+        "Kate Capshaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_25",
+      "title": "According to the lyrics of the Counting Crows song \"Mr. Jones\", what rock legend does the singer want to be?",
+      "answers": [
+        "Bob Dylan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_26",
+      "title": "In what movie does Sean Penn play a mentally challenged man?",
+      "answers": [
+        "I Am Sam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_27",
+      "title": "In The Simpsons episode, \"Treehouse of Horror V,\" what does Homer turn into a time machine?",
+      "answers": [
+        "A toaster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_28",
+      "title": "Whose tombstone bears the inscription \"Love Will Tear Us Apart\"?",
+      "answers": [
+        "Ian Curtis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_29",
+      "title": "How does Kyra Collins die in the Sixth Sense?",
+      "answers": [
+        "She is poisoned"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_30",
+      "title": "What TV show did \"Private Practice\" spin off from?",
+      "answers": [
+        "Grey's Anatomy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_31",
+      "title": "What rapper married and divorced a woman named Kim Scott twice?",
+      "answers": [
+        "Eminem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_32",
+      "title": "The first spin-off of C.S.I., starting in 2002, was set in what city?",
+      "answers": [
+        "Miami"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_33",
+      "title": "Who sang the theme song for the TV show \"The Love Boat\"?",
+      "answers": [
+        "Jack Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_34",
+      "title": "What was compiled and published for the first time, in New York, in 1936?",
+      "answers": [
+        "Pop music chart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_35",
+      "title": "In the TV show \"The Simpsons\", Lenny's grandmother spent 20 years where?",
+      "answers": [
+        "Soviet labour camp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_36",
+      "title": "What kind of animal is the title character in the 1943 movie \"My Friend Fllicka\"?",
+      "answers": [
+        "Horse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_37",
+      "title": "What is the name of King Arthur's sidekick in the 1975 movie \"Monty Python and the Holy Grail\"?",
+      "answers": [
+        "Patsy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_38",
+      "title": "What popular movie website took its name from a John Travolta line in the movie \"Broken Arrow\"?",
+      "answers": [
+        "Ain't It Cool News"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_39",
+      "title": "Who is the voice of Woody in the movie series Toy Story?",
+      "answers": [
+        "Tom Hanks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_40",
+      "title": "In The Simpsons, what is the name of Patty and Selma's iguana?",
+      "answers": [
+        "Jub-Jub"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_41",
+      "title": "What character from \"The Beverly Hillbillies\" had the same name as Moses' father-in-law in the Bible?",
+      "answers": [
+        "Jethro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_42",
+      "title": "In what 1967 film did Gene Hackman earn his first Oscar nomination?",
+      "answers": [
+        "Bonnie and Clyde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_43",
+      "title": "Who is the target of the Terminator in the original 1984 movie of the same name?",
+      "answers": [
+        "Sarah Connor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_44",
+      "title": "Which is the only one of the Seven Dwarfs without a beard?",
+      "answers": [
+        "Dopey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_45",
+      "title": "What was Bobby \"Boris\" Pickett's backing band?",
+      "answers": [
+        "The Crypt-Kickers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_46",
+      "title": "What comedic duo of the 1920s and 1930s were real-life best friends?",
+      "answers": [
+        "Laurel & Hardy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_47",
+      "title": "What artist’s first Greatest Hits album was named \"The Immaculate Collection\"?",
+      "answers": [
+        "Madonna's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_48",
+      "title": "What was the name of Phil Collins' first solo album?",
+      "answers": [
+        "Face Value"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_49",
+      "title": "Who drinks Tim's lava lamp in the 1999 movie \"My Favourite Martian\"?",
+      "answers": [
+        "Martin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_102_50",
+      "title": "Who recorded the song \"One of These Nights\"?",
+      "answers": [
+        "Eagles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

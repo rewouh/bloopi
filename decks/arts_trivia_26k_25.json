@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_25",
+  "name": "Arts Trivia 26K 25",
+  "description": "Arts 1201 - 1250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_25_01",
+      "title": "What was the last opera composed by Benjamin Britten?",
+      "answers": [
+        "Death in Venice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_02",
+      "title": "In Shakespeare's \"Merchant of Venice\", who was Shylocks wife?",
+      "answers": [
+        "Leah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_03",
+      "title": "On what thoroughfare does the Muffin Man live?",
+      "answers": [
+        "Drury Lane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_04",
+      "title": "In Drop-D tuning, what is the lowest string of a guitar tuned down to?",
+      "answers": [
+        "D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_05",
+      "title": "Who said, \"Do give books - religious or otherwise - for Christmas\"?",
+      "answers": [
+        "Lenore Hershey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_06",
+      "title": "Who wrote the book \"Black Hawk Down\"?",
+      "answers": [
+        "Mark Bowden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_07",
+      "title": "What was the name of the devil to whom Faust sold his soul?",
+      "answers": [
+        "Mephistopheles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_08",
+      "title": "Kandor is the former capital city of what fictional planet?",
+      "answers": [
+        "Krypton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_09",
+      "title": "How does Juliet die in Shakespeare's \"Romeo and Juliet\"?",
+      "answers": [
+        "She stabs herself"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_10",
+      "title": "What painting was stolen in broad daylight from a museum in Oslo in 2004?",
+      "answers": [
+        "The Scream"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_11",
+      "title": "What is the name of Dennis the Menace's dog in the UK version of the comic strip?",
+      "answers": [
+        "Gnasher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_12",
+      "title": "In Norse mythology, what did Odin trade an eye for?",
+      "answers": [
+        "Wisdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_13",
+      "title": "Who had to face the multi-headed Hydra in the second of his labors?",
+      "answers": [
+        "Hercules"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_14",
+      "title": "The goddess-enchantress Circe turned Odysseus’ sailors into what animal?",
+      "answers": [
+        "Pigs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_15",
+      "title": "What instrument was Cannonball Adderley best known for playing?",
+      "answers": [
+        "Saxophone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_16",
+      "title": "Which author wrote \"As I Lay Dying\"?",
+      "answers": [
+        "William Faulkner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_17",
+      "title": "Which musical term denotes that a piece is to be played \"sweetly\"?",
+      "answers": [
+        "Dolce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_18",
+      "title": "What Broadway musical featured the song \"Chicago\"?",
+      "answers": [
+        "Pal Joey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_19",
+      "title": "What is the name of the chubby diva in the musical \"Fame\"?",
+      "answers": [
+        "Mabel Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_20",
+      "title": "In Shakespeare's \"The Taming of the Shrew\", what is the name of the shrew?",
+      "answers": [
+        "Katherina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_21",
+      "title": "In \"Archie\" comics, what character's real first name is Forsythe?",
+      "answers": [
+        "Jughead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_22",
+      "title": "What composer/writer team wrote, A Winters Tale?",
+      "answers": [
+        "Mike Batt/Tim Rice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_23",
+      "title": "Which car design firm was responsible for the design of the Enzo Ferrari?",
+      "answers": [
+        "Pininfarina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_24",
+      "title": "In which opera does Leporello entertain a vengeful jilted lover?",
+      "answers": [
+        "Don Giovanni"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_25",
+      "title": "Monet and Van Gogh are two examples of late 19th century artists who painted in a style called?",
+      "answers": [
+        "Impressionism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_26",
+      "title": "What artist is famous for the \"Helga Pictures\"?",
+      "answers": [
+        "Andrew Wyeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_27",
+      "title": "In which much told legend does a magician sell his soul to the devil?",
+      "answers": [
+        "Faust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_28",
+      "title": "Who wrote the 1952 novel \"The Bridge over the River Kwai\"?",
+      "answers": [
+        "Pierre Boulle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_29",
+      "title": "In Shakespeare's \"The Taming of the Shrew\", who courts the shrew?",
+      "answers": [
+        "Petruchio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_30",
+      "title": "What shape is the scar on Harry Potter's forehead?",
+      "answers": [
+        "Lightning Bolt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_31",
+      "title": "Which goddess started the Trojan War?",
+      "answers": [
+        "Eris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_32",
+      "title": "Who wrote \"120 Days of Sodom\" while in prison?",
+      "answers": [
+        "The Marquis de Sade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_33",
+      "title": "Who wrote the novel \"Red Badge of Courage\"?",
+      "answers": [
+        "Stephen Crane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_34",
+      "title": "Which famous mountain appears in \"Under the Great Wave off Kanagawa\"?",
+      "answers": [
+        "Mount Fuji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_35",
+      "title": "What type of monster was Medusa in Greek Mythology?",
+      "answers": [
+        "Gorgon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_36",
+      "title": "Which Irish poet, born in 1865, was instrumental in the founding of the Abbey Theatre in Dublin?",
+      "answers": [
+        "William Butler Yeats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_37",
+      "title": "On what planet was Superman born?",
+      "answers": [
+        "Krypton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_38",
+      "title": "What year did Dwight D. Eisenhower publish his autobiography titled \"Crusade in Europe\"?",
+      "answers": [
+        "1948"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_39",
+      "title": "Which artist did Matisse and Picasso call \"the father of us all\"?",
+      "answers": [
+        "Paul Cezanne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_40",
+      "title": "How many of the gifts in the song \"The Twelve Days of Christmas\" include humans?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_41",
+      "title": "What movie was partially inspired by Jean Shepherd's unpublished story \"Flick's Tongue\"?",
+      "answers": [
+        "A Christmas Story"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_42",
+      "title": "Any color plus white is called what?",
+      "answers": [
+        "A tint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_43",
+      "title": "In Larry Niven's novel \"Ringworld\", what is the drug that extends human life to near immortality?",
+      "answers": [
+        "Boosterspice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_44",
+      "title": "A gold medal is awarded to the winner of which Pulitzer Prize category?",
+      "answers": [
+        "Public Service"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_45",
+      "title": "Whose secretary was Loelia Ponsonby?",
+      "answers": [
+        "James Bond's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_46",
+      "title": "What Disney musical movie was the first to be shown to large public audiences with stereophonic sound?",
+      "answers": [
+        "Fantasia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_47",
+      "title": "Odysseus was the king of what island in the Mediterranean Sea?",
+      "answers": [
+        "Ithaca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_48",
+      "title": "What Vladimir Nabakov novel features Professor Humbert in love with a 12 year old girl?",
+      "answers": [
+        "Lolita"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_49",
+      "title": "Who follows Godel and Escher in the title of a 1979 book by Douglas Hofstadter?",
+      "answers": [
+        "Bach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_25_50",
+      "title": "What rock band's album \"The Piper at the Gates of Dawn\" was named after a chapter title from \"The Wind in the Willows\"?",
+      "answers": [
+        "Pink Floyd's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

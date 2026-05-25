@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_35",
+  "name": "Geography Trivia 26K 35",
+  "description": "Geography 1701 - 1750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_35_01",
+      "title": "What is Peru's capital?",
+      "answers": [
+        "Lima"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_02",
+      "title": "What is the least populous country in Africa?",
+      "answers": [
+        "Seychelles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_03",
+      "title": "What is the smallest ocean?",
+      "answers": [
+        "The Arctic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_04",
+      "title": "What city named its airport after Ayatollah Khomeini?",
+      "answers": [
+        "Teheran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_05",
+      "title": "Which two US states have shoreline along Chesapeake Bay?",
+      "answers": [
+        "Maryland and Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_06",
+      "title": "What largest lake of Central America is home to unusual freshwater sharks?",
+      "answers": [
+        "Lake Nicaragua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_07",
+      "title": "What is the capital of Cambodia?",
+      "answers": [
+        "Phnom Penh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_08",
+      "title": "What U.S. state hosts an underwater music festival?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_09",
+      "title": "What are the two landlocked countries in South America?",
+      "answers": [
+        "Bolivia and Paraguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_10",
+      "title": "Which quarter of New Orleans is famous for its restaurants and jazz clubs?",
+      "answers": [
+        "French Quarter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_11",
+      "title": "In which continent would you find the Amazon river?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_12",
+      "title": "What country occupies the southern end of the Arabian Peninsula?",
+      "answers": [
+        "Yemen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_13",
+      "title": "What city is located at the junction of the Allegheny River and Monongahela River?",
+      "answers": [
+        "Pittsburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_14",
+      "title": "Which US state is home to Arches National Park?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_15",
+      "title": "In what country would you find the mouths of the Colorado river?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_16",
+      "title": "The Hollywood Walk of Fame is located along what street?",
+      "answers": [
+        "Hollywood Boulevard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_17",
+      "title": "Camp Lejeune Marine Corps Base is located in which US state?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_18",
+      "title": "What river divides the city of Budapest into the \"districts\" of Buda and Pest?",
+      "answers": [
+        "The Danube"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_19",
+      "title": "What is the capital of South Sudan?",
+      "answers": [
+        "Juba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_20",
+      "title": "Where are the Porcupine Mountains located?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_21",
+      "title": "What is the capital of the US state of Oklahoma?",
+      "answers": [
+        "Oklahoma City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_22",
+      "title": "Where is Gorky Park?",
+      "answers": [
+        "Moscow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_23",
+      "title": "The famous commercial port of Sidon is located in which Arab country?",
+      "answers": [
+        "Lebanon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_24",
+      "title": "In which ocean is the area known as Polynesia located?",
+      "answers": [
+        "Pacific"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_25",
+      "title": "What is the capital of Connecticut?",
+      "answers": [
+        "Hartford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_26",
+      "title": "The City of Hot Coffee is in what US state?",
+      "answers": [
+        "Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_27",
+      "title": "Which African country is Lilongwe the capital of?",
+      "answers": [
+        "Malawi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_28",
+      "title": "How many territories does India have?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_29",
+      "title": "Where is over 90% of the world's fresh water supply located?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_30",
+      "title": "What is the largest lake found completely within the United States?",
+      "answers": [
+        "Lake Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_31",
+      "title": "Riyadh is the capital of what Middle-Eastern country?",
+      "answers": [
+        "Kingdom of Saudi Arabia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_32",
+      "title": "Maputo is the capital of which African country?",
+      "answers": [
+        "Mozambique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_33",
+      "title": "What is the only country which borders the Black Sea and the Caspian  Sea?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_34",
+      "title": "Which US state is nicknamed the \"Gem State\"?",
+      "answers": [
+        "Idaho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_35",
+      "title": "What did Temujin change his name to?",
+      "answers": [
+        "Genghis Khan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_36",
+      "title": "In what country is the Bataan Peninsula?",
+      "answers": [
+        "The Philippines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_37",
+      "title": "What is the modern day equivalent of Asia Minor?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_38",
+      "title": "In which US state can you find permafrost?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_39",
+      "title": "Which US state is nickname the \"Palmetto State\"?",
+      "answers": [
+        "South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_40",
+      "title": "Sculptor Gutzon Borglum created the the design for what national monument in the U.S.?",
+      "answers": [
+        "Mount Rushmore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_41",
+      "title": "Which river runs through the Grand Canyon?",
+      "answers": [
+        "Colorado River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_42",
+      "title": "What country borders Libya on the East?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_43",
+      "title": "In what city would you find the most famous street named \"Carnaby Street\"?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_44",
+      "title": "What is the capital city of American Samoa, a group of islands in the South Pacific?",
+      "answers": [
+        "Pago pago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_45",
+      "title": "Where is the \"House of the Seven Gables\" located?",
+      "answers": [
+        "Salem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_46",
+      "title": "Which country's official language is Amharic?",
+      "answers": [
+        "Ethiopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_47",
+      "title": "Which place is dubbed as \"The Salad Bowl of the Philippines\"?",
+      "answers": [
+        "Benguet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_48",
+      "title": "Which European city is famous for its Latin Quarter?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_49",
+      "title": "Which countries does Bangladesh share a land border with?",
+      "answers": [
+        "India and Myanmar (Burma)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_35_50",
+      "title": "Where is the highest sand dune in Europe?",
+      "answers": [
+        "Arcachon, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

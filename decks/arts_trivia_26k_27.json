@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_27",
+  "name": "Arts Trivia 26K 27",
+  "description": "Arts 1301 - 1350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_27_01",
+      "title": "What writer had more than 70 different pen names?",
+      "answers": [
+        "Lauran Bosworth Paine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_02",
+      "title": "What author created the character of Tom Marvolo Riddle?",
+      "answers": [
+        "J. K. Rowling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_03",
+      "title": "What play did Agatha Christie write as an eightieth birthday present for Queen Elizabeth's grandmother?",
+      "answers": [
+        "The Mousetrap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_04",
+      "title": "Who flew too close to the Sun??",
+      "answers": [
+        "Icarus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_05",
+      "title": "From what language did English borrow the word \"pal\"?",
+      "answers": [
+        "Romany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_06",
+      "title": "What phenomenon appeared the day Mark Twain was born and the day he died?",
+      "answers": [
+        "Halley's Comet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_07",
+      "title": "What year did writer Arthur C. Clarke die?",
+      "answers": [
+        "2008"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_08",
+      "title": "What semi-autobiographical play did Emlyn Williams write in 1938?",
+      "answers": [
+        "The Corn Is Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_09",
+      "title": "What Hans Christian Andersen story has a monarch bamboozled by a tailor?",
+      "answers": [
+        "The Emperor's New Clothes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_10",
+      "title": "Who wrote the novel \"Stardust\"?",
+      "answers": [
+        "Neil Gaiman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_11",
+      "title": "What group of mutants in the X-Men comic books takes its name from similar characters in H.G.Wells' \"The Time Machine\"?",
+      "answers": [
+        "The Morlocks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_12",
+      "title": "What newspaper does Superman work for?",
+      "answers": [
+        "The Daily Planet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_13",
+      "title": "In Roman mythology who killed Remus?",
+      "answers": [
+        "Romulus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_14",
+      "title": "What novel won Alice Walker a Pulitzer Prize in 1983?",
+      "answers": [
+        "The Color Purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_15",
+      "title": "In Greek mythology, who killed the Gorgon?",
+      "answers": [
+        "Perseus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_16",
+      "title": "Who is the main character in the Odyssey?",
+      "answers": [
+        "Odysseus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_17",
+      "title": "Who devised the Trojan Horse and led the men hidden inside it?",
+      "answers": [
+        "Odysseus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_18",
+      "title": "What musical instrument is sometimes called a \"sweet potato\"?",
+      "answers": [
+        "Ocarina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_19",
+      "title": "In Greek mythology, who fell in love with his reflection?",
+      "answers": [
+        "Narcissus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_20",
+      "title": "Under what pseudonym did Charles Dickens write his first books?",
+      "answers": [
+        "Boz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_21",
+      "title": "What ship was commanded by Captain Corcoran?",
+      "answers": [
+        "Pinafore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_22",
+      "title": "Whose right-hand man is Mr. Smee?",
+      "answers": [
+        "Captain Hook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_23",
+      "title": "Rex Stout created what private eye?",
+      "answers": [
+        "Nero Wolfe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_24",
+      "title": "In the Bible, who sold his birthright because he was hungry?",
+      "answers": [
+        "Esau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_25",
+      "title": "In which decade did the \"Peanuts\" comic strip debut?",
+      "answers": [
+        "1950s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_26",
+      "title": "What breed of dog is Marmaduke in the comic strip?",
+      "answers": [
+        "Great Dane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_27",
+      "title": "Who is the main character is Shakespeare's \"The Tempest\"?",
+      "answers": [
+        "Prospero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_28",
+      "title": "What was the name of Vincent van Gogh's art dealer brother?",
+      "answers": [
+        "Theo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_29",
+      "title": "In Norse mythology Odin traded an eye for what?",
+      "answers": [
+        "Wisdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_30",
+      "title": "Who wrote, Once Upon a Christmas in 1972?",
+      "answers": [
+        "Pearl S. Buck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_31",
+      "title": "Which of Dickens' novels is set during the Gordon Riots?",
+      "answers": [
+        "Barnaby Rudge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_32",
+      "title": "Who wrote the novel \"The Da Vinci Code\"?",
+      "answers": [
+        "Dan Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_33",
+      "title": "In the opera \"La traviata\", what was Violetta's occupation?",
+      "answers": [
+        "Courtesan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_34",
+      "title": "What classic novel's subtitle is \"From This World to That Which Is to Come\"?",
+      "answers": [
+        "The Pilgrim's Progress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_35",
+      "title": "Whose garden is infiltrated by Peter Rabbit?",
+      "answers": [
+        "Mr. McGregor's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_36",
+      "title": "Francis Scott Key wrote what famous song?",
+      "answers": [
+        "The Star Spangled Banner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_37",
+      "title": "In the manga series \"Bleach\", what is the name of Byakuya Kuchiki's zanpakuto?",
+      "answers": [
+        "Senbonzakura"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_38",
+      "title": "Who defected from a Leningrad ballet troupe in 1961?",
+      "answers": [
+        "Rudolf Nureyev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_39",
+      "title": "Who was elected as leader of the boys at the beginning of the novel \"Lord of the Flies\"?",
+      "answers": [
+        "Ralph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_40",
+      "title": "Which singer's 2000 autobiography \"Chasing Down the Dawn\" detailed her life growing up in Alaska?",
+      "answers": [
+        "Jewel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_41",
+      "title": "In Egyptian mythology, who is the god of the underworld?",
+      "answers": [
+        "Osiris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_42",
+      "title": "The co-creator of Superman, Joe Shuster, was born in which Canadian town?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_43",
+      "title": "Which Verdi opera features the aria \"La donna e mobile\"?",
+      "answers": [
+        "Rigoletto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_44",
+      "title": "Who wrote the novel \"Dances with Wolves\"?",
+      "answers": [
+        "Michael Blake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_45",
+      "title": "Who is the subject of the book \"Longitude\" by Dava Sobel?",
+      "answers": [
+        "John Harrison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_46",
+      "title": "Which ear did artist Vincent Van Gogh cut off?",
+      "answers": [
+        "Left"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_47",
+      "title": "Which author set most of his book in the year 802,701?",
+      "answers": [
+        "H.G. Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_48",
+      "title": "Paul Gauguin was a French painter who painted landscapes and people in what region of the world?",
+      "answers": [
+        "French Polynesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_49",
+      "title": "Which character killed Polonius?",
+      "answers": [
+        "Hamlet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_27_50",
+      "title": "Who created the character of Paddington?",
+      "answers": [
+        "Michael Bond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

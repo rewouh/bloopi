@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_24",
+  "name": "History Trivia 26K 24",
+  "description": "History 1151 - 1200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_24_01",
+      "title": "What artist was the lead singer of the Spencer Davis Group when he was just 15 years old?",
+      "answers": [
+        "Steve Winwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_02",
+      "title": "Which Roman Emperor received the title \"Gothicus Maximus\" because of his campaign against the Goths and the Heruli?",
+      "answers": [
+        "Tacitus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_03",
+      "title": "What year did the Brooklyn Bridge open to the public?",
+      "answers": [
+        "1883"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_04",
+      "title": "The Camp David Accord negotiated peace between which two countries?",
+      "answers": [
+        "Egypt and Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_05",
+      "title": "Which King of England was faced with the Peasants' Revolt in 1381?",
+      "answers": [
+        "Richard II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_06",
+      "title": "Who was the first US president to appear on television?",
+      "answers": [
+        "Franklin D. Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_07",
+      "title": "During which American period did stock car racing gain most of its popularity?",
+      "answers": [
+        "The Prohibition"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_08",
+      "title": "Who invented the spinning Jenny?",
+      "answers": [
+        "James Hargreaves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_09",
+      "title": "In 1973 Roland Ohisson was buried in a coffin made of what?",
+      "answers": [
+        "Chocolate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_10",
+      "title": "What major political scandal of the Harding administration involved a naval oil reserve on public land in Wyoming?",
+      "answers": [
+        "The Teapot Dome Scandal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_11",
+      "title": "One legend says Clovis, king of the Franks, adopted what symbol after flowers revealed a safe river crossing for his army?",
+      "answers": [
+        "Fleur-de-lis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_12",
+      "title": "Which official is third in the line of the US presidential succession?",
+      "answers": [
+        "President Tempore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_13",
+      "title": "In what year was the \"Star Spangled Banner\" designated the US National Anthem?",
+      "answers": [
+        "1931"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_14",
+      "title": "What Caribbean island did Columbus originally name Juana?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_15",
+      "title": "Which Roman emperor's name meant \"little boots\"?",
+      "answers": [
+        "Caligula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_16",
+      "title": "Which of Henry VIII's wives was the only one to bear him a legitimate, surviving son?",
+      "answers": [
+        "Jane Seymour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_17",
+      "title": "In the early 1900s in the U.S., a well-dressed man who worked to seduce wealthy women in bars was called a what?",
+      "answers": [
+        "Lounge lizard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_18",
+      "title": "Until 1792, Kentucky was part of which state?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_19",
+      "title": "In what country was the last original Volkswagen Beetle produced, in July 2003?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_20",
+      "title": "What year was the first official soccer game played?",
+      "answers": [
+        "1863"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_21",
+      "title": "Who was prime minister of the United Kingdom from 1997 to 2007?",
+      "answers": [
+        "Tony Blair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_22",
+      "title": "Who was the oldest person to sign the Declaration of Independence?",
+      "answers": [
+        "Benjamin Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_23",
+      "title": "Who was the first woman to fly the Atlantic alone?",
+      "answers": [
+        "Amelia Earhart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_24",
+      "title": "In what century did Leonardo Da Vinci paint the \"Mona Lisa\"?",
+      "answers": [
+        "16th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_25",
+      "title": "Who won the fourth Super Bowl?",
+      "answers": [
+        "Kansas City Chiefs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_26",
+      "title": "What Italian scientist discovered methane and invented the first battery?",
+      "answers": [
+        "Alessandro Volta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_27",
+      "title": "When did the Sydney Opera House officially open its doors to the public?",
+      "answers": [
+        "20 October 1973"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_28",
+      "title": "Who sent the 1884 cable that said \"I will not accept if nominated and will not serve if elected\"?",
+      "answers": [
+        "William Tecumseh Sherman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_29",
+      "title": "What treaty ended the American Revolutionary War?",
+      "answers": [
+        "Treaty of Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_30",
+      "title": "Outside which New York building was John Lennon killed?",
+      "answers": [
+        "The Dakota Building"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_31",
+      "title": "Who opened the first \"cinema\" in Paris in 1895?",
+      "answers": [
+        "The Lumiere Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_32",
+      "title": "When was the first permanent photograph taken?",
+      "answers": [
+        "1826"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_33",
+      "title": "Who was the first woman elected into the U.S. Congress?",
+      "answers": [
+        "Jeannette Rankin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_34",
+      "title": "In the Chinese zodiac, with which of the five elements is the ox associated?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_35",
+      "title": "Which U.S. aircraft carrier was sunk at the Battle of Midway?",
+      "answers": [
+        "USS Yorktown CV-5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_36",
+      "title": "What was invented by Dr Albert P. Southwick in the 1880's?",
+      "answers": [
+        "Electric chair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_37",
+      "title": "When was the computer mouse invented?",
+      "answers": [
+        "1964"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_38",
+      "title": "Robert E. Lee and Ulysses S. Grant both owned horses with what name?",
+      "answers": [
+        "Jeff Davis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_39",
+      "title": "Portia Simpson-Miller was the leader of what country?",
+      "answers": [
+        "Jamaica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_40",
+      "title": "What Briton with an American wife was the governor of the Bahamas during World War II?",
+      "answers": [
+        "King Edward VIII"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_41",
+      "title": "James Hunt was disqualified after winning which Grand Prix?",
+      "answers": [
+        "1976 British Grand Prix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_42",
+      "title": "Who was the famous botanist who traveled with Captain Cook on his first voyage?",
+      "answers": [
+        "Joseph Banks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_43",
+      "title": "Which Crayola color was named by a five-year-old?",
+      "answers": [
+        "Razzmatazz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_44",
+      "title": "In 1952's Operation Ivy, what type of object was \"Mike\"?",
+      "answers": [
+        "Hydrogen bomb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_45",
+      "title": "Who commanded the American troops during World War I?",
+      "answers": [
+        "General John J. Pershing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_46",
+      "title": "What Russian republic was dubbed \"Yeltsin's Vietnam\"?",
+      "answers": [
+        "Chechnya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_47",
+      "title": "What is another name for the Paleolithic Age?",
+      "answers": [
+        "Stone Age"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_48",
+      "title": "Who became the vice president after Spiro T. Agnew resigned?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_49",
+      "title": "Which king was recorded as having been stricken with a disease that caused his bowels to come out?",
+      "answers": [
+        "Jehoram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_24_50",
+      "title": "Who was the first victim of the electric chair?",
+      "answers": [
+        "William Francis Kemmler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

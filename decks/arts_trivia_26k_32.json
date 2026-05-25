@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_32",
+  "name": "Arts Trivia 26K 32",
+  "description": "Arts 1551 - 1600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_32_01",
+      "title": "Which Tennesee Williams play is about a Italian-American woman?",
+      "answers": [
+        "The Rose Tattoo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_02",
+      "title": "What was Pinocchio's father's name?",
+      "answers": [
+        "Geppetto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_03",
+      "title": "The Stephen Sondheim Broadway musical \"Sunday in the Park with George\" was based on a painting by what artist?",
+      "answers": [
+        "Georges Seurat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_04",
+      "title": "What D.H. Lawrence novel was originally titled \"Tenderness\"?",
+      "answers": [
+        "Lady Chatterley's Lover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_05",
+      "title": "What suit is the Queen is \"Alice's Adventures in Wonderland\"?",
+      "answers": [
+        "Hearts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_06",
+      "title": "What artist painted the popular \"The Night Watch\" painting?",
+      "answers": [
+        "Rembrandt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_07",
+      "title": "What is the Heart of Gold in \"The Hitchhiker's Guide to the Galaxy\"?",
+      "answers": [
+        "A space ship"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_08",
+      "title": "In what novel would you find the character known as the Artful Dodger?",
+      "answers": [
+        "Oliver Twist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_09",
+      "title": "What singer, who went to #1 in 1980 with \"Lookin’ For Love\", published \"Still Lookin’ For Love\", as his autobiography?",
+      "answers": [
+        "Johnny Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_10",
+      "title": "What famous fictional cannibal made his first appearance in the 1981 novel \"Red Dragon\"?",
+      "answers": [
+        "Hannibal Lecter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_11",
+      "title": "In which museum does the Mona Lisa hang?",
+      "answers": [
+        "The Louvre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_12",
+      "title": "Which Italian town is the setting for Shakespeare's Romeo and Juliet?",
+      "answers": [
+        "Verona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_13",
+      "title": "What was Yehudi Menuhin's main profession?",
+      "answers": [
+        "Violinist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_14",
+      "title": "Jean de Brunhoff created the appearance of Babar the Elephant, but who invented the character?",
+      "answers": [
+        "Cecile de Brunhoff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_15",
+      "title": "In which Verdi opera does Violetta die in the arms of Alfredo?",
+      "answers": [
+        "La Traviata"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_16",
+      "title": "Which side of a book are the even-numbered pages usually on?",
+      "answers": [
+        "The left"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_17",
+      "title": "Who is the world's richest duck?",
+      "answers": [
+        "Scrooge McDuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_18",
+      "title": "How old is Annie, according to the musical's script?",
+      "answers": [
+        "11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_19",
+      "title": "Which Canadian province is the setting for the novel \"Anne of Green Gables\"?",
+      "answers": [
+        "Prince Edward Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_20",
+      "title": "Mark Rothko is best known for his work in what genre of painting?",
+      "answers": [
+        "Abstract"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_21",
+      "title": "What was the very first Andrew Lloyd Webber musical to be adapted to film?",
+      "answers": [
+        "Jesus Christ Superstar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_22",
+      "title": "According to the Bible, who was the first King of Israel?",
+      "answers": [
+        "Saul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_23",
+      "title": "Who wrote the book \"Moby Dick\"?",
+      "answers": [
+        "Herman Melville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_24",
+      "title": "Which author wrote the horror novel \"Pet Sematary\"?",
+      "answers": [
+        "Stephen King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_25",
+      "title": "What author created the character of Tom Snout?",
+      "answers": [
+        "William Shakespeare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_26",
+      "title": "Daniel Keyes wrote which 1959 Hugo-award winning science-fiction novel?",
+      "answers": [
+        "Flowers for Algernon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_27",
+      "title": "In Greek mythology, whose death in the Aegean Sea, near Samos, was caused by melting wax?",
+      "answers": [
+        "Icarus'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_28",
+      "title": "Who was the valet that followed Phileas Fogg when he traveled around the world in 80 days?",
+      "answers": [
+        "Jean Passepartout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_29",
+      "title": "What French artist was only 4 feet 11 inches tall due to injuries and a genetic disorder?",
+      "answers": [
+        "Henri de Toulouse-Lautrec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_30",
+      "title": "What Canadian actor's 1999 memoir was entitled \"Get a Life\"?",
+      "answers": [
+        "William Shatner's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_31",
+      "title": "What novelist's most famous character is the aptly named Isadora Wing?",
+      "answers": [
+        "Erica Jong's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_32",
+      "title": "Which author wrote the novel \"The War of the End of the World\"?",
+      "answers": [
+        "Mario Vargas Llosa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_33",
+      "title": "Who won a Pulitzer Prize for his novel \"The Old Man and the Sea\"?",
+      "answers": [
+        "Ernest Hemingway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_34",
+      "title": "Who wrote \"The Ballantyne Series\"?",
+      "answers": [
+        "Wilbur Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_35",
+      "title": "How old was Josiah when he became King?",
+      "answers": [
+        "8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_36",
+      "title": "Who wrote \"Treasure Island\"?",
+      "answers": [
+        "Robert Louis Stevenson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_37",
+      "title": "Who wrote the opera \"Madame Butterfly\"?",
+      "answers": [
+        "Puccini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_38",
+      "title": "In Jane Austen’s \"Pride and Prejudice\", what is the name of the pompous clergyman who marries Elizabeth’s sister, Charlotte?",
+      "answers": [
+        "Mr. Collins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_39",
+      "title": "What year did H. G. Wells publish \"The Island of Doctor Moreau\"?",
+      "answers": [
+        "1896"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_40",
+      "title": "If reading in chronological order, which book in \"The Chronicles of Narnia\" series should you read first?",
+      "answers": [
+        "The Magician’s Nephew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_41",
+      "title": "In what 1952 play is Giles Corey \"pressed\" to death, his last words being \"More weight\"?",
+      "answers": [
+        "The Crucible"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_42",
+      "title": "Which literary work's title character is named Prince Myshkin?",
+      "answers": [
+        "The Idiot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_43",
+      "title": "Which city sees Pip striving to become a gentleman in \"Great Expectations\"?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_44",
+      "title": "What two-word Latin phrase means \"the reverse order\"?",
+      "answers": [
+        "Vice versa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_45",
+      "title": "Which of the Seven Dwarfs wears glasses?",
+      "answers": [
+        "Doc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_46",
+      "title": "Who competed against Athena to be the patron god of Athens?",
+      "answers": [
+        "Poseidon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_47",
+      "title": "From what language did English borrow the word \"ombudsman\"?",
+      "answers": [
+        "Swedish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_48",
+      "title": "Who wrote the novel \"Roots: The Saga of an American Family\"?",
+      "answers": [
+        "Alex Haley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_49",
+      "title": "The composer Berlioz married Harriet Smithson in which year?",
+      "answers": [
+        "1833"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_32_50",
+      "title": "Shortly after meeting David, which North American city did Katchoo disappear to for 2 months, in the comic series \"Strangers in Paradise\"?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

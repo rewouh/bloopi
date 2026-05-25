@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_45",
+  "name": "Science Trivia 26K 45",
+  "description": "Science 2201 - 2250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_45_01",
+      "title": "What element is combined with iron to become steel?",
+      "answers": [
+        "Carbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_02",
+      "title": "What color is a Northern Cardinal?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_03",
+      "title": "A shark's skeleton consists of what?",
+      "answers": [
+        "Cartilage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_04",
+      "title": "What beam derives its name from \"light amplification by stimulated emission of radiation\"?",
+      "answers": [
+        "Laser beam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_05",
+      "title": "Philophobia is the fear of what?",
+      "answers": [
+        "Love"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_06",
+      "title": "What is the worlds fastest dog?",
+      "answers": [
+        "The Greyhound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_07",
+      "title": "What is the loudest animal on Earth?",
+      "answers": [
+        "Sperm whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_08",
+      "title": "How many breaths does the average healthy human take in a day?",
+      "answers": [
+        "23,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_09",
+      "title": "What is the name given to a group of geese?",
+      "answers": [
+        "Gaggle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_10",
+      "title": "In the human body, what is produced by the Islets of Langerhans?",
+      "answers": [
+        "Insulin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_11",
+      "title": "How many flavors of quarks are there?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_12",
+      "title": "What do zoologists call the leader of a wolf pack?",
+      "answers": [
+        "The alpha male"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_13",
+      "title": "Though botanically a fruit, what food was officially ruled a vegetable by the US Supreme Court in 1893?",
+      "answers": [
+        "The tomato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_14",
+      "title": "In mathematics, which prefix refers to 10 to the power of 18?",
+      "answers": [
+        "Exa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_15",
+      "title": "What is the Latin name for the common mouse?",
+      "answers": [
+        "Mus musculus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_16",
+      "title": "The psychological test of human emotions and personality, using inkblots, is formally known as what?",
+      "answers": [
+        "The Rorschach test"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_17",
+      "title": "Which is a tiny structure located in the cytoplasm of a cell?",
+      "answers": [
+        "Ribosome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_18",
+      "title": "By what more common name is the star cluster, Pleiades, better known as?",
+      "answers": [
+        "Seven Sisters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_19",
+      "title": "What gland secretes human growth hormone?",
+      "answers": [
+        "Pituitary Gland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_20",
+      "title": "What bird has the biggest eyes of any land animal?",
+      "answers": [
+        "Ostrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_21",
+      "title": "Catagelophobia is the fear of what?",
+      "answers": [
+        "Being ridiculed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_22",
+      "title": "Which planet has the largest ocean in our solar system?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_23",
+      "title": "What tree's edible seeds were once used to weigh diamonds?",
+      "answers": [
+        "The carob tree's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_24",
+      "title": "Which is the largest of Neptune's moons?",
+      "answers": [
+        "Triton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_25",
+      "title": "What chemical element is a bright yellow solid at room temperature?",
+      "answers": [
+        "Sulfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_26",
+      "title": "A 8 to 12 mph wind on the Beaufort scale is called what?",
+      "answers": [
+        "Gentle breeze"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_27",
+      "title": "What does \"PO\" stand for on a prescription?",
+      "answers": [
+        "By mouth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_28",
+      "title": "How many calories do the US Postal Service stamps contain?",
+      "answers": [
+        "One-tenth of a calorie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_29",
+      "title": "What is the fear of learning known as?",
+      "answers": [
+        "Sophophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_30",
+      "title": "In what organ of the human body would you find the Eustachian tube?",
+      "answers": [
+        "The ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_31",
+      "title": "What brightly colored monkey is the world's largest?",
+      "answers": [
+        "The mandrill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_32",
+      "title": "What is a more common word for a fata morgana?",
+      "answers": [
+        "Mirage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_33",
+      "title": "How long does it take for light from the Sun to reach Earth?",
+      "answers": [
+        "About 8 minutes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_34",
+      "title": "Which element of the periodic table is named for a New Zealander?",
+      "answers": [
+        "Rutherfordium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_35",
+      "title": "What is a natural loofah made of?",
+      "answers": [
+        "A type of gourd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_36",
+      "title": "Venation is used to describe what item found in nature?",
+      "answers": [
+        "Leaves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_37",
+      "title": "How many standard AA batteries do you need to make up the same voltage as a 9-volt battery?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_38",
+      "title": "Are polar bears carnivores or omnivores?",
+      "answers": [
+        "Carnivores"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_39",
+      "title": "How many carbon atoms are there in an aspirin molecule?",
+      "answers": [
+        "9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_40",
+      "title": "The aardvark is native to which continent?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_41",
+      "title": "What does a phrenologist measure?",
+      "answers": [
+        "Skulls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_42",
+      "title": "How many yards are there in a mile?",
+      "answers": [
+        "1760"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_43",
+      "title": "Who is credited with single-handedly inventing the turbojet engine?",
+      "answers": [
+        "Frank Whittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_44",
+      "title": "Which planet is referred to as the \"jewel of the solar system\"?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_45",
+      "title": "What is the only vegetable that contains an alkaloid called capsaicin?",
+      "answers": [
+        "Peppers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_46",
+      "title": "What substance, found in food, helps move wastes through the body?",
+      "answers": [
+        "Fiber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_47",
+      "title": "Syncope is the medical name for what condition?",
+      "answers": [
+        "Fainting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_48",
+      "title": "Which organization officially classified \"gaming disorder\" as a mental-health condition in 2018?",
+      "answers": [
+        "World Health Organization (WHO)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_49",
+      "title": "At room temperature, what color is sulfur in its natural state?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_45_50",
+      "title": "What is the hybrid offspring of a llama and camel called?",
+      "answers": [
+        "Cama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

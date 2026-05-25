@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_56",
+  "name": "Geography Trivia 26K 56",
+  "description": "Geography 2751 - 2800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_56_01",
+      "title": "What is the capital of the US state of Tennessee?",
+      "answers": [
+        "Nashville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_02",
+      "title": "Which US capital city was originally called Le Fleur's Bluff?",
+      "answers": [
+        "Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_03",
+      "title": "Which U.S state's motto is \"Industry\"?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_04",
+      "title": "Why are Amsterdam's buildings so narrow?",
+      "answers": [
+        "A tax loophole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_05",
+      "title": "What queen were the Virgin Islands named for in 1627?",
+      "answers": [
+        "Elizabeth I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_06",
+      "title": "The Niagara Falls empties in which Great Lake?",
+      "answers": [
+        "Lake Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_07",
+      "title": "Which former Soviet Republic was known as the \"Bread Basket of the Empire\"?",
+      "answers": [
+        "Ukraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_08",
+      "title": "What is the capital of Nigeria?",
+      "answers": [
+        "Abuja"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_09",
+      "title": "Into what body of water does the Danube River empty?",
+      "answers": [
+        "The Black Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_10",
+      "title": "What is a better known name for the Hellenic Republic?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_11",
+      "title": "What country would you have to visit to enjoy a taste of Hymettus honey?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_12",
+      "title": "When measured from its underwater base, what is the tallest mountain?",
+      "answers": [
+        "Mauna Kea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_13",
+      "title": "What is the nickname for Rome, Italy?",
+      "answers": [
+        "Eternal City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_14",
+      "title": "What is the capital of the state of New York?",
+      "answers": [
+        "Albany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_15",
+      "title": "What was the first country to declare internet a legal right?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_16",
+      "title": "Washington D.C. is located on the shores of what river?",
+      "answers": [
+        "Potomac River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_17",
+      "title": "Where can you see the so-called \"Horizontal Waterfalls\"?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_18",
+      "title": "What is a \"kartoffel\" in Hamburg?",
+      "answers": [
+        "A potato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_19",
+      "title": "True champagne can only come from grapes grown in the Champagne region of what country?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_20",
+      "title": "In California, you can’t legally buy a mousetrap without having what?",
+      "answers": [
+        "Hunting license"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_21",
+      "title": "In what city would you find the most famous street named \"Biscayne Boulevard\"?",
+      "answers": [
+        "Miami"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_22",
+      "title": "Avarua, the capital of the Cook Islands, is located on which South Pacific atoll?",
+      "answers": [
+        "Rarotonga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_23",
+      "title": "Which Italian city was severely damaged by an earthquake in 1908?",
+      "answers": [
+        "Messina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_24",
+      "title": "What Blue Ridge peak in North Carolina is the highest point east of the Mississippi?",
+      "answers": [
+        "Mount Mitchell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_25",
+      "title": "Which European country replaced the Kroon with the Euro?",
+      "answers": [
+        "Estonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_26",
+      "title": "Where is the Archipelago Sea?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_27",
+      "title": "What is the Southern Tropic also called?",
+      "answers": [
+        "Tropic of Capricorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_28",
+      "title": "What is the only US state that has a Spanish motto, \"Oro y Plata\"?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_29",
+      "title": "Which Italian city is considered the birthplace of modern gelato?",
+      "answers": [
+        "Florence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_30",
+      "title": "What U.S. city is known for its hot chicken?",
+      "answers": [
+        "Nashville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_31",
+      "title": "Which Mediterranean city has an area nicknamed \"The White City\"?",
+      "answers": [
+        "Tel Aviv"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_32",
+      "title": "To which South American country to the Galapagos Islands belong?",
+      "answers": [
+        "Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_33",
+      "title": "What country shares a border with Cambodia to the northeast?",
+      "answers": [
+        "Laos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_34",
+      "title": "The mouth of what bay is located between Cape Charles and Cape Henry?",
+      "answers": [
+        "Chesapeake Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_35",
+      "title": "Saipan is the capital of which country?",
+      "answers": [
+        "Northern Mariana Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_36",
+      "title": "In what US city can tourists visit the Space Needle?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_37",
+      "title": "What is the capital of the US state Kansas?",
+      "answers": [
+        "Topeka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_38",
+      "title": "What is the largest Caribbean island?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_39",
+      "title": "What is the world's largest landlocked country?",
+      "answers": [
+        "Kazakhstan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_40",
+      "title": "Which country's coat of arms features a double-tailed lion?",
+      "answers": [
+        "Czech Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_41",
+      "title": "Which country is known as the \"Hashemite Kingdom\"?",
+      "answers": [
+        "Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_42",
+      "title": "What European country is named for the dark-looking Dinaric Alps?",
+      "answers": [
+        "Montenegro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_43",
+      "title": "Where is the Bay of Pigs?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_44",
+      "title": "In which English county is Charnwood Forest located?",
+      "answers": [
+        "Leicestershire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_45",
+      "title": "The island in the middle of Victoria Falls is named for what famous man?",
+      "answers": [
+        "David Livingstone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_46",
+      "title": "In which US state is Puget Sound located?",
+      "answers": [
+        "Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_47",
+      "title": "The Hollywood sign sits atop which mountain range?",
+      "answers": [
+        "Santa Monica Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_48",
+      "title": "What U.S. state is closest to Africa?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_49",
+      "title": "Which continent are the Balkans a part of?",
+      "answers": [
+        "Europe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_56_50",
+      "title": "Which state is home to Australia's highest mainland mountain?",
+      "answers": [
+        "New South Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

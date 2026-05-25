@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_29",
+  "name": "Science Trivia 26K 29",
+  "description": "Science 1401 - 1450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_29_01",
+      "title": "The scientist Bernard Vonnegut, brother of famed author Kurt Vonnegut, discovered what commercial use for silver iodide?",
+      "answers": [
+        "Rainmaking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_02",
+      "title": "In Roman numerals, what number does \"D\" represent?",
+      "answers": [
+        "500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_03",
+      "title": "The first atomic bomb test split an atom of what fissionable element?",
+      "answers": [
+        "Plutonium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_04",
+      "title": "What is the fruit of the rose?",
+      "answers": [
+        "Rose hip"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_05",
+      "title": "How many feet are there in a nautical mile?",
+      "answers": [
+        "6,076"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_06",
+      "title": "An equinox is marked by what notable occurrence?",
+      "answers": [
+        "Equal day and night"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_07",
+      "title": "What is the most popular animal eaten before it's born and after it's dead?",
+      "answers": [
+        "Chicken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_08",
+      "title": "Wallace Carothers is known as the inventor of what?",
+      "answers": [
+        "Nylon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_09",
+      "title": "What is the largest mammal in the world?",
+      "answers": [
+        "Blue Whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_10",
+      "title": "What is a sound bath?",
+      "answers": [
+        "A meditation technique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_11",
+      "title": "Enokitake, or Enoki for short, is a type of what?",
+      "answers": [
+        "Mushroom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_12",
+      "title": "How many chromosomes does a horse have?",
+      "answers": [
+        "64"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_13",
+      "title": "Where is the uvula located?",
+      "answers": [
+        "In the throat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_14",
+      "title": "What kind of dental specialist performs root canals?",
+      "answers": [
+        "An endodontist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_15",
+      "title": "Which insect has the shortest lifespan?",
+      "answers": [
+        "Mayfly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_16",
+      "title": "What animal rests in a form?",
+      "answers": [
+        "The hare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_17",
+      "title": "In 1993, what name did Intel give to its new 80586 line of chips?",
+      "answers": [
+        "Pentium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_18",
+      "title": "What ancient creature took its name from the Greek words for \"terrible lizard\"?",
+      "answers": [
+        "Dinosaur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_19",
+      "title": "What is the fear of smells or odors known as?",
+      "answers": [
+        "Osmophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_20",
+      "title": "The leaves of the eucalyptus tree are the only food that what animal will eat?",
+      "answers": [
+        "The koala"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_21",
+      "title": "A \"Tiercel\" is the traditional term for a male what?",
+      "answers": [
+        "Falcon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_22",
+      "title": "In what organ of the human body is the hippocampus?",
+      "answers": [
+        "The brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_23",
+      "title": "What is the significance of the moth found in the Harvard Mark I computer?",
+      "answers": [
+        "First computer \"bug\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_24",
+      "title": "What is the colour of chlorophyll?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_25",
+      "title": "What type of chemical bonding occurs between hydrogen and chlorine?",
+      "answers": [
+        "Covalent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_26",
+      "title": "Which dinosaur got its name because scientists thought that it fed on eggs?",
+      "answers": [
+        "Oviraptor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_27",
+      "title": "A Polyorchid has at least three what?",
+      "answers": [
+        "Testicles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_28",
+      "title": "Paper and Mud Dauber are types of what?",
+      "answers": [
+        "Wasp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_29",
+      "title": "During which time period did the stegosaurus walk the earth?",
+      "answers": [
+        "Late Jurassic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_30",
+      "title": "Which media is read from the inside out, compact discs or vinyl records?",
+      "answers": [
+        "Compact discs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_31",
+      "title": "What physical constant did Henry Cavendish first determine using two weights and a cantilever?",
+      "answers": [
+        "Gravitational Constant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_32",
+      "title": "Dry ice is the frozen form of what gas?",
+      "answers": [
+        "Carbon dioxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_33",
+      "title": "What are animals with backbones called?",
+      "answers": [
+        "Vertebrate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_34",
+      "title": "What well known drug comes from the cinchona tree?",
+      "answers": [
+        "Quinine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_35",
+      "title": "Genuphobia is the fear of what?",
+      "answers": [
+        "Knees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_36",
+      "title": "How many men have walked on the moon as of December 31, 2018?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_37",
+      "title": "Most flowers have an odd number of what?",
+      "answers": [
+        "Petals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_38",
+      "title": "Bacteriophobia is the fear of what?",
+      "answers": [
+        "Bacteria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_39",
+      "title": "Aeolian processes pertain to the study of what weather activity?",
+      "answers": [
+        "Winds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_40",
+      "title": "How many digits of pi are there?",
+      "answers": [
+        "Infinite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_41",
+      "title": "Galena is a major ore of which metal?",
+      "answers": [
+        "Lead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_42",
+      "title": "What is the atomic number of tungsten?",
+      "answers": [
+        "74"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_43",
+      "title": "An earthquake that measures 8 on the Richter Scale would be how many times stronger than one that measures 4 on the same scale?",
+      "answers": [
+        "10,000 times stronger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_44",
+      "title": "The imperial fluid pint consists of how many imperial fluid ounces?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_45",
+      "title": "What kind of object is smaller than its own Schwarzschild radius?",
+      "answers": [
+        "A black hole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_46",
+      "title": "What is the name for excessive bodily hair growth in women?",
+      "answers": [
+        "Hursutism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_47",
+      "title": "The planet Uranus was originally named what?",
+      "answers": [
+        "George's Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_48",
+      "title": "What is the deadliest jellyfish in the world?",
+      "answers": [
+        "Box Jellyfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_49",
+      "title": "Dentophobia is the fear of what?",
+      "answers": [
+        "Dentists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_29_50",
+      "title": "What psychiatrist developed the principal of \"synchronicity\"?",
+      "answers": [
+        "Carl Jung"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

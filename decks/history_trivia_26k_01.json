@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_01",
+  "name": "History Trivia 26K 01",
+  "description": "History 1 - 50 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_01_01",
+      "title": "How many dogs survived the sinking of the Titanic?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_02",
+      "title": "Who was the US vice-president during the presidency of Bill Clinton?",
+      "answers": [
+        "Al Gore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_03",
+      "title": "Who was shot by Jack Ruby?",
+      "answers": [
+        "Lee Harvey Oswald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_04",
+      "title": "Who was the emperor of Ethiopia from 1930 to 1974?",
+      "answers": [
+        "Haile Selassie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_05",
+      "title": "During World War II, who was nicknamed The Desert Fox?",
+      "answers": [
+        "Erwin Rommel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_06",
+      "title": "What city was Rasputin killed in?",
+      "answers": [
+        "St. Petersburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_07",
+      "title": "Which age is known as the \"Age of Fish\"?",
+      "answers": [
+        "Paleozoic Era"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_08",
+      "title": "Who was the first person to reach the North Pole in 1909?",
+      "answers": [
+        "Robert Peary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_09",
+      "title": "Who was the first president to appear on a U.S. coin?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_10",
+      "title": "In 1948, what military practice did President Harry S. Truman end?",
+      "answers": [
+        "Racial segregation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_11",
+      "title": "How old was John Lennon when he was murdered?",
+      "answers": [
+        "40"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_12",
+      "title": "Where was South Africa's Freedom Charter signed?",
+      "answers": [
+        "Kliptown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_13",
+      "title": "What US state has been led by Orval Faubus and Jim Guy Tucker?",
+      "answers": [
+        "Arkansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_14",
+      "title": "During what war did Benedict Arnold become a traitor to the American people?",
+      "answers": [
+        "American Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_15",
+      "title": "Who was James Garfield's vice president?",
+      "answers": [
+        "Chester A. Arthur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_16",
+      "title": "During which period in Japanese history did \"Seven Samurai\" take place?",
+      "answers": [
+        "Sengoku"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_17",
+      "title": "The Maya of Mesoamerica are best known for their achievements in which subjects?",
+      "answers": [
+        "Math and astronomy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_18",
+      "title": "Which great American inventor died in October, 1931?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_19",
+      "title": "Which car company did Christian von Koenigsegg found in 1994?",
+      "answers": [
+        "Koenigsegg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_20",
+      "title": "Who was elected to the Senate seat vacated by New York Democrat Daniel Patrick Moynihan on January 3, 2001?",
+      "answers": [
+        "Hillary Rodham Clinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_21",
+      "title": "What was the first live-stream video on the internet?",
+      "answers": [
+        "A garage band performance"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_22",
+      "title": "Which US President owned a haberdashery?",
+      "answers": [
+        "Harry S. Truman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_23",
+      "title": "What political party did George Washington originally belong to?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_24",
+      "title": "Which early president is credited with popularizing ice cream in the U.S.?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_25",
+      "title": "What king was executed for the excesses of his inquisitional \"Star Chamber\"?",
+      "answers": [
+        "Charles I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_26",
+      "title": "What future secretary of state became US's first five-star general in 1944?",
+      "answers": [
+        "George Marshall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_27",
+      "title": "What military alliance did the US join in 1949?",
+      "answers": [
+        "NATO"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_28",
+      "title": "Who became Germany's leader upon the death of Adolf Hitler?",
+      "answers": [
+        "Admiral Karl Doenitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_29",
+      "title": "A young women in the 1920's that behaved and dressed boldly was referred to as what?",
+      "answers": [
+        "A flapper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_30",
+      "title": "What did the letters on the first license plates represent?",
+      "answers": [
+        "The owner's initials"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_31",
+      "title": "When did sharpshooter Annie Oakley die?",
+      "answers": [
+        "1926"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_32",
+      "title": "What natural human bodily fluid did Romans use as mouth wash because of the presence of ammonia in it?",
+      "answers": [
+        "Urine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_33",
+      "title": "During the prohibition era, what was sold at \"speakeasies\"?",
+      "answers": [
+        "Alcohol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_34",
+      "title": "What year did Suriname gain its independence from the Kingdom of the Netherlands?",
+      "answers": [
+        "1975"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_35",
+      "title": "Differences between which two religions contributed to violent conflicts during the Indian struggle for independence in 1947?",
+      "answers": [
+        "Hinduism and Islam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_36",
+      "title": "Which foot did Neil Armstrong first set on the moon?",
+      "answers": [
+        "Left"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_37",
+      "title": "Where were the 1996 Summer Olympics held?",
+      "answers": [
+        "Atlanta, Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_38",
+      "title": "What did Shakespeare leave his wife in his will?",
+      "answers": [
+        "His second-best bed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_39",
+      "title": "Greeks consider Tuesday the unluckiest day of the week because what city fell on a Tuesday in 1453?",
+      "answers": [
+        "Constantinople"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_40",
+      "title": "Who commanded the French army in India during the Seven Years War?",
+      "answers": [
+        "Joseph Marquis Dupleix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_41",
+      "title": "Which English king died in 1066, leaving no heir to the throne?",
+      "answers": [
+        "Edward the Confessor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_42",
+      "title": "Who said, \"If it were necessary either to do wrong or to suffer it, I should choose to suffer rather than do it\"?",
+      "answers": [
+        "Plato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_43",
+      "title": "In what country was Che Guevara born?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_44",
+      "title": "Which country were the 1988 Winter Olympic Games held in?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_45",
+      "title": "Which country were the 1900 Olympic Games held in?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_46",
+      "title": "George H.W. Bush served in which branch of the US military?",
+      "answers": [
+        "Navy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_47",
+      "title": "The Statue of Liberty was a gift resulting from the diplomatic relationship between the United States and what country?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_48",
+      "title": "Which fish, previously thought to be extinct was rediscovered In 1939?",
+      "answers": [
+        "The Coelacanth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_49",
+      "title": "What Israeli prime minister was assassinated in 1995?",
+      "answers": [
+        "Yitzhak Rabin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_01_50",
+      "title": "In March, 2016, former politician Radovan Karadzic was sentenced to 40 years in prison for genocide and crimes against humanity committed during what war?",
+      "answers": [
+        "Bosnian War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

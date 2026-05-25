@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_107",
+  "name": "Entertainment Trivia 26K 107",
+  "description": "Entertainment 5301 - 5350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_107_01",
+      "title": "What breed of dog is McGruff?",
+      "answers": [
+        "Bloodhound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_02",
+      "title": "What's the name of Mario's girlfriend, kidnapped by the giant ape in \"Donkey Kong\"?",
+      "answers": [
+        "Pauline"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_03",
+      "title": "Which duo released albums called \"Introspective\" and \"Very\"?",
+      "answers": [
+        "Pet Shop Boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_04",
+      "title": "For what song did R&B singer Seal take home the Grammy Award for both Song and Record of the Year in 1996?",
+      "answers": [
+        "Kiss From a Rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_05",
+      "title": "Which film won Steven Spielberg his first Oscar for Best Director?",
+      "answers": [
+        "Schindler's List"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_06",
+      "title": "In the cartoon \"Wacky Races\", who drove the Crimson Haybaler?",
+      "answers": [
+        "The Red Max"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_07",
+      "title": "What double-word song title was a hit single by The Thompson Twins?",
+      "answers": [
+        "Doctor! Doctor!"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_08",
+      "title": "Who is \"The Jerk\"?",
+      "answers": [
+        "Steve Martin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_09",
+      "title": "What does Andy tell Warden Norton his favorite passage of the Bible is in the film \"The Shawshank Redemption\"?",
+      "answers": [
+        "Mark 13: 35"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_10",
+      "title": "Who recorded the album \"Business as Usual\" in 1981?",
+      "answers": [
+        "Men at Work"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_11",
+      "title": "Who recorded the album \"Big Bambu\"?",
+      "answers": [
+        "Cheech and Chong"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_12",
+      "title": "From which US state does Jerry Hall come?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_13",
+      "title": "In what hotel does Ben rendezvous with Mrs. Robinson in \"The Graduate\"?",
+      "answers": [
+        "The Taft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_14",
+      "title": "What movie's first sequel featured the subtitle \"Road Warrior\"?",
+      "answers": [
+        "Mad Max"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_15",
+      "title": "In the original television series \"Hawaii Five-O,\" who stared as Detective Steve McGarrett?",
+      "answers": [
+        "Jack Lord"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_16",
+      "title": "In the movie \"Top Gun\", what is the name of Maverick's Radar Intercept Officer?",
+      "answers": [
+        "Goose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_17",
+      "title": "What network has aired \"Shark Week\" every summer since 1988?",
+      "answers": [
+        "The Discovery Channel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_18",
+      "title": "Who created Mickey Mouse along with Walt Disney?",
+      "answers": [
+        "Ub Iwerks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_19",
+      "title": "What is the name of the patient in the game Operation?",
+      "answers": [
+        "Cavity Sam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_20",
+      "title": "Who is the Winslow family’s nerdy neighbor in \"Family Matters\"",
+      "answers": [
+        "Steve Urkel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_21",
+      "title": "Who sang the song \"Un-Break My Heart\"?",
+      "answers": [
+        "Toni Braxton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_22",
+      "title": "What TV show featured a character by the name of Christmas Snow?",
+      "answers": [
+        "Three's Company"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_23",
+      "title": "Who recorded the international hit single \"Poker Face\" in 2008?",
+      "answers": [
+        "Lady Gaga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_24",
+      "title": "What classic movie starred Vivien Leigh and Scarlett O'Hara?",
+      "answers": [
+        "Gone With the Wind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_25",
+      "title": "What, partially acapella song, did the Eagles have a Top 40 hit with in 1981?",
+      "answers": [
+        "Seven Bridges Road"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_26",
+      "title": "Which actress was the first American to win a Caésar, the French equivalent Oscar, in 2015?",
+      "answers": [
+        "Kristen Stewart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_27",
+      "title": "What famous ex-boyfriend of Jennifer Aniston once guest-starred on the TV show \"Friends\"?",
+      "answers": [
+        "Brad Pitt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_28",
+      "title": "How were the parents of the siblings on the TV show \"Party of Five\" killed?",
+      "answers": [
+        "Car accident"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_29",
+      "title": "What 1987 song holds the record for the most MTV Video Music Awards with 9?",
+      "answers": [
+        "\"Sledgehammer\" by Peter Gabriel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_30",
+      "title": "Who played the role of Dr. Frankenstein in the 1974 movie \"Young Frankenstein\"?",
+      "answers": [
+        "Gene Wilder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_31",
+      "title": "In the 2002 movie \"Spiderman\", what was Peter Parker's profession?",
+      "answers": [
+        "Photographer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_32",
+      "title": "In what year were the two James Bond films \"Octopussy\" and \"Never Say Never Again\" released?",
+      "answers": [
+        "1983"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_33",
+      "title": "What is the four-letter name of the groundhog in Groundhog Day?",
+      "answers": [
+        "Phil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_34",
+      "title": "Who owned the detective agency in the TV show \"Remington Steele\"?",
+      "answers": [
+        "Laura Holt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_35",
+      "title": "Who played the role of Dr. Frasier Crane in the TV show \"Frasier\"?",
+      "answers": [
+        "Kelsey Grammer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_36",
+      "title": "The shoe-obsessed Spats Colombo is the villain of what 1959 comedy?",
+      "answers": [
+        "Some Like It Hot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_37",
+      "title": "Who played Goose's wife in the 1986 movie \"Top Gun\"?",
+      "answers": [
+        "Meg Ryan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_38",
+      "title": "Which movie popularized the phrase \"You had me at hello.\"?",
+      "answers": [
+        "Jerry Maguire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_39",
+      "title": "According to the title of the film, what is the profession of Ace Ventura?",
+      "answers": [
+        "Pet Detective"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_40",
+      "title": "Who released the album \"I Got Dem Ol' Kozmic Blues Again Mama\"?",
+      "answers": [
+        "Janis Joplin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_41",
+      "title": "Who is the tenth member of the group LOONA to debut?",
+      "answers": [
+        "Chuu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_42",
+      "title": "Who recorded the song \"Caribbean Queen\"?",
+      "answers": [
+        "Billy Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_43",
+      "title": "Who plays Pacey Witter on the TV show \"Dawson's Creek\"?",
+      "answers": [
+        "Joshua Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_44",
+      "title": "In the film \"One Flew Over the Cuckoo's Nest,\" what is R. P. McMurphy's first name?",
+      "answers": [
+        "Randle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_45",
+      "title": "Which cowboy musical artist first recorded the song, Here Comes Santa Claus?",
+      "answers": [
+        "Gene Autry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_46",
+      "title": "What was the name of Fred Sanford’s late wife on the TV show \"Sanford & Son\"?",
+      "answers": [
+        "Elizabeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_47",
+      "title": "What actress shaved her head for her role in the movie \"Tank Girl\"?",
+      "answers": [
+        "Lori Petty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_48",
+      "title": "Who directed the film \"The Day of the Jackal\"?",
+      "answers": [
+        "Fred Zinnemann"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_49",
+      "title": "In Disney's \"Cinderella\", what article of clothing does she accidentally leave behind at the ball?",
+      "answers": [
+        "A glass slipper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_107_50",
+      "title": "What disability does Dustin Hoffman's character have in the movie \"Rain Man\"?",
+      "answers": [
+        "Autism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

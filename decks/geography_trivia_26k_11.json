@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_11",
+  "name": "Geography Trivia 26K 11",
+  "description": "Geography 501 - 550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_11_01",
+      "title": "What island is Pearl Harbor located on?",
+      "answers": [
+        "Oahu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_02",
+      "title": "What is the capital city of Paraguay?",
+      "answers": [
+        "Asuncion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_03",
+      "title": "What US city is nicknamed the \"Crossroads of the West\"?",
+      "answers": [
+        "Salt Lake City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_04",
+      "title": "Which state flower was chosen to honor pioneer women?",
+      "answers": [
+        "Texas Bluebonnet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_05",
+      "title": "The Island of Bornholm is part of which country?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_06",
+      "title": "Andorra la Vella is the capital of which European country?",
+      "answers": [
+        "Andorra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_07",
+      "title": "What is a narrow strip of land that connects two larger landmasses and separates two bodies of water?",
+      "answers": [
+        "Isthmus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_08",
+      "title": "What color are the stars on China's flag?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_09",
+      "title": "What country borders Zambia to the north?",
+      "answers": [
+        "Congo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_10",
+      "title": "What is the capital of Egypt?",
+      "answers": [
+        "Cairo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_11",
+      "title": "Grand Mesa is located in which US state?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_12",
+      "title": "What is the capital of Chile?",
+      "answers": [
+        "Santiago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_13",
+      "title": "Tirana is the capital of which country?",
+      "answers": [
+        "Albania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_14",
+      "title": "What major river runs through Cleveland?",
+      "answers": [
+        "Cuyahoga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_15",
+      "title": "In which continent would you find the river Nile?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_16",
+      "title": "Which country is also the world's largest archipelago?",
+      "answers": [
+        "Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_17",
+      "title": "Which European city's harbor is called the Golden Horn?",
+      "answers": [
+        "Istanbul's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_18",
+      "title": "The beaver is the national emblem of which country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_19",
+      "title": "Which country lies between Switzerland and Austria?",
+      "answers": [
+        "Liechtenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_20",
+      "title": "The Yalu River separates China from what other country?",
+      "answers": [
+        "North Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_21",
+      "title": "Dogteeth tetras are a family of freshwater fishes native to what continent?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_22",
+      "title": "Until 1989, what European country was the world’s second largest exporter of bottled wine?",
+      "answers": [
+        "Bulgaria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_23",
+      "title": "What island is located in The Bay of Naples?",
+      "answers": [
+        "Capri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_24",
+      "title": "How many independent city-states were there in the world in 2020?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_25",
+      "title": "How many countries did Yugoslavia originally split into?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_26",
+      "title": "Corsica is part of which country?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_27",
+      "title": "Who took over as the top civilian administrator of Iraq in May 2003",
+      "answers": [
+        "Paul Bremer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_28",
+      "title": "Cape Canaveral is located in which US state?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_29",
+      "title": "What is the world’s largest sea?",
+      "answers": [
+        "Australasian Mediterranean Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_30",
+      "title": "What is the primary mountain range in Iran?",
+      "answers": [
+        "Zagros Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_31",
+      "title": "Which US state is nickname the \"Bluegrass State\"?",
+      "answers": [
+        "Kentucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_32",
+      "title": "Where is the International Court of Justice?",
+      "answers": [
+        "The Hague"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_33",
+      "title": "The Mississippi river splits substantial regions within which two states?",
+      "answers": [
+        "Minnesota and Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_34",
+      "title": "What is Ethiopia's main commercial crop?",
+      "answers": [
+        "Coffee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_35",
+      "title": "The river Liffey flows through the centre of which European city?",
+      "answers": [
+        "Dublin, Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_36",
+      "title": "Acapulco is a city in which Mexican state?",
+      "answers": [
+        "Guerrero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_37",
+      "title": "Bammy is a traditional Jamaican bread made primarily of what?",
+      "answers": [
+        "Cassava flour"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_38",
+      "title": "In what world capital will you find Ho Hoan Kiem, the Lake of the Restored Sword?",
+      "answers": [
+        "Hanoi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_39",
+      "title": "Where is the Tennis Hall of Fame located?",
+      "answers": [
+        "Newport, Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_40",
+      "title": "Captain Henry Morgan used what island as a base of buccaneer operations?",
+      "answers": [
+        "Jamaica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_41",
+      "title": "In France what is a Framboise?",
+      "answers": [
+        "Raspberry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_42",
+      "title": "What is the longest river in Europe?",
+      "answers": [
+        "Volga River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_43",
+      "title": "What interstate highway connects Boston and Seattle?",
+      "answers": [
+        "I-90"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_44",
+      "title": "Hellas is the local name for which country?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_45",
+      "title": "What Spanish-speaking nation got its name from its position on the Equator?",
+      "answers": [
+        "Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_46",
+      "title": "What US city is home to Pike Place Market?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_47",
+      "title": "Which country does the island of Guernsey belong to?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_48",
+      "title": "Minsk is the capital of which European country?",
+      "answers": [
+        "Belarus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_49",
+      "title": "In what country would you find the mouths of the Volga river?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_11_50",
+      "title": "Bismarck is the capital of which US state?",
+      "answers": [
+        "North Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

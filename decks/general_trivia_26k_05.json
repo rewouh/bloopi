@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_05",
+  "name": "General Trivia 26K 05",
+  "description": "General 201 - 250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_05_01",
+      "title": "What year did Wayne Gretzky retire from his professional hockey career?",
+      "answers": [
+        "1999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_02",
+      "title": "Which pasta is named for the Italian word for \"twins\"?",
+      "answers": [
+        "Gemelli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_03",
+      "title": "Fear of the color white is known as what?",
+      "answers": [
+        "Leukophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_04",
+      "title": "In Norway what is a Brisling?",
+      "answers": [
+        "A Sprat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_05",
+      "title": "How many players are there in a standard curling team?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_06",
+      "title": "Where can you find the world’s longest-operating \"Santa School\"?",
+      "answers": [
+        "Midland, Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_07",
+      "title": "In The Twelve Days of Christmas what did my true love send to me on the third day?",
+      "answers": [
+        "Three French Hens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_08",
+      "title": "In what year did the Ultimate Fighting Championship start?",
+      "answers": [
+        "1993"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_09",
+      "title": "What cup-shaped pasta is often paired with autumn flavors?",
+      "answers": [
+        "Zucche"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_10",
+      "title": "Which impressionist featured his wife Camille, in \"The Woman in the Green Dress\"?",
+      "answers": [
+        "Claude Monet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_11",
+      "title": "Scotland’s St. Andrews is a top venue for which sport?",
+      "answers": [
+        "Golf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_12",
+      "title": "How many years are in a semicentennial?",
+      "answers": [
+        "50"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_13",
+      "title": "What type of cherries are used for Kriek lambics?",
+      "answers": [
+        "Sour Morello"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_14",
+      "title": "What Major League Soccer team signed David Beckham to a $50 million contract in 2007?",
+      "answers": [
+        "The Los Angeles Galaxy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_15",
+      "title": "Which popular fruit can only be grown one at a time?",
+      "answers": [
+        "Pineapple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_16",
+      "title": "The cocktail \"Margarita\" contains cointreau, lime and which spirit?",
+      "answers": [
+        "Tequila"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_17",
+      "title": "Which country were the 1928 Summer Olympic Games held in?",
+      "answers": [
+        "Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_18",
+      "title": "What variety of beans is used to prepare Boston baked beans?",
+      "answers": [
+        "Navy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_19",
+      "title": "How many years after Roger Maris hit 61 home runs in a season did Aaron Judge hit 62 to break the American League record?",
+      "answers": [
+        "61"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_20",
+      "title": "The Sejm are the legislative body in which country?",
+      "answers": [
+        "Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_21",
+      "title": "What does the military abbreviation POW stand for?",
+      "answers": [
+        "Prisoner of War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_22",
+      "title": "What was the name of Henry Ford's only son?",
+      "answers": [
+        "Edsel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_23",
+      "title": "What does the acronym TAG stand for in the TAG Heuer brand?",
+      "answers": [
+        "Techniques d'Avant Garde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_24",
+      "title": "What figure did the tobacco company R.J. Reynolds decommission in 1997?",
+      "answers": [
+        "Joe Camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_25",
+      "title": "What event in a decathlon takes the athletes to the greatest height?",
+      "answers": [
+        "Pole vault"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_26",
+      "title": "What colour is Creme de menthe?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_27",
+      "title": "Saddle shoes, poodle skirts and motorcycle jackets were popular in what decade?",
+      "answers": [
+        "1950s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_28",
+      "title": "Who began his career as \"the Cherokee Kid\", the trick roper in Texas Jack's Wild West Circus?",
+      "answers": [
+        "Will Rogers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_29",
+      "title": "Which NBA team plays its home games at the Barclays Centre?",
+      "answers": [
+        "Brooklyn Nets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_30",
+      "title": "In Telltale's Season 1 of the \"The Walking Dead\" game series, what is the name of the main character?",
+      "answers": [
+        "Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_31",
+      "title": "What car company makes the Econoline van",
+      "answers": [
+        "Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_32",
+      "title": "What toy was released in 1958 creating an instant craze among children?",
+      "answers": [
+        "The Hula Hoop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_33",
+      "title": "How many signs are there in the Zodiac?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_34",
+      "title": "What colour is the Ring of Death that signifies that your Xbox 360 is broken forever?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_35",
+      "title": "Who appears on the cover of the \"Pokemon Yellow\" video game?",
+      "answers": [
+        "Pikachu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_36",
+      "title": "What is the first book of the Bible named for a woman?",
+      "answers": [
+        "Ruth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_37",
+      "title": "What Georgetown star was the first player to be chosen by an NBA draft lottery winner?",
+      "answers": [
+        "Patrick Ewing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_38",
+      "title": "Which day of the week did January 1, 2017, fall on?",
+      "answers": [
+        "Sunday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_39",
+      "title": "What do Teal Pumpkins represent to Trick or Treaters?",
+      "answers": [
+        "Non-Food Treats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_40",
+      "title": "Under what name is Bulmers cider sold outside of Ireland?",
+      "answers": [
+        "Magners"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_41",
+      "title": "What’s another name for a footrest?",
+      "answers": [
+        "Ottoman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_42",
+      "title": "What does M&M stand for?",
+      "answers": [
+        "Mars & Murrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_43",
+      "title": "In which athletics event might you use a Fosbury Flop?",
+      "answers": [
+        "High Jump"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_44",
+      "title": "What holds the bit in a drill?",
+      "answers": [
+        "Chuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_45",
+      "title": "What sport's lingo uses the term \"Bonspiel\"?",
+      "answers": [
+        "Curling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_46",
+      "title": "A plague is a group of what insect?",
+      "answers": [
+        "Locust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_47",
+      "title": "What snack was invented by monks?",
+      "answers": [
+        "Pretzels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_48",
+      "title": "What is the name of the legendary racetrack that hosts the Kentucky Derby?",
+      "answers": [
+        "Churchill Downs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_49",
+      "title": "What is Chiroptophobia?",
+      "answers": [
+        "Fear of Bats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_05_50",
+      "title": "What name is given to the large Russian utensil for heating and boiling water?",
+      "answers": [
+        "Samovar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_77",
+  "name": "General Trivia 26K 77",
+  "description": "General 3801 - 3850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_77_01",
+      "title": "What American was named captain of the Montreal Canadiens in Sep 2015?",
+      "answers": [
+        "Max Pacioretty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_02",
+      "title": "What Italian dish's name translates literally as \"cooking pot\"?",
+      "answers": [
+        "Lasagna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_03",
+      "title": "What is the highest hand in straight Poker?",
+      "answers": [
+        "A royal flush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_04",
+      "title": "What is Santa's name in Denmark?",
+      "answers": [
+        "Julemanden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_05",
+      "title": "What is the name of the calendar we use today?",
+      "answers": [
+        "The Gregorian Calendar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_06",
+      "title": "What's the common household name for diluted acetic acid?",
+      "answers": [
+        "Vinegar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_07",
+      "title": "In which country was the Michelin tire company founded in 1889?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_08",
+      "title": "In what country is Absolut vodka made?",
+      "answers": [
+        "Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_09",
+      "title": "Which type of fruit juice did Dole sell first?",
+      "answers": [
+        "Pineapple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_10",
+      "title": "What delivery company was founded in 1969 by Adrian Dalsey, Larry Hillblom, and Robert Lynn?",
+      "answers": [
+        "DHL"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_11",
+      "title": "How is the chess term \"shah mat\" better known?",
+      "answers": [
+        "Checkmate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_12",
+      "title": "What do people hang over their doors on New Year’s Eve in Greece?",
+      "answers": [
+        "Onions"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_13",
+      "title": "What is Maxwell House coffee named after?",
+      "answers": [
+        "A hotel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_14",
+      "title": "What drink, created in 1886, was first advertised as \"delicious and refreshing\"?",
+      "answers": [
+        "Coca Cola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_15",
+      "title": "What non-alcoholic syrup is made from pomegranate juice?",
+      "answers": [
+        "Grenadine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_16",
+      "title": "The Chicago Bulls take the court to \"Sirius\", an instrumental track by what prog-rock band?",
+      "answers": [
+        "The Alan Parsons Project"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_17",
+      "title": "Edam cheese originated in which country?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_18",
+      "title": "What model was married to musician Billy Joel?",
+      "answers": [
+        "Christie Brinkley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_19",
+      "title": "Which Mario Kart game first featured 12 racers instead of 8?",
+      "answers": [
+        "Mario Kart Wii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_20",
+      "title": "Which famous European landmark is said to be protected by six ravens?",
+      "answers": [
+        "Tower of London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_21",
+      "title": "What fast food chain was founded by Colonel Harland Sanders?",
+      "answers": [
+        "Kentucky Fried Chicken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_22",
+      "title": "How many strings does a standard ukulele have?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_23",
+      "title": "In golf, what is the traditional name for a number 3 wood?",
+      "answers": [
+        "Spoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_24",
+      "title": "Who gained notoriety in 1997 for her relationship with Vili Fualaau?",
+      "answers": [
+        "Mary Kay Letourneau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_25",
+      "title": "What nationality is tennis player Roger Federer?",
+      "answers": [
+        "Swiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_26",
+      "title": "What was the first artificial flavouring?",
+      "answers": [
+        "Vanilla Essence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_27",
+      "title": "Which supermodel is nicknamed \"The Body\"?",
+      "answers": [
+        "Elle Macpherson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_28",
+      "title": "What was the first sport to be televised in the US?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_29",
+      "title": "Who was the first figure skater to appear on a Wheaties box?",
+      "answers": [
+        "Kristi Yamaguchi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_30",
+      "title": "In 1992, what city hosted the first World Series game ever played outside the US?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_31",
+      "title": "The Vezina Trophy is an award given in what field?",
+      "answers": [
+        "Hockey goaltending"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_32",
+      "title": "In the card game Bridge, what is considered the highest of the four suits?",
+      "answers": [
+        "Spades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_33",
+      "title": "At what university was Gatorade invented, in 1965?",
+      "answers": [
+        "The University of Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_34",
+      "title": "What seafood is considered a Christmas favourite in Paris, France?",
+      "answers": [
+        "Oysters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_35",
+      "title": "Upon his death, what convicted killer donated his corneas?",
+      "answers": [
+        "Gary Gilmore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_36",
+      "title": "What unusual ingredient is often included in a Gibson cocktail?",
+      "answers": [
+        "Pickled onion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_37",
+      "title": "At which famous venue is a giant Christmas tree displayed each year in New York City?",
+      "answers": [
+        "Rockefeller Center"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_38",
+      "title": "In what US city do all three of the pro sports franchises use the same two main team colors?",
+      "answers": [
+        "Pittsburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_39",
+      "title": "Who founded \"Heiress Records\" in 2004?",
+      "answers": [
+        "Paris Hilton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_40",
+      "title": "What was the date of the first day of the 21st century?",
+      "answers": [
+        "January 1st, 2001"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_41",
+      "title": "The original Legoland opened in which country in 1968?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_42",
+      "title": "Which US college or university has the largest endowment?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_43",
+      "title": "Mageirocophobia is a fear of what?",
+      "answers": [
+        "Having to cook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_44",
+      "title": "A kirby-grip is the British name for what hair accessory?",
+      "answers": [
+        "Bobby pin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_45",
+      "title": "What Boston Celtics legend was born in French Lick, Indiana?",
+      "answers": [
+        "Larry Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_46",
+      "title": "What is the Italian name for squid in a restaurant?",
+      "answers": [
+        "Calamari"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_47",
+      "title": "In what country was the International Red Cross founded?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_48",
+      "title": "What is the heating element in Hasbro's Easy-Bake Oven\"?",
+      "answers": [
+        "A lightbulb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_49",
+      "title": "What is the more common name for a \"travelator\"?",
+      "answers": [
+        "Moving walkway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_77_50",
+      "title": "What Sanskrit word do Buddhists use to refer to the endless cycle of birth, death, and rebirth?",
+      "answers": [
+        "Samsara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_12",
+  "name": "Science Trivia 26K 12",
+  "description": "Science 551 - 600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_12_01",
+      "title": "What instrument is used to measure the strength of a magnetic field?",
+      "answers": [
+        "Magnetometer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_02",
+      "title": "Verminophobia is the fear of what?",
+      "answers": [
+        "Germs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_03",
+      "title": "What can be transverse, seif or star?",
+      "answers": [
+        "Sand dunes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_04",
+      "title": "What is a pencils lead typically made from?",
+      "answers": [
+        "Graphite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_05",
+      "title": "Na is the chemical symbol for which element?",
+      "answers": [
+        "Sodium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_06",
+      "title": "What word did Alexander Graham Bell suggest for answering the phone?",
+      "answers": [
+        "Ahoy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_07",
+      "title": "What is the common word for a metric ton in the US?",
+      "answers": [
+        "A tonne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_08",
+      "title": "Elurophobia is the fear of what?",
+      "answers": [
+        "Cats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_09",
+      "title": "Caries refers to decay in what?",
+      "answers": [
+        "Teeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_10",
+      "title": "What do insects take oxygen through?",
+      "answers": [
+        "Spiracles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_11",
+      "title": "Alektorophobia is the fear of what?",
+      "answers": [
+        "Chickens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_12",
+      "title": "Saanen, hongtong and toggenburg are all breeds of which animal?",
+      "answers": [
+        "Goats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_13",
+      "title": "Who won a Nobel Prize for discovering Prions?",
+      "answers": [
+        "Stanley Prusiner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_14",
+      "title": "Which space shuttle is named for the ship on which Robert Scott first sailed to Antarctica?",
+      "answers": [
+        "The Discovery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_15",
+      "title": "What planet has the shortest year?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_16",
+      "title": "What formations on earth can have the names tabular, blocky, wedge, dome, pinnacle, dry-dock, growler or bergy bit?",
+      "answers": [
+        "Icebergs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_17",
+      "title": "What extinct bird got its name from a Portuguese word meaning \"simpleton\"?",
+      "answers": [
+        "Dodo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_18",
+      "title": "What organ gave us the word \"hysterical\"?",
+      "answers": [
+        "The uterus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_19",
+      "title": "What is the lowest layer of the Earth's atmosphere called?",
+      "answers": [
+        "Troposphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_20",
+      "title": "What is the symbol for iron?",
+      "answers": [
+        "Fe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_21",
+      "title": "What animal is a Chester White?",
+      "answers": [
+        "A pig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_22",
+      "title": "What animal was used in British coal mines until being phased out in 1986?",
+      "answers": [
+        "Canaries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_23",
+      "title": "Name the continents entirely located in the Southern Hemisphere.",
+      "answers": [
+        "Australia and Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_24",
+      "title": "Approximately, how many flowers do honeybees need to visit in order to make one pound of honey?",
+      "answers": [
+        "Two million"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_25",
+      "title": "What percentage of air is composed of nitrogen?",
+      "answers": [
+        "78%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_26",
+      "title": "What color is the tip of a Canada lynx's tail?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_27",
+      "title": "Who is typically credited with inventing the first DC motor in 1837?",
+      "answers": [
+        "Thomas Davenport"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_28",
+      "title": "Hg is the symbol for what element?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_29",
+      "title": "What is the name for pollination that is caused by birds?",
+      "answers": [
+        "Ornithophily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_30",
+      "title": "The process of making cows' milk safe for consumption is called what?",
+      "answers": [
+        "Pasteurization"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_31",
+      "title": "Our galaxy is commonly known by what name?",
+      "answers": [
+        "Milky Way"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_32",
+      "title": "In the International System of Units (SI), how is power measured?",
+      "answers": [
+        "Watts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_33",
+      "title": "What is the name for the longest side of a right-angled triangle?",
+      "answers": [
+        "Hypotenuse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_34",
+      "title": "What is 40 percent of 40?",
+      "answers": [
+        "16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_35",
+      "title": "What do many types of birds, such as geese, do just before it begins to get colder?",
+      "answers": [
+        "Migrate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_36",
+      "title": "Where was the first mobile automaton, named \"Beast\", built in?",
+      "answers": [
+        "John Hopkins University"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_37",
+      "title": "What hangs from the roof of a limestone cave?",
+      "answers": [
+        "Stalactites"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_38",
+      "title": "What type of radio had a cat's whisker?",
+      "answers": [
+        "Crystal set"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_39",
+      "title": "How many honeybees does it take to make one teaspoon of honey?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_40",
+      "title": "What gas is exhaled by humans?",
+      "answers": [
+        "Carbon dioxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_41",
+      "title": "Which comic strip inspired the name of Stegosaurus tail spikes?",
+      "answers": [
+        "\"The Far Side\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_42",
+      "title": "What letter represents the speed of light in physics notations?",
+      "answers": [
+        "c"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_43",
+      "title": "Which mammal has no vocal cords?",
+      "answers": [
+        "Giraffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_44",
+      "title": "What is the name of the Austrian Monk who formulated the basic laws of genetics?",
+      "answers": [
+        "Gregor Mendel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_45",
+      "title": "Roadrunners are members of which family of birds?",
+      "answers": [
+        "Cuckoos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_46",
+      "title": "What does velociraptor mean in Latin?",
+      "answers": [
+        "Swift plunderer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_47",
+      "title": "Who was the Clark University physicist responsible for \"A Method of Reaching Extreme Altitudes\"?",
+      "answers": [
+        "Robert Goddard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_48",
+      "title": "What fruit comes in Muscat and Scuppernong variety?",
+      "answers": [
+        "Grapes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_49",
+      "title": "Myopia is also known by what other name?",
+      "answers": [
+        "Nearsightedness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_12_50",
+      "title": "What name is given to the device which consists of a frame with parallel wires carrying beads used for computation?",
+      "answers": [
+        "Abacus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_13",
+  "name": "General Trivia 26K 13",
+  "description": "General 601 - 650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_13_01",
+      "title": "Who won the Men’s Singles title at the 2016 Australian Open?",
+      "answers": [
+        "Novak Djokovic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_02",
+      "title": "Which of the four biblical Gospels was written by an ex-tax collector?",
+      "answers": [
+        "Matthew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_03",
+      "title": "What soft drink company adopted Santa as a spokesman in the 1930's?",
+      "answers": [
+        "Coca-Cola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_04",
+      "title": "Which company is the largest manufacturer of tires?",
+      "answers": [
+        "Lego"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_05",
+      "title": "What was the first foot product invented by Dr. William Matthias Scholl?",
+      "answers": [
+        "Arch supports"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_06",
+      "title": "Which salad dressing was named after a play?",
+      "answers": [
+        "Green Goddess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_07",
+      "title": "What is the crucial card in the game of Hearts?",
+      "answers": [
+        "The queen of spades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_08",
+      "title": "In the B&O Railroad, what does B&O stand for?",
+      "answers": [
+        "Baltimore and Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_09",
+      "title": "\"Pips\" is the correct term for the dots on what game pieces?",
+      "answers": [
+        "Dominoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_10",
+      "title": "The game \"cat's cradle\" is played using what material?",
+      "answers": [
+        "String"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_11",
+      "title": "What brand of whiskey is made in Lynchburg, Tennessee?",
+      "answers": [
+        "Jack Daniels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_12",
+      "title": "Before switching to the Euro, what was the monetary unit of Italy?",
+      "answers": [
+        "Lira"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_13",
+      "title": "In golf, you get a \"birdie\" if you shoot one under par. What do you get for an ace (hole-in-one) on a par 5 hole?",
+      "answers": [
+        "Condor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_14",
+      "title": "\"Domingo\" is Spanish for what?",
+      "answers": [
+        "Sunday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_15",
+      "title": "Someone who raises false alarms is said to cry what?",
+      "answers": [
+        "Wolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_16",
+      "title": "What is the fourth sign of the Zodiac?",
+      "answers": [
+        "Cancer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_17",
+      "title": "Who said, \"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe\"?",
+      "answers": [
+        "Einstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_18",
+      "title": "Which famed European palace inspired Washington, D.C.'s design?",
+      "answers": [
+        "Versailles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_19",
+      "title": "What flavor is Grand Marnier?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_20",
+      "title": "Which famous golf player was nicknamed \"Golden Bear\"?",
+      "answers": [
+        "Jack Nicklaus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_21",
+      "title": "What fashion designer owns Maxim's restaurant in Paris?",
+      "answers": [
+        "Pierre Cardin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_22",
+      "title": "The name of which martial art means \"gentle way\"?",
+      "answers": [
+        "Judo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_23",
+      "title": "What is the better-known name of the card game \"Twenty-One\"?",
+      "answers": [
+        "Blackjack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_24",
+      "title": "What color jersey does the overall leader of the Tour de France wear?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_25",
+      "title": "What was the original brand of cereal whose mascot was Sonny?",
+      "answers": [
+        "Cocoa Puffs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_26",
+      "title": "What Latin phrase is used meaning “an attorney representing a client for free”?",
+      "answers": [
+        "Pro bono"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_27",
+      "title": "Which mint was the first to be used as a gum flavoring by the Wrigley Company?",
+      "answers": [
+        "Spearmint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_28",
+      "title": "What competition was dreamed up by the eccentric \"Chairman Kaga\"?",
+      "answers": [
+        "Iron Chef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_29",
+      "title": "Which bar is said to have given birth to the Grasshopper cocktail?",
+      "answers": [
+        "Tujague's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_30",
+      "title": "What was Nike's original name?",
+      "answers": [
+        "Blue Ribbon Sports"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_31",
+      "title": "What kind of beans are dropped into a Sambuca?",
+      "answers": [
+        "Coffee beans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_32",
+      "title": "How many candles are lit throughout the eight nights of Hanukkah?",
+      "answers": [
+        "44"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_33",
+      "title": "What do you add to Advocaat to make a Snowball cocktail?",
+      "answers": [
+        "Lemonade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_34",
+      "title": "What is the Syrah grape called in Australia?",
+      "answers": [
+        "Shiraz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_35",
+      "title": "What two countries co-hosted the FIFA World Cup in men's soccer in 2002?",
+      "answers": [
+        "Japan and South Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_36",
+      "title": "Which Amendment to the Constitution of the United States guarantees the right to a speedy trial?",
+      "answers": [
+        "Sixth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_37",
+      "title": "What was the fabled city of gold that some 16th century Europeans believed existed in South America?",
+      "answers": [
+        "El Dorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_38",
+      "title": "How many dots are there on a pair of dice?",
+      "answers": [
+        "Forty-two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_39",
+      "title": "What is the primary ingredient in a \"hoecake\"?",
+      "answers": [
+        "Cornmeal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_40",
+      "title": "Who scored the famous \"Hand of God\" goal in the 1986 World Cup?",
+      "answers": [
+        "Diego Maradona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_41",
+      "title": "What US state is the Sturgis Pretzel House located in?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_42",
+      "title": "How deep is each end zone on a CFL football field?",
+      "answers": [
+        "20 yards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_43",
+      "title": "How many bends does a standard paperclip have?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_44",
+      "title": "What sport uses a \"pigskin\"?",
+      "answers": [
+        "Football"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_45",
+      "title": "Which American tennis player popularized metal rackets by first using a Wilson T2000?",
+      "answers": [
+        "Jimmy Connors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_46",
+      "title": "Archie Moore is typically associated with which sport?",
+      "answers": [
+        "Boxing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_47",
+      "title": "What was the top-selling vehicle in the United States in 2017?",
+      "answers": [
+        "Ford F-Series"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_48",
+      "title": "What Fortune 500 company was name for a Herman Melville character?",
+      "answers": [
+        "Starbucks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_49",
+      "title": "In 1984, what computer company introduced the PC junior?",
+      "answers": [
+        "IBM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_13_50",
+      "title": "How many horizontal rows of stars are there on the U.S. flag?",
+      "answers": [
+        "9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

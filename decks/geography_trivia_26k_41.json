@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_41",
+  "name": "Geography Trivia 26K 41",
+  "description": "Geography 2001 - 2050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_41_01",
+      "title": "What is the capital of the Netherlands?",
+      "answers": [
+        "Amsterdam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_02",
+      "title": "Nova Scotia is Latin for what?",
+      "answers": [
+        "New Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_03",
+      "title": "Doha is the capital of which country?",
+      "answers": [
+        "Qatar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_04",
+      "title": "What sea does the river Elbe flow into?",
+      "answers": [
+        "North Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_05",
+      "title": "Annapolis is the capital of which US state?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_06",
+      "title": "Where was \"Cibik Ridge\" in World War II?",
+      "answers": [
+        "Bougainville Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_07",
+      "title": "What is the capital of Honduras?",
+      "answers": [
+        "Tegucigalpa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_08",
+      "title": "Which Empire was Cambodia once known as?",
+      "answers": [
+        "Khmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_09",
+      "title": "Which US state is home to Petroglyph National Monument?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_10",
+      "title": "Tarifa is the southern most point on the mainland of which country?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_11",
+      "title": "Richmond is the capital of which US state?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_12",
+      "title": "What sea does Slovenia have water access to?",
+      "answers": [
+        "Adriatic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_13",
+      "title": "What island is the largest of the Canary islands?",
+      "answers": [
+        "Tenerife"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_14",
+      "title": "Which is the only country to have its own official scent?",
+      "answers": [
+        "Lithuania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_15",
+      "title": "Basundi is a dairy product that is popular in which part of the world?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_16",
+      "title": "Yellowknife was the first city in what area of Canada?",
+      "answers": [
+        "Northwestern Territories"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_17",
+      "title": "Which US state is home to a city called Truth or Consequences?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_18",
+      "title": "What is the capital of the Tonga?",
+      "answers": [
+        "Nuku'alofa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_19",
+      "title": "Which US state is home to Craters of the Moon National Monument?",
+      "answers": [
+        "Idaho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_20",
+      "title": "What city is home to the Westminster Clock Tower?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_21",
+      "title": "On which river is the Asian city of Mandalay situated?",
+      "answers": [
+        "Irrawaddy River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_22",
+      "title": "What is the largest inland lake in South America?",
+      "answers": [
+        "Titicaca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_23",
+      "title": "Autodromo Nazionale Monza is located in which country?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_24",
+      "title": "Where is the world's largest building carved out of a single rock?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_25",
+      "title": "What Parisian hill is home to the Moulin Rouge and the Sacré-Cœur Basilica?",
+      "answers": [
+        "Montmartre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_26",
+      "title": "The World's first \"sister cities\" were what Spanish city and its US midwestern namesake?",
+      "answers": [
+        "Toledo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_27",
+      "title": "Lanzarote is part of which island group?",
+      "answers": [
+        "The Canaries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_28",
+      "title": "What are the residents of the US state of New Hampshire called?",
+      "answers": [
+        "New Hampshirites"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_29",
+      "title": "\"Blucifer\" is the nickname for which city's iconic horse statue?",
+      "answers": [
+        "Denver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_30",
+      "title": "Which New England state produces the majority of the country’s lobsters?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_31",
+      "title": "The Island of Bornholm is part of which European country?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_32",
+      "title": "Israel is name for the Old Testament patriarch born with what name?",
+      "answers": [
+        "Jacob"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_33",
+      "title": "What is the capital of Utah?",
+      "answers": [
+        "Salt Lake City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_34",
+      "title": "Which US state's motto is \"Live free or die\"?",
+      "answers": [
+        "New Hampshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_35",
+      "title": "Maseru is the capital of which country?",
+      "answers": [
+        "Lesotho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_36",
+      "title": "What landmark is 250 feet long, 66 feet tall, and has a face modeled after the Pharaoh Khafre?",
+      "answers": [
+        "The Sphinx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_37",
+      "title": "Arlanda airport serves which European city?",
+      "answers": [
+        "Stockholm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_38",
+      "title": "Which US state's name is derived from the Spanish words for \"mountainous\"?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_39",
+      "title": "Ireland's River Shannon flows into which ocean?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_40",
+      "title": "Which city can you find the headquarters of Interpol?",
+      "answers": [
+        "Lyon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_41",
+      "title": "In which city will you find the Tiergarten Park?",
+      "answers": [
+        "Berlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_42",
+      "title": "What three countries border Luxembourg?",
+      "answers": [
+        "France, Germany, and Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_43",
+      "title": "Which is the fourth largest US state in surface area?",
+      "answers": [
+        "Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_44",
+      "title": "In which Irish city is Shannon airport?",
+      "answers": [
+        "Shannon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_45",
+      "title": "Which mountain range separates Siberia from the Gobi Desert?",
+      "answers": [
+        "Altai Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_46",
+      "title": "What is the capital of the Dominican Republic?",
+      "answers": [
+        "Santo Domingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_47",
+      "title": "What city is considered the waterfall capital of Canada?",
+      "answers": [
+        "Hamilton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_48",
+      "title": "What military cemetery is located across the Potomac River from the Lincoln Memorial?",
+      "answers": [
+        "Arlington National Cemetery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_49",
+      "title": "In what Australian state would you find Port Pirie?",
+      "answers": [
+        "South Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_41_50",
+      "title": "What is Greenland called by its Inuit native residents?",
+      "answers": [
+        "Kaallalit Nunaat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

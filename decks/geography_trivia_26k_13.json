@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_13",
+  "name": "Geography Trivia 26K 13",
+  "description": "Geography 601 - 650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_13_01",
+      "title": "What is the capital of Panama?",
+      "answers": [
+        "Panama City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_02",
+      "title": "In England, what city has more miles of canals than Venice?",
+      "answers": [
+        "Birmingham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_03",
+      "title": "Which ocean is Fiji located in?",
+      "answers": [
+        "Pacific"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_04",
+      "title": "Sutherland Falls is located in what country?",
+      "answers": [
+        "New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_05",
+      "title": "What range contains the world's highest mountains not located in Asia?",
+      "answers": [
+        "The Andes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_06",
+      "title": "What is the only US state whose two-letter postal code is two vowels?",
+      "answers": [
+        "Iowa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_07",
+      "title": "From whom did the US buy the Virgin Islands?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_08",
+      "title": "Which city in Tennessee is the country music capital?",
+      "answers": [
+        "Nashville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_09",
+      "title": "Which national capital has the coldest average temperature?",
+      "answers": [
+        "Ulaanbaatar, Mongolia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_10",
+      "title": "The cities of Xai-Xai, Panda, and Beira are in what country?",
+      "answers": [
+        "Mozambique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_11",
+      "title": "Lake Champlain lies on the border between Vermont and which other US state?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_12",
+      "title": "What is the capital of Greece?",
+      "answers": [
+        "Athens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_13",
+      "title": "In what country would you find the mouths of the Volta river?",
+      "answers": [
+        "Ghana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_14",
+      "title": "What currency is dispensed from Antarctica's only ATM?",
+      "answers": [
+        "U.S. dollar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_15",
+      "title": "Which country owns Easter Island?",
+      "answers": [
+        "Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_16",
+      "title": "The Southern Ocean completely surrounds which continent?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_17",
+      "title": "At the head of which Gulf does Saint Petersburg lie?",
+      "answers": [
+        "Gulf of Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_18",
+      "title": "What country dominates the Jutland Peninsula?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_19",
+      "title": "What is the second-largest Portuguese-speaking nation in population and area?",
+      "answers": [
+        "Angola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_20",
+      "title": "Which island boasts of being Napoleon's birthplace?",
+      "answers": [
+        "Corsica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_21",
+      "title": "What US state includes the telephone area code 515?",
+      "answers": [
+        "Iowa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_22",
+      "title": "What Mojave Desert city has a name meaning \"the meadows\" in Spanish?",
+      "answers": [
+        "Las Vegas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_23",
+      "title": "Red Lake is the largest lake in which US state?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_24",
+      "title": "What is the only landlocked country in Southeast Asia?",
+      "answers": [
+        "Laos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_25",
+      "title": "What US city is nicknamed \"Beantown\"?",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_26",
+      "title": "What country is the Arch of Hardian located in?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_27",
+      "title": "What is the capital of Belize?",
+      "answers": [
+        "Belmopan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_28",
+      "title": "The city of Honolulu is located on what island?",
+      "answers": [
+        "Oahu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_29",
+      "title": "Mt. Everest climber Sir Edmund Hillary was from what country?",
+      "answers": [
+        "New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_30",
+      "title": "What is the largest city of Madeira?",
+      "answers": [
+        "Funchal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_31",
+      "title": "Which South American country borders both the Caribbean Sea and the Pacific Ocean?",
+      "answers": [
+        "Colombia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_32",
+      "title": "Which pass connects Afghanistan to Pakistan?",
+      "answers": [
+        "The Khyber Pass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_33",
+      "title": "What river's waterfalls led to the naming of the Cascade Range?",
+      "answers": [
+        "The Columbia's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_34",
+      "title": "What is the capital of the US state of Georgia?",
+      "answers": [
+        "Atlanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_35",
+      "title": "Which present day US state did Ponce De Leon explore?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_36",
+      "title": "Which state is located directly west of Louisiana?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_37",
+      "title": "What is the capital of Tunisia?",
+      "answers": [
+        "Tunis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_38",
+      "title": "In which country is the wine making area of Stellenbosch?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_39",
+      "title": "In what city will you find Le Bourget Airport?",
+      "answers": [
+        "Paris, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_40",
+      "title": "What continent is Morocco located in?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_41",
+      "title": "Where is the Space Needle?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_42",
+      "title": "What former Soviet Republic lies just across the Gulf of Finland from Finland?",
+      "answers": [
+        "Estonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_43",
+      "title": "During which century did Norsemen discover and settle in Greenland?",
+      "answers": [
+        "10th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_44",
+      "title": "What is the state motto for California?",
+      "answers": [
+        "Eureka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_45",
+      "title": "On what continent would you find the Great Victoria Desert?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_46",
+      "title": "Which U.S. town is home to the world's largest rose bush?",
+      "answers": [
+        "Tombstone, Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_47",
+      "title": "What country shares a border with Cambodia to the northwest?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_48",
+      "title": "Which bird is the national bird of Finland?",
+      "answers": [
+        "Whooper swan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_49",
+      "title": "What is the only U.S. state with the Union Jack on its flag?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_13_50",
+      "title": "What US state receives the most annual rainfall?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

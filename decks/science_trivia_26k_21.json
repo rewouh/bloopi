@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_21",
+  "name": "Science Trivia 26K 21",
+  "description": "Science 1001 - 1050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_21_01",
+      "title": "What was the first NASA program to land an object on Mars that sent information back to Earth?",
+      "answers": [
+        "Viking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_02",
+      "title": "An oncologist specializes in the treatment of what disease?",
+      "answers": [
+        "Cancer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_03",
+      "title": "Dystychiphobia is the fear of what?",
+      "answers": [
+        "Accidents"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_04",
+      "title": "Which part of the body does the adjective \"renal\" refer to?",
+      "answers": [
+        "Kidney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_05",
+      "title": "What is the tendency to see shapes in random patterns?",
+      "answers": [
+        "Pareidolia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_06",
+      "title": "What is the summer counterpart of hibernation?",
+      "answers": [
+        "Estivation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_07",
+      "title": "Who averaged one invention patent for every two weeks of his working life?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_08",
+      "title": "Who won a Nobel Prize for discovering the neutron?",
+      "answers": [
+        "James Chadwick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_09",
+      "title": "What are baby bears called?",
+      "answers": [
+        "Cubs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_10",
+      "title": "Coal is predominantly made up of which element?",
+      "answers": [
+        "Carbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_11",
+      "title": "How many times a year does the sun rise and set at the North Pole?",
+      "answers": [
+        "Once"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_12",
+      "title": "In what present-day country was the first space launch facility located?",
+      "answers": [
+        "Kazakhstan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_13",
+      "title": "What is the square root of 121?",
+      "answers": [
+        "11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_14",
+      "title": "What invention is Arthur W. Savage often linked with?",
+      "answers": [
+        "The radial tire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_15",
+      "title": "What name is given to twins who are joined together by some part of their anatomy?",
+      "answers": [
+        "Siamese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_16",
+      "title": "What is a cross between a blackberry and a raspberry?",
+      "answers": [
+        "Boysenberry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_17",
+      "title": "What line on a map connects places of equal rainfall?",
+      "answers": [
+        "Isohyet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_18",
+      "title": "In computer science, what is a group of four bits called?",
+      "answers": [
+        "A nibble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_19",
+      "title": "What two mammals spend their entire lives in the water?",
+      "answers": [
+        "Whales and manatees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_20",
+      "title": "Which element of the periodic table is named after a titan of Greek myth?",
+      "answers": [
+        "Promethium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_21",
+      "title": "What does the ozone layer protect the Earth against?",
+      "answers": [
+        "Ultraviolet light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_22",
+      "title": "What is the more common name for Scapula?",
+      "answers": [
+        "Shoulder blade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_23",
+      "title": "The Big Dipper is part of what constellation?",
+      "answers": [
+        "Ursa Major"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_24",
+      "title": "The word \"quarantine\" indicates how many days of isolation?",
+      "answers": [
+        "40"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_25",
+      "title": "What type of trees yield the resin used to produce turpentine?",
+      "answers": [
+        "Pine Trees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_26",
+      "title": "The Okapi belongs to what family of animals?",
+      "answers": [
+        "Giraffidae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_27",
+      "title": "What is in the Red Data List?",
+      "answers": [
+        "Threatened Species"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_28",
+      "title": "Approximately how many kilometers are there in a nautical mile?",
+      "answers": [
+        "1.85"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_29",
+      "title": "What instrument is used to measure atmospheric pressure?",
+      "answers": [
+        "Barometer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_30",
+      "title": "What is the largest artery in the human body?",
+      "answers": [
+        "The aorta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_31",
+      "title": "Who invented the vacuum flask?",
+      "answers": [
+        "James Dewar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_32",
+      "title": "The troposphere, stratosphere and mesosphere all make part of the Earth's what?",
+      "answers": [
+        "Atmosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_33",
+      "title": "What is the winter counterpart to Aestivation?",
+      "answers": [
+        "Hibernation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_34",
+      "title": "If you are afraid of flying, what phobia do you have?",
+      "answers": [
+        "Aviatophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_35",
+      "title": "How many milliliters is a teaspoon?",
+      "answers": [
+        "5 mL"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_36",
+      "title": "What vitamin was isolated from fish liver oil in 1917?",
+      "answers": [
+        "Vitamin D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_37",
+      "title": "What is the protective coating called that covers chicken eggs when they're hatched?",
+      "answers": [
+        "Bloom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_38",
+      "title": "How many baby teeth does a child usually have?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_39",
+      "title": "What pigment makes plants green?",
+      "answers": [
+        "Chlorophyll"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_40",
+      "title": "What is a male camel known as?",
+      "answers": [
+        "Bull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_41",
+      "title": "The popular caterpillar sushi roll features unagi, the Japanese word for what type of sea creature?",
+      "answers": [
+        "Eel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_42",
+      "title": "Approximately how many times does a person blink in a day?",
+      "answers": [
+        "20,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_43",
+      "title": "What does a dipsomaniac crave?",
+      "answers": [
+        "Alcohol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_44",
+      "title": "What computer programming language is often referred to by coders as \"Camel\"?",
+      "answers": [
+        "Perl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_45",
+      "title": "The smallest bones in the body are located where?",
+      "answers": [
+        "The ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_46",
+      "title": "A group of apes is called what?",
+      "answers": [
+        "Shrewdness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_47",
+      "title": "Potassium Nitrate is also known as what?",
+      "answers": [
+        "Saltpeter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_48",
+      "title": "In what organ of the human body would you find the pons?",
+      "answers": [
+        "The brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_49",
+      "title": "The Black Death was caused by fleas carried by what animal?",
+      "answers": [
+        "Rodents"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_21_50",
+      "title": "What is the first element on the Periodic Table?",
+      "answers": [
+        "Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

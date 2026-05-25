@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_06",
+  "name": "General Trivia 26K 06",
+  "description": "General 251 - 300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_06_01",
+      "title": "Which French designer was the heir to a fertilizer fortune?",
+      "answers": [
+        "Christian Dior"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_02",
+      "title": "What is floating wreckage of a ship called?",
+      "answers": [
+        "Flotsam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_03",
+      "title": "How long, in feet, is the Brooklyn Bridge?",
+      "answers": [
+        "5,989 ft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_04",
+      "title": "Why were the Boston Red Sox said to be \"cursed\" between 1918 and 2004?",
+      "answers": [
+        "For trading Babe Ruth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_05",
+      "title": "What does SPF stand for?",
+      "answers": [
+        "Sun Protection Factor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_06",
+      "title": "What US state borders only one other?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_07",
+      "title": "What's the \"toad\" in traditional English toad-in-the-hole?",
+      "answers": [
+        "Sausage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_08",
+      "title": "In a game of basketball, how many players are on the court at one time?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_09",
+      "title": "Which religious figure is depicted in many of the tallest statues on Earth?",
+      "answers": [
+        "Buddha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_10",
+      "title": "Where were US coins with the letter \"S\" on them minted?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_11",
+      "title": "What kind of sausage would more authentically be called \"mortadella\" in its namesake city?",
+      "answers": [
+        "Bologna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_12",
+      "title": "Who created the Rubik's Cube?",
+      "answers": [
+        "Erno Rubik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_13",
+      "title": "In what year was the first Call of Duty game released?",
+      "answers": [
+        "2003"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_14",
+      "title": "What is the main ingredient in the British dish laverbread?",
+      "answers": [
+        "Seaweed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_15",
+      "title": "Who was the first American team to join the National Hockey League, in 1924?",
+      "answers": [
+        "Boston Bruins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_16",
+      "title": "Pediculophobia is the fear of what?",
+      "answers": [
+        "Lice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_17",
+      "title": "What decade witnessed the invention of the automatic bowling pinsetter?",
+      "answers": [
+        "1930s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_18",
+      "title": "What do the letters YMCA stand for?",
+      "answers": [
+        "Young Men’s Christian Association"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_19",
+      "title": "What company introduced Spam to the market in 1937?",
+      "answers": [
+        "Hormel Foods Corporation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_20",
+      "title": "How many spices make up allspice?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_21",
+      "title": "What type of berry was once believed to cause birthmarks when eaten by pregnant women?",
+      "answers": [
+        "Strawberry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_22",
+      "title": "In tarot cards, what is the equivalent of the joker?",
+      "answers": [
+        "The Fool"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_23",
+      "title": "What year was NASCAR founded?",
+      "answers": [
+        "1948"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_24",
+      "title": "Which Pac-Man ghost appears first on the arcade game's list?",
+      "answers": [
+        "Shadow (Blinky)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_25",
+      "title": "What rank in the US Army is just above the rank of First Lieutenant?",
+      "answers": [
+        "Captain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_26",
+      "title": "Where is Labor Thanksgiving Day a national holiday on November 23rd every year?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_27",
+      "title": "What toy was created 20 years before it hit the public shelves?",
+      "answers": [
+        "The RC car"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_28",
+      "title": "What year was the instant coffee, Nescafe, released onto the market?",
+      "answers": [
+        "1938"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_29",
+      "title": "What does MW stand for on a radio?",
+      "answers": [
+        "Medium wave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_30",
+      "title": "In \"The Twelve Days of Christmas\", what did my true love send to me on the fifth day?",
+      "answers": [
+        "Five gold rings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_31",
+      "title": "What popular designer was hired by Hermes as creative director in 2003?",
+      "answers": [
+        "Jean Paul Gaultier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_32",
+      "title": "What popular toy brand did McDonald’s start offering as a prize with their Happy Meal in 1983?",
+      "answers": [
+        "Hot Wheels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_33",
+      "title": "What colour is chablis?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_34",
+      "title": "What colour M&Ms did not exist from 1976 to 1987?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_35",
+      "title": "The feet of the infamous Pez dispenser were not added until what year?",
+      "answers": [
+        "1978"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_36",
+      "title": "Which Japanese city is synonymous with efforts to stem global warming?",
+      "answers": [
+        "Kyoto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_37",
+      "title": "How many players are there in a standard men's field lacrosse team?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_38",
+      "title": "From which part of a pig do we get ham?",
+      "answers": [
+        "Hind leg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_39",
+      "title": "What sport's Hall of Fame is located in Cooperstown?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_40",
+      "title": "What was Jesse Ventura's wrestling nickname?",
+      "answers": [
+        "Jesse \"The Body\" Ventura"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_41",
+      "title": "What soccer team won the Premier League in 2004?",
+      "answers": [
+        "Arsenal FC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_42",
+      "title": "What is a judo practitioner's Judogi?",
+      "answers": [
+        "Uniform"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_43",
+      "title": "What gives traditional eggnog its frothy texture?",
+      "answers": [
+        "Whipped eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_44",
+      "title": "What is Kahlua flavored with?",
+      "answers": [
+        "Coffee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_45",
+      "title": "What was the MK2 \"Pineapple\"?",
+      "answers": [
+        "A hand grenade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_46",
+      "title": "Where is the Popliteal Fossa located?",
+      "answers": [
+        "Back of the knee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_47",
+      "title": "What's the international radio code word for the letter \"M\"?",
+      "answers": [
+        "Mike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_48",
+      "title": "In which city did tennis player Rafael Nadal win his first ever ATP title?",
+      "answers": [
+        "Sopot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_49",
+      "title": "What is better than stone in the paper, stone, scissors game?",
+      "answers": [
+        "Paper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_06_50",
+      "title": "Leukophobia is the fear of what?",
+      "answers": [
+        "The color white"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

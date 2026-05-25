@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_90",
+  "name": "Entertainment Trivia 26K 90",
+  "description": "Entertainment 4451 - 4500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_90_01",
+      "title": "Who directed the 1998 movie \"Out of Sight\"?",
+      "answers": [
+        "Steven Soderbergh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_02",
+      "title": "What year did Guns N' Roses release the album \"The Spaghetti Incident\"?",
+      "answers": [
+        "1993"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_03",
+      "title": "What decade saw the popularization of the Charleston dance?",
+      "answers": [
+        "The 1920s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_04",
+      "title": "Who was the only constant member of the rock band \"The Byrds\"?",
+      "answers": [
+        "Jim McGuinn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_05",
+      "title": "Which actress was jailed in 1982 for tax evasion?",
+      "answers": [
+        "Sophia Loren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_06",
+      "title": "Who penned the classic songs \"Bad Moon Rising\", \"Who'll Stop The Rain\", and \"Lodi\"?",
+      "answers": [
+        "John Fogarty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_07",
+      "title": "Who played the role of Samantha Jones on the TV show \"Sex and the City\"?",
+      "answers": [
+        "Kim Cattrall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_08",
+      "title": "What year did The Outhere Brothers release the song \"Boom Boom Boom\"?",
+      "answers": [
+        "1995"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_09",
+      "title": "Who was the lead singer of the band Motorhead?",
+      "answers": [
+        "Lemmy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_10",
+      "title": "In TV, what does SCTV stand for?",
+      "answers": [
+        "Second City Television"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_11",
+      "title": "John Paul Jones was bassist and keyboardist for what rock band?",
+      "answers": [
+        "Led Zeppelin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_12",
+      "title": "Who played the role of Grizz on the TV show \"30 Rock\"?",
+      "answers": [
+        "Grizz Chapman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_13",
+      "title": "Which TV detective series is set in the town of Denton?",
+      "answers": [
+        "A Touch of Frost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_14",
+      "title": "Who portrayed Han Solo in the Star Wars film series?",
+      "answers": [
+        "Harrison Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_15",
+      "title": "Which singer had a 1964 hit with \"King of the Road\"?",
+      "answers": [
+        "Roger Miller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_16",
+      "title": "In the TV series \"Seinfeld\", who does Michael Richards play?",
+      "answers": [
+        "Kramer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_17",
+      "title": "What was the better-known name of Margareta Zelle, exotic dancer?",
+      "answers": [
+        "Mata Hari"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_18",
+      "title": "Which band produced the mega selling album \"Rumours\"?",
+      "answers": [
+        "Fleetwood Mac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_19",
+      "title": "Who performed the 1977 song \"Let's All Chant\"?",
+      "answers": [
+        "The Michael Zager Band"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_20",
+      "title": "What musical is set at Rydell High?",
+      "answers": [
+        "Grease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_21",
+      "title": "What children's book did Forrest Gump keep in his suitcase?",
+      "answers": [
+        "Curious George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_22",
+      "title": "What was the name of the Beatles' first UK studio album?",
+      "answers": [
+        "Please Please Me"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_23",
+      "title": "What Tom Cruise movie takes place in the year 2054?",
+      "answers": [
+        "Minority Report"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_24",
+      "title": "Which classic TV show had a theme tune entitled \"Quiz Wizard\"?",
+      "answers": [
+        "Blockbusters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_25",
+      "title": "What Scottish city is the setting for \"Trainspotting\" according to the plot?",
+      "answers": [
+        "Edinburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_26",
+      "title": "What kind of dog is Ren on \"The Ren and Stimpy Show\"?",
+      "answers": [
+        "Chihuahua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_27",
+      "title": "Whose series of thirteen children's books of thirteen chapters each ended in 2006 with \"The End\"?",
+      "answers": [
+        "Lemony Snicket's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_28",
+      "title": "What was the name of the Today Show's chimpanzee mascot?",
+      "answers": [
+        "J. Fred Muggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_29",
+      "title": "What is the address of The Munsters?",
+      "answers": [
+        "1313 Mockingbird Lane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_30",
+      "title": "The TV show \"Frasier\" is based in what US city?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_31",
+      "title": "Who played the Cook County Assessor's Office Clerk in \"The Blues Brothers\"?",
+      "answers": [
+        "Steven Spielberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_32",
+      "title": "Who sang the track \"Think\" for the 1980 album \"The Blues Brothers: Original Soundtrack Recording\"?",
+      "answers": [
+        "Aretha Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_33",
+      "title": "What movie sees Elvis Presley sent to the slammer for manslaughter?",
+      "answers": [
+        "Jailhouse Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_34",
+      "title": "What actor died at the age of 24 while driving his Porsche Spyder?",
+      "answers": [
+        "James Dean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_35",
+      "title": "Red had how many parole hearings through out the course of the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_36",
+      "title": "Which film director's films include \"Raging Bull\" and \"Goodfellas\"?",
+      "answers": [
+        "Martin Scorsese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_37",
+      "title": "What 1972 movie revolves around the happenings at the Kit-Kat Klub?",
+      "answers": [
+        "Cabaret"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_38",
+      "title": "What state inspired Joni Mitchell's \"Big Yellow Taxi\"?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_39",
+      "title": "Who played Lester Burnham in \"American Beauty\"?",
+      "answers": [
+        "Kevin Spacey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_40",
+      "title": "On the 1976 release, who wanted to \"Fly Like an Eagle\"?",
+      "answers": [
+        "Steve Miller Band"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_41",
+      "title": "According to the 1973 movie, soylent green is what?",
+      "answers": [
+        "People"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_42",
+      "title": "Which singer was born Katheryn Elizabeth Hudson?",
+      "answers": [
+        "Katy Perry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_43",
+      "title": "Metropolis is the home city of which fictitious hero?",
+      "answers": [
+        "Superman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_44",
+      "title": "Who played the blind character in the movie \"Places in the Heart\"?",
+      "answers": [
+        "John Malkovich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_45",
+      "title": "In the 1990 film \"Home Alone\", Joe Pesci's character, Harry Lime, was named after a character from which Orson Welles' film?",
+      "answers": [
+        "The Third Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_46",
+      "title": "What early TV comic was nicknamed \"Mr. Television\"?",
+      "answers": [
+        "Milton Berle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_47",
+      "title": "What British TV series featured James Hacker, MP, and Sir Humphrey Appleby?",
+      "answers": [
+        "Yes, Minister"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_48",
+      "title": "What legendary jazz trumpeter was nicknamed \"Satchmo\"?",
+      "answers": [
+        "Louie Armstrong"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_49",
+      "title": "Who played the role of Quint Asper in the TV show \"Gunsmoke\"?",
+      "answers": [
+        "Burt Reynolds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_90_50",
+      "title": "What does Seymour have to feed his plant in \"Little Shop Of Horrors\"?",
+      "answers": [
+        "Human blood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_13",
+  "name": "Science Trivia 26K 13",
+  "description": "Science 601 - 650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_13_01",
+      "title": "How many calories are stored in 1 pound of body fat?",
+      "answers": [
+        "3500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_02",
+      "title": "What is the study of inland waters called?",
+      "answers": [
+        "Limnology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_03",
+      "title": "What is \"Canis lupus familiaris\"?",
+      "answers": [
+        "Domestic dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_04",
+      "title": "Who invented the alternating current motor?",
+      "answers": [
+        "Nikola Tesla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_05",
+      "title": "Why do stars twinkle?",
+      "answers": [
+        "Turbulence in Earth's atmosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_06",
+      "title": "How many sides does a rhombus have?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_07",
+      "title": "Which grow faster - fingernails or toenails?",
+      "answers": [
+        "Fingernails"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_08",
+      "title": "What animal is also called a wildebeest?",
+      "answers": [
+        "Gnu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_09",
+      "title": "What are the young of a rabbit called?",
+      "answers": [
+        "Kittens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_10",
+      "title": "What body organ produces insulin?",
+      "answers": [
+        "The pancreas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_11",
+      "title": "What takes up 50-70 percent of a whale's weight?",
+      "answers": [
+        "Blubber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_12",
+      "title": "Why do snakes flick their tongues in and out?",
+      "answers": [
+        "To smell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_13",
+      "title": "What does a lepidopterist study or collect?",
+      "answers": [
+        "Butterflies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_14",
+      "title": "What occurs when the Sun and the Moon are in conjunction as viewed from Earth?",
+      "answers": [
+        "A solar eclipse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_15",
+      "title": "Polaris is more commonly referred to as what?",
+      "answers": [
+        "The North Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_16",
+      "title": "A scientist who studies reptiles and amphibians is known as a what?",
+      "answers": [
+        "Herpetologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_17",
+      "title": "What scientist proposed the theory of continental drift?",
+      "answers": [
+        "Alfred Wegener"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_18",
+      "title": "What do whales feed their young?",
+      "answers": [
+        "Milk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_19",
+      "title": "Amaxophobia is the fear of what?",
+      "answers": [
+        "Riding in a car?"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_20",
+      "title": "Gala, honeycrisp and jazz are all varieties of which fruit?",
+      "answers": [
+        "Apple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_21",
+      "title": "On a map, the horizontal lines are called what?",
+      "answers": [
+        "Latitude"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_22",
+      "title": "What is the international radio code word for the letter F?",
+      "answers": [
+        "Foxtrot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_23",
+      "title": "Which is the largest type of cells in the human body?",
+      "answers": [
+        "Neurons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_24",
+      "title": "What is the atomic number of gold?",
+      "answers": [
+        "79"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_25",
+      "title": "What is -459.67 F also know as?",
+      "answers": [
+        "Absolute Zero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_26",
+      "title": "The disease commonly called chickenpox is more properly known as what?",
+      "answers": [
+        "Varicella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_27",
+      "title": "How many compartments does the cow's stomach have?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_28",
+      "title": "Which scientist is credited with being the first one to isolate DNA material in 1869?",
+      "answers": [
+        "Friedrich Miescher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_29",
+      "title": "What does the \"c\" in \"E=mc²\" represent?",
+      "answers": [
+        "The speed of light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_30",
+      "title": "What scientist wrote \"Mysterium Cosmographicum\"?",
+      "answers": [
+        "Johannes Kepler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_31",
+      "title": "What is 400 in Roman numerals?",
+      "answers": [
+        "CD"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_32",
+      "title": "In what organ of the human body would you find the duct of Wirsung?",
+      "answers": [
+        "The pancreas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_33",
+      "title": "What is the nationality of the first woman in space?",
+      "answers": [
+        "Soviet/Russian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_34",
+      "title": "What is the fear of the color purple known as?",
+      "answers": [
+        "Porphyrophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_35",
+      "title": "One kilogram is equal to how many pounds?",
+      "answers": [
+        "2.2 pounds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_36",
+      "title": "Approximately how long does it take for sunlight to reach Earth?",
+      "answers": [
+        "8 minutes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_37",
+      "title": "What fraction of the Earth's gravity is the moon's?",
+      "answers": [
+        "One sixth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_38",
+      "title": "What animal is also known as an earth pig, antbear, or Cape anteater?",
+      "answers": [
+        "Aardvark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_39",
+      "title": "What is the medical term for fainting?",
+      "answers": [
+        "Syncope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_40",
+      "title": "What name is given to 23.5 degrees north latitude?",
+      "answers": [
+        "Tropic of Cancer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_41",
+      "title": "What year did Edward Jenner introduce the world's first successful vaccine?",
+      "answers": [
+        "1796"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_42",
+      "title": "What did Eli Whitney invent?",
+      "answers": [
+        "Cotton gin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_43",
+      "title": "Triton is a moon of which planet?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_44",
+      "title": "\"Viper's Bugloss\" is the name of a plant and also the name of which creature?",
+      "answers": [
+        "Moth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_45",
+      "title": "What was the name of the first orbiter of NASA's space shuttle program?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_46",
+      "title": "What constant is referred to as \"The Universe's Clock\"?",
+      "answers": [
+        "Speed of light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_47",
+      "title": "What species holds the Guinness World Record for heaviest insect?",
+      "answers": [
+        "Goliath beetle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_48",
+      "title": "What was the name of the first space-ready orbiter of NASA's space shuttle program?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_49",
+      "title": "What is the maximum number of lines of symmetry a rectangle can have?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_13_50",
+      "title": "In which continent did Turkeys originate?",
+      "answers": [
+        "North America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

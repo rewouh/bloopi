@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_19",
+  "name": "History Trivia 26K 19",
+  "description": "History 901 - 950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_19_01",
+      "title": "\"Antonine Plague\" was also known by what other name?",
+      "answers": [
+        "Plague of Galen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_02",
+      "title": "What ancient people created massive head figurines out of boulders?",
+      "answers": [
+        "The Olmec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_03",
+      "title": "What was the first building in the world to have more than 100 floors?",
+      "answers": [
+        "Empire State Building"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_04",
+      "title": "Both Thomas Jefferson and John Adams died on what date in 1826?",
+      "answers": [
+        "July 4th"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_05",
+      "title": "During which battle did the charge of the Light Brigade take place?",
+      "answers": [
+        "Balaclava"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_06",
+      "title": "Who was the first European to sail into New York Harbor?",
+      "answers": [
+        "Henry Hudson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_07",
+      "title": "What war lasted from June 5 to June 10, 1967?",
+      "answers": [
+        "Six-Day War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_08",
+      "title": "What is the 1919 Jallianwahla Bagh massacre also known as?",
+      "answers": [
+        "The Amritsar massacre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_09",
+      "title": "Which US president officially dedicated the Washington Monument?",
+      "answers": [
+        "Chester A. Arthur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_10",
+      "title": "Which Teton Dakota Indian chief participated in Buffalo Bill's Wild West Show?",
+      "answers": [
+        "Chief Sitting Bull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_11",
+      "title": "Prior to 1954, Veterans Day was known as what in the US?",
+      "answers": [
+        "Armistice Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_12",
+      "title": "What filmmaker was offered \"honorary Aryan\" status by Joseph Goebbels despite his Jewish background?",
+      "answers": [
+        "Fritz Lang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_13",
+      "title": "Who was the Czech foreign minister who died mysteriously following the Communist coup in that country in 1948?",
+      "answers": [
+        "Jan Masaryk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_14",
+      "title": "What US state is represented by the figures of George Washington and Robert E. Lee in the Capitol's Statuary Hall?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_15",
+      "title": "What US state has been governed by John Connally and Ann Richards?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_16",
+      "title": "What was the name of the military nobility of medieval and early-modern Japan?",
+      "answers": [
+        "Samurai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_17",
+      "title": "What failed IBM computer was advertised by a Charlie Chaplin impersonator?",
+      "answers": [
+        "The PCjr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_18",
+      "title": "What war ended with the Battle of Worcester on 3 September 1651?",
+      "answers": [
+        "The English Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_19",
+      "title": "Who did Zola Budd trip in the 1984 Olympics?",
+      "answers": [
+        "Mary Decker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_20",
+      "title": "What constitutional amendment established prohibition in the US?",
+      "answers": [
+        "18th Constitutional Amendment"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_21",
+      "title": "Which human ancestor was the first to discover fire?",
+      "answers": [
+        "Homo Erectus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_22",
+      "title": "What architect was responsible for the design of the Brooklyn Bridge?",
+      "answers": [
+        "John Augustus Roebling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_23",
+      "title": "In which war were battles fought at Chrysler's Farm, Queenston Heights, and Lundy's Lane?",
+      "answers": [
+        "War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_24",
+      "title": "Which U.S. state ignored Prohibition?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_25",
+      "title": "The tune \"Rhapsody in Blue\" was first performed in which year?",
+      "answers": [
+        "1924"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_26",
+      "title": "U.S. Marshal Bass Reeves may have inspired what fictional character?",
+      "answers": [
+        "The Lone Ranger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_27",
+      "title": "What color was originally associated with St. Patrick’s Day?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_28",
+      "title": "The \"Pentagon Papers\" contained secret government information about what?",
+      "answers": [
+        "The Vietnam War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_29",
+      "title": "Who uttered the line \"Senator, you are no Jack Kennedy.\"?",
+      "answers": [
+        "Lloyd Bentsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_30",
+      "title": "When did the War of 1812 actually begin?",
+      "answers": [
+        "1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_31",
+      "title": "What region of Belgium was the Battle of the Bulge fought during World War II?",
+      "answers": [
+        "Ardennes Forrest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_32",
+      "title": "Who was the first president to receive full-time Secret Service protection?",
+      "answers": [
+        "Theodore Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_33",
+      "title": "What year was the first computer mouse prototype built?",
+      "answers": [
+        "1964"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_34",
+      "title": "What U.S. president signed the bill that began Medicaid benefits?",
+      "answers": [
+        "Lyndon B. Johnson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_35",
+      "title": "Which treaty ended the war between Germany and the Allied Powers in World War I?",
+      "answers": [
+        "Treaty of Versailles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_36",
+      "title": "Which President of South Africa ordered Nelson Mandela’s release from prison?",
+      "answers": [
+        "De Klerk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_37",
+      "title": "What was the leading cause of death in the late 19th century?",
+      "answers": [
+        "Tuberculosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_38",
+      "title": "What general betrayed the U.S. after being passed up for a promotion?",
+      "answers": [
+        "Benedict Arnold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_39",
+      "title": "Who was the only slave ever known to have stayed in Thomas Jefferson's household?",
+      "answers": [
+        "Sally Hemings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_40",
+      "title": "Whose vice president was Nelson A. Rockefeller?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_41",
+      "title": "Which US president delivered the first televised inaugural address?",
+      "answers": [
+        "Harry S. Truman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_42",
+      "title": "What name was given to the fishing dispute between Spain and Canada that lasted from 1994 to 1996?",
+      "answers": [
+        "Turbot War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_43",
+      "title": "What nickname was given to Al Capone?",
+      "answers": [
+        "Scarface"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_44",
+      "title": "What was the the name of the play President Lincoln was watching when John Wilkes Booth shot him?",
+      "answers": [
+        "Our American Cousin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_45",
+      "title": "What term did the British press use to describe the air raids carried out by the Germans in 1940 and 1941?",
+      "answers": [
+        "The Blitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_46",
+      "title": "What year did the English Civil War end?",
+      "answers": [
+        "1651"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_47",
+      "title": "Used to complete the first transcontinental railway, the last spike was made of what material?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_48",
+      "title": "What Roman gladiator led a slave revolt that became the subject of a 1960 Oscar ­nominated movie?",
+      "answers": [
+        "Spartacus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_49",
+      "title": "What archaeological site is known as the Lost City of the Incas?",
+      "answers": [
+        "Machu Picchu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_19_50",
+      "title": "Who succeeded Neville Chamberlain as British prime minister in 1940?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

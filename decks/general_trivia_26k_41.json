@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_41",
+  "name": "General Trivia 26K 41",
+  "description": "General 2001 - 2050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_41_01",
+      "title": "A \"black and tan\" is a mixture of Bass Ale and what other beer?",
+      "answers": [
+        "Guinness Stout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_02",
+      "title": "What does \"PT\" stand for in the names of Navy PT boats?",
+      "answers": [
+        "Patrol Torpedo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_03",
+      "title": "What year did Volkswagen start production of the Golf?",
+      "answers": [
+        "1974"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_04",
+      "title": "Which advocacy group was founded by Maggie Kuhn?",
+      "answers": [
+        "Gray Panthers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_05",
+      "title": "What country celebrates its National Day on 17th May?",
+      "answers": [
+        "Norway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_06",
+      "title": "How old is a Jewish boy who has a bar mitzvah?",
+      "answers": [
+        "13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_07",
+      "title": "How much Monopoly money do you collect for finishing second in a beauty contest?",
+      "answers": [
+        "$10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_08",
+      "title": "Which organization publishes \"Boys’ Life\" magazine?",
+      "answers": [
+        "Boy Scouts of America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_09",
+      "title": "What's the Japanese name for a potentially poisonous delicacy made from puffer fish meat?",
+      "answers": [
+        "Fugu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_10",
+      "title": "What is a horizontal window above a doorway called?",
+      "answers": [
+        "A transom window"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_11",
+      "title": "What direction does the Statue of Liberty face?",
+      "answers": [
+        "Southeast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_12",
+      "title": "The Houston Comets won what league's first ever championship title?",
+      "answers": [
+        "Women's National Basketball Association"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_13",
+      "title": "What is sometimes referred to as Zulu time?",
+      "answers": [
+        "Greenwich Mean Time"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_14",
+      "title": "Where would you most likely find a \"spinnaker\"?",
+      "answers": [
+        "On a sailboat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_15",
+      "title": "What were the surnames of Bonnie and Clyde?",
+      "answers": [
+        "Parker and Barrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_16",
+      "title": "Whose profile is displayed on the Purple Heart medal?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_17",
+      "title": "What year saw Jean Paul Gaultier's first individual collection for women?",
+      "answers": [
+        "1976"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_18",
+      "title": "What American fashion designer founded the Polo clothing line?",
+      "answers": [
+        "Ralph Lauren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_19",
+      "title": "What was Michael Jordan's jersey number for most of his NBA career?",
+      "answers": [
+        "23"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_20",
+      "title": "In what sport did Fanny Chmelar compete for Germany during the 2010 Winter Olympic Games?",
+      "answers": [
+        "Skiing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_21",
+      "title": "Which company introduced the Mangusta in the 1960’s?",
+      "answers": [
+        "De Tomaso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_22",
+      "title": "What NBA star was known for his signature spin move, the Dream Shake?",
+      "answers": [
+        "Hakeem Olajuwon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_23",
+      "title": "What homerun hitter was nicknamed the \"Sultan of Swat\"?",
+      "answers": [
+        "Babe Ruth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_24",
+      "title": "In Florida, only on Sundays, it is illegal for a single woman to do what?",
+      "answers": [
+        "Skydive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_25",
+      "title": "What was the original brand of cereal pitched by BuzzBee?",
+      "answers": [
+        "Honey Nut Cheerios"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_26",
+      "title": "What patented structure does Apple feature in its stores?",
+      "answers": [
+        "Glass staircase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_27",
+      "title": "What does the beer widget do?",
+      "answers": [
+        "Manages the beer's head"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_28",
+      "title": "Who coined the phrase \"junk food\"?",
+      "answers": [
+        "Michael Jacobson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_29",
+      "title": "In 1998 what company acquired the rights to ICQ?",
+      "answers": [
+        "AOL"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_30",
+      "title": "The ghost pepper is cultivated in what country?",
+      "answers": [
+        "Bangladesh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_31",
+      "title": "Who popularized the game of Bingo in the United States?",
+      "answers": [
+        "Edwin Lowe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_32",
+      "title": "On what mountain does Moses speak to God through the burning bush and received the Ten Commandments?",
+      "answers": [
+        "Mt. Sinai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_33",
+      "title": "In religion, Siddhartha Gautama was better known as whom?",
+      "answers": [
+        "Buddha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_34",
+      "title": "Which bird is the national bird of Latvia?",
+      "answers": [
+        "White wagtail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_35",
+      "title": "What did the Colgate company originally sell?",
+      "answers": [
+        "Soap and candles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_36",
+      "title": "What two pins are left standing in bowling's hardest split to pick up?",
+      "answers": [
+        "The 7 and 10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_37",
+      "title": "What does a chromophobe fear?",
+      "answers": [
+        "Colors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_38",
+      "title": "What sport's lingo uses the term \"Peloton\"?",
+      "answers": [
+        "Cycling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_39",
+      "title": "What is the fifth sign of the Zodiac?",
+      "answers": [
+        "Leo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_40",
+      "title": "Where on a ship would you find the crow's nest?",
+      "answers": [
+        "On the tallest mast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_41",
+      "title": "What is \"Sheffield Wednesday\"?",
+      "answers": [
+        "A soccer team"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_42",
+      "title": "What is the Burmese word for \"Mr.\"?",
+      "answers": [
+        "U"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_43",
+      "title": "The soft drink Mr. Pibb was introduced as a competitor to which popular soft drink?",
+      "answers": [
+        "Dr Pepper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_44",
+      "title": "Where is the oldest annual horse race?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_45",
+      "title": "What dessert consists of ice cream covered in meringue and baked in the oven?",
+      "answers": [
+        "Baked Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_46",
+      "title": "What are spit in the annual contest in Paul's Valley, Oklahoma?",
+      "answers": [
+        "Watermelon seeds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_47",
+      "title": "What fruit is normally squeezed into a margarita?",
+      "answers": [
+        "Lime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_48",
+      "title": "Derby, homburg, deerstalker, and trilby are types of what?",
+      "answers": [
+        "Hats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_49",
+      "title": "Who said, \"Love the life you live. Live the life you love\"?",
+      "answers": [
+        "Bob Marley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_41_50",
+      "title": "In computers, DAEMON stands for what?",
+      "answers": [
+        "Disk And Execution Monitor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

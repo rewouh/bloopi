@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_38",
+  "name": "Science Trivia 26K 38",
+  "description": "Science 1851 - 1900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_38_01",
+      "title": "What is the name for a baby alligator?",
+      "answers": [
+        "Hatchling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_02",
+      "title": "Who invented the box that psychologists use to shock rats?",
+      "answers": [
+        "B. F. Skinner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_03",
+      "title": "What is a stag with twelve-point antlers known as?",
+      "answers": [
+        "Royal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_04",
+      "title": "Where in the body would you find the malleus, incus and stapes?",
+      "answers": [
+        "Ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_05",
+      "title": "What is the term for a wolf's home?",
+      "answers": [
+        "Den"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_06",
+      "title": "What mathematician published \"Elements\" and influenced the study of modern geometry?",
+      "answers": [
+        "Euclid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_07",
+      "title": "Luteinizing hormone is produced by what gland in the human body?",
+      "answers": [
+        "Pituitary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_08",
+      "title": "What Italian physician was the first to describe the way the ovaries connect to the uterus in humans?",
+      "answers": [
+        "Gabriele Falloppio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_09",
+      "title": "Approximately, how far is the Earth's ozone layer from its surface?",
+      "answers": [
+        "20 to 30 km"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_10",
+      "title": "What birds are traditionally used as gas detectors in coal mines?",
+      "answers": [
+        "Canaries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_11",
+      "title": "At what age did inventor Alexander Graham Bell immigrate to Canada?",
+      "answers": [
+        "23"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_12",
+      "title": "What name is given to the closest star to the Earth?",
+      "answers": [
+        "The Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_13",
+      "title": "What is odorless and tasteless in its purified form, and used in cooking to set aspics?",
+      "answers": [
+        "Gelatin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_14",
+      "title": "What is the name of a small object orbiting the sun made of ice, dust and frozen gas?",
+      "answers": [
+        "Comet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_15",
+      "title": "What part of the eye is damaged by glaucoma?",
+      "answers": [
+        "The optic nerve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_16",
+      "title": "Self-rising flour contains what crucial ingredient?",
+      "answers": [
+        "Baking powder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_17",
+      "title": "The tranquilizer diazepam is better known by what trademarked name?",
+      "answers": [
+        "Valium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_18",
+      "title": "What did Henry F. Phillips introduce for carpenters?",
+      "answers": [
+        "Phillips crosshead screwdriver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_19",
+      "title": "What was the element mercury named after?",
+      "answers": [
+        "The Roman messenger god"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_20",
+      "title": "What country gave birth to margarine in 1869?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_21",
+      "title": "What unorthodox scientific belief was championed by the Universal Zetetic Society?",
+      "answers": [
+        "A flat earth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_22",
+      "title": "Which drug was first extracted from the bark of the cinchona tree?",
+      "answers": [
+        "Quinine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_23",
+      "title": "Insectophobia is the fear of what?",
+      "answers": [
+        "Insects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_24",
+      "title": "What does a conchologist collect?",
+      "answers": [
+        "Seashells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_25",
+      "title": "What is the common name for the fruit Citrus grandis?",
+      "answers": [
+        "Pomelo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_26",
+      "title": "What nearby galaxy is name for a mythological princess?",
+      "answers": [
+        "Andromeda Galaxy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_27",
+      "title": "What distant planet circles the Sun every 84 years?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_28",
+      "title": "What color is Mars’ sunset?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_29",
+      "title": "What plastic did John Wesley Hyatt invent by combining cellulose and alcoholized camphor?",
+      "answers": [
+        "Celluloid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_30",
+      "title": "What part of the cheetah does not have any spots?",
+      "answers": [
+        "The belly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_31",
+      "title": "What color is diamond dust?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_32",
+      "title": "What do you call a polygon with seven sides?",
+      "answers": [
+        "Heptagon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_33",
+      "title": "What adjective describes the back of the knee?",
+      "answers": [
+        "Popliteal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_34",
+      "title": "In what part of the body would you find chyme?",
+      "answers": [
+        "The stomach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_35",
+      "title": "What is the largest planet in the solar system?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_36",
+      "title": "What are the Southern Lights called?",
+      "answers": [
+        "Aurora Australis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_37",
+      "title": "What do the angles inside a square add up to?",
+      "answers": [
+        "360 degress"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_38",
+      "title": "What is measured in Hertz?",
+      "answers": [
+        "Frequency"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_39",
+      "title": "In the computer world, what does the abbreviation CPU stand for?",
+      "answers": [
+        "Central Processing Unit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_40",
+      "title": "Which planet rotates the fastest?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_41",
+      "title": "By what name is the spinal disease \"amyotrophic lateral sclerosis\" better known?",
+      "answers": [
+        "Lou Gehrig's disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_42",
+      "title": "The name of what household product stands for \"water displacement, formulation successful in 40th attempt?",
+      "answers": [
+        "WD-40"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_43",
+      "title": "How many constellations are used in modern astronomy?",
+      "answers": [
+        "88"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_44",
+      "title": "How many times faster does sound travel in water than in air?",
+      "answers": [
+        "Four times"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_45",
+      "title": "Which dinosaur did O.C. Marsh discover in 1871?",
+      "answers": [
+        "Pterodactyl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_46",
+      "title": "Which planet is named after the God of the Sky?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_47",
+      "title": "How many hearts does an octopus have?",
+      "answers": [
+        "Three hearts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_48",
+      "title": "By what other name are pink dolphins known?",
+      "answers": [
+        "Boto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_49",
+      "title": "What fruit is a hybrid of the mandarin orange and the grapefruit?",
+      "answers": [
+        "The tangelo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_38_50",
+      "title": "What layer of the atmosphere is closest to the earth?",
+      "answers": [
+        "The Troposphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

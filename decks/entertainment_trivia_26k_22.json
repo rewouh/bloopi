@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_22",
+  "name": "Entertainment Trivia 26K 22",
+  "description": "Entertainment 1051 - 1100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_22_01",
+      "title": "Who performed the character of Miss Piggy until the early 2000's?",
+      "answers": [
+        "Frank Oz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_02",
+      "title": "What was Lucy and Ricky's last name on the TV series \"I Love Lucy\"?",
+      "answers": [
+        "Ricardo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_03",
+      "title": "What was Joan Crawford's last film?",
+      "answers": [
+        "\"Trog\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_04",
+      "title": "For what film did Robert De Niro learn to play the saxophone?",
+      "answers": [
+        "New York, New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_05",
+      "title": "In season 1 of Glass House which eliminated competitor is returned to the game?",
+      "answers": [
+        "Mike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_06",
+      "title": "Whose scary movie character has the real name of Charles Lee Ray?",
+      "answers": [
+        "Chucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_07",
+      "title": "Who had a hit with the song and album \"Sweet Dreams (Are Made Of This)\"?",
+      "answers": [
+        "Eurythmics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_08",
+      "title": "Who is Campbell Scott's mother?",
+      "answers": [
+        "Colleen Dewhurst"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_09",
+      "title": "What year was actor Anthony Hopkins born?",
+      "answers": [
+        "1937"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_10",
+      "title": "What animator created and provided the voices for Beavis & Butthead?",
+      "answers": [
+        "Mike Judge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_11",
+      "title": "What \"Animal House\" actor made his show-biz debut as the voice of TV's Jonny Quest?",
+      "answers": [
+        "Tim Matheson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_12",
+      "title": "What bikini-clad seashell hunter does James Bond meet in \"Dr. No\"?",
+      "answers": [
+        "Honey Ryder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_13",
+      "title": "In which city does Spider-Man live and protect?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_14",
+      "title": "Which TV production company brought the show \"Late Night With David Letterman\" to NBC?",
+      "answers": [
+        "Worldwide Pants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_15",
+      "title": "When it debuted, what FOX series was promoted as a \"weekly nationwide criminal manhunt\"?",
+      "answers": [
+        "America's Most Wanted"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_16",
+      "title": "Where did Fonzie, Richie, Potsie and Ralph go to drink sodas and play the jukebox?",
+      "answers": [
+        "Arnold's Drive-In"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_17",
+      "title": "Who's responsible for \"The Ballad of Cable Hogue\"?",
+      "answers": [
+        "Sam Peckinpah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_18",
+      "title": "Who was the first character Walt Disney created?",
+      "answers": [
+        "Oswald the Lucky Rabbit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_19",
+      "title": "On \"Saturday Night Live\", what Weekend Update anchor signed off with the line, \"and that's news to me\"?",
+      "answers": [
+        "Kevin Nealon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_20",
+      "title": "What year was Lasse Hallstrom’s film \"The Cider House Rules\" released?",
+      "answers": [
+        "1999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_21",
+      "title": "On what TV show did the characters often hang out at the Warsaw Tavern?",
+      "answers": [
+        "The Drew Carey Show"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_22",
+      "title": "Which Oscar-winner studied opera as a teen?",
+      "answers": [
+        "Meryl Streep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_23",
+      "title": "Which actor had a role in the Hannibal Lector films \"Manhunter,\" \"Silence of the Lambs,\" \"Hannibal\" and \"Red Dragon\"?",
+      "answers": [
+        "Frankie Faison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_24",
+      "title": "What year saw the release of the film \"Robin Hood: Prince of Thieves\"?",
+      "answers": [
+        "1991"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_25",
+      "title": "Where does SpongeBob SquarePants work?",
+      "answers": [
+        "The Krusty Krab"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_26",
+      "title": "What actor played the role of Ruby Rhod in the 1997 movie \"The Fifth Element\"?",
+      "answers": [
+        "Chris Tucker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_27",
+      "title": "What famous model’s last name is Lanzoni?",
+      "answers": [
+        "Fabio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_28",
+      "title": "For what does the \"T\" stand in the name of Star Trek's captain James T. Kirk?",
+      "answers": [
+        "Tiberius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_29",
+      "title": "Which band's songs include \"Forgiven Not Forgotten\" and \"Runaway\"?",
+      "answers": [
+        "The Coors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_30",
+      "title": "What 1992 film features the characters Colonel Nathan Jessup and Lieutenant Daniel Kaffee?",
+      "answers": [
+        "A Few Good Men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_31",
+      "title": "What is the main character's job in the movie \"Raiders of the Lost Ark\"?",
+      "answers": [
+        "Archeologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_32",
+      "title": "Which historic event was the subject of the 1958 movie \"A Night to Remember\"?",
+      "answers": [
+        "Sinking of the Titanic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_33",
+      "title": "What duo’s first names were Don and Phil?",
+      "answers": [
+        "The Everly Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_34",
+      "title": "Peter Marshall was the host of what game show for 15 years?",
+      "answers": [
+        "The Hollywood Squares"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_35",
+      "title": "The PlayStation prototype was designed by Sony in collaboration with which company?",
+      "answers": [
+        "Nintendo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_36",
+      "title": "In the 1998 movie \"You've Got Mail\", Joe and Kelly are in what business?",
+      "answers": [
+        "Book retailing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_37",
+      "title": "What MTV music show premiered on September 14, 1998?",
+      "answers": [
+        "Total Request Live (TRL)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_38",
+      "title": "What is Mr. Belvedere's given name?",
+      "answers": [
+        "Lynn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_39",
+      "title": "How much was spent producing the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "An estimated $25 million"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_40",
+      "title": "Which \"Simpsons\" character is missing an arm?",
+      "answers": [
+        "Herman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_41",
+      "title": "In 1972, who became the first TV title character to get an abortion?",
+      "answers": [
+        "Maude Findlay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_42",
+      "title": "What former politician succeeded Judge Joseph Wapner on \"The People's Court\" in 1997?",
+      "answers": [
+        "Ed Koch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_43",
+      "title": "Which actress who played Alia Atreides in 1984's \"Dune\" and went on to star in 1998's \"Urban Legend\"?",
+      "answers": [
+        "Alicia Witt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_44",
+      "title": "What Swedish pop group was anchored by sisters Jenny and Linn Berggren?",
+      "answers": [
+        "Ace of Base"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_45",
+      "title": "For which movie did Humphrey Bogart receive his only Academy Award?",
+      "answers": [
+        "The African Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_46",
+      "title": "What was Lucy’s last name on the TV series \"I Love Lucy\"?",
+      "answers": [
+        "Ricardo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_47",
+      "title": "What Lamborghini model does Bruce Wayne drive in the movie \"Batman Begins\"?",
+      "answers": [
+        "Murciélago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_48",
+      "title": "Which opera singer was known as \"La Stupenda\"?",
+      "answers": [
+        "Joan Sutherland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_49",
+      "title": "What year did Alfred Hitchcock become a citizen of the United States?",
+      "answers": [
+        "1955"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_22_50",
+      "title": "What was the name of the dog in the TV series \"Fraggle Rock\"?",
+      "answers": [
+        "Sprocket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_21",
+  "name": "Geography Trivia 26K 21",
+  "description": "Geography 1001 - 1050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_21_01",
+      "title": "Tegucigalpa is the capital of which country?",
+      "answers": [
+        "Honduras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_02",
+      "title": "Mount Etna is located on which island?",
+      "answers": [
+        "Sicily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_03",
+      "title": "What country is the cell phone company Nokia from?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_04",
+      "title": "Which US state is the Evergreen State?",
+      "answers": [
+        "Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_05",
+      "title": "What is the capital of Spain?",
+      "answers": [
+        "Madrid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_06",
+      "title": "Where was windsurfing invented?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_07",
+      "title": "What city requires aspiring cab drivers to undergo years of training?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_08",
+      "title": "The Iguazu Falls lie on the border of Brazil and which country?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_09",
+      "title": "What is the most popular spirit produced in Jamaica?",
+      "answers": [
+        "Rum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_10",
+      "title": "Which is the third largest US state in surface area?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_11",
+      "title": "\"Amharic\" is the official language of which African country?",
+      "answers": [
+        "Ethiopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_12",
+      "title": "Which Mormon founded Salt Lake City?",
+      "answers": [
+        "Brigham Young"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_13",
+      "title": "What is the capital of Belgium?",
+      "answers": [
+        "Brussels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_14",
+      "title": "What is the two letter postal abbreviation for the state of Maine?",
+      "answers": [
+        "ME"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_15",
+      "title": "What animal is depicted on the flag of California?",
+      "answers": [
+        "Grizzly Bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_16",
+      "title": "What currency was used in the Netherlands before the introduction of the Euro?",
+      "answers": [
+        "Guilders"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_17",
+      "title": "Which US state capital features a full-scale replica of the Parthenon?",
+      "answers": [
+        "Nashville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_18",
+      "title": "A building called \"The Gherkin\" graces which city's skyline?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_19",
+      "title": "Where was the first Disney theme park outside the U.S. built?",
+      "answers": [
+        "Tokyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_20",
+      "title": "Which country features a man-made forest shaped into a guitar?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_21",
+      "title": "Which U.S. city has the most coffee shops per capita?",
+      "answers": [
+        "Juneau, Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_22",
+      "title": "In what US states would you find Pikes Peak?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_23",
+      "title": "Which three US states have shorelines along Lake Superior?",
+      "answers": [
+        "Michigan, Minnesota, Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_24",
+      "title": "What is the world's highest waterfall?",
+      "answers": [
+        "Angel Falls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_25",
+      "title": "What mountain range does the Gotthard Base Tunnel pass through?",
+      "answers": [
+        "The Alps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_26",
+      "title": "What river flows through the city of Little Rock?",
+      "answers": [
+        "Arkansas River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_27",
+      "title": "The Black Forest is located in what European country?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_28",
+      "title": "Prague is the capital of which European country?",
+      "answers": [
+        "Czech Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_29",
+      "title": "In what country is the historic city of Bam?",
+      "answers": [
+        "Iran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_30",
+      "title": "What is the capital of County Kerry, Ireland?",
+      "answers": [
+        "Tralee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_31",
+      "title": "In which country was the largest known T-Rex skeleton found?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_32",
+      "title": "What US state's flag has different images on the front and back?",
+      "answers": [
+        "Oregon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_33",
+      "title": "What does \"Honolulu\" translate to in English?",
+      "answers": [
+        "Sheltered harbor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_34",
+      "title": "Texas City is located at the mouth of what bay?",
+      "answers": [
+        "Galveston Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_35",
+      "title": "The fillet of which fish is used to make \"rollmops\"?",
+      "answers": [
+        "Herring"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_36",
+      "title": "Which of the Great Lakes does not have a border with Canada?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_37",
+      "title": "Opened in 1928, the original Gorky Park is an amusement park located in what world capital city?",
+      "answers": [
+        "Moscow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_38",
+      "title": "Which US state's official flower is the orange blossom?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_39",
+      "title": "What is the capital of Puerto Rico?",
+      "answers": [
+        "San Juan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_40",
+      "title": "The Banff Airport is located in which country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_41",
+      "title": "In which English town can you attend the annual Jane Austen Festival?",
+      "answers": [
+        "Bath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_42",
+      "title": "Kiev is the capital of which European country?",
+      "answers": [
+        "Ukraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_43",
+      "title": "What German city is home to a statue called \"The Town Musicians\"?",
+      "answers": [
+        "Bremen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_44",
+      "title": "What European city hosts an annual wine-throwing festival?",
+      "answers": [
+        "Haro, Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_45",
+      "title": "Rome, which animal is protected under the law?",
+      "answers": [
+        "Cat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_46",
+      "title": "What is the most common ending for a city, town, village or hamlet in England?",
+      "answers": [
+        "-ton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_47",
+      "title": "Which ocean does the Congo River empty into?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_48",
+      "title": "In which European country would you find the Tokaj wine region?",
+      "answers": [
+        "Hungary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_49",
+      "title": "What US state is known as \"The Magnolia State\"?",
+      "answers": [
+        "Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_21_50",
+      "title": "In which US state is Yale University located?",
+      "answers": [
+        "Connecticut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

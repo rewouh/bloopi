@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_05",
+  "name": "History Trivia 26K 05",
+  "description": "History 201 - 250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_05_01",
+      "title": "What was a temple on the Athenian Acropolis dedicated to the goddess Athena?",
+      "answers": [
+        "The Parthenon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_02",
+      "title": "What English legal document was signed in 1215?",
+      "answers": [
+        "Magna Carta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_03",
+      "title": "Who founded the John Birch Society?",
+      "answers": [
+        "Robert Welch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_04",
+      "title": "What was the last Province to join Canada?",
+      "answers": [
+        "Newfoundland and Labrador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_05",
+      "title": "Who was the last US president from the Whig Party?",
+      "answers": [
+        "Millard Fillmore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_06",
+      "title": "Who captured and murdered the Inca Emperor Atahualpa?",
+      "answers": [
+        "Francisco Pizarro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_07",
+      "title": "How many camels carried the 117,000 volumes of Abdul Kassem Ismael's library?",
+      "answers": [
+        "400"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_08",
+      "title": "In which year did India gain its independence from the United Kingdom?",
+      "answers": [
+        "1947"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_09",
+      "title": "How long did the Mau Mau Uprising last?",
+      "answers": [
+        "8 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_10",
+      "title": "Who built the world's first free-standing geodesic dome in 1949?",
+      "answers": [
+        "Buckminster Fuller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_11",
+      "title": "Which country hosted the first Olympic Games in 1896?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_12",
+      "title": "What was the name of the first nuclear-powered aircraft carrier?",
+      "answers": [
+        "USS Enterprise CVN-65"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_13",
+      "title": "During World War II, what was the purpose of \"Operation Detachment\"?",
+      "answers": [
+        "Capture Iwo Jima"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_14",
+      "title": "Who gave the famous speech, \"Give me liberty or give me death\"?",
+      "answers": [
+        "Patrick Henry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_15",
+      "title": "Who was the first Republican Vice President of the United States?",
+      "answers": [
+        "Hannibal Hamlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_16",
+      "title": "George Washington was born in which present-day state?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_17",
+      "title": "Who did Idi Amin succeed as president of Uganda?",
+      "answers": [
+        "Milton Obote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_18",
+      "title": "What year saw the start of Prohibition in the United States?",
+      "answers": [
+        "1920"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_19",
+      "title": "What U.S. President coined the phrase \"Good to the last drop\", referring to coffee?",
+      "answers": [
+        "Theodore Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_20",
+      "title": "What royal subject married Anne Boleyn?",
+      "answers": [
+        "Henry VIII"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_21",
+      "title": "Which Space Shuttle broke apart during re-entry in February, 2003?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_22",
+      "title": "Who was the only person to be nearby at three different US presidential assassinations?",
+      "answers": [
+        "Robert Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_23",
+      "title": "Who invented writing?",
+      "answers": [
+        "The Sumerians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_24",
+      "title": "What civilization lived by the Code of Hammurabi?",
+      "answers": [
+        "The Babylonians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_25",
+      "title": "What city hosted the 1992 Summer Olympic Games?",
+      "answers": [
+        "Barcelona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_26",
+      "title": "On which region of the Soviet Union did Hitler place the highest priority?",
+      "answers": [
+        "Ukraine and southern Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_27",
+      "title": "Who was assassinated by Khalid Islamboulli?",
+      "answers": [
+        "Anwar Sadat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_28",
+      "title": "Which war was concluded by the Treaty of Utrecht?",
+      "answers": [
+        "War Of Spanish Succession"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_29",
+      "title": "What US president was fatally shot in 1881?",
+      "answers": [
+        "James Garfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_30",
+      "title": "Collectively, what name is given to the first ten of the amendments to the United States Constitution?",
+      "answers": [
+        "The Bill of Rights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_31",
+      "title": "In 1966, Johnny Cash briefly shared a Nashville apartment with what other country legend?",
+      "answers": [
+        "Waylon Jennings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_32",
+      "title": "What civilization worshiped a feathered serpent called Quetzalcoatl?",
+      "answers": [
+        "The Aztecs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_33",
+      "title": "Who was the first president to be born a U.S. citizen?",
+      "answers": [
+        "Martin Van Buren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_34",
+      "title": "The first vending machines in the US dispensed what?",
+      "answers": [
+        "Chewing gum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_35",
+      "title": "Who is often credited with inventing the thermometer?",
+      "answers": [
+        "Galileo Galilei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_36",
+      "title": "Which organization shared the 2001 Nobel Peace Prize with Kofi Annan?",
+      "answers": [
+        "United Nations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_37",
+      "title": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+      "answers": [
+        "Silk Road"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_38",
+      "title": "In 1944, who was the intended assassination victim of the July 20 Plot?",
+      "answers": [
+        "Adolf Hitler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_39",
+      "title": "Who first became president of France in 1995?",
+      "answers": [
+        "Jacques Chirac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_40",
+      "title": "Where is the \"grassy knoll\" located?",
+      "answers": [
+        "Dealey Plaza, Dallas, Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_41",
+      "title": "In what year did the Soviet Union launch its first Sputnik satellite?",
+      "answers": [
+        "1957"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_42",
+      "title": "Who was the last US president of the 19th century?",
+      "answers": [
+        "William McKinley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_43",
+      "title": "What ancient people based their law on the Code of Hammurabi?",
+      "answers": [
+        "Mesopotamia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_44",
+      "title": "What year was the state of California ceded to the US from Mexico?",
+      "answers": [
+        "1848"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_45",
+      "title": "In which country did the Easter Rising take place in 1916?",
+      "answers": [
+        "Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_46",
+      "title": "The beautiful Nefertiti was the wife of what Pharaoh?",
+      "answers": [
+        "Akhenaten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_47",
+      "title": "On January 1, 2016, which Canadian province became the first one to allow the testing of self-driving vehicles on public roads?",
+      "answers": [
+        "Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_48",
+      "title": "Who were defeated by the New York Mets in the 1969 World Series?",
+      "answers": [
+        "The Orioles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_49",
+      "title": "What settlers introduced gingerbread houses to Canada in the 1700's?",
+      "answers": [
+        "German settlers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_05_50",
+      "title": "Who said, \"Slanderers do not hurt me because they do not hit me\"?",
+      "answers": [
+        "Socrates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

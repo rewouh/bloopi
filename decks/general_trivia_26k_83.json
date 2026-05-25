@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_83",
+  "name": "General Trivia 26K 83",
+  "description": "General 4101 - 4150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_83_01",
+      "title": "How many dice are used to play Yahtzee?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_02",
+      "title": "According to Japanese legend, a sick person will recover if they fold 1,000 of what type of origami?",
+      "answers": [
+        "Crane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_03",
+      "title": "What's the main feature of a Chong Sang skirt?",
+      "answers": [
+        "Split up side"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_04",
+      "title": "Which animal was part of the Gloria Vanderbilt jeans logo?",
+      "answers": [
+        "Swan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_05",
+      "title": "What do the letters stand for in the name of the electronics company, JVC?",
+      "answers": [
+        "Japan's Victor Company"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_06",
+      "title": "What is the fear of sleep known as?",
+      "answers": [
+        "Somniphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_07",
+      "title": "What is the name of the weak alcoholic cider that is made from the solid remains of the pressed apples??",
+      "answers": [
+        "Ciderkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_08",
+      "title": "What is the space between windows called?",
+      "answers": [
+        "Interfenestration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_09",
+      "title": "What year did Cracker Jack introduce their mascots - Sailor Jack and his dog, Bingo?",
+      "answers": [
+        "1916"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_10",
+      "title": "What was Charlie Chaplin's cane made of?",
+      "answers": [
+        "Bamboo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_11",
+      "title": "Who created the Lipton tea brand?",
+      "answers": [
+        "Thomas Lipton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_12",
+      "title": "What Olympic event is abbreviated to WAG?",
+      "answers": [
+        "Women's Artistic Gymnastics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_13",
+      "title": "What two ingredients make a Black Velvet cocktail?",
+      "answers": [
+        "Champagne and stout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_14",
+      "title": "What year did Apple introduce its first retail store?",
+      "answers": [
+        "2001"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_15",
+      "title": "What four colors traditionally correspond with first through fourth place ribbons?",
+      "answers": [
+        "Blue, Red, White, Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_16",
+      "title": "How many gallons does a \"half butt\" barrel contain?",
+      "answers": [
+        "63"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_17",
+      "title": "What year was the AeroPress invented?",
+      "answers": [
+        "2005"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_18",
+      "title": "Who created the original Barbie doll?",
+      "answers": [
+        "Ruth Handler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_19",
+      "title": "How much did the first Hot Wheels car sell for in 1968?",
+      "answers": [
+        "$0.69"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_20",
+      "title": "What two words start and end with \"und\"?",
+      "answers": [
+        "Underground and underfund"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_21",
+      "title": "What is the maximum possible break in snooker?",
+      "answers": [
+        "147"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_22",
+      "title": "In what sport do teams compete for the Swaythling Cup?",
+      "answers": [
+        "Table tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_23",
+      "title": "Which country invented the sauna?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_24",
+      "title": "What car company takes its name from the Japanese word for the constellation Pleiades?",
+      "answers": [
+        "Subaru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_25",
+      "title": "What common object is designed to recall the bloodstained bandages of medieval times?",
+      "answers": [
+        "A barber pole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_26",
+      "title": "What company invented the floppy disk in 1970?",
+      "answers": [
+        "IBM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_27",
+      "title": "What is the practice of creating decorative shapes by trimming trees and shrubs?",
+      "answers": [
+        "Topiary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_28",
+      "title": "What jumping PlayStation marsupial debuted in 1996 as Sony's answer to Super Mario?",
+      "answers": [
+        "Crash Bandicoot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_29",
+      "title": "What does the abbreviation ROI stand for in the financial world?",
+      "answers": [
+        "Return on Investment"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_30",
+      "title": "Who invented machine-spun cotton candy?",
+      "answers": [
+        "William Morrison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_31",
+      "title": "What is added to cachaca to make a Caipirinha?",
+      "answers": [
+        "Sugar and lime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_32",
+      "title": "What was iPod's original Apple codename?",
+      "answers": [
+        "Dulcimer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_33",
+      "title": "Where did Saints quarterback Drew Brees play college football?",
+      "answers": [
+        "Purdue University"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_34",
+      "title": "What country invented the Winter Olympic sport of bobsleigh?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_35",
+      "title": "How many checkers does each player start a game with?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_36",
+      "title": "In what year did Walt Disney World open near Orlando, Forida?",
+      "answers": [
+        "1971"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_37",
+      "title": "What type of surface is curling played on?",
+      "answers": [
+        "Ice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_38",
+      "title": "A government in which power is restricted to a few is called a what?",
+      "answers": [
+        "An oligarchy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_39",
+      "title": "The first patent for the paperclip was recorded in what year?",
+      "answers": [
+        "1867"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_40",
+      "title": "What year was boxer Arnold Raymond Cream born in?",
+      "answers": [
+        "1914"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_41",
+      "title": "Blitz, Boondock, Bristol, Scrunge and Squop are terms used in what game?",
+      "answers": [
+        "Tiddlywinks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_42",
+      "title": "What is the fear of mice known as?",
+      "answers": [
+        "Musophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_43",
+      "title": "Which one of tennis' Grand Slam tournaments is held in January?",
+      "answers": [
+        "Australian Open"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_44",
+      "title": "Who became head of the Chrysler Corporation in 1978?",
+      "answers": [
+        "Lee Iacocca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_45",
+      "title": "What is campanologist the study of?",
+      "answers": [
+        "Bells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_46",
+      "title": "Who scored the first counted three-point basket in NBA history?",
+      "answers": [
+        "Chris Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_47",
+      "title": "How many Super Bowl appearances did Brett Favre lead as part of the Green Bay Packers?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_48",
+      "title": "What chessman makes an L-shaped move?",
+      "answers": [
+        "The knight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_49",
+      "title": "Before it was called the Big Mac, McDonald's signature sandwich went by what name?",
+      "answers": [
+        "The Aristocrat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_83_50",
+      "title": "The King in chess can move a maximum of this many squares?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

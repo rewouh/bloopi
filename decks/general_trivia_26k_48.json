@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_48",
+  "name": "General Trivia 26K 48",
+  "description": "General 2351 - 2400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_48_01",
+      "title": "How many points are E and O each worth in a Scrabble game?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_02",
+      "title": "Brigham Young was a leader of which religious group?",
+      "answers": [
+        "Mormons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_03",
+      "title": "What term for a Bigfoot creature comes from the Salish Indian word meaning \"wild man\"?",
+      "answers": [
+        "Sasquatch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_04",
+      "title": "What athletic apparel company took its name from the Greek goddess of Victory?",
+      "answers": [
+        "Nike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_05",
+      "title": "Which two cross-border neighbouring cities jointly celebrate July 1 and July 4 holidays with the International Freedom Festival?",
+      "answers": [
+        "Windsor and Detroit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_06",
+      "title": "Red Stripe beer originated from what island country?",
+      "answers": [
+        "Jamaica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_07",
+      "title": "By what name is the reed pipe of the bagpipes known?",
+      "answers": [
+        "Chanter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_08",
+      "title": "Including Jesus, how many were in attendance at The Last Supper?",
+      "answers": [
+        "13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_09",
+      "title": "Which car maker made the EV-1 vehicle?",
+      "answers": [
+        "GM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_10",
+      "title": "What do runners pass to each other in a relay race?",
+      "answers": [
+        "Baton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_11",
+      "title": "How much storage space did the original Amazon Kindle device have?",
+      "answers": [
+        "256 MB"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_12",
+      "title": "How many times can you fold a regular piece of paper in half?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_13",
+      "title": "What is the fear of the Sun called?",
+      "answers": [
+        "Heliophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_14",
+      "title": "How many gallons does a tun barrel typically hold?",
+      "answers": [
+        "252"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_15",
+      "title": "What is the total face point value of all the tiles in Scrabble?",
+      "answers": [
+        "187"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_16",
+      "title": "What is celebrated on the 2nd Saturday in June in the United Kingdom?",
+      "answers": [
+        "The queen's birthday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_17",
+      "title": "Who won 7 gold medals in swimming at the 1972 Summer Olympics in Munich?",
+      "answers": [
+        "Mark Spitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_18",
+      "title": "What gives beer its distinctive bitter flavour?",
+      "answers": [
+        "Hops"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_19",
+      "title": "Who said, \"I don't make jokes. I just watch the government and report the facts\"?",
+      "answers": [
+        "Will Rogers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_20",
+      "title": "What year was the first skyscraper built in Chicago?",
+      "answers": [
+        "1885"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_21",
+      "title": "On what golf course would you find the three tricky holes called the \"Amen Corner\"?",
+      "answers": [
+        "Augusta National Golf Club"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_22",
+      "title": "How many Justices are there on the US Supreme Court?",
+      "answers": [
+        "9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_23",
+      "title": "Who was the first major league baseball pitcher to throw a no-hitter while wearing eyeglasses?",
+      "answers": [
+        "Billy \"Bullfrog\" Dietrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_24",
+      "title": "What cut of beef comes from between the neck and the shoulder blade?",
+      "answers": [
+        "Chuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_25",
+      "title": "A Sidecar cocktail contains triple sec, lemon juice and what?",
+      "answers": [
+        "Cognac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_26",
+      "title": "What is the NATO phonetic alphabet word for \"P\"?",
+      "answers": [
+        "Papa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_27",
+      "title": "What year was Tabasco sauce first produced?",
+      "answers": [
+        "1868"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_28",
+      "title": "What is heartsease?",
+      "answers": [
+        "A flower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_29",
+      "title": "What year was instant coffee was first patented in France?",
+      "answers": [
+        "1881"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_30",
+      "title": "The Kansas City Chiefs were originally known as what?",
+      "answers": [
+        "The Dallas Texans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_31",
+      "title": "Which Formula One world champion assisted Honda in the final design stages of the NSX?",
+      "answers": [
+        "Ayrton Senna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_32",
+      "title": "What is the fear of progress known as?",
+      "answers": [
+        "Prosophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_33",
+      "title": "What is the fear of going to bed known as?",
+      "answers": [
+        "Clinophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_34",
+      "title": "What is the color of the Italian liqeuer Galliano?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_35",
+      "title": "Which pasta shape is named for the many weddings at which it’s served?",
+      "answers": [
+        "Ziti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_36",
+      "title": "DIY stands for what?",
+      "answers": [
+        "Do It Yourself"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_37",
+      "title": "In what country does Santa typically sport a long coat and beard?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_38",
+      "title": "What fish is known as poor mans lobster?",
+      "answers": [
+        "Monk Fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_39",
+      "title": "What biblical figure was the founder of Judaism?",
+      "answers": [
+        "Abraham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_40",
+      "title": "What are known as \"buddy stores\"?",
+      "answers": [
+        "Aircraft fuel tanks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_41",
+      "title": "What does the CN stand for in the CN Tower?",
+      "answers": [
+        "Canadian National"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_42",
+      "title": "In what country is the Nobel Peace Prize awarded?",
+      "answers": [
+        "Norway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_43",
+      "title": "What special room was used by patrons who did not want to be seen enjoying a pint in the pub?",
+      "answers": [
+        "Snugs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_44",
+      "title": "A hobbyist referred to as a \"numismatist\" studies or collects what?",
+      "answers": [
+        "Coins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_45",
+      "title": "Which sports league awards the Larry O'Brien trophy to the team that wins the yearly Championship?",
+      "answers": [
+        "NBA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_46",
+      "title": "What team did Brett Favre spend most of his professional football career with?",
+      "answers": [
+        "Green Bay Packers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_47",
+      "title": "How many vehicles did the second \"Gran Turismo\" video game have?",
+      "answers": [
+        "650"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_48",
+      "title": "Whose 502-foot Fenway Park homer is marked by a single red seat in the right field bleachers?",
+      "answers": [
+        "Ted Williams'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_49",
+      "title": "What is the ruling planet of the astrological sign Taurus?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_48_50",
+      "title": "What country are eclairs said to have originated from?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

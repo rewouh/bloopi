@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_12",
+  "name": "General Trivia 26K 12",
+  "description": "General 551 - 600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_12_01",
+      "title": "Christmas Seals are sponsored by what non-profit organization?",
+      "answers": [
+        "The Lung Association"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_02",
+      "title": "The \"Port Malabar Invitational\" golf tournament was last played in what year?",
+      "answers": [
+        "1969"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_03",
+      "title": "In what country was actor Rick Fox born?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_04",
+      "title": "Who comes after the US vice president in the line of presidential succession?",
+      "answers": [
+        "Speaker of the House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_05",
+      "title": "What is liquid clay used in pottery called?",
+      "answers": [
+        "Slip"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_06",
+      "title": "The fez originated from what country?",
+      "answers": [
+        "Morocco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_07",
+      "title": "How much does it cost to buy a utility in a standard game of Monopoly?",
+      "answers": [
+        "$150"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_08",
+      "title": "What is the NATO phonetic alphabet word for \"U\"?",
+      "answers": [
+        "Uniform"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_09",
+      "title": "What kind of sporting event is divided into chukkas?",
+      "answers": [
+        "A polo match"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_10",
+      "title": "How many days were there in 2004?",
+      "answers": [
+        "366"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_11",
+      "title": "What color hair does Sega character Sonic the Hedgehog have?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_12",
+      "title": "What is the Hebrew term for \"commandment\"?",
+      "answers": [
+        "Mitzvah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_13",
+      "title": "What year were the Ray-Ban Wayfarer sunglasses introduced to the market?",
+      "answers": [
+        "1956"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_14",
+      "title": "What three letter word means \"the front of a ship\"?",
+      "answers": [
+        "Bow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_15",
+      "title": "Which breed of dog gets its name from the Latin for earth?",
+      "answers": [
+        "Terrier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_16",
+      "title": "Sophophobia is the fear of what?",
+      "answers": [
+        "Learning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_17",
+      "title": "What are the main ingredients of borscht?",
+      "answers": [
+        "Beet roots and cabbage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_18",
+      "title": "What is a credenza?",
+      "answers": [
+        "A dining sideboard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_19",
+      "title": "What is tallest dog breed in the world?",
+      "answers": [
+        "Irish Wolfhound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_20",
+      "title": "What is the longest running sporting event in the United States?",
+      "answers": [
+        "The Kentucky Derby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_21",
+      "title": "What is biltong?",
+      "answers": [
+        "Dried meat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_22",
+      "title": "In what state did former Illinois Governor Rod Blagojavich begin serving his 14 year sentence for corruption?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_23",
+      "title": "What does the abbreviation WWW stand for?",
+      "answers": [
+        "World Wide Web"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_24",
+      "title": "What year did Cheez Whis debut on the market?",
+      "answers": [
+        "1952"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_25",
+      "title": "In which decade was Tupperware first introduced to the market?",
+      "answers": [
+        "1940s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_26",
+      "title": "What's the seventh sign of the Zodiac?",
+      "answers": [
+        "Libra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_27",
+      "title": "What slot on the back of an arrow's shaft keeps it on the bowstring?",
+      "answers": [
+        "The nock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_28",
+      "title": "What NFL team replaced its AFL-era horse logo with a bolt of lightning?",
+      "answers": [
+        "The San Diego Chargers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_29",
+      "title": "What year was the first iPhone released?",
+      "answers": [
+        "2007"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_30",
+      "title": "What former country was Martina Navratilova born in?",
+      "answers": [
+        "Czechoslovakia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_31",
+      "title": "What is the official language of Austria?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_32",
+      "title": "The Hugo Award is an award given in what field?",
+      "answers": [
+        "Science fiction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_33",
+      "title": "This drink is made from espresso coffee, hot milk and chocolate?",
+      "answers": [
+        "Mocha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_34",
+      "title": "In Iowa, it’s a misdemeanor to mislabel margarine as what?",
+      "answers": [
+        "Butter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_35",
+      "title": "Which key button did Apple remove in its flagship iPhone X model?",
+      "answers": [
+        "The Home button"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_36",
+      "title": "Which Bohemian city gave us the Pilsner?",
+      "answers": [
+        "Pilsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_37",
+      "title": "What wax sculptor made the death mask of Marie Antoinette?",
+      "answers": [
+        "Madame Tussaud"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_38",
+      "title": "Which car manufacturer's name means \"to hear\"?",
+      "answers": [
+        "Audi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_39",
+      "title": "What US city gave birth to the Grasshopper cocktail?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_40",
+      "title": "What common lasagna ingredient is actually a by-product of mozzarella?",
+      "answers": [
+        "Ricotta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_41",
+      "title": "What is the study of pronunciation called?",
+      "answers": [
+        "Orthoepy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_42",
+      "title": "A.J. Foyt was the first person to win what annual competition four times?",
+      "answers": [
+        "Indianapolis 500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_43",
+      "title": "In which hand is the Statue of Liberty holding a torch?",
+      "answers": [
+        "Right hand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_44",
+      "title": "What is the fear of having to cook called?",
+      "answers": [
+        "Mageirocophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_45",
+      "title": "What do you call a baby female horse?",
+      "answers": [
+        "Filly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_46",
+      "title": "Which sign of the zodiac is represented as a man pouring water from a jar?",
+      "answers": [
+        "Aquarius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_47",
+      "title": "What is the main ingredient in a \"Boxty\"?",
+      "answers": [
+        "Potatoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_48",
+      "title": "Who was the first African-American player inducted into the Baseball Hall of Fame?",
+      "answers": [
+        "Jackie Robinson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_49",
+      "title": "What is believed to have eventually killed Oliver Cromwell?",
+      "answers": [
+        "Malaria and urinary/kidney infection"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_12_50",
+      "title": "What is the name of the Tokyo Stock Market Index?",
+      "answers": [
+        "Nikkei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

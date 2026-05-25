@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_60",
+  "name": "Geography Trivia 26K 60",
+  "description": "Geography 2951 - 3000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_60_01",
+      "title": "What is the capital of Kansas?",
+      "answers": [
+        "Topeka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_02",
+      "title": "Which mountain is also known as Monte Cervino and Mont Corvin?",
+      "answers": [
+        "The Matterhorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_03",
+      "title": "What beer shares its name with the river that runs through Amsterdam?",
+      "answers": [
+        "Amstel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_04",
+      "title": "French is the official language for how many nations?",
+      "answers": [
+        "29"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_05",
+      "title": "What is the lowest elevation river in the world?",
+      "answers": [
+        "Jordan River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_06",
+      "title": "Which country did Barbados gain its independence from?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_07",
+      "title": "What ocean separates North America from Europe?",
+      "answers": [
+        "Atlantic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_08",
+      "title": "How many Federal territories are part of Australia?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_09",
+      "title": "Lake Pend Oreille is the largest lake in which US state?",
+      "answers": [
+        "Idaho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_10",
+      "title": "The Kung San people live in what area of Africa?",
+      "answers": [
+        "Kalahari Desert in Botswana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_11",
+      "title": "Where can you drive the \"Extraterrestrial Highway\"?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_12",
+      "title": "What prominent University is located in Winston-Salem, North Carolina?",
+      "answers": [
+        "Wake Forrest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_13",
+      "title": "Which US state is nicknamed the \"Ocean State\"?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_14",
+      "title": "The Easter lily is a native plant of which country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_15",
+      "title": "Which three states share a border with California?",
+      "answers": [
+        "Arizona, Nevada and Oregon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_16",
+      "title": "Which country's Easter brunch typically includes a ryemeal soup known as zurek?",
+      "answers": [
+        "Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_17",
+      "title": "What is the highest elevation capital city in Asia?",
+      "answers": [
+        "Thimphu, Bhutan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_18",
+      "title": "What is the lowest point in the United States?",
+      "answers": [
+        "Death Valley, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_19",
+      "title": "The Plains of Abraham are located in which North American country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_20",
+      "title": "What state borders Alabama to the north?",
+      "answers": [
+        "Tennessee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_21",
+      "title": "What river is Liverpool situated on?",
+      "answers": [
+        "Mersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_22",
+      "title": "Which two US states share a border with Delaware?",
+      "answers": [
+        "Maryland and Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_23",
+      "title": "Which ocean does Suriname have direct water access to?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_24",
+      "title": "What Pacific Ocean trench is the deepest in the world?",
+      "answers": [
+        "Mariana trench"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_25",
+      "title": "How many provinces are there in Canada?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_26",
+      "title": "Moroni is the capital of which African country?",
+      "answers": [
+        "Comoros"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_27",
+      "title": "Concord is the capital of which US State?",
+      "answers": [
+        "New Hampshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_28",
+      "title": "What fashionable shopping avenue divides New York into East Side and West Side?",
+      "answers": [
+        "Fifth Avenue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_29",
+      "title": "Which US state's name is derived from the Spanish words for \"snow-covered\"?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_30",
+      "title": "What territory's flag features three armored legs?",
+      "answers": [
+        "Isle of Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_31",
+      "title": "Which country, other than Switzerland, uses the Swiss franc?",
+      "answers": [
+        "Liechtenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_32",
+      "title": "Lake Winnipesaukee is the largest lake in which US state?",
+      "answers": [
+        "New Hampshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_33",
+      "title": "Which U.S. state has zero natural lakes?",
+      "answers": [
+        "Maryland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_34",
+      "title": "Easter Island is part of which country?",
+      "answers": [
+        "Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_35",
+      "title": "New York's Tribeca neighborhood is so named because it's the triangle south of what major street?",
+      "answers": [
+        "Canal Street"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_36",
+      "title": "Which U.S. state is known for its Juicy Lucy burgers?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_37",
+      "title": "What US territory’s official motto is \"Where America’s Day Begins\"?",
+      "answers": [
+        "Guam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_38",
+      "title": "Which mega city's name translated means \"Eastern Capital\"?",
+      "answers": [
+        "Tokyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_39",
+      "title": "How many states comprise Australia?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_40",
+      "title": "In which city was the oldest university in Scandinavia founded in 1477?",
+      "answers": [
+        "Uppsala"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_41",
+      "title": "Between which two African countries is there a land that no one owns?",
+      "answers": [
+        "Egypt and Sudan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_42",
+      "title": "Which country borders Macedonia to the west?",
+      "answers": [
+        "Albania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_43",
+      "title": "What US state has a Thames River?",
+      "answers": [
+        "Connecticut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_44",
+      "title": "Belgrade lies on the Danube and which other river?",
+      "answers": [
+        "Sava"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_45",
+      "title": "Libreville is the capital of what country?",
+      "answers": [
+        "Gabon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_46",
+      "title": "What US state's license plates sport the slogan \"First in Flight\"?",
+      "answers": [
+        "North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_47",
+      "title": "How many US states share a border with Quebec?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_48",
+      "title": "Where is the oldest, continuously operating zoo?",
+      "answers": [
+        "Vienna, Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_49",
+      "title": "What is the English translation of the area of Cuba called Bahia de Cochinos?",
+      "answers": [
+        "Bay of Pigs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_60_50",
+      "title": "The city of Liverpool, England is served by an airport named for what man?",
+      "answers": [
+        "John Lennon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

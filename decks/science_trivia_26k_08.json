@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_08",
+  "name": "Science Trivia 26K 08",
+  "description": "Science 351 - 400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_08_01",
+      "title": "The name for this semi-precious stone comes from the Latin for \"sea water\"?",
+      "answers": [
+        "Aquamarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_02",
+      "title": "Which type of chemical bond is strongest?",
+      "answers": [
+        "Ionic bond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_03",
+      "title": "What do most lobsters and crayfish do with their shell after it has molted?",
+      "answers": [
+        "Eat it"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_04",
+      "title": "What does a barometer measure?",
+      "answers": [
+        "Atmospheric Pressure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_05",
+      "title": "What is the most expensive fruit in the world?",
+      "answers": [
+        "Yubari King melons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_06",
+      "title": "Which tree is the only nut-bearer native to North America?",
+      "answers": [
+        "Pecan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_07",
+      "title": "What is the heaviest chemical element on the periodic table in terms of atomic weight?",
+      "answers": [
+        "Oganesson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_08",
+      "title": "What part of the body is affected by glaucoma?",
+      "answers": [
+        "The eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_09",
+      "title": "Blacked eyed peas are not peas, what are they?",
+      "answers": [
+        "Beans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_10",
+      "title": "What inventor was known as the \"Wizard of Menlo Park\"?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_11",
+      "title": "What's the common name for batteries that contain zinc and manganese dioxide?",
+      "answers": [
+        "Alkaline batteries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_12",
+      "title": "Which element of the periodic table is named after the inventor of dynamite?",
+      "answers": [
+        "Nobelium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_13",
+      "title": "What year did the Space Race between the United States and the Soviet Union start?",
+      "answers": [
+        "1955"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_14",
+      "title": "What masculine first name is also the zoological term for \"fish semen\"?",
+      "answers": [
+        "Milt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_15",
+      "title": "What type of bird is a \"Khaki Campbell\"?",
+      "answers": [
+        "Duck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_16",
+      "title": "How many stars are in the Big Dipper constellation?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_17",
+      "title": "Who has been called the father of electricity?",
+      "answers": [
+        "Michael Faraday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_18",
+      "title": "How many fingerlike projections does an African elephant have at the end of its trunk?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_19",
+      "title": "Which element appears sixth on the periodic table?",
+      "answers": [
+        "Carbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_20",
+      "title": "A Medusa is a marine creature better known by what other name?",
+      "answers": [
+        "Jellyfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_21",
+      "title": "How many flat faces does a dodecahedron have?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_22",
+      "title": "The star Polaris is more commonly known by what name?",
+      "answers": [
+        "The North Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_23",
+      "title": "What common aquarium fish is named for the naturalist who discovered it in Trinidad in 1876?",
+      "answers": [
+        "The guppy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_24",
+      "title": "What is a scientist who specializes in soil and crops called?",
+      "answers": [
+        "Agronomist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_25",
+      "title": "How many pairs of wings does a bee have?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_26",
+      "title": "What is the atomic number for thallium?",
+      "answers": [
+        "81"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_27",
+      "title": "What word is the definition of 100,000 BTUs?",
+      "answers": [
+        "One therm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_28",
+      "title": "Who was the inventor of the first battery?",
+      "answers": [
+        "Alessandro Volta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_29",
+      "title": "Which fruit is called \"halakahiki\" in Hawaiian and has been grown in Hawaii since the early 1800's?",
+      "answers": [
+        "Pineapples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_30",
+      "title": "What fruit comes in Redchief and Earliglow variety?",
+      "answers": [
+        "Strawberries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_31",
+      "title": "A June bug is what type of insect?",
+      "answers": [
+        "Beetle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_32",
+      "title": "What is the term for an organism that lives on or in another?",
+      "answers": [
+        "Parasite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_33",
+      "title": "How many sides does a trapezoid have?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_34",
+      "title": "What is the tube that carries food into the stomach called?",
+      "answers": [
+        "Esophagus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_35",
+      "title": "What gas filled the Hindenburg airship?",
+      "answers": [
+        "Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_36",
+      "title": "What does a \"kymograph\" measure?",
+      "answers": [
+        "Oscillations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_37",
+      "title": "What planet has a storm system called the \"Great Red Spot\"?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_38",
+      "title": "What nerve tissue transmits light signals from your eye lens to the brain?",
+      "answers": [
+        "Retina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_39",
+      "title": "What kind of tails do New World monkeys have that Old World monkeys don't?",
+      "answers": [
+        "Prehensile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_40",
+      "title": "What is a \"kiwano\" a type of?",
+      "answers": [
+        "Fruit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_41",
+      "title": "Where in your body is your patella?",
+      "answers": [
+        "Your knee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_42",
+      "title": "Roadrunners are members of which family of bird?",
+      "answers": [
+        "Cuckoos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_43",
+      "title": "Edward Jenner developed an effective vaccine for which disease?",
+      "answers": [
+        "Smallpox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_44",
+      "title": "How many electrons are present in H+?",
+      "answers": [
+        "Zero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_45",
+      "title": "Who is Ada Lovelace?",
+      "answers": [
+        "The first computer programmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_46",
+      "title": "How many feet are there in a fathom?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_47",
+      "title": "What is a small scale current of air with vertical motion?",
+      "answers": [
+        "Updraft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_48",
+      "title": "What wild animal's name is Guarani for \"dog\"?",
+      "answers": [
+        "Jaguar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_49",
+      "title": "What grows in a paddy field?",
+      "answers": [
+        "Rice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_08_50",
+      "title": "What is Mercury's period of revolution around the sun?",
+      "answers": [
+        "88 days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_22",
+  "name": "Geography Trivia 26K 22",
+  "description": "Geography 1051 - 1100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_22_01",
+      "title": "What is the lowest elevation point in the Western Hemisphere?",
+      "answers": [
+        "Laguna del Carbon, Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_02",
+      "title": "Which US state is home to the highest mountain in the contiguous US?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_03",
+      "title": "What is the only nation that borders both Pakistan and Bangladesh?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_04",
+      "title": "Which Canadian province produces the most maple syrup?",
+      "answers": [
+        "Quebec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_05",
+      "title": "Which city is the capital of the Austrian state of Tyrol?",
+      "answers": [
+        "Innsbruck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_06",
+      "title": "Central African Republic shares its eastern border with which country?",
+      "answers": [
+        "South Sudan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_07",
+      "title": "What Mexican border city is located south of San Diego?",
+      "answers": [
+        "Tijuana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_08",
+      "title": "Which famed explorer was born in Venice and now lends his name to Venice's main airport?",
+      "answers": [
+        "Marco Polo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_09",
+      "title": "The Plains of Abraham are located in which country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_10",
+      "title": "Antananarivo is the capital of which country?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_11",
+      "title": "Which Great Lake was known by the Ojibway as \"great water\"?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_12",
+      "title": "Harare is the capital of what country?",
+      "answers": [
+        "Zimbabwe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_13",
+      "title": "The city of El Paso is located on what river?",
+      "answers": [
+        "Rio Grande River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_14",
+      "title": "Lobamba and Mbabane are the legislative and administrative capitals of which African country?",
+      "answers": [
+        "Swaziland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_15",
+      "title": "What San Francisco hill is home to a famous colony of wild parrots?",
+      "answers": [
+        "Telegraph Hill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_16",
+      "title": "What seaport's name is Spanish for \"white house\"?",
+      "answers": [
+        "Casablanca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_17",
+      "title": "Other than English, what is the main language in Guam?",
+      "answers": [
+        "Chamorro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_18",
+      "title": "What is the nickname for Reading, Pennsylvania?",
+      "answers": [
+        "Pretzel City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_19",
+      "title": "Russia is the world’s largest country (by area), and its largest city (by population) is its capital. What’s the next ­largest country for which this is the case?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_20",
+      "title": "What is the world’s largest Hydroelectric Power Plant?",
+      "answers": [
+        "Three Gorges Dam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_21",
+      "title": "What is the state flower of the U.S. state Georgia?",
+      "answers": [
+        "Cherokee Rose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_22",
+      "title": "Which state is home to the oceanside city Myrtle Beach?",
+      "answers": [
+        "South Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_23",
+      "title": "Which European country is divided into areas called Cantons?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_24",
+      "title": "Chisinau is the capital of what country?",
+      "answers": [
+        "Moldova"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_25",
+      "title": "What does \"Lo Stivale\", the local name for the Italian peninsula, mean in Italian?",
+      "answers": [
+        "The boot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_26",
+      "title": "What is the capital of Mali?",
+      "answers": [
+        "Bamako"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_27",
+      "title": "Which Central American country has a name which translates to English as \"The Saviour\"?",
+      "answers": [
+        "El Salvador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_28",
+      "title": "What Russian city boasts the Hermitage Museum?",
+      "answers": [
+        "St. Petersburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_29",
+      "title": "What is the most sacred river of India?",
+      "answers": [
+        "The Ganges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_30",
+      "title": "What is the largest lake in Central America?",
+      "answers": [
+        "Lake Nicaragua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_31",
+      "title": "Which city is traditionally said to be built on seven hills?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_32",
+      "title": "What is the highest peak in the Appalachian range?",
+      "answers": [
+        "Mount Mitchell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_33",
+      "title": "Which US state is nicknamed the \"Natural State\"?",
+      "answers": [
+        "Arkansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_34",
+      "title": "Which US state is nicknamed the \"Sunflower State\"?",
+      "answers": [
+        "Kansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_35",
+      "title": "What city is home to the Shukhov Tower?",
+      "answers": [
+        "Moscow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_36",
+      "title": "The Laguna Madre is located between mainland Texas and what island?",
+      "answers": [
+        "Padre Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_37",
+      "title": "What two colors are on the flag of Israel?",
+      "answers": [
+        "Blue and white"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_38",
+      "title": "Which river made the Grand Canyon?",
+      "answers": [
+        "Colorado River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_39",
+      "title": "How are U-shaped valleys formed?",
+      "answers": [
+        "Ice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_40",
+      "title": "Which South American country shares its name with a nut?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_41",
+      "title": "Which US state is nicknamed the \"Sooner State\"?",
+      "answers": [
+        "Oklahoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_42",
+      "title": "What currency is used in South Africa?",
+      "answers": [
+        "Rand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_43",
+      "title": "Where can you find \"the Hand of the Desert\"?",
+      "answers": [
+        "Atacama Desert, Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_44",
+      "title": "What does Salzburg translate to?",
+      "answers": [
+        "Salt Castle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_45",
+      "title": "The Atlantic Ocean Road links islands in what country?",
+      "answers": [
+        "Norway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_46",
+      "title": "How much lower does the Dead Sea get every year?",
+      "answers": [
+        "One meter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_47",
+      "title": "The Thousand Islands are located in what body of water?",
+      "answers": [
+        "St. Lawrence River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_48",
+      "title": "In which country would you find the informally named \"The Enver Hoxha Mausoleum\" landmark?",
+      "answers": [
+        "Albania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_49",
+      "title": "What is the only nation that borders both Mauritania and Guinea-Bissau?",
+      "answers": [
+        "Senegal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_22_50",
+      "title": "Which lake crosses the borders of Vermont, New York, and Canada?",
+      "answers": [
+        "Lake Champlain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

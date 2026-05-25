@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_55",
+  "name": "Arts Trivia 26K 55",
+  "description": "Arts 2701 - 2750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_55_01",
+      "title": "What year did Frank Miller publish the comic book series \"300\"?",
+      "answers": [
+        "1998"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_02",
+      "title": "What did the Lady of the Lake give King Arthur?",
+      "answers": [
+        "Excalibur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_03",
+      "title": "In the comic book series \"Strangers in Paradise\", what item of clothing does Francine struggle to keep on during a high school play?",
+      "answers": [
+        "Her toga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_04",
+      "title": "Who wrote the children's classic \"Green Eggs and Ham\"?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_05",
+      "title": "In what Edgar Allan Poe story does an old man's oddly clouded eye lead to murder?",
+      "answers": [
+        "The Tell-Tale Heart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_06",
+      "title": "What are the two cities in Charles Dickens' novel \"A Tale of Two Cities\"?",
+      "answers": [
+        "London and Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_07",
+      "title": "Which composer wrote \"The Magic Flute\"?",
+      "answers": [
+        "Wolfgang Amadeus Mozart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_08",
+      "title": "Which detective lived in Cabot Cove, Maine?",
+      "answers": [
+        "Jessica Fletcher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_09",
+      "title": "\"Lean Mean Thirteen\" was published in 2007 by which author?",
+      "answers": [
+        "Janet Evanovich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_10",
+      "title": "At the end of \"The Da Vinci Code\", the Holy Grail is revealed to be buried at what popular spot?",
+      "answers": [
+        "The Louvre Museum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_11",
+      "title": "During the 1st and 2nd centuries AD, which language was used to write the New Testament?",
+      "answers": [
+        "Greek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_12",
+      "title": "What is the dot on the letter i named?",
+      "answers": [
+        "A tittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_13",
+      "title": "What 1977 novel ends with Milkman Dead learning to fly?",
+      "answers": [
+        "Song of Solomon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_14",
+      "title": "What is the singular of timpani?",
+      "answers": [
+        "Timpano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_15",
+      "title": "What author created Utopia?",
+      "answers": [
+        "Thomas More"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_16",
+      "title": "What is Dr. Frankenstein's first name?",
+      "answers": [
+        "Victor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_17",
+      "title": "What kind of flower was Jesus talking about when he said \"They toil not, neither do they spin\"?",
+      "answers": [
+        "Lilies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_18",
+      "title": "Who is the wife in Shakespeare's only interracial married couple?",
+      "answers": [
+        "Desdemona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_19",
+      "title": "In Greek mythology, how many labours were imposed on Hercules?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_20",
+      "title": "What Shakespearean play refers to the Eve of the Feast of Epiphany?",
+      "answers": [
+        "Twelfth Night"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_21",
+      "title": "What's the name of the little boy who discovers \"Where the Wild Things Are\"?",
+      "answers": [
+        "Max"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_22",
+      "title": "What is the supposed site of the Isle of Avalon?",
+      "answers": [
+        "Glastonbury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_23",
+      "title": "What is Beethoven's sixth symphony known as?",
+      "answers": [
+        "The Pastoral Symphony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_24",
+      "title": "Which character is the narrator of Melville's \"Moby Dick\"?",
+      "answers": [
+        "Ishmael"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_25",
+      "title": "What is the name of the farm in the book \"Animal Farm\"?",
+      "answers": [
+        "Manor Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_26",
+      "title": "What does \"J.R.R.\" stand for in J.R.R. Tolkien's name?",
+      "answers": [
+        "John Ronald Reuel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_27",
+      "title": "According to legend, where did the Norse gods live?",
+      "answers": [
+        "Valhalla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_28",
+      "title": "Who wrote the novel \"The Hunt for Red October\"?",
+      "answers": [
+        "Tom Clancy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_29",
+      "title": "Who produced two booklets for \"Comic Relief\" under the names Newt Scamander and Kennilworthy Whisp?",
+      "answers": [
+        "J.K. Rowling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_30",
+      "title": "In which Dickens novel does the character Fezziwigs appear?",
+      "answers": [
+        "A Christmas Carol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_31",
+      "title": "Demeter is the goddess of what?",
+      "answers": [
+        "Harvest and agriculture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_32",
+      "title": "Whose children's books involve a mysterious organization known only as \"V.F.D.\"?",
+      "answers": [
+        "Lemony Snicket's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_33",
+      "title": "In the X-Men comics, what element is fused with Wolverine's bones?",
+      "answers": [
+        "Adamantium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_34",
+      "title": "Who wrote the play \"Death of a Salesman\"?",
+      "answers": [
+        "Arthur Miller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_35",
+      "title": "Whose final opera was called \"Death in Venice\"?",
+      "answers": [
+        "Benjamin Britten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_36",
+      "title": "What year marked the publishing of Bram Stoker's novel \"Dracula\"?",
+      "answers": [
+        "1897"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_37",
+      "title": "What is Demeter the god of?",
+      "answers": [
+        "Harvest and agriculture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_38",
+      "title": "Who was Joe’s co-creator for the character of Superman?",
+      "answers": [
+        "Jerry Siegel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_39",
+      "title": "What was the Greek equivalent of the Roman god Neptune?",
+      "answers": [
+        "Poseidon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_40",
+      "title": "Who created Popeye?",
+      "answers": [
+        "Elzie Segar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_41",
+      "title": "What do the letters stand for in poet E.E. Cummings' name?",
+      "answers": [
+        "Edward Estlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_42",
+      "title": "What British statesman wrote \"A History of the English-Speaking People\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_43",
+      "title": "Dr. Jonathan Crane is the real name of which DC Comics supervillain?",
+      "answers": [
+        "Scarecrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_44",
+      "title": "Who wrote the 1952 novel \"Invisible Man\"?",
+      "answers": [
+        "Ralph Ellison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_45",
+      "title": "What Ayn Rand novel opens with the question: \"Who is John Galt?\"?",
+      "answers": [
+        "Atlas Shrugged"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_46",
+      "title": "In the Anglo-Saxon poem, who killed Grendel?",
+      "answers": [
+        "Beowolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_47",
+      "title": "Who wrote the novel \"The Magician's Nephew\"?",
+      "answers": [
+        "C. S. Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_48",
+      "title": "Who aimed his \"Emporio\" clothing line at younger buyers?",
+      "answers": [
+        "Giorgio Armani"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_49",
+      "title": "Who wrote, TIdings of Comfort and Joy in 1997?",
+      "answers": [
+        "T. Davis Bunn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_55_50",
+      "title": "What author created Discworld?",
+      "answers": [
+        "Terry Pratchett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

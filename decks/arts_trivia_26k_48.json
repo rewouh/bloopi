@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_48",
+  "name": "Arts Trivia 26K 48",
+  "description": "Arts 2351 - 2400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_48_01",
+      "title": "The author Bram Stoker was what nationality?",
+      "answers": [
+        "Irish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_02",
+      "title": "What J.D. Salinger character never found out where the ducks in Central Park go during the winter?",
+      "answers": [
+        "Holden Caulfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_03",
+      "title": "Who was the Greek god of harvest and agriculture?",
+      "answers": [
+        "Demeter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_04",
+      "title": "What short name does Dana use to refer to her son in the comic book series \"Revival\"?",
+      "answers": [
+        "Coop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_05",
+      "title": "A Villanelle is a type of what?",
+      "answers": [
+        "Poem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_06",
+      "title": "What scary children's book series is written by R.L. Stine?",
+      "answers": [
+        "\"Goosebumps\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_07",
+      "title": "What note is the highest string of a violin usually tuned to?",
+      "answers": [
+        "E"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_08",
+      "title": "From what language did English borrow the word \"stroll\"?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_09",
+      "title": "Who wrote the novel \"The Chocolate War\"?",
+      "answers": [
+        "Robert Cormier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_10",
+      "title": "In the novel \"Dances with Wolves,\" what is the name of John Dunbar's horse?",
+      "answers": [
+        "Cisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_11",
+      "title": "Who rode Rocinante?",
+      "answers": [
+        "Don Quixote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_12",
+      "title": "Who is often considered the first to become a billionaire writing books?",
+      "answers": [
+        "J.K. Rowling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_13",
+      "title": "What artist pioneered Abstract Impressionism in 1948?",
+      "answers": [
+        "Jackson Pollack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_14",
+      "title": "What mythical title has been given to poets from Sappho to Anne Bradstreet?",
+      "answers": [
+        "The Tenth Muse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_15",
+      "title": "In a famous short story, on what bridge was Peyton Farquhar condemned to be hanged before the rope broke?",
+      "answers": [
+        "Owl Creek Bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_16",
+      "title": "In the book \"Animal Farm\", what boar originally encouraged the other animals to rebel against Farmer Jones?",
+      "answers": [
+        "Old Major"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_17",
+      "title": "What Jane Austen novel has a main character named Fanny Price?",
+      "answers": [
+        "Mansfield Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_18",
+      "title": "What massively successful novel did Mario Puzo publish in 1969?",
+      "answers": [
+        "The Godfather"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_19",
+      "title": "Which music genre lilterally means \"new trend\" in Portuguese?",
+      "answers": [
+        "Bossa Nova"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_20",
+      "title": "In Greek mythology, Dione was the mother of which goddess?",
+      "answers": [
+        "Aphrodite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_21",
+      "title": "Who wrote the short novel \"The Old Man and the Sea\"?",
+      "answers": [
+        "Ernest Hemingway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_22",
+      "title": "Which author won the Booker Prize 1986 for the novel \"The Old Devils\"?",
+      "answers": [
+        "Kingsley Amis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_23",
+      "title": "What is the real name of the DC character Deathstroke?",
+      "answers": [
+        "Slade Wilson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_24",
+      "title": "Who wrote the best selling novel \"Polo\"?",
+      "answers": [
+        "Jilly cooper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_25",
+      "title": "Who wrote the 1903 novel \"Call of the Wild\"?",
+      "answers": [
+        "Jack London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_26",
+      "title": "What year saw the release of the first Harry Potter book?",
+      "answers": [
+        "1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_27",
+      "title": "What is the last word in the Bible?",
+      "answers": [
+        "Amen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_28",
+      "title": "What literary character, in a novel by Cervantes, had a sidekick named Sancho Panza?",
+      "answers": [
+        "Don Quixote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_29",
+      "title": "Including special characters, how many letters are there in the German alphabet?",
+      "answers": [
+        "Thirty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_30",
+      "title": "Who painted the cover art for the 1993 Billy Joel album \"River of Dreams\"?",
+      "answers": [
+        "Christie Brinkley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_31",
+      "title": "Which British prime minister was awarded the Nobel Prize for Literature?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_32",
+      "title": "Who is the last remaining survivor from Earth in \"The Hitchhiker's Guide to the Galaxy\"?",
+      "answers": [
+        "Arthur Dent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_33",
+      "title": "Who wrote the novel \"Nostromo\"?",
+      "answers": [
+        "Joseph Conrad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_34",
+      "title": "Who is the Greek equivalent of the Roman god Minerva?",
+      "answers": [
+        "Athena"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_35",
+      "title": "What author created Gormenghast?",
+      "answers": [
+        "Mervyn Peake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_36",
+      "title": "Which Shakespeare play sees the brother of a novice nun sentenced to death for fornication?",
+      "answers": [
+        "Measure for Measure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_37",
+      "title": "Who was the Roman god of sleep?",
+      "answers": [
+        "Somnus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_38",
+      "title": "In what modified vegetable did Cinderella travel to the ball in?",
+      "answers": [
+        "Pumpkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_39",
+      "title": "Where was King Arthur's court?",
+      "answers": [
+        "Camelot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_40",
+      "title": "In what comic strip would you find siblings Skeezix, Corky and Judy?",
+      "answers": [
+        "Gasoline Alley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_41",
+      "title": "What was the sequel to \"Little Women\"?",
+      "answers": [
+        "Good Wives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_42",
+      "title": "What Italian city was Michelangelo raised in?",
+      "answers": [
+        "Florence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_43",
+      "title": "What literary work inspired David Bowie's \"Big Brother\" song?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_44",
+      "title": "From what language did English borrow the word \"honcho\"?",
+      "answers": [
+        "Japanese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_45",
+      "title": "Who is the protagonist in \"The Hunger Games\" book trilogy?",
+      "answers": [
+        "Katniss Everdeen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_46",
+      "title": "Which play is believed to be Shakespeare's first tragedy?",
+      "answers": [
+        "Titus Andronicus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_47",
+      "title": "What book is divided into 114 chapters called \"suras\"?",
+      "answers": [
+        "The Qur'an"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_48",
+      "title": "Which great Renaissance artist designed the dome of St. Peter's Basilica in Rome?",
+      "answers": [
+        "Michelangelo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_49",
+      "title": "In Greek mythology, who did Oedipus marry?",
+      "answers": [
+        "Jocasta, his mother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_48_50",
+      "title": "On which day of Creation did God make the land and seas?",
+      "answers": [
+        "Third"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

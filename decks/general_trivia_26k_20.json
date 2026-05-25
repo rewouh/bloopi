@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_20",
+  "name": "General Trivia 26K 20",
+  "description": "General 951 - 1000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_20_01",
+      "title": "Which commemorative US state quarter depicts salmon leaping in front of a mountain on its reverse side?",
+      "answers": [
+        "Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_02",
+      "title": "What animal do you obtain venison from?",
+      "answers": [
+        "Deer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_03",
+      "title": "Who got his signature left-ear piercing in 1986, after interviewee Liza Minnelli encouraged him to do it?",
+      "answers": [
+        "Ed Bradley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_04",
+      "title": "What sport did Andre Agassi's dad compete in?",
+      "answers": [
+        "Boxing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_05",
+      "title": "Which bird is the national bird of Japan?",
+      "answers": [
+        "Green pheasant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_06",
+      "title": "Which modern clothing innovation was created by a fax machine saleswoman?",
+      "answers": [
+        "Spanx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_07",
+      "title": "What sport has thirteen players per team in \"league\" rules but fifteen in \"union\" play?",
+      "answers": [
+        "Rugby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_08",
+      "title": "\"Lorgnette\" is the proper term for a pair of glasses with what?",
+      "answers": [
+        "A handle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_09",
+      "title": "What spirit is mixed with ginger beer and lime to make a Moscow Mule?",
+      "answers": [
+        "Vodka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_10",
+      "title": "What common legal item literally means \"under penalty\"?",
+      "answers": [
+        "Subpoena"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_11",
+      "title": "What does a red flag mean in auto racing?",
+      "answers": [
+        "Stop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_12",
+      "title": "On a standard QWERTY keyboard, which vowel does not appear in the top row of letters?",
+      "answers": [
+        "A"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_13",
+      "title": "How many international centuries did Sachin Tendulkar complete?",
+      "answers": [
+        "100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_14",
+      "title": "How many players are there in a standard ultimate frisbee team?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_15",
+      "title": "What sport's lingo uses the term \"Pickle\"?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_16",
+      "title": "Which financial institution offered their clients \"a piece of the rock\"?",
+      "answers": [
+        "Prudential"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_17",
+      "title": "The rule by a few wealthy people is called what?",
+      "answers": [
+        "Oligarchy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_18",
+      "title": "Which is heavier, a baseball or a softball?",
+      "answers": [
+        "A softball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_19",
+      "title": "What country did Hawaiian pizza come from?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_20",
+      "title": "Where were police dogs first used?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_21",
+      "title": "What Volkswagen car model appears in the International Radio Alphabet?",
+      "answers": [
+        "Golf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_22",
+      "title": "In the health world, what does \"BMI\" stand for?",
+      "answers": [
+        "Body Mass Index"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_23",
+      "title": "During the Kentucky Derby races, what fashion event is known as part southern tradition and part spectacle?",
+      "answers": [
+        "The Hat Parade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_24",
+      "title": "What character was invented to respond to questions from Gold Medal Flour customers?",
+      "answers": [
+        "Betty Crocker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_25",
+      "title": "Which religious ceremony comes from the Greek word meaning \"to dip\"?",
+      "answers": [
+        "Baptism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_26",
+      "title": "What open-faced Italian omelette is, despite its name, more often baked than fried?",
+      "answers": [
+        "Frittata"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_27",
+      "title": "How old was the Elephant Man when he died?",
+      "answers": [
+        "27"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_28",
+      "title": "What is the name for a drink of half iced tea and half lemonade?",
+      "answers": [
+        "Arnold Palmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_29",
+      "title": "From which language did the English word \"vampire\" originate?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_30",
+      "title": "Which Jamaican runner is an 11-time world champion and holds the record in the 100 and 200-meter race?",
+      "answers": [
+        "Usain Bolt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_31",
+      "title": "What is the shape of a traditional loaf of sourdough bread called?",
+      "answers": [
+        "Boule"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_32",
+      "title": "What is the fear of horses called?",
+      "answers": [
+        "Equinophobia or hippophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_33",
+      "title": "An \"agelast\" is someone who never does what?",
+      "answers": [
+        "Laughs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_34",
+      "title": "What animal shape are the chocolate pieces in Ben & Jerry's flavor \"Vermonty Python\"?",
+      "answers": [
+        "Cows"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_35",
+      "title": "What was the world’s first mass-produced car to feature an all-aluminium body?",
+      "answers": [
+        "Honda NSX"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_36",
+      "title": "The Bugatti Veyron was designed and produced by which large automotive group?",
+      "answers": [
+        "Volkswagen Group"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_37",
+      "title": "What is the tenth sign of the Zodiac?",
+      "answers": [
+        "Capricorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_38",
+      "title": "What date is inscribed in the tablet held by the Statue of Liberty?",
+      "answers": [
+        "July 4, 1776"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_39",
+      "title": "What is  the first possible property purchase on Monopoly?",
+      "answers": [
+        "Baltic Avenue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_40",
+      "title": "The infamous glitch Pokemon \"missingno\" is found in the games Pokemon Red and what else?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_41",
+      "title": "What 1960’s film with Michael Caine is often credited with aiding to the popularity of the French Press?",
+      "answers": [
+        "The Ipcress File"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_42",
+      "title": "What year was the third iteration of the video game series \"Gran Turismo\" released?",
+      "answers": [
+        "2001"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_43",
+      "title": "What US city and its surroundings is the basis for a standard US Monopoly board?",
+      "answers": [
+        "Atlantic City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_44",
+      "title": "Algophobia or algiophobia is the fear of what?",
+      "answers": [
+        "Pain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_45",
+      "title": "What is equinophobia the fear of?",
+      "answers": [
+        "Horses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_46",
+      "title": "Which espresso drink is named for a religious order?",
+      "answers": [
+        "Cappuccino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_47",
+      "title": "Someone who is polytheistic believes in more than one what?",
+      "answers": [
+        "God"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_48",
+      "title": "From what fruit would you get \"Copra\"?",
+      "answers": [
+        "The Coconut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_49",
+      "title": "What is the name of the frog companion that you find in Donkey Kong Country?",
+      "answers": [
+        "Winky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_20_50",
+      "title": "Autophobia is a fear of what?",
+      "answers": [
+        "Being alone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

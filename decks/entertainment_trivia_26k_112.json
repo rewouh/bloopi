@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_112",
+  "name": "Entertainment Trivia 26K 112",
+  "description": "Entertainment 5551 - 5600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_112_01",
+      "title": "How old was Humphrey Bogart when he died in 1957?",
+      "answers": [
+        "57"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_02",
+      "title": "Who directed the movie \"Close Encounters of the Third Kind\"?",
+      "answers": [
+        "Steven Spielberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_03",
+      "title": "What comedian was a drummer in the early days of the band Steely Dan?",
+      "answers": [
+        "Chevy Chase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_04",
+      "title": "Who is Issur Danielovitch better known as?",
+      "answers": [
+        "Kirk Douglas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_05",
+      "title": "What country was the setting for the 2009 movie \"The Hurt Locker\"?",
+      "answers": [
+        "Iraq"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_06",
+      "title": "What is Peter's TV network called on the TV show \"Family Guy\"?",
+      "answers": [
+        "PTV"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_07",
+      "title": "What TV show's announcer was Hank \"Hey Now!\" Kingsley?",
+      "answers": [
+        "The Larry Sanders Show's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_08",
+      "title": "Paul Stanley is the co-singer for which Rock-N-Roll band?",
+      "answers": [
+        "Kiss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_09",
+      "title": "In \"The Godfather\", who plays Michael Corleone?",
+      "answers": [
+        "Al Pacino"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_10",
+      "title": "Who played the role of Gunnery Sergeant Hartman in the film \"Full Metal Jacket\"?",
+      "answers": [
+        "R. Lee Ermy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_11",
+      "title": "Who originally sang \"Frosty the Snowman\"?",
+      "answers": [
+        "Gene Autry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_12",
+      "title": "Who did Ed Wood meet in the movie by the same name?",
+      "answers": [
+        "Bela Lugosi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_13",
+      "title": "What is the name of the coolest girls' gang in the movie \"Grease\"?",
+      "answers": [
+        "The Pink Ladies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_14",
+      "title": "What was the name of Barney and Betty Rubble’s adopted son in \"The Flintstones\"?",
+      "answers": [
+        "Bamm-Bamm Rubble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_15",
+      "title": "In which movie does Audrey Hepburn play a character named Holly Golightly?",
+      "answers": [
+        "Breakfast at Tiffany's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_16",
+      "title": "The group \"April Wine\" was formed in 1969 in what country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_17",
+      "title": "What was Mickey Mouse originally called?",
+      "answers": [
+        "Mortimer Mouse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_18",
+      "title": "The 2002 US film \"The Ring\" is based on a 1990's film produced and released in what other country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_19",
+      "title": "In the film \"Men In Black 3\", what did Agent K like to eat in order to think better?",
+      "answers": [
+        "Pie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_20",
+      "title": "What was the name of the family in \"One Man's Family\" TV show?",
+      "answers": [
+        "The Barbours"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_21",
+      "title": "Which actress was born Diane Hall?",
+      "answers": [
+        "Diane Keaton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_22",
+      "title": "Tom DeLonge, Mark Hoppus and Scott Raynor formed which band?",
+      "answers": [
+        "Blink-182"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_23",
+      "title": "Who won an Academy Award for her role as Lisa Rowe in the 1999 movie \"Girl, Interrupted\"?",
+      "answers": [
+        "Angelina Jolie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_24",
+      "title": "How many original shows and movies did Netflix release in 2016?",
+      "answers": [
+        "45"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_25",
+      "title": "Who was the host of TV’s “Unsolved Mysteries”?",
+      "answers": [
+        "Robert Stack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_26",
+      "title": "Who played the role of Wayne Szalinski in the 1989 film \"Honey, I Shrunk the Kids\"?",
+      "answers": [
+        "Rick Moranis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_27",
+      "title": "What was the first sports-themed movie to win the Oscar for Best Picture?",
+      "answers": [
+        "Rocky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_28",
+      "title": "What was Bo Donaldson's backing band?",
+      "answers": [
+        "The Heywoods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_29",
+      "title": "In the TV show \"The Simpsons\", what is the name of Marge's bowling ball?",
+      "answers": [
+        "Homer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_30",
+      "title": "Who played the Spirit of Christmas in the 1988 TV film \"Blackadder's Christmas Carol'\"?",
+      "answers": [
+        "Robbie Coltrane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_31",
+      "title": "What double-word song title was a hit single by The New Christy Minstrels?",
+      "answers": [
+        "Green, Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_32",
+      "title": "What actress shaved her head for her role in the movie \"Caged\"?",
+      "answers": [
+        "Eleanor Parker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_33",
+      "title": "Who plays the role of Captain John Miller in the movie \"Saving Private Ryan\"?",
+      "answers": [
+        "Tom Hanks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_34",
+      "title": "Who plays Ashley Judd's parole officer in the 1999 movie \"Double Jeopardy\"?",
+      "answers": [
+        "Tommy Lee Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_35",
+      "title": "Who was the first African American to host a TV show?",
+      "answers": [
+        "Nat King Cole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_36",
+      "title": "What does Anna Crowe say out loud in the Italian restaurant shortly after Malcolm Crowe arrives?",
+      "answers": [
+        "Happy Anniversary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_37",
+      "title": "In \"Snow White and the Seven Dwarfs\", which dwarf has the longest beard?",
+      "answers": [
+        "Sleepy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_38",
+      "title": "What newspaper does Clark Kent work for?",
+      "answers": [
+        "The Daily Planet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_39",
+      "title": "Which film won the Best Picture award at the 58th Academy Awards?",
+      "answers": [
+        "Out of Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_40",
+      "title": "What musical follows the rivalry between the Jets and the Sharks in New York City?",
+      "answers": [
+        "West Side Story"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_41",
+      "title": "In the 1995 movie \"Babe\", what Christmas carol does Babe sing?",
+      "answers": [
+        "Jingle Bells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_42",
+      "title": "As a child, what did Casper the Friendly Ghost die from?",
+      "answers": [
+        "Pneumonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_43",
+      "title": "All members of the \"Jackson 5\" were born in which US city?",
+      "answers": [
+        "Gary, Indiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_44",
+      "title": "Who has been played in a movie by both Denzel Washington and Mario Van Peebles?",
+      "answers": [
+        "Malcolm X"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_45",
+      "title": "What athlete had a part in the movie \"Action Jackson\"?",
+      "answers": [
+        "Carl Weathers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_46",
+      "title": "What movie popularized the phrase: \"Show me the money\"?",
+      "answers": [
+        "\"Jerry Maguire\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_47",
+      "title": "What movie's first sequel featured the subtitle \"On the Move\"?",
+      "answers": [
+        "Mannequin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_48",
+      "title": "Mel Gibson both directed and starred in which 1995 movie?",
+      "answers": [
+        "Braveheart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_49",
+      "title": "Who from the cast of \"The Usual Suspects\" won a Best Supporting Actor Oscar?",
+      "answers": [
+        "Kevin Spacey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_112_50",
+      "title": "What was Bette Midler’s only #1 song on the Billboard Hot 100 singles chart?",
+      "answers": [
+        "Wind Beneath My Wings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

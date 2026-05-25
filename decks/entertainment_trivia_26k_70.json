@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_70",
+  "name": "Entertainment Trivia 26K 70",
+  "description": "Entertainment 3451 - 3500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_70_01",
+      "title": "What was the name of Danny's gang in \"Grease\"?",
+      "answers": [
+        "The Thunderbirds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_02",
+      "title": "What is the life span of a replicant in \"Blade Runner\"?",
+      "answers": [
+        "Four years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_03",
+      "title": "What 1960’s TV show was set in Cocoa Beach, Florida?",
+      "answers": [
+        "I Dream of Jeannie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_04",
+      "title": "In what year was David Bowie inducted into The Rock and Roll Hall of Fame?",
+      "answers": [
+        "1996"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_05",
+      "title": "What was the original name for the Grammy Award(s)?",
+      "answers": [
+        "Gramophone Award"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_06",
+      "title": "Vaselina and Brillantino were alternate names which film?",
+      "answers": [
+        "Grease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_07",
+      "title": "What was the name of the album Men at Work released in 1981?",
+      "answers": [
+        "Business as Usual"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_08",
+      "title": "What is Peter Chriss’ persona name in the band KISS?",
+      "answers": [
+        "The Catman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_09",
+      "title": "In what city was the movie Chinatown filmed?",
+      "answers": [
+        "Los Angeles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_10",
+      "title": "Jimmy McShane was the front man for which 1980's Italian new wave band?",
+      "answers": [
+        "Baltimora"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_11",
+      "title": "What sector of the Springfield nuclear power plant does Carl Carlson work in?",
+      "answers": [
+        "7G"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_12",
+      "title": "Who was the second actor in history to decline an Oscar?",
+      "answers": [
+        "Marlon Brando"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_13",
+      "title": "What is the name of the event where tributes are chosen for \"The Hunger Games\"?",
+      "answers": [
+        "The Reaping"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_14",
+      "title": "In Old School, what actor is caught streaking and says, \"Come on snoop, snoopaloop, bring your green hat\"?",
+      "answers": [
+        "Will Ferrell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_15",
+      "title": "What Broadway soundtrack was the best selling album of the 1960's?",
+      "answers": [
+        "West Side Story"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_16",
+      "title": "What film earned Henry Fonda his first Oscar for Best Actor?",
+      "answers": [
+        "On Golden Pond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_17",
+      "title": "Who took home the Country Music Association very first music video award in 1984 for \"All My Rowdy Friends Are Comin’ Over Tonight\"?",
+      "answers": [
+        "Hank Williams Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_18",
+      "title": "What unusual item was worn by \"The Gong Show's\" Unknown Comic, Murray Langston?",
+      "answers": [
+        "A paper bag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_19",
+      "title": "Who has been played in a movie by both Norma Shearer and Kirsten Dunst?",
+      "answers": [
+        "Marie Antoinette"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_20",
+      "title": "Whose normal heartbeat is 242 per minute?",
+      "answers": [
+        "Spock's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_21",
+      "title": "Who played the title role in the 1990’s TV show \"Grace Under Fire\"?",
+      "answers": [
+        "Brett Butler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_22",
+      "title": "What was the one-syllable catchphrase of Little Orphan Annie's dog, Sandy?",
+      "answers": [
+        "Arf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_23",
+      "title": "Who starred as Captain Georg von Trapp in \"The Sound of Music\"?",
+      "answers": [
+        "Christopher Plummer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_24",
+      "title": "On what streaming platform was Kanye West’s \"The Life of Pablo\" album launched?",
+      "answers": [
+        "Tidal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_25",
+      "title": "Who sang \"All I Wanna Do\"?",
+      "answers": [
+        "Sheryl Crow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_26",
+      "title": "What 1984 song by Prince was his first to hit #1 on the Billboard charts?",
+      "answers": [
+        "When Doves Cry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_27",
+      "title": "What kind of animal is the title character in the 1938 movie \"Bringing Up Baby\"?",
+      "answers": [
+        "Leopard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_28",
+      "title": "What TV show's main characters are Jerry, George, Elaine and Kramer?",
+      "answers": [
+        "Seinfeld"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_29",
+      "title": "Telly Savalas played which TV detective?",
+      "answers": [
+        "Kojak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_30",
+      "title": "Which film sported the tag-line \"Just when you thought it was safe to go back in the water\"?",
+      "answers": [
+        "Jaws 2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_31",
+      "title": "In which movie did Christina Ricci portray a witch?",
+      "answers": [
+        "Sleepy Hollow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_32",
+      "title": "Who directed the 1985 film \"Out of Africa\"?",
+      "answers": [
+        "Sydney Pollack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_33",
+      "title": "What was the title of the 2007 Larry the Cable Guy movie where he played a bumbling Army reservist?",
+      "answers": [
+        "Delta Farce"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_34",
+      "title": "Which character did Raquel Welch play in the 1966 science fiction film \"Fantastic Voyage\"?",
+      "answers": [
+        "Cora"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_35",
+      "title": "In the 1991 movie \"Thelma and Louise\" who plays the part of Louise?",
+      "answers": [
+        "Susan Sarandon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_36",
+      "title": "What is the name of the studio founded by Sidney Poitier, Barbra Streisand and Paul Newman in 1969?",
+      "answers": [
+        "First Artists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_37",
+      "title": "Who played the role of Ross on the TV show \"Friends\"?",
+      "answers": [
+        "David Schwimmer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_38",
+      "title": "What early rock and roll pioneer's real first and middle name was Charles Hardin?",
+      "answers": [
+        "Buddy Holly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_39",
+      "title": "Who won the Oscar for Best Director for the 1987 film \"The Last Emperor\"?",
+      "answers": [
+        "Bernardo Bertolucci"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_40",
+      "title": "Who played The Monster in the 1931 film \"Frankstein\"?",
+      "answers": [
+        "Boris Karloff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_41",
+      "title": "What alien did Ben 10 first turn into in \"Ben 10: Alien Force\"?",
+      "answers": [
+        "Swampfire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_42",
+      "title": "What 1974 horror film's title weapon was a Poulan 245A?",
+      "answers": [
+        "The Texas Chainsaw Massacre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_43",
+      "title": "\"The Tortelli's\" was the first attempt at a spin-off from what TV show?",
+      "answers": [
+        "Cheers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_44",
+      "title": "What future US congressman co-wrote the Searchers' 1964 hit \"Needles and Pins\"?",
+      "answers": [
+        "Sonny Bono"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_45",
+      "title": "Who was Humphrey Bogarts 4th wife?",
+      "answers": [
+        "Lauren Bacall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_46",
+      "title": "In Harry Potter, who is it that reveals to Harry that he is a wizard?",
+      "answers": [
+        "Hagrid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_47",
+      "title": "Which pop musician was deported from Japan in the 1980's for possession of marijuana?",
+      "answers": [
+        "Paul McCartney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_48",
+      "title": "Who won the first UK version of \"Big Brother\"?",
+      "answers": [
+        "Craig Phillips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_49",
+      "title": "What \"Seinfeld\" co­-creator also provided the voice of George Steinbrenner on the show?",
+      "answers": [
+        "Larry David"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_70_50",
+      "title": "Who directed the 1994 movie \"True Lies\"?",
+      "answers": [
+        "James Cameron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

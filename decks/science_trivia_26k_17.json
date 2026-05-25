@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_17",
+  "name": "Science Trivia 26K 17",
+  "description": "Science 801 - 850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_17_01",
+      "title": "Something which is an \"emetic\" makes you do what?",
+      "answers": [
+        "Vomit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_02",
+      "title": "Oak trees are part of which genus?",
+      "answers": [
+        "Quercus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_03",
+      "title": "What does a heliologist study?",
+      "answers": [
+        "The Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_04",
+      "title": "What tree measurement do foresters usually make at 4 feet above ground level?",
+      "answers": [
+        "Girth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_05",
+      "title": "What color catches the eye first?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_06",
+      "title": "What is the scientific name of the great white shark?",
+      "answers": [
+        "Carcaradon Carcharius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_07",
+      "title": "What is the chemical symbol for the element Magnesium on the periodic table?",
+      "answers": [
+        "Mg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_08",
+      "title": "What is the largest object in the asteroid belt that lies between the orbits of Mars and Jupiter?",
+      "answers": [
+        "Ceres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_09",
+      "title": "How would you write 99 in Roman numerals?",
+      "answers": [
+        "XCIX"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_10",
+      "title": "According to Ohm's Law, what would the resistance be in a circuit with 40 volts and 8 amps?",
+      "answers": [
+        "5 ohms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_11",
+      "title": "What is the name for a baby crocodile?",
+      "answers": [
+        "Crocklet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_12",
+      "title": "Who was the first woman to win a Nobel Prize in Physics?",
+      "answers": [
+        "Maria Sklodowska-Curie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_13",
+      "title": "What is the fear of long words known as?",
+      "answers": [
+        "Hippopotomostrosesquippedaliophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_14",
+      "title": "What is the deadly disease that has afflicted European royalty?",
+      "answers": [
+        "Hemophilia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_15",
+      "title": "What is the name for the soft white layer that forms on teeth?",
+      "answers": [
+        "Plaque"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_16",
+      "title": "Azote is an old name for what element?",
+      "answers": [
+        "Nitrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_17",
+      "title": "Bathmophobia is the fear of what?",
+      "answers": [
+        "Stairs or steep slopes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_18",
+      "title": "What is the space between your nostrils called?",
+      "answers": [
+        "Columella nasi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_19",
+      "title": "What’s the term for mass per unit volume?",
+      "answers": [
+        "Density"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_20",
+      "title": "What does the Kármán Line represent?",
+      "answers": [
+        "The edge of space"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_21",
+      "title": "King, Coho and Silver are subspecies of what fish?",
+      "answers": [
+        "Salmon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_22",
+      "title": "What is the opposite of insulin and secreted by the pancreas?",
+      "answers": [
+        "Glucagon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_23",
+      "title": "What hormone secreted by the pancreas lowers blood glucose levels in diabetics?",
+      "answers": [
+        "Insulin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_24",
+      "title": "What is the standard of strength of distilled alcoholic liquors called?",
+      "answers": [
+        "Proof"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_25",
+      "title": "Which planet spins on a nearly horizontal axis?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_26",
+      "title": "What science combines computer science, statistics, engineering, and biology?",
+      "answers": [
+        "Bioinformatics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_27",
+      "title": "A hydrometer is used to check the condition of the electrolyte in a car battery. It is actually measuring what property of the fluid?",
+      "answers": [
+        "Density"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_28",
+      "title": "What is the SI unit for electrical capacitance?",
+      "answers": [
+        "Farad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_29",
+      "title": "What are the warm winds that blow off the Rocky Mountains called?",
+      "answers": [
+        "Chinooks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_30",
+      "title": "How is sodium bicarbonate better known?",
+      "answers": [
+        "Baking soda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_31",
+      "title": "Panophobia is the fear of what?",
+      "answers": [
+        "Everything"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_32",
+      "title": "What is the second most common element in the Sun after hydrogen?",
+      "answers": [
+        "Helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_33",
+      "title": "What was the first planet discovered by telescope?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_34",
+      "title": "In which year did Neil Armstrong walk on the moon?",
+      "answers": [
+        "1969"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_35",
+      "title": "Zoologist Dian Fossey dedicated her life to the study of what animals?",
+      "answers": [
+        "Gorillas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_36",
+      "title": "A young shark is known as a what?",
+      "answers": [
+        "A pup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_37",
+      "title": "Anthracite and bituminous are two types of what mineral?",
+      "answers": [
+        "Coal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_38",
+      "title": "How many planets in our Solar System have moons?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_39",
+      "title": "Petrichor describes the scent of what?",
+      "answers": [
+        "Outside after rainfall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_40",
+      "title": "What were comets called in ancient Greece?",
+      "answers": [
+        "Hairy stars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_41",
+      "title": "Where on the human body is the ulnar loop?",
+      "answers": [
+        "Finger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_42",
+      "title": "What Greek letter is used to represent electrical resistance?",
+      "answers": [
+        "Omega"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_43",
+      "title": "What fungus is used in making bread?",
+      "answers": [
+        "Yeast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_44",
+      "title": "What inorganic molecule does lightning produce?",
+      "answers": [
+        "Ozone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_45",
+      "title": "Which French philosopher said \"Cogito Ergo Sum\"?",
+      "answers": [
+        "Rene Descartes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_46",
+      "title": "What is the medical term for earwax?",
+      "answers": [
+        "Cerumen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_47",
+      "title": "What important sensory organ do earthworms lack?",
+      "answers": [
+        "Eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_48",
+      "title": "What relative of the raccoon is sometimes known as the cat-bear?",
+      "answers": [
+        "The Panda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_49",
+      "title": "Tin cans were invented in 1810, but is it true that can openers did not appear until 50 years later?",
+      "answers": [
+        "Yes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_17_50",
+      "title": "What sense would you not have if you were anosmic?",
+      "answers": [
+        "Smell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

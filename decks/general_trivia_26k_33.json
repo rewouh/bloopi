@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_33",
+  "name": "General Trivia 26K 33",
+  "description": "General 1601 - 1650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_33_01",
+      "title": "What is a Karahi?",
+      "answers": [
+        "A wok-like cooking pot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_02",
+      "title": "Which bird is the national bird of Egypt?",
+      "answers": [
+        "Golden eagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_03",
+      "title": "What year did tennis player, Martina Hingis, turned professional?",
+      "answers": [
+        "1994"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_04",
+      "title": "Who was the losing coach in the first Super Bowl, played January 15, 1967?",
+      "answers": [
+        "Hank Stram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_05",
+      "title": "The \"Robots in Disguise\" are better known as what?",
+      "answers": [
+        "Transformers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_06",
+      "title": "What sporting legend is nicknamed \"The Great One\"?",
+      "answers": [
+        "Wayne Gretzky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_07",
+      "title": "Who played his first game for D.C. United in 2003 at the tender age of 14?",
+      "answers": [
+        "Freddy Adu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_08",
+      "title": "What is the fear of becoming cold called?",
+      "answers": [
+        "Frigophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_09",
+      "title": "What is a Gopak?",
+      "answers": [
+        "A Ukrainian dance"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_10",
+      "title": "Which famous artist designed the Chupa Chups logo in 1969?",
+      "answers": [
+        "Salvador Dali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_11",
+      "title": "What country had, at one time, a female \"Santa\" called La Befena?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_12",
+      "title": "Which popular method of brewing coffee requires the beans to be ground to a powder?",
+      "answers": [
+        "Turkish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_13",
+      "title": "What flavor was the original filling in Twinkies?",
+      "answers": [
+        "Banana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_14",
+      "title": "What A-word means the same as toxophilite?",
+      "answers": [
+        "Archer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_15",
+      "title": "How many engines are on a B-52 bomber?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_16",
+      "title": "What organization for people with high IQs has a name meaning \"table\" in Latin?",
+      "answers": [
+        "Mensa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_17",
+      "title": "Which light wood is commonly used for making aeromodels?",
+      "answers": [
+        "Balsa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_18",
+      "title": "What was the first name of the real Chef Boyardee?",
+      "answers": [
+        "Hector"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_19",
+      "title": "What is the core in most pencils made from?",
+      "answers": [
+        "Graphite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_20",
+      "title": "How many instruments accompany someone singing \"a cappella\"?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_21",
+      "title": "How many meters is a lap in an official Olympic swimming pool?",
+      "answers": [
+        "100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_22",
+      "title": "How many colors were there in the first boxes of Crayola crayons sold in 1903?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_23",
+      "title": "There have only been five \"quadruple-doubles\" achieved in the NBA. Which player is responsible for two of them?",
+      "answers": [
+        "Hakeem Olajuwon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_24",
+      "title": "What musical instrument is played to wake up soldiers?",
+      "answers": [
+        "Bugle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_25",
+      "title": "Who succeeded Tom Brokaw as anchor on NBC’s Nightly News in 2004?",
+      "answers": [
+        "Brian Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_26",
+      "title": "What is stored at a depository in Fort Knox?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_27",
+      "title": "What animal is depicted on the flag of Wyoming?",
+      "answers": [
+        "Buffalo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_28",
+      "title": "A person whose age is between 50 and 59, inclusive, is called what?",
+      "answers": [
+        "Quinquagenarian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_29",
+      "title": "What are the four main levels of India's caste system?",
+      "answers": [
+        "Brahman, Kshatriyas, Vaisyas, Sudras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_30",
+      "title": "Althea Gibson was a pioneering African-American athlete in what sport?",
+      "answers": [
+        "Tennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_31",
+      "title": "What popular oblong pastry is made of choux dough, filled with cream and topped with icing?",
+      "answers": [
+        "Eclair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_32",
+      "title": "What does the French fashion term \"prêt-à-porter\" translate to in English?",
+      "answers": [
+        "Ready-to-wear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_33",
+      "title": "On a standard color wheel, what color is opposite blue?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_34",
+      "title": "What was the first video game played in space?",
+      "answers": [
+        "Tetris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_35",
+      "title": "What raconteur and Topkapi star joked that he wanted his tombstone to read \"Keep off the grass\"?",
+      "answers": [
+        "Peter Ustinov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_36",
+      "title": "What is the name of a heavenly long and thin noodle?",
+      "answers": [
+        "Angel hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_37",
+      "title": "Emmental cheese originated in what country?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_38",
+      "title": "What do the four letters stand for in the name of the US government agency FEMA?",
+      "answers": [
+        "Federal Emergency Management Agency"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_39",
+      "title": "What does B stand for when referring to a camera's shutter speed?",
+      "answers": [
+        "Bulb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_40",
+      "title": "What is added to a Cosmopolitan martini to make it pink?",
+      "answers": [
+        "Cranberry juice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_41",
+      "title": "According to the Gospels, what did the Wise Men bring?",
+      "answers": [
+        "Gold, Frankincense, and Myrrh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_42",
+      "title": "What type of legal defense is derived from the Latin word meaning \"elsewhere\"?",
+      "answers": [
+        "Alibi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_43",
+      "title": "What type of animal is the Japanese monster, King Ghidorah?",
+      "answers": [
+        "Three-headed dragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_44",
+      "title": "Which New York newspaper wrote \"yes Virginia, there is a Santa Claus\"?",
+      "answers": [
+        "The New York Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_45",
+      "title": "As of 2020, who is the most “liked” person on Facebook?",
+      "answers": [
+        "Cristiano Ronaldo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_46",
+      "title": "What is the fear of fire known as?",
+      "answers": [
+        "Pyrophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_47",
+      "title": "The Peabody Award is an award given in what field?",
+      "answers": [
+        "Radio and television"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_48",
+      "title": "How many players are there in a standard beach volleyball team?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_49",
+      "title": "What is the longest running US game show?",
+      "answers": [
+        "Price is Right"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_33_50",
+      "title": "What color flag is the signal for surrender?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

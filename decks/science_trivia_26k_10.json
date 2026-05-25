@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_10",
+  "name": "Science Trivia 26K 10",
+  "description": "Science 451 - 500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_10_01",
+      "title": "What vegetable family does Calabrese broccoli come from?",
+      "answers": [
+        "Cabbage family"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_02",
+      "title": "How fast, on average, do adult fingernails grow?",
+      "answers": [
+        "3 millimeters per month"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_03",
+      "title": "Ephebiphobia is the fear of what?",
+      "answers": [
+        "Teenagers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_04",
+      "title": "Which element has the atomic number 81?",
+      "answers": [
+        "Thallium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_05",
+      "title": "Which organ secretes insulin?",
+      "answers": [
+        "The pancreas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_06",
+      "title": "Under what brand name does Roche market the sedative diazepam?",
+      "answers": [
+        "Valium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_07",
+      "title": "Where does the zygote of a gymnosperm develop?",
+      "answers": [
+        "In The Ovule"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_08",
+      "title": "In biology, what does RNA stand for?",
+      "answers": [
+        "Ribonucleic Acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_09",
+      "title": "How many cubic meters are there in 1,000 litres?",
+      "answers": [
+        "1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_10",
+      "title": "What is the study of space called?",
+      "answers": [
+        "Astronomy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_11",
+      "title": "What flowers do florists often refer to as \"mums\"?",
+      "answers": [
+        "Chrysanthemums"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_12",
+      "title": "The constellation Sagittarius is usually depicted as aiming its arrow at what fierce neighbor?",
+      "answers": [
+        "Scorpio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_13",
+      "title": "What is another name for the vitamin B3?",
+      "answers": [
+        "Niacin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_14",
+      "title": "Which part of the human eye controls the size of the pupil?",
+      "answers": [
+        "The Iris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_15",
+      "title": "Which continent is the natural habitat of the Ostrich?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_16",
+      "title": "Nepetalactone is the active ingredient in what pet product?",
+      "answers": [
+        "Catnip"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_17",
+      "title": "Which element is named for a mischievous spirit from German folklore?",
+      "answers": [
+        "Cobalt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_18",
+      "title": "What inventor first used the term \"Horse Power\"?",
+      "answers": [
+        "James Watt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_19",
+      "title": "Which Australian animal has unique fingerprints?",
+      "answers": [
+        "Koala"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_20",
+      "title": "What two planets in our Solar System possess no moons?",
+      "answers": [
+        "Mercury and Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_21",
+      "title": "Which element of the periodic table is named after the moon?",
+      "answers": [
+        "Selenium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_22",
+      "title": "What kind of twins are also called \"dizygotic\"?",
+      "answers": [
+        "Fraternal twins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_23",
+      "title": "What satellite series was known as \"fellow traveler\"?",
+      "answers": [
+        "Sputnik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_24",
+      "title": "Nikola Tesla started his career working for which later rival?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_25",
+      "title": "Which is the largest planet in our solar system?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_26",
+      "title": "Mach refers to the speed of what?",
+      "answers": [
+        "Sound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_27",
+      "title": "What element is named after the Greek word for green?",
+      "answers": [
+        "Chlorine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_28",
+      "title": "Which constellation are the stars Castor and Pollux in?",
+      "answers": [
+        "Gemini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_29",
+      "title": "How long does it take the moon to revolve around the Earth, to the nearest day?",
+      "answers": [
+        "27"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_30",
+      "title": "What is the name of the process where plants lose water in the atmosphere?",
+      "answers": [
+        "Transpiration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_31",
+      "title": "Who invented the aerosol spray can?",
+      "answers": [
+        "Erik Rotheim"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_32",
+      "title": "Pes planus refers to which condition?",
+      "answers": [
+        "Flat feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_33",
+      "title": "What number is represented by \"L\" in Roman numerals?",
+      "answers": [
+        "50"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_34",
+      "title": "Who won a Nobel Prize in Chemistry in 2009 for studies of the structure and function of the ribosome?",
+      "answers": [
+        "Ada E. Yonath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_35",
+      "title": "How many horns did a triceratops have?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_36",
+      "title": "What country did poinsettias originally come from?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_37",
+      "title": "The average rain drop falls at a rate of how many feet per second?",
+      "answers": [
+        "21 feet per second"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_38",
+      "title": "What grape is called Primitivo in Europe?",
+      "answers": [
+        "Zinfandel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_39",
+      "title": "What do you have if you are suffering from circadian dysrhythmia?",
+      "answers": [
+        "Jet lag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_40",
+      "title": "What was the last name of the US surveyor who invented the process for condensing milk in 1853?",
+      "answers": [
+        "Gail Borden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_41",
+      "title": "What is the monarch butterfly sometimes called?",
+      "answers": [
+        "Milkweed butterfly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_42",
+      "title": "What organ is inflamed by hepatitis?",
+      "answers": [
+        "Liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_43",
+      "title": "What term is applied to animals or plants that are not nocturnal?",
+      "answers": [
+        "Diurnal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_44",
+      "title": "Primarily, what color is a Samoyed dog?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_45",
+      "title": "Approximately, how much horsepower can one horse produce?",
+      "answers": [
+        "15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_46",
+      "title": "Which celestial body is known as both the morning star and evening star?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_47",
+      "title": "How many bones are there in the human body?",
+      "answers": [
+        "206"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_48",
+      "title": "What kind of animal is a \"klipspringer\"?",
+      "answers": [
+        "An African antelope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_49",
+      "title": "What year were X-rays discovered?",
+      "answers": [
+        "1895"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_10_50",
+      "title": "What is the name of the second largest planet in our Solar System?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

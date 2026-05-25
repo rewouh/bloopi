@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_18",
+  "name": "Geography Trivia 26K 18",
+  "description": "Geography 851 - 900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_18_01",
+      "title": "Hollywood legend Clint Eastwood was once mayor of which city?",
+      "answers": [
+        "Carmel, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_02",
+      "title": "What word means a British village without a church?",
+      "answers": [
+        "Hamlet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_03",
+      "title": "By what name is the Thames known as it passes through Oxford?",
+      "answers": [
+        "The Isis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_04",
+      "title": "What city dug the first subway?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_05",
+      "title": "What land mass juts into the northern end of Delaware Bay?",
+      "answers": [
+        "Cape May"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_06",
+      "title": "What British island, accessible by road only at low tide, is also known as Holy Island?",
+      "answers": [
+        "Lindisfarne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_07",
+      "title": "Accra is the capital of which African country?",
+      "answers": [
+        "Ghana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_08",
+      "title": "In what country would you find the active volcano \"Popocatepetl\"?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_09",
+      "title": "What is the capital of Ukraine?",
+      "answers": [
+        "Kiev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_10",
+      "title": "What is the capital of Niger?",
+      "answers": [
+        "Niamey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_11",
+      "title": "What is the capital of Northern Mariana Islands?",
+      "answers": [
+        "Saipan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_12",
+      "title": "What is the capital of the US state of Missouri?",
+      "answers": [
+        "Jefferson City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_13",
+      "title": "Lake Tahoe is located in which US states?",
+      "answers": [
+        "California and Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_14",
+      "title": "Which US city was once called New Amsterdam?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_15",
+      "title": "Which ocean does Somalia has water access to?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_16",
+      "title": "You can find Grand Teton National Park in which U.S. state?",
+      "answers": [
+        "Wyoming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_17",
+      "title": "What sea borders Tunisia to the north?",
+      "answers": [
+        "Mediterranean sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_18",
+      "title": "Which European country replaced the Markka with the Euro?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_19",
+      "title": "Where is the centuries-old Maiden Tower?",
+      "answers": [
+        "Baku, Azerbaijan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_20",
+      "title": "What is the capital of Sierra Leone?",
+      "answers": [
+        "Freetown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_21",
+      "title": "What is the capital of Lithuania?",
+      "answers": [
+        "Vilnius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_22",
+      "title": "What Irish city's name is Gaelic for \"black pool\"?",
+      "answers": [
+        "Dublin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_23",
+      "title": "Where would you find the Pont Neuf bridge?",
+      "answers": [
+        "Paris, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_24",
+      "title": "What is the highest mountain in Africa?",
+      "answers": [
+        "Mount Kilimanjaro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_25",
+      "title": "How many US states border Mexico?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_26",
+      "title": "What major river runs through the city of London?",
+      "answers": [
+        "Thames"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_27",
+      "title": "What country administers Greenland?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_28",
+      "title": "What is the first foreign country you will reach if you go south from Miami, Florida.",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_29",
+      "title": "What was the capital of Brazil until Brasilia was completed?",
+      "answers": [
+        "Rio de Janeiro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_30",
+      "title": "Which US state is home to Wind Cave?",
+      "answers": [
+        "South Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_31",
+      "title": "What two countries noticed that they had the same flag at the 1936 Olympics in Berlin?",
+      "answers": [
+        "Haiti and Liechtenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_32",
+      "title": "What's notable about Yucatán Peninsula lakes known as \"cenotes\"?",
+      "answers": [
+        "They are underground"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_33",
+      "title": "Which is the southernmost country in the European Union with no Mediterranean coastline?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_34",
+      "title": "Beantown is the nickname for what US city?",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_35",
+      "title": "What tunnel connects France and Italy?",
+      "answers": [
+        "Mont Blanc Tunnel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_36",
+      "title": "The Black Hills, home to Mount Rushmore, are located in which US state?",
+      "answers": [
+        "South Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_37",
+      "title": "In which sea would you find the Cayman Islands?",
+      "answers": [
+        "Caribbean Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_38",
+      "title": "In what US state would you find Fort Shafter?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_39",
+      "title": "What US city is nicknamed the \"Birthplace of the Nation\"?",
+      "answers": [
+        "Philadelphia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_40",
+      "title": "What is the southern most city in the contiguous U.S.?",
+      "answers": [
+        "Key West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_41",
+      "title": "What name is shared by the rivers that run through Denison, Texas and Hanoi, Vietnam?",
+      "answers": [
+        "Red River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_42",
+      "title": "What was published in Japanese newspapers every month from December 1941 to September 1945?",
+      "answers": [
+        "Declaration of War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_43",
+      "title": "Oneida Lake is located in which US state?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_44",
+      "title": "What historic plaza is named for the first publisher of the \"Dallas Morning News\"?",
+      "answers": [
+        "Dealey Plaza"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_45",
+      "title": "What is the capital of India?",
+      "answers": [
+        "New Delhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_46",
+      "title": "The Wichita Mountains can be found in which U.S. state?",
+      "answers": [
+        "Oklahoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_47",
+      "title": "Which Arab country houses the Rub Al-Khali or Empty Quarter, the largest continuous sand desert in the world?",
+      "answers": [
+        "Saudi Arabia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_48",
+      "title": "A person from North Carolina is properly known as a what?",
+      "answers": [
+        "North Carolinian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_49",
+      "title": "What is the capital of California?",
+      "answers": [
+        "Sacramento"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_18_50",
+      "title": "The Pine Barrens in southern New Jersey is the supposed home of which legendary creature?",
+      "answers": [
+        "Jersey Devil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

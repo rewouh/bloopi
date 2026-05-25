@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_42",
+  "name": "Entertainment Trivia 26K 42",
+  "description": "Entertainment 2051 - 2100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_42_01",
+      "title": "What cartoon character often promised that he would gladly pay you Tuesday for a hamburger today?",
+      "answers": [
+        "Wimpy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_02",
+      "title": "\"High Class Baby\" and \"Travellin' Light\" were hits for which singer?",
+      "answers": [
+        "Cliff Richard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_03",
+      "title": "What decade did Marty McFly go back to in \"Back to the Future\"?",
+      "answers": [
+        "1950's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_04",
+      "title": "What name did Weird Al Yankovic gave to his version of \"Beat It\"?",
+      "answers": [
+        "Eat it"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_05",
+      "title": "In football (soccer), who was nicknamed \"The Divine Ponytail\"?",
+      "answers": [
+        "Roberto Baggio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_06",
+      "title": "What movie starring George Clooney and Mark Wahlberg takes place during the Gulf War?",
+      "answers": [
+        "Three Kings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_07",
+      "title": "Who was the female lead character in the movie \"Three Colors: Blue\"?",
+      "answers": [
+        "Juliette Binoche"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_08",
+      "title": "Who played the blind character in the movie \"Sneakers\"?",
+      "answers": [
+        "David Strathairn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_09",
+      "title": "What jazz saxophonist was nicknamed \"Bird\"?",
+      "answers": [
+        "Charlie Parker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_10",
+      "title": "In the film \"Home Alone 2\", what city was the McCallister family planning on vacationing in?",
+      "answers": [
+        "Miami"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_11",
+      "title": "Who directed the 1969 movie \"The Wild Bunch\"?",
+      "answers": [
+        "Sam Peckinpah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_12",
+      "title": "What is Pat Benatar's birth name?",
+      "answers": [
+        "Patricia Mae Andrzejewski"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_13",
+      "title": "What was the first name of Frasier’s father on the sitcom “Frasier”?",
+      "answers": [
+        "Martin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_14",
+      "title": "Who played Willy Wonka in the original Broadway show of \"Charlie and the Chocolate Factory\"",
+      "answers": [
+        "Christian Borle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_15",
+      "title": "Who allegedly wrote the song \"Golden Years\" for Elvis Presley but ended up recording it himself?",
+      "answers": [
+        "David Bowie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_16",
+      "title": "Who played the role of the US president in the movie \"The American President\"?",
+      "answers": [
+        "Michael Douglas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_17",
+      "title": "What late actor played The Monster in 1974 movie \"Young Frankenstein\"?",
+      "answers": [
+        "Peter Boyle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_18",
+      "title": "Pete Best and Stu Sutcliffe were past ­members of what band?",
+      "answers": [
+        "The Beatles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_19",
+      "title": "Who is C3-PO's sidekick?",
+      "answers": [
+        "R2-D2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_20",
+      "title": "What's the protagonist's name in the 1931 movie \"Little Caesar\"?",
+      "answers": [
+        "Rico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_21",
+      "title": "Who is the boss on NBC's TV Show \"The Office\"?",
+      "answers": [
+        "Michael Scott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_22",
+      "title": "On what TV show did Roger Moore replace James Garner?",
+      "answers": [
+        "Maverick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_23",
+      "title": "According to the song \"Me and Bobby McGee\", in which city was Janis Joplin waiting for a train?",
+      "answers": [
+        "Baton Rouge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_24",
+      "title": "In \"Psycho\", Norman tells Marion she eats like a what?",
+      "answers": [
+        "Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_25",
+      "title": "What actor was the narrator in the movie \"The Right Stuff\"?",
+      "answers": [
+        "Levon Helm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_26",
+      "title": "What was the name of Dan Ackroyd’s butler in the movie \"Trading Places\"?",
+      "answers": [
+        "Coleman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_27",
+      "title": "What day of the week do the Bangles wish it was in \"Manic Monday\"?",
+      "answers": [
+        "Sunday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_28",
+      "title": "What movie marked Jodie Foster's directorial debut?",
+      "answers": [
+        "Little Man Tate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_29",
+      "title": "Who played the Reverend Jim Ignatowski on the TV show \"Taxi\"?",
+      "answers": [
+        "Christopher Lloyd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_30",
+      "title": "What TV show, sequel to an ABC sitcom that ended in 1995, was released by Netflix on February 26, 2016?",
+      "answers": [
+        "Fuller House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_31",
+      "title": "What is Goldfinger’s first name?",
+      "answers": [
+        "Auric"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_32",
+      "title": "In what section of the prison does Andy serve as an assistant in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Library"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_33",
+      "title": "What is the name of the lead singer for the Canadian rock band Rush?",
+      "answers": [
+        "Geddy Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_34",
+      "title": "Which character does Kevin Spacey play in the 1995 movie \"The Usual Suspects\"?",
+      "answers": [
+        "Roger Kint/Keyser Soze"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_35",
+      "title": "What \"America's Got Talent\" host replaced Nick Cannon?",
+      "answers": [
+        "Tyra Banks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_36",
+      "title": "Which music icon began his career as a member of a group called \"The Wailers\"?",
+      "answers": [
+        "Bob Marley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_37",
+      "title": "Some of the musical compositions for \"The Hateful Eight\" are unused scores from what movie?",
+      "answers": [
+        "\"The Thing\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_38",
+      "title": "What made-up expletive is \"Battlestar Galactica's\" dirty word of choice?",
+      "answers": [
+        "Frak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_39",
+      "title": "The 2005 documentary film \"The Smartest Guys in the Room\" was about what troubled US corporation?",
+      "answers": [
+        "Enron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_40",
+      "title": "Who composed the title music to TV's \"Inspector Morse\"?",
+      "answers": [
+        "Barrington Pheloung"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_41",
+      "title": "For what movie did Humphrey Bogart win his only Oscar?",
+      "answers": [
+        "The African Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_42",
+      "title": "Which record label signed The Beatles in 1962?",
+      "answers": [
+        "EMI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_43",
+      "title": "What comedian is remembered for his saying \"Everybody wants ta get inta de act\"?",
+      "answers": [
+        "Jimmy Durante"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_44",
+      "title": "Who is the seventh member of the group LOONA to debut?",
+      "answers": [
+        "Jinsoul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_45",
+      "title": "Who played James Bond in the 1971 film \"Diamonds Are Forever\"?",
+      "answers": [
+        "Sean Connery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_46",
+      "title": "What was the full name of Mangum P.I.?",
+      "answers": [
+        "Thomas Magnum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_47",
+      "title": "In the film \"The Right Stuff\", who played the role of Fred the bartender?",
+      "answers": [
+        "Chuck Yeager"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_48",
+      "title": "In the 2003 remake of the movie \"The Italian Job\", the character played by which actor stole all the gold?",
+      "answers": [
+        "Edward Norton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_49",
+      "title": "Brian, Stewie and whom make up \"The New Rat Pack\" on the TV show \"Family Guy\"?",
+      "answers": [
+        "Frank Sinatra, Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_42_50",
+      "title": "What's the appropriate stage name of musician Richard Melville Hall?",
+      "answers": [
+        "Moby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

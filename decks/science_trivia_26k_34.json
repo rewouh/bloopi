@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_34",
+  "name": "Science Trivia 26K 34",
+  "description": "Science 1651 - 1700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_34_01",
+      "title": "Winkle is a species of edible what?",
+      "answers": [
+        "Sea snails"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_02",
+      "title": "What disease was once nicknamed \"the white plague\"?",
+      "answers": [
+        "Tuberculosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_03",
+      "title": "Which planet is known as the Morning Star?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_04",
+      "title": "An important safety feature required at U.S. nuclear power plants that was not provided at the Chernobyl Power Plant in the Soviet Union was a what?",
+      "answers": [
+        "Containment building"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_05",
+      "title": "What is the sternum more commonly known as?",
+      "answers": [
+        "Breastbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_06",
+      "title": "What is the only mammal that can't jump?",
+      "answers": [
+        "The Elephant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_07",
+      "title": "What \"-itis\" is an inflammation of the liver?",
+      "answers": [
+        "Hepatitis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_08",
+      "title": "Which comet is visible every 74 to 79 years?",
+      "answers": [
+        "Halley's comet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_09",
+      "title": "In which direction does the sun cross the equator during the March equinox?",
+      "answers": [
+        "North"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_10",
+      "title": "Who was the second man to set foot on the Moon?",
+      "answers": [
+        "Buzz Aldrin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_11",
+      "title": "What are the three main types of sugar?",
+      "answers": [
+        "Glucose, fructose and sucrose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_12",
+      "title": "The anti-depressant drug Fluoxetine is generally known by what other name?",
+      "answers": [
+        "Prozac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_13",
+      "title": "During what geological time period did the T-Rex roam the Earth?",
+      "answers": [
+        "Cretaceous Period"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_14",
+      "title": "Which penguin sex is larger?",
+      "answers": [
+        "Males"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_15",
+      "title": "As what type of beans are chickpeas also known as?",
+      "answers": [
+        "Garbanzo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_16",
+      "title": "Hurricane season in the North Atlantic officially begins on the first day of what month?",
+      "answers": [
+        "June"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_17",
+      "title": "What is the only moon in our solar system to spin in a direction opposite of its planet's rotation?",
+      "answers": [
+        "Triton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_18",
+      "title": "What pitcher lent his name to ulnar collateral ligament reconstruction?",
+      "answers": [
+        "Tommy John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_19",
+      "title": "Who was the second man to walk on the Moon?",
+      "answers": [
+        "Buzz Aldrin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_20",
+      "title": "When gathered in a group, what bird species are called a \"murder\"?",
+      "answers": [
+        "Crows"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_21",
+      "title": "What process includes the following phases: prophase, metaphase, anaphase, and telophase?",
+      "answers": [
+        "Cell mitosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_22",
+      "title": "Ombrophobia fear of what?",
+      "answers": [
+        "Rain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_23",
+      "title": "What is the scientific term for peeling skin?",
+      "answers": [
+        "Desquamation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_24",
+      "title": "Black Corinth, Muscat, and Thompson Seedless are varieties of what fruit?",
+      "answers": [
+        "Grapes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_25",
+      "title": "Which is the oldest planet in our solar system?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_26",
+      "title": "What is a parsec a unit of?",
+      "answers": [
+        "Length"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_27",
+      "title": "The viceroy butterfly is so named because of its mimicry of what other species?",
+      "answers": [
+        "The monarch butterfly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_28",
+      "title": "Where was the world's first public aquarium?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_29",
+      "title": "What element's atomic symbol is \"Co\"?",
+      "answers": [
+        "Cobalt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_30",
+      "title": "European bees were bred with bees from what other continent to create \"killer\" bees?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_31",
+      "title": "Sleeping sickness is carried by which insect?",
+      "answers": [
+        "Tsetse fly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_32",
+      "title": "By what common household name is sodium chloride better known?",
+      "answers": [
+        "Salt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_33",
+      "title": "What kind of animal was the now extinct Dodo?",
+      "answers": [
+        "Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_34",
+      "title": "The Abel Prize is referred to as the \"Nobel Prize\" in which field?",
+      "answers": [
+        "Mathematics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_35",
+      "title": "What is a character encoding scheme used by many computers called?",
+      "answers": [
+        "Ascii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_36",
+      "title": "In what constellation can the North Star be found?",
+      "answers": [
+        "Ursa Minor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_37",
+      "title": "What is the more common name for the human tympanic membrane?",
+      "answers": [
+        "Eardrum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_38",
+      "title": "How many teeth does an adult cat usually have?",
+      "answers": [
+        "30"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_39",
+      "title": "Downy, Hairy and Pileated are species of what bird?",
+      "answers": [
+        "Woodpecker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_40",
+      "title": "What's the world's largest predatory fish?",
+      "answers": [
+        "The great white shark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_41",
+      "title": "Petrology the study of what?",
+      "answers": [
+        "Rocks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_42",
+      "title": "What classification of rock covers approximately 75% of the Earth's surface?",
+      "answers": [
+        "Sedimentary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_43",
+      "title": "What refers to the number of blood cells in a certain amount of blood?",
+      "answers": [
+        "Hematocrit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_44",
+      "title": "Anna's, Calliope, and Ruby-throated are species of what bird?",
+      "answers": [
+        "Hummingbird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_45",
+      "title": "A substance, typically produced by a bacterium, which produces fever when introduced or released into the blood is called what?",
+      "answers": [
+        "Pyrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_46",
+      "title": "What is the speed of sound in air?",
+      "answers": [
+        "343 meters per second"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_47",
+      "title": "What kind of scientist was George Washington Carver?",
+      "answers": [
+        "Botanist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_48",
+      "title": "What is the chemical symbol for iron?",
+      "answers": [
+        "Fe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_49",
+      "title": "What islands were extensively studied by Charles Darwin?",
+      "answers": [
+        "Galapagos Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_34_50",
+      "title": "What is cryogenics the study of?",
+      "answers": [
+        "Production of low temperatures"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_49",
+  "name": "Arts Trivia 26K 49",
+  "description": "Arts 2401 - 2450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_49_01",
+      "title": "In what novel is the language Nadsat spoken?",
+      "answers": [
+        "A Clockwork Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_02",
+      "title": "According to Exodus, what is the second plague of Egypt?",
+      "answers": [
+        "Frogs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_03",
+      "title": "Which Beatles song is partially in French?",
+      "answers": [
+        "Michelle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_04",
+      "title": "What author created Dr. Hannibal Lecter?",
+      "answers": [
+        "Thomas Harris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_05",
+      "title": "What is the Roman name of the Greek god Zeus?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_06",
+      "title": "What is the name of the gypsy girl who Quasimodo fell in love with?",
+      "answers": [
+        "Esmeralda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_07",
+      "title": "In popular literature, what is Princess Aurora's better-known name?",
+      "answers": [
+        "Sleeping Beauty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_08",
+      "title": "What feature marks the entrance to the Louvre?",
+      "answers": [
+        "Glass pyramid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_09",
+      "title": "By what other name is the folk tale \"Cinderella\" also known as?",
+      "answers": [
+        "The Little Glass Slipper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_10",
+      "title": "The goddess Athena was responsible for causing whose hair to turn into snakes?",
+      "answers": [
+        "Medusa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_11",
+      "title": "Who wrote, Papa's Angels: A Christmas Story in 1996?",
+      "answers": [
+        "Collin Wilcox Paxton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_12",
+      "title": "What literary work inspired Pink Floyd's \"Chapter 24\" song?",
+      "answers": [
+        "The I Ching"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_13",
+      "title": "What year did Georges Bizet debut the opera \"Carmen\"?",
+      "answers": [
+        "1875"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_14",
+      "title": "In \"The Twelve Days of Christmas\", what did my true love send to me on the seventh day?",
+      "answers": [
+        "Seven swans-a-swimming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_15",
+      "title": "Who was the Greek god of fire?",
+      "answers": [
+        "Hephaestus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_16",
+      "title": "Who created the comic book series \"Strangers in Paradise\"?",
+      "answers": [
+        "Terry Moore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_17",
+      "title": "What color was Anna Karenina's bag in the Tolstoy novel of the same name?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_18",
+      "title": "Whose paintings include \"The Red Room\", \"The Green Stripe\", \"The Blue Nudes\" and \"The Yellow Odalisque\"?",
+      "answers": [
+        "Henri Matisse's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_19",
+      "title": "What author created Middle-Earth?",
+      "answers": [
+        "J. R. R. Tolkien"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_20",
+      "title": "Named after the Greek God of Wind, which musical instrument is played by passing an air current over its strings?",
+      "answers": [
+        "Aeolian harp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_21",
+      "title": "In 1964, Michelangelo's Pietą was on display at what major event?",
+      "answers": [
+        "New York's World Fair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_22",
+      "title": "What can be a font, architectural style or novel type?",
+      "answers": [
+        "Gothic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_23",
+      "title": "What year was the novel \"A Brave New World\" written?",
+      "answers": [
+        "1931"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_24",
+      "title": "What historical event provides the backdrop for the 1905 novel \"The Scarlet Pimpernel\"?",
+      "answers": [
+        "The French Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_25",
+      "title": "What nationality is crime writer Colin Dexter?",
+      "answers": [
+        "English"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_26",
+      "title": "What 1838 Charles Dickens novel is subtitled \"The Parish Boy's Progress\"?",
+      "answers": [
+        "Oliver Twist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_27",
+      "title": "Who described his most famous painting as \"the Camembert of time\"?",
+      "answers": [
+        "Salvador Dali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_28",
+      "title": "What author created Oz?",
+      "answers": [
+        "L. Frank Baum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_29",
+      "title": "What species are mingled to produce a Faun?",
+      "answers": [
+        "Human and goat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_30",
+      "title": "Whose symphony number seven is called \"Leningrad\"?",
+      "answers": [
+        "Dmitri Shostakovich's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_31",
+      "title": "What Marvin Hamlisch musical is about dancers auditioning for a musical?",
+      "answers": [
+        "A Chorus Line"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_32",
+      "title": "A.A. Milne is best-known for creating what children' book title character?",
+      "answers": [
+        "Winnie-the-Pooh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_33",
+      "title": "\"Photo Journal\" was a weekly newspaper written and sold in which country until 1981?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_34",
+      "title": "What was Long John Silver's parrot Captain Flint favorite phrase?",
+      "answers": [
+        "Pieces of eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_35",
+      "title": "What is the oldest symphony orchestra in the US?",
+      "answers": [
+        "New York Philharmonic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_36",
+      "title": "What fictional village sits in the shadow of Mount Crumpit?",
+      "answers": [
+        "Whoville"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_37",
+      "title": "Whose autobiography was entitled \"The Long Walk to Freedom\"?",
+      "answers": [
+        "Nelson Mandela"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_38",
+      "title": "Illustrator Sidney Paget created the trademarks of whom?",
+      "answers": [
+        "Sherlock Holmes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_39",
+      "title": "What is Tchaikovsky's ballet \"Le Lac des Cygnes\" commonly called?",
+      "answers": [
+        "Swan Lake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_40",
+      "title": "Who wrote the poem \"The Road Not Taken\"?",
+      "answers": [
+        "Robert Frost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_41",
+      "title": "According to the Bible, where was Jesus crucified?",
+      "answers": [
+        "Golgotha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_42",
+      "title": "Which fairy-tale princess originally had two children named Dawn and Day?",
+      "answers": [
+        "Sleeping Beauty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_43",
+      "title": "In Chinese mythology, what is a \"qilin\"?",
+      "answers": [
+        "A Chinese unicorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_44",
+      "title": "What was the last book novelist Harper Lee published before passing away in February of 2016?",
+      "answers": [
+        "Go Set a Watchman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_45",
+      "title": "What is the official name of Beethoven’s \"Moonlight Sonata\"?",
+      "answers": [
+        "Piano Sonata No. 14"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_46",
+      "title": "Who is the famous giant slayer during King Arthur times?",
+      "answers": [
+        "Jack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_47",
+      "title": "Which famous number was dreaded by people in Orwell’s 1984?",
+      "answers": [
+        "101"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_48",
+      "title": "What children's classic first chapter is titled \"Mrs. Rachel Lynde Is Surprised\"?",
+      "answers": [
+        "Anne of Green Gables"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_49",
+      "title": "In the opera \"Don Giovanni\", what was Leporello job?",
+      "answers": [
+        "Don Giovanni's Servant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_49_50",
+      "title": "When was SIlent Night written?",
+      "answers": [
+        "Christmas Eve, 1818"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

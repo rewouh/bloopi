@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_31",
+  "name": "History Trivia 26K 31",
+  "description": "History 1501 - 1550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_31_01",
+      "title": "What military leader spread Greek culture from his native Macedonia to the Indian subcontinent?",
+      "answers": [
+        "Alexander the Great"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_02",
+      "title": "The Battle of Kursk is best described as what type of battle?",
+      "answers": [
+        "A tank battle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_03",
+      "title": "Who was king of England from 1422 until 1461?",
+      "answers": [
+        "Henry Vl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_04",
+      "title": "In which ancient culture were turkeys believed to be gods?",
+      "answers": [
+        "Maya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_05",
+      "title": "Where did the deadliest airline disaster occur?",
+      "answers": [
+        "Tenerife"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_06",
+      "title": "What president delivered his \"Fourteen Points\" speech in Congress in 1918?",
+      "answers": [
+        "Woodrow Wilson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_07",
+      "title": "In which country did fireworks originate?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_08",
+      "title": "Which royal house consisted of Henry IV, Henry V and Henry VI?",
+      "answers": [
+        "House of Lancaster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_09",
+      "title": "In which war was the battle of Naseby?",
+      "answers": [
+        "First English Civil War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_10",
+      "title": "What was the last city the British held onto, two years after the last battle of the American Revolution?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_11",
+      "title": "Who was better known as \"Sundance Kid\"?",
+      "answers": [
+        "Harry Alonzo Longabaugh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_12",
+      "title": "In which European country did the direct action group The Red Brigade originate?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_13",
+      "title": "What year did Jimmy Carter become president of the United States?",
+      "answers": [
+        "1977"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_14",
+      "title": "In which battle was Horatio Nelson killed?",
+      "answers": [
+        "Battle of Trafalgar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_15",
+      "title": "Who was the first Holy Roman Emperor?",
+      "answers": [
+        "Charlemagne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_16",
+      "title": "Of which US state was Jimmy Carter Governor before he became president?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_17",
+      "title": "People who scavenged the sewers of London during the Victoria era were called what?",
+      "answers": [
+        "Tosher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_18",
+      "title": "Roman general Scipio Africanus gained his African surname from his famous defeat of whom?",
+      "answers": [
+        "Hannibal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_19",
+      "title": "In which decade did Mao Zedong come to power in China?",
+      "answers": [
+        "1940s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_20",
+      "title": "What country was called the Gold Coast prior to its 1957 independence?",
+      "answers": [
+        "Ghana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_21",
+      "title": "Who was the first president of the American Red Cross?",
+      "answers": [
+        "Clara Barton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_22",
+      "title": "Which US gangster described himself as a used furniture dealer on his business card?",
+      "answers": [
+        "Al Capone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_23",
+      "title": "Who was the only president to also have been Speaker of the House?",
+      "answers": [
+        "James K. Polk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_24",
+      "title": "What instrument did Paul McCartney primarily play as a member of the Beatles?",
+      "answers": [
+        "Bass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_25",
+      "title": "Which racing team introduced a six-wheeled race car in 1974 and began racing it in 1976?",
+      "answers": [
+        "Tyrrell Racing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_26",
+      "title": "Who, or what, was the \"First Reich\"?",
+      "answers": [
+        "The Holy Roman Empire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_27",
+      "title": "Which U.S. president was the first to leave the country while in office?",
+      "answers": [
+        "Theodore Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_28",
+      "title": "How long did the American Revolutionary War last?",
+      "answers": [
+        "8 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_29",
+      "title": "What century did playing cards first appear?",
+      "answers": [
+        "9th Century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_30",
+      "title": "What was the name of the Union ship that was sunk by the Confederate submarine CSS Hunley during the American Civil War?",
+      "answers": [
+        "USS Housatonic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_31",
+      "title": "Which country hosted the 1948 Summer Olympic Games?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_32",
+      "title": "John Adams wanted the President to have which controversial title?",
+      "answers": [
+        "His Highness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_33",
+      "title": "When was Albert Einstein born?",
+      "answers": [
+        "1879"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_34",
+      "title": "Who was the first man to swim the English channel?",
+      "answers": [
+        "Matthew Webb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_35",
+      "title": "For what crime was Susan B. Anthony arrested in 1872?",
+      "answers": [
+        "Voting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_36",
+      "title": "What Chilean president was overthrown in 1973 when Augusto Pinochet took power?",
+      "answers": [
+        "Salvadore Allende"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_37",
+      "title": "Edvard Munch's \"The Scream\" was stolen in 1994 and 2004 from museums in which European capital?",
+      "answers": [
+        "Oslo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_38",
+      "title": "Which crew sank in the 1978 Boat Race?",
+      "answers": [
+        "Cambridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_39",
+      "title": "Who was the first U.S. Postmaster General?",
+      "answers": [
+        "Benjamin Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_40",
+      "title": "A purple stripe on a Roman tunic was a sign of what?",
+      "answers": [
+        "Status"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_41",
+      "title": "What was the name of the official 1972 Summer Olympics logo?",
+      "answers": [
+        "Bright Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_42",
+      "title": "Who was nicknamed the \"Iron Chancellor\" and known as the unifier of Germany?",
+      "answers": [
+        "Otto Von Bismarck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_43",
+      "title": "In what year did the Vietnam War begin?",
+      "answers": [
+        "1955"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_44",
+      "title": "What river did George Washington cross before the Battle of Trenton in the American Revolution?",
+      "answers": [
+        "Delaware river"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_45",
+      "title": "Which Old West figure became sports editor for the \"New York Morning Telegraph?\"",
+      "answers": [
+        "William Barclay \"Bat\" Masterson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_46",
+      "title": "In what city is the Schloss Cecilienhof, site of a historic 1945 conference?",
+      "answers": [
+        "Potsdam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_47",
+      "title": "Over what part of Captain Robert Jenkins were Britain and Spain at war in 1739?",
+      "answers": [
+        "His ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_48",
+      "title": "President Gerald Ford was a member of which political party?",
+      "answers": [
+        "Republican Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_49",
+      "title": "Which US state banned alcohol from 1907 until 1966?",
+      "answers": [
+        "Mississippi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_31_50",
+      "title": "When did World War I officially end?",
+      "answers": [
+        "November 11, 1918"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_11",
+  "name": "Science Trivia 26K 11",
+  "description": "Science 501 - 550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_11_01",
+      "title": "What scientific principle allows a compass to work?",
+      "answers": [
+        "Magnetism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_02",
+      "title": "What notable scientist may have been driven mad by exposure to mercury?",
+      "answers": [
+        "Isaac Newton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_03",
+      "title": "What is the chemical term for a peptide; two amino acids linked together?",
+      "answers": [
+        "An Amide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_04",
+      "title": "What type of birthmark is also called a stork bite?",
+      "answers": [
+        "Salmon Patches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_05",
+      "title": "What does TNT stand for?",
+      "answers": [
+        "Trinitrotoluene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_06",
+      "title": "What do you call a group of giraffes?",
+      "answers": [
+        "A tower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_07",
+      "title": "What does splitting a laser light into two beams through a silver mirror make?",
+      "answers": [
+        "Hologram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_08",
+      "title": "What is the outer skeleton of organisms such as spiders and insects called?",
+      "answers": [
+        "Exoskeleton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_09",
+      "title": "What is a group of lions called?",
+      "answers": [
+        "Pride"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_10",
+      "title": "What color did the inside of watermelons used to be?",
+      "answers": [
+        "Pale green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_11",
+      "title": "The koala eats the leaves from this tree?",
+      "answers": [
+        "Eucalyptus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_12",
+      "title": "What is the technical term for egg white?",
+      "answers": [
+        "Albumen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_13",
+      "title": "What degree does Bill Nye: The Science Guy hold?",
+      "answers": [
+        "Mechanical Engineering"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_14",
+      "title": "What do you call an animal that eats both plants and animals?",
+      "answers": [
+        "An Omnivore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_15",
+      "title": "What name is given to the shellfish that cling to the bottom of ships?",
+      "answers": [
+        "Barnacles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_16",
+      "title": "Who discovered the mathematical system of logarithms?",
+      "answers": [
+        "John Napier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_17",
+      "title": "What name is given to the area of the sky that is obscured by the Milky Way?",
+      "answers": [
+        "The Zone of Avoidance"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_18",
+      "title": "Xenophobia is the fear of what?",
+      "answers": [
+        "Strangers or foreigners"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_19",
+      "title": "How many sides does a nonagon have?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_20",
+      "title": "Who discovered the life or death importance of washing hands while studying maternity wards?",
+      "answers": [
+        "Ignaz Philipp Semmelweis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_21",
+      "title": "What kind of scientist was Luther Burbank?",
+      "answers": [
+        "Botanist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_22",
+      "title": "What is the smallest biological unit of a living organism?",
+      "answers": [
+        "Cell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_23",
+      "title": "What is the name of the submerged fringe of a continent?",
+      "answers": [
+        "Continental shelf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_24",
+      "title": "Which branch of science is concerned with the study of matter and energy?",
+      "answers": [
+        "Physics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_25",
+      "title": "What is the only continent without native reptiles and snakes?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_26",
+      "title": "Approximately what percentage of the jellyfish's body is made up of water?",
+      "answers": [
+        "95%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_27",
+      "title": "What do speleologists study?",
+      "answers": [
+        "Wild cave systems"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_28",
+      "title": "What would you suffer from with Hypotension?",
+      "answers": [
+        "Low blood pressure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_29",
+      "title": "A group of otters is called what?",
+      "answers": [
+        "A raft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_30",
+      "title": "What vegetable gets its name from the Latin word for \"branch\"?",
+      "answers": [
+        "Broccoli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_31",
+      "title": "What is the process of splitting atoms called?",
+      "answers": [
+        "Fission"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_32",
+      "title": "What blood cell deficiency gets its name from the Greek meaning \"being without blood\"?",
+      "answers": [
+        "Anemia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_33",
+      "title": "What happens to your skin's blood vessels as you exercise?",
+      "answers": [
+        "They widen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_34",
+      "title": "In which part of the body are the ossicles found?",
+      "answers": [
+        "Ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_35",
+      "title": "What are scaup?",
+      "answers": [
+        "Ducks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_36",
+      "title": "What substance makes feces brown and jaundice sufferers yellow?",
+      "answers": [
+        "Bilirubin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_37",
+      "title": "What is the Latin name for parsley?",
+      "answers": [
+        "Petroselinum crispum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_38",
+      "title": "What chemical element's atomic number is 50?",
+      "answers": [
+        "Tin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_39",
+      "title": "What is a group of porcupines called?",
+      "answers": [
+        "Prickle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_40",
+      "title": "Alfred Nobel is credited with the invention of what?",
+      "answers": [
+        "Dynamite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_41",
+      "title": "Which cluster of stars is also known as the Seven Sisters?",
+      "answers": [
+        "The Pleiades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_42",
+      "title": "Which psychological concept did Pavlov’s dog help him describe?",
+      "answers": [
+        "Conditioning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_43",
+      "title": "What name is given to the diagram in which sets are represented by circles?",
+      "answers": [
+        "Venn Diagram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_44",
+      "title": "What did physicist Richard Feynman predict would be the highest atomic number possible on the periodic table?",
+      "answers": [
+        "137"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_45",
+      "title": "The \"Standard Model\" theory applies to which branch of science?",
+      "answers": [
+        "Physics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_46",
+      "title": "What fluid-filled sac surrounds the human embryo?",
+      "answers": [
+        "Amniotic Sac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_47",
+      "title": "How is the groundnut better known?",
+      "answers": [
+        "The peanut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_48",
+      "title": "What is the name of Neptune's largest moon?",
+      "answers": [
+        "Triton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_49",
+      "title": "What is the more common name for Hallux?",
+      "answers": [
+        "Big toe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_11_50",
+      "title": "What famed paleontologist was also the first head of the Kenyan Wildlife Service?",
+      "answers": [
+        "Richard Leakey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

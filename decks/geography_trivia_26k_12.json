@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_12",
+  "name": "Geography Trivia 26K 12",
+  "description": "Geography 551 - 600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_12_01",
+      "title": "What Mexican political party was voted out of office in 2000, after 71 years in power?",
+      "answers": [
+        "PRI (Partido Revolucionario Institucional)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_02",
+      "title": "Chicago is located on the shore of what lake?",
+      "answers": [
+        "Lake Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_03",
+      "title": "What monument, located in Washington D.C., was once the tallest structure in the world?",
+      "answers": [
+        "Washington Monument"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_04",
+      "title": "What is the only venomous British snake?",
+      "answers": [
+        "Adder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_05",
+      "title": "In what city would you find Balboa Park?",
+      "answers": [
+        "San Diego"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_06",
+      "title": "Where is the Abominable Snowman said to wander?",
+      "answers": [
+        "The Himalayas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_07",
+      "title": "In what country would you most likely encounter a Tasmanian devil?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_08",
+      "title": "What is the capital of Florida?",
+      "answers": [
+        "Tallahassee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_09",
+      "title": "Bangui is the capital of which land-locked African country?",
+      "answers": [
+        "Central African Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_10",
+      "title": "What is the only nation that borders both Burma and Malaysia?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_11",
+      "title": "What is the only Romance language spoken in Eastern Europe?",
+      "answers": [
+        "Romanian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_12",
+      "title": "Where can you see the Great Stalacpipe Organ?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_13",
+      "title": "What is the second largest state in the US?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_14",
+      "title": "Where can you see the petroglyphs of Newspaper Rock?",
+      "answers": [
+        "Petrified Forrest National Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_15",
+      "title": "In which U.S. National Park is the colorful Grand Prismatic Spring?",
+      "answers": [
+        "Yellowstone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_16",
+      "title": "Which major river is adjacent to Memphis, Egypt?",
+      "answers": [
+        "The Nile River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_17",
+      "title": "Mozambique was previously ruled by what European country?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_18",
+      "title": "What is the capital of the Czech Republic?",
+      "answers": [
+        "Prague"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_19",
+      "title": "What year did Botswana gain its independence from the United Kingdom?",
+      "answers": [
+        "1966"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_20",
+      "title": "What country has the calling code +20?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_21",
+      "title": "Off what country are the islands of Islay, Mull, and St. Kilda located?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_22",
+      "title": "What is the capital of Djibouti?",
+      "answers": [
+        "Djibouti City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_23",
+      "title": "What is the most mountainous country in Europe?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_24",
+      "title": "What city is the capital of the US state Idaho?",
+      "answers": [
+        "Boise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_25",
+      "title": "Nashville is the capital of which US state?",
+      "answers": [
+        "Tennessee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_26",
+      "title": "What is the only nation that shares a land border with Vatican City?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_27",
+      "title": "What country has a national park called the \"Valley of Flowers\"?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_28",
+      "title": "The Volta is the largest river in which country?",
+      "answers": [
+        "Ghana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_29",
+      "title": "What is the most populated country in Africa?",
+      "answers": [
+        "Nigeria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_30",
+      "title": "Halifax is the capital of which Canadian province?",
+      "answers": [
+        "Nova Scotia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_31",
+      "title": "What is the largest religious monument in the world?",
+      "answers": [
+        "Angkor Wat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_32",
+      "title": "Where can you find an underwater volcano called \"Kick 'em Jenny\"?",
+      "answers": [
+        "Caribbean Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_33",
+      "title": "Malagasy is the native language of which country?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_34",
+      "title": "What is the more common name for the collegiate church of St Peter in London?",
+      "answers": [
+        "St. Paul's Cathedral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_35",
+      "title": "Where are the \"Seven Colored Earths\"?",
+      "answers": [
+        "Mauritius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_36",
+      "title": "What 3 colors make up the flag of France?",
+      "answers": [
+        "Red, White and Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_37",
+      "title": "What island is the most populous in Canada?",
+      "answers": [
+        "Island of Montreal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_38",
+      "title": "The island country Grenada is also known as what?",
+      "answers": [
+        "Island of Spice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_39",
+      "title": "What mountain is the tallest point in France?",
+      "answers": [
+        "Blanc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_40",
+      "title": "Which tribes are native to New Zealand?",
+      "answers": [
+        "Maori"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_41",
+      "title": "Columbus is the capital of which US state?",
+      "answers": [
+        "Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_42",
+      "title": "What is the capital of Ontario?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_43",
+      "title": "The Gila River flows into what river?",
+      "answers": [
+        "Colorado River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_44",
+      "title": "What is the capital of Madagascar?",
+      "answers": [
+        "Antananarivo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_45",
+      "title": "What city is home to the eighty-eight storey Petronas Twin Towers?",
+      "answers": [
+        "Kuala Lumpur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_46",
+      "title": "What US city is home to the neighborhood of Little Havana?",
+      "answers": [
+        "Miami"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_47",
+      "title": "What nation did Afghanistan belong to until 1919?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_48",
+      "title": "In what country would you find the mouths of the Mekong river?",
+      "answers": [
+        "Vietnam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_49",
+      "title": "Independence Hall, home to the Liberty Bell, is located in which US state?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_12_50",
+      "title": "The city of Roswell, famous for its 1947 UFO incident, is in which state?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

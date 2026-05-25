@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_27",
+  "name": "General Trivia 26K 27",
+  "description": "General 1301 - 1350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_27_01",
+      "title": "What toy was originally created as a dog’s chew toy?",
+      "answers": [
+        "Rubber Duck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_02",
+      "title": "What two things are being compared in a stock's \"P/E ratio\"?",
+      "answers": [
+        "Share price and earnings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_03",
+      "title": "What is Takeru Kobayashi famous for?",
+      "answers": [
+        "Competitive eating"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_04",
+      "title": "Denim is the official fabric for which US state?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_05",
+      "title": "What is the fear of light flashes called?",
+      "answers": [
+        "Selaphobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_06",
+      "title": "What milk is Pecorino cheese made from?",
+      "answers": [
+        "Ewe's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_07",
+      "title": "Pineapples, kiwis and papayas contain enzymes that can do what to meat?",
+      "answers": [
+        "Tenderize it"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_08",
+      "title": "In computer programming, which logic gate outputs TRUE if both inputs are TRUE?",
+      "answers": [
+        "AND"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_09",
+      "title": "Epee, Sabre and Foil are all types of what?",
+      "answers": [
+        "Swords (Fencing Sport)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_10",
+      "title": "What is March's birthstone?",
+      "answers": [
+        "Aquamarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_11",
+      "title": "What is the name for the number 1 followed by 100 zeros?",
+      "answers": [
+        "Googol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_12",
+      "title": "What kind of a head does a Criosphinx possess?",
+      "answers": [
+        "Ram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_13",
+      "title": "What trademarked name for in­line skates was also its first successful brand name?",
+      "answers": [
+        "Rollerblades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_14",
+      "title": "What do you ferment to make kombucha?",
+      "answers": [
+        "Sweetened tea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_15",
+      "title": "What company was the first to sell prepared baby food in glass jars?",
+      "answers": [
+        "Beech-Nut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_16",
+      "title": "From which US university did Richard Nixon obtain a law degree?",
+      "answers": [
+        "Duke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_17",
+      "title": "Who founded Pepperidge Farm?",
+      "answers": [
+        "Margaret Rudkin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_18",
+      "title": "What was New York Yankees original name?",
+      "answers": [
+        "New York Highlanders"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_19",
+      "title": "According to the ad, how many licks does it take to get to the center of a Tootsie Pop?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_20",
+      "title": "What was the chief Roman silver coin?",
+      "answers": [
+        "Denarius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_21",
+      "title": "What is the correct name for the occupation in which someone mends shoes?",
+      "answers": [
+        "Cobbler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_22",
+      "title": "Who was the first Canadian-born boxer to win the heavyweight championship?",
+      "answers": [
+        "Tommy Burns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_23",
+      "title": "What Boston Celtic great was nicknamed \"Hondo\"?",
+      "answers": [
+        "John Havlicek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_24",
+      "title": "What does a Tegestologist collect?",
+      "answers": [
+        "Beer coasters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_25",
+      "title": "Ditra Flame was the \"Lady in Black\" who took thirteen red roses to what actor's grave every year?",
+      "answers": [
+        "Rudolph Valentino's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_26",
+      "title": "What color M&M was retired to make way for blue M&Ms in 1995?",
+      "answers": [
+        "Tan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_27",
+      "title": "How many beans of coffee are needed to make an espresso?",
+      "answers": [
+        "42"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_28",
+      "title": "What would a sommelier recommend to you?",
+      "answers": [
+        "Wine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_29",
+      "title": "Which bird is the national bird of Greece?",
+      "answers": [
+        "Little owl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_30",
+      "title": "What does \"alopecia\" refer to?",
+      "answers": [
+        "Hair loss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_31",
+      "title": "A light aircraft without an engine is called a what?",
+      "answers": [
+        "Glider or a sailplane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_32",
+      "title": "How many people made up the US Electoral College in 2020?",
+      "answers": [
+        "538"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_33",
+      "title": "What job did Agatha Christie's second husband do?",
+      "answers": [
+        "Archaeologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_34",
+      "title": "Which beverage was promoted during the 1990s by three frogs croaking out its name?",
+      "answers": [
+        "Budweiser"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_35",
+      "title": "What is Donald Duck’s car?",
+      "answers": [
+        "A 1934 Belchfire Runabout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_36",
+      "title": "Irish coffee is made with what type of alcohol?",
+      "answers": [
+        "Whiskey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_37",
+      "title": "What year saw Jean Paul Gaultier's first individual collection for men?",
+      "answers": [
+        "1983"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_38",
+      "title": "Who was the first African American to play in an NBA game?",
+      "answers": [
+        "Earl Lloyd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_39",
+      "title": "Which number system uses only the symbols 1 and 0?",
+      "answers": [
+        "The binary system"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_40",
+      "title": "What model was married to musician Tommy Lee?",
+      "answers": [
+        "Pamela Anderson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_41",
+      "title": "How many times are Mexican refried beans fried?",
+      "answers": [
+        "Once"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_42",
+      "title": "What horse set a Kentucky Derby record in 1973?",
+      "answers": [
+        "Secretariat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_43",
+      "title": "In October of 2016, just 2 months after its initial release, what product did Samsung stop manufacturing and selling?",
+      "answers": [
+        "Galaxy Note 7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_44",
+      "title": "A nail polish that is clear and goes on top of a colored polish is called what?",
+      "answers": [
+        "Top coat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_45",
+      "title": "Sepp Blatter and Jack Warner are former executives from which international sports organization?",
+      "answers": [
+        "FIFA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_46",
+      "title": "\"Shrimp on the barbie\" is a seafood dish with origins in what country?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_47",
+      "title": "What Philadelphia building appears on the back of the US $100 bill?",
+      "answers": [
+        "Independence Hall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_48",
+      "title": "What country was host to the “2017 World Expo”?",
+      "answers": [
+        "Kazakhstan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_49",
+      "title": "What mythical creature is also known as a lycanthrope?",
+      "answers": [
+        "Werewolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_27_50",
+      "title": "Vultures gathering on the side of the road to eat are called what?",
+      "answers": [
+        "A wake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

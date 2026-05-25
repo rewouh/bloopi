@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_28",
+  "name": "Geography Trivia 26K 28",
+  "description": "Geography 1351 - 1400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_28_01",
+      "title": "In which country is the city Marrakesh located?",
+      "answers": [
+        "Morocco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_02",
+      "title": "What is the capitol of Morocco?",
+      "answers": [
+        "Rabat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_03",
+      "title": "Where is Eternal Flame Falls?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_04",
+      "title": "In which country is the source of the river Danube?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_05",
+      "title": "What area on the tip of South America has a name which translates as \"Land of Fire\"?",
+      "answers": [
+        "Tierra del Fuego"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_06",
+      "title": "The Columbia River flows into what body of water?",
+      "answers": [
+        "Pacific Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_07",
+      "title": "In what city would you find \"Peachtree Street\"?",
+      "answers": [
+        "Atlanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_08",
+      "title": "Where do \"Yoopers\" live?",
+      "answers": [
+        "Michigan's Upper Peninsula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_09",
+      "title": "Which US state is directly south of Georgia?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_10",
+      "title": "What is the capital of the state of Utah?",
+      "answers": [
+        "Salt Lake City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_11",
+      "title": "What river was connected to Lake Erie by the Erie Canal?",
+      "answers": [
+        "The Hudson River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_12",
+      "title": "Which European city is nicknamed \"The Eternal City\"?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_13",
+      "title": "Which Italian region is the source of Marsala wine?",
+      "answers": [
+        "Sicily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_14",
+      "title": "What year did Sierra Leone gain its independence from the UK?",
+      "answers": [
+        "1961"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_15",
+      "title": "How many \"emirates\" make up the United Arab Emirates?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_16",
+      "title": "The city of New Orleans is located in which state?",
+      "answers": [
+        "Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_17",
+      "title": "What is the northernmost national park in the world?",
+      "answers": [
+        "Northeast Greenland National Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_18",
+      "title": "Which one of the New Seven Wonders of the World is located in Peru?",
+      "answers": [
+        "Machu Picchu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_19",
+      "title": "Which desert is located in the southeastern part of California?",
+      "answers": [
+        "The Mojave desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_20",
+      "title": "What river does the Tower Bridge in London cross?",
+      "answers": [
+        "Thames"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_21",
+      "title": "Mount Whitney is the highest peak in which mountain range?",
+      "answers": [
+        "Sierra Nevada Range"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_22",
+      "title": "Trinidad and Tobago are a part of which continent?",
+      "answers": [
+        "North America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_23",
+      "title": "What nation's legislative body is named The House of Lords?",
+      "answers": [
+        "The United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_24",
+      "title": "Which country grows the most avocados?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_25",
+      "title": "What is the oldest public art museum in the United States?",
+      "answers": [
+        "Wadsworth Atheneum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_26",
+      "title": "Nevada is nicknamed the \"Silver State\" in honor of what?",
+      "answers": [
+        "Silver mines"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_27",
+      "title": "What is the northernmost place in the contiguous United States?",
+      "answers": [
+        "Northwest Angle, Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_28",
+      "title": "What lake was created in the 1900s when the Colorado River broke through an embankment?",
+      "answers": [
+        "Salton Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_29",
+      "title": "What is the lowest land point on Earth?",
+      "answers": [
+        "Dead Sea shore, Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_30",
+      "title": "In which U.S. state can you find a river nicknamed the \"River of No Return\"?",
+      "answers": [
+        "Idaho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_31",
+      "title": "What was Genghis Khan's birth name?",
+      "answers": [
+        "Temujin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_32",
+      "title": "What US city is nicknamed \"Emerald City\"?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_33",
+      "title": "Which Canadian island is named after the father of Queen Victoria?",
+      "answers": [
+        "Prince Edward Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_34",
+      "title": "In what US state would you find Fort Leavenworth?",
+      "answers": [
+        "Kansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_35",
+      "title": "What is the capital of Montana?",
+      "answers": [
+        "Helena"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_36",
+      "title": "Thimpu is the capital of what tiny kingdom?",
+      "answers": [
+        "Bhutan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_37",
+      "title": "Which US state is referred to as the \"Silver State\"?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_38",
+      "title": "In which state would you find the \"House of the Seven Gables\"?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_39",
+      "title": "During World War I, the territory known as South West Africa was a colony of which country?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_40",
+      "title": "Where does the largest snowball tournament in the world take place?",
+      "answers": [
+        "Saskatoon, Saskatchewan, Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_41",
+      "title": "Angel Falls, the highest waterfall in the world, is located in what country?",
+      "answers": [
+        "Venezuela"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_42",
+      "title": "What state is nicknamed the \"Beehive State\"?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_43",
+      "title": "The White Sea borders what large country?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_44",
+      "title": "What is the capital of Turkmenistan?",
+      "answers": [
+        "Ashgabat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_45",
+      "title": "In which continent would you find the Niger river?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_46",
+      "title": "What large African island nation is located just west of Mauritius?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_47",
+      "title": "What US state is home to the \"One Shell Square\" skyscraper?",
+      "answers": [
+        "Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_48",
+      "title": "What is Antarctica’s tallest volcano?",
+      "answers": [
+        "Mount Sidley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_49",
+      "title": "What is the only officially bilingual province in Canada?",
+      "answers": [
+        "New Brunswick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_28_50",
+      "title": "Which Gulf is located north of Somalia?",
+      "answers": [
+        "Gulf of Aden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

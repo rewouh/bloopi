@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_88",
+  "name": "Entertainment Trivia 26K 88",
+  "description": "Entertainment 4351 - 4400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_88_01",
+      "title": "In Disneys \"Snow White\", what magic object does the Evil Queen ask questions to?",
+      "answers": [
+        "Mirror"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_02",
+      "title": "In which movie did Russell Crowe play Maximus Decimus Meridius?",
+      "answers": [
+        "Gladiator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_03",
+      "title": "Which TV mom is a member of the \"Galaxy Women Historical Society\"?",
+      "answers": [
+        "Jane Jetson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_04",
+      "title": "Who co-wrote and directed the 1974 movie \"Young Frankenstein\"?",
+      "answers": [
+        "Mel Brooks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_05",
+      "title": "Who sang the 1956 song \"Ape Call\"?",
+      "answers": [
+        "Nervous Norvus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_06",
+      "title": "Which Pink Floyd album features Easter Island statues on the cover?",
+      "answers": [
+        "\"Division Bell\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_07",
+      "title": "Who are Quagmire’s daughters in the TV show \"Family Guy\"",
+      "answers": [
+        "Anna Lee and Courtney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_08",
+      "title": "What was B.J.'s full name in the TV show \"B.J. and the Bear\"?",
+      "answers": [
+        "Billie Joe McKay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_09",
+      "title": "Which Mario character has appeared in all but one \"Mario Party\" game?",
+      "answers": [
+        "Wario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_10",
+      "title": "What movie did the villain Noah Cross appear in?",
+      "answers": [
+        "Chinatown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_11",
+      "title": "In The Simpsons, according to Seymour, he doesn't have cooties so it's okay for Patty to do what?",
+      "answers": [
+        "Kiss him"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_12",
+      "title": "What legendary funk band was formed by George Clinton?",
+      "answers": [
+        "Parliament"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_13",
+      "title": "What is the full name of the rapper known as Drake?",
+      "answers": [
+        "Aubrey Drake Graham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_14",
+      "title": "How many Oscars did the 1972 film \"The Godfather\" win?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_15",
+      "title": "Who was the only fictional character in Time magazine's list of the 100 most influential people of the century?",
+      "answers": [
+        "Bart Simpson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_16",
+      "title": "Which basketball superstar had a major role in the 1996 movie \"Space Jam\"?",
+      "answers": [
+        "Michael Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_17",
+      "title": "In which film did Michael Douglas play the part of Gordon Gekko?",
+      "answers": [
+        "Wall Street"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_18",
+      "title": "Mel Gibson and Danny Glover appear in which series of films?",
+      "answers": [
+        "Lethal Weapon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_19",
+      "title": "Who played the role of Sarah in the movie \"The Terminator\"?",
+      "answers": [
+        "Linda Hamilton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_20",
+      "title": "In the Tom Petty song \"Free Fallin'\", the girl is a big fan of what singer?",
+      "answers": [
+        "Elvis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_21",
+      "title": "What former \"American Idol\" hopeful sported a hairstyle that inspired the term \"ponyhawk\"?",
+      "answers": [
+        "Sanjaya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_22",
+      "title": "What was the name of Wayland Flowers' dummy?",
+      "answers": [
+        "Madame"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_23",
+      "title": "Which Scientologist was trapped in the closet in the \"Trapped in the Closet\" episode of South Park?",
+      "answers": [
+        "Tom Cruise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_24",
+      "title": "What infamous TV show is the saying \"Jumping the Shark\" based on?",
+      "answers": [
+        "Happy Days"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_25",
+      "title": "The life of what jazz legend was portrayed in the 1988 film \"Bird\"?",
+      "answers": [
+        "Charlie Parker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_26",
+      "title": "The tagline \"Justice has its price\" comes from which 1998 movie?",
+      "answers": [
+        "\"A Civil Action\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_27",
+      "title": "What actor played Royal Tenenbaum?",
+      "answers": [
+        "Gene Hackman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_28",
+      "title": "In the cartoon \"Wacky Races\" who drove the Turbo Terrific?",
+      "answers": [
+        "Peter Perfect"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_29",
+      "title": "Who was the male lead in the 1955 film \"To Catch a Thief\"?",
+      "answers": [
+        "Cary Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_30",
+      "title": "Who played the inventor in the 1989 film \"Honey, I Shrunk the Kids\"?",
+      "answers": [
+        "Rick Moranis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_31",
+      "title": "Who was the first rock musician to famously smash their instrument on stage?",
+      "answers": [
+        "Pete Townsend"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_32",
+      "title": "Which \"Friends\" star previously starred in a sitcom titled \"Top of the Heap\"?",
+      "answers": [
+        "Matt LeBlanc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_33",
+      "title": "What is the name of the bartender in the Billy Joel song \"Piano Man\"?",
+      "answers": [
+        "John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_34",
+      "title": "What other name is \"Star Wars\" villain Emperor Palpatine known by?",
+      "answers": [
+        "Darth Sidious"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_35",
+      "title": "The movie \"Happy Feet\" is dedicated to what man?",
+      "answers": [
+        "Steve Irwin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_36",
+      "title": "What sport is the focus of the movie \"Lords of Dogtown\"?",
+      "answers": [
+        "Skateboarding"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_37",
+      "title": "How many guns does Travis buy in the movie \"Taxi Driver\"?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_38",
+      "title": "What album was the first to have all of its tracks licensed for use in movies, TV shows and commercials?",
+      "answers": [
+        "\"Play\" by Moby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_39",
+      "title": "Which TV character owns a talking cat called Salem?",
+      "answers": [
+        "Sabrina Spellman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_40",
+      "title": "Which TV series was narrated by Walter Winchell?",
+      "answers": [
+        "The Untouchables"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_41",
+      "title": "Who originally recorded \"The Shoop Shoop Song\"?",
+      "answers": [
+        "Betty Everett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_42",
+      "title": "What is Charlie Chaplin's most popular character?",
+      "answers": [
+        "The Tramp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_43",
+      "title": "Who starred as the Doctor in the TV show \"Dr. Who\" from 1963 to 1966?",
+      "answers": [
+        "William Hartnell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_44",
+      "title": "What British TV series featured Jeff Tracy and Lady Penelope Creighton-Ward?",
+      "answers": [
+        "Thunderbirds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_45",
+      "title": "What was the two-word subtitle of the fourth \"Mission Impossible\" movie in the Tom Cruise series?",
+      "answers": [
+        "Ghost Protocol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_46",
+      "title": "In the TV show \"The Simpsons\", what is Krusty the Clown's father's profession?",
+      "answers": [
+        "Rabbi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_47",
+      "title": "What rock star caused a stir in 2007 when he said that he'd snorted his late father's cremains?",
+      "answers": [
+        "Keith Richards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_48",
+      "title": "In the TV show \"The Simpsons\", what is the name of Principal Skinner's mother?",
+      "answers": [
+        "Agnes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_49",
+      "title": "What famous actor was slated to play the alien in the 1987 film \"Predator\" but was replaced?",
+      "answers": [
+        "Jean-Claude Van Damme"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_88_50",
+      "title": "What screen legend made her final appearance in the movie \"High Society\"?",
+      "answers": [
+        "Grace Kelly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

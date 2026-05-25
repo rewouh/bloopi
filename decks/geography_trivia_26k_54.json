@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_54",
+  "name": "Geography Trivia 26K 54",
+  "description": "Geography 2651 - 2700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_54_01",
+      "title": "What is known as the Old Lady Of Threadneedle Street?",
+      "answers": [
+        "The Bank of England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_02",
+      "title": "Cape Cod juts into what body of water?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_03",
+      "title": "Where is Montevideo?",
+      "answers": [
+        "Uruguay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_04",
+      "title": "In which US state can you find the \"Garden of the Gods\"?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_05",
+      "title": "Thunder Bay is located in which country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_06",
+      "title": "What is the capital of Gambia?",
+      "answers": [
+        "Banjul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_07",
+      "title": "What river do the Holland Tunnel and Lincoln Tunnel pass beneath?",
+      "answers": [
+        "Hudson River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_08",
+      "title": "Pont Neuf is the oldest bridge over the river Seine, located in which French city?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_09",
+      "title": "The first picture postcard was invented in which country?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_10",
+      "title": "The city of St. Louis is located in which state?",
+      "answers": [
+        "Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_11",
+      "title": "Which city is Seattle's sister city in Japan?",
+      "answers": [
+        "Kobe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_12",
+      "title": "Into which sea does the Nile river flow?",
+      "answers": [
+        "The Mediterranean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_13",
+      "title": "Frankfort is the capital of which US state?",
+      "answers": [
+        "Kentucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_14",
+      "title": "What larger park is found in Manhattan?",
+      "answers": [
+        "Central Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_15",
+      "title": "In what month does Russia celebrate the October Revolution?",
+      "answers": [
+        "November"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_16",
+      "title": "What is the capital of Solomon Islands?",
+      "answers": [
+        "Honiara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_17",
+      "title": "Which US state is home to the world's largest naval base?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_18",
+      "title": "Corsica is part of which European country?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_19",
+      "title": "What color is the cross on the flag of Finland?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_20",
+      "title": "The world's least salty seawater is found in the Gulf of Bothnia, between what two countries?",
+      "answers": [
+        "Sweden and Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_21",
+      "title": "In what country would you find the mouths of the Yangtze river?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_22",
+      "title": "Which region of France do Germans call Lothringen?",
+      "answers": [
+        "Lorraine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_23",
+      "title": "In what country would you find the active volcano \"Krakatoa\"?",
+      "answers": [
+        "Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_24",
+      "title": "Boise is the capital of which US state?",
+      "answers": [
+        "Idaho"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_25",
+      "title": "What river flows along the western border of Illinois?",
+      "answers": [
+        "Mississippi River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_26",
+      "title": "Which country borders Suriname to the south?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_27",
+      "title": "Which US state is home to White Sands National Monument?",
+      "answers": [
+        "New Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_28",
+      "title": "In which European country is the resort town of Spa?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_29",
+      "title": "Which US state is home to the twin cities of Benton Harbor and Saint Joseph?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_30",
+      "title": "Which US state has the longest land border with Canada?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_31",
+      "title": "Which US state is nicknamed the \"Peace Garden State\"?",
+      "answers": [
+        "North Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_32",
+      "title": "What U.S. mountain range has a \"road to nowhere\"?",
+      "answers": [
+        "Great Smokey Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_33",
+      "title": "In which state of the United States would you find Fort Knox?",
+      "answers": [
+        "Kentucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_34",
+      "title": "The seismic belt called the Ring of Fire surrounds what body of water?",
+      "answers": [
+        "The Pacific Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_35",
+      "title": "What is the first nation you would reach after heading due east from New York City?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_36",
+      "title": "Which famous mountain peak is not part of a mountain range?",
+      "answers": [
+        "Mt. Kilimanjaro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_37",
+      "title": "Where is the Sea of Tranquility?",
+      "answers": [
+        "The Moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_38",
+      "title": "The Bitterroot Range of the Rockies is located on the border between what two US states?",
+      "answers": [
+        "Idaho and Montana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_39",
+      "title": "What is the capital of Andorra?",
+      "answers": [
+        "Andorra la Vella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_40",
+      "title": "Mount Godwin Austen, located in the Karakoram mountain range, is better known as what?",
+      "answers": [
+        "K2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_41",
+      "title": "Which U.S. state has most miles of rivers?",
+      "answers": [
+        "Nebraska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_42",
+      "title": "N'Djamena is the capital of which country?",
+      "answers": [
+        "Chad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_43",
+      "title": "Yellowstone Lake is the largest naturally occurring lake in which state?",
+      "answers": [
+        "Wyoming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_44",
+      "title": "Where is the world’s biggest ballet school?",
+      "answers": [
+        "Cuba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_45",
+      "title": "Lincoln is the capital of which state?",
+      "answers": [
+        "Nebraska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_46",
+      "title": "Libreville is the capital of which African country?",
+      "answers": [
+        "Gabon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_47",
+      "title": "Which US state has the shortest Atlantic coastline, at only about 13 miles long?",
+      "answers": [
+        "New Hampshire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_48",
+      "title": "Mount Vernon is located in which US state?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_49",
+      "title": "In which city is the \"Wailing Wall\"?",
+      "answers": [
+        "Jerusalem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_54_50",
+      "title": "What is the capital of Sudan?",
+      "answers": [
+        "Khartoum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

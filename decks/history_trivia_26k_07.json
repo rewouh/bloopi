@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_07",
+  "name": "History Trivia 26K 07",
+  "description": "History 301 - 350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_07_01",
+      "title": "What is the practical purpose of the Pharos of Alexandria?",
+      "answers": [
+        "Lighthouse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_02",
+      "title": "What is the capital of Bulgaria?",
+      "answers": [
+        "Sofia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_03",
+      "title": "What 15th century Incan site was discovered in 1911 by Hiram Bingham?",
+      "answers": [
+        "Machu Picchu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_04",
+      "title": "Who founded the American Red Cross?",
+      "answers": [
+        "Clara Barton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_05",
+      "title": "Who succeeded Nikita Khrushchev as first Secretary of the Communist Party?",
+      "answers": [
+        "Leonid Brezhnev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_06",
+      "title": "On what island is Paddy's Pub, the site of a 2002 terrorist bombing?",
+      "answers": [
+        "Bali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_07",
+      "title": "Who was the longest reigning Prime Minister of Britain in the 20th Century?",
+      "answers": [
+        "Margaret Thatcher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_08",
+      "title": "Franklin D. Roosevelt belonged to which political party?",
+      "answers": [
+        "Democratic Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_09",
+      "title": "Benazir Bhutto was the first female prime minister of which country?",
+      "answers": [
+        "Pakistan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_10",
+      "title": "Who was \"The Lady Bandit of Arizona\"?",
+      "answers": [
+        "Pearl Hart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_11",
+      "title": "What is the nickname of the law that created Prohibition in the US?",
+      "answers": [
+        "The Volstead Act"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_12",
+      "title": "Which of Henry VIII's wives died of cancer?",
+      "answers": [
+        "Catherine of Aragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_13",
+      "title": "Who was assassinated by her own bodyguards in 1984?",
+      "answers": [
+        "Indira Gandhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_14",
+      "title": "Who was the first woman to appear on American currency?",
+      "answers": [
+        "Lucy Holcombe Pickens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_15",
+      "title": "Who was the first US President to proclaim a nationwide Thanksgiving Day celebration?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_16",
+      "title": "Who said, \"Nearly all men can stand adversity, but if you want to test a man's character, give him power\"?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_17",
+      "title": "Which oil rig exploded in 1988 killing 167 people?",
+      "answers": [
+        "Piper Alpha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_18",
+      "title": "Which country was former Prime Minister Tony Blair born in?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_19",
+      "title": "Who was Henry VIII's first wife?",
+      "answers": [
+        "Catherine of Aragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_20",
+      "title": "What was the coronation year of Queen Elizabeth II?",
+      "answers": [
+        "1953"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_21",
+      "title": "Which state's flag was designed by a 7th grader?",
+      "answers": [
+        "Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_22",
+      "title": "What Asian leader was known as the \"little brown saint\"?",
+      "answers": [
+        "Mahatma Gandhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_23",
+      "title": "The United Nations replaced what organization?",
+      "answers": [
+        "The League of Nations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_24",
+      "title": "Who said, \"In the end, it's not the years in your life that count. It's life in your years.\"?",
+      "answers": [
+        "Abraham Lincoln"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_25",
+      "title": "What nation was led by Theodoric the Great?",
+      "answers": [
+        "The Ostrogoths"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_26",
+      "title": "Who was the first European explorer to cross the Arctic Circle?",
+      "answers": [
+        "Eric the Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_27",
+      "title": "The Balfour Declaration was published in what year?",
+      "answers": [
+        "1917"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_28",
+      "title": "In what war did the oak-sided USS Constitution gain its nickname \"Old Ironsides\"?",
+      "answers": [
+        "The War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_29",
+      "title": "On July 4th of what year was the Declaration of Independence adopted?",
+      "answers": [
+        "1776"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_30",
+      "title": "Washington's famous crossing of the Delaware was en route to what Revolutionary War battle?",
+      "answers": [
+        "The Battle of Trenton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_31",
+      "title": "Who was the most decorated American soldier during World War II?",
+      "answers": [
+        "Audie L Murphy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_32",
+      "title": "What year did the Mau Mau Uprising start?",
+      "answers": [
+        "1952"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_33",
+      "title": "During which war did the Battle of Goose Green occur?",
+      "answers": [
+        "Falklands War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_34",
+      "title": "How many distinct campaigns did the Crusades have?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_35",
+      "title": "Which British Prime Minister died in 1965?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_36",
+      "title": "What year did Konrad Adenauer become the first Chancellor of West Germany?",
+      "answers": [
+        "1949"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_37",
+      "title": "What were Carrot, Goat, and Onion in WWII?",
+      "answers": [
+        "British explosives"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_38",
+      "title": "Who was Tommy Lee Jones' upperclassman roommate at Harvard?",
+      "answers": [
+        "Al Gore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_39",
+      "title": "What famous woman became known as \"The Lady with the Lamp\" during the Crimean War?",
+      "answers": [
+        "Florence Nightingale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_40",
+      "title": "Which historical figure passed away on April 18, 1955?",
+      "answers": [
+        "Albert Einstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_41",
+      "title": "How many points did the Dow drop on \"Black Monday\" in 1987?",
+      "answers": [
+        "508"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_42",
+      "title": "What city was the last imperial capital of Vietnam under the Nguyen dynasty?",
+      "answers": [
+        "Hue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_43",
+      "title": "What piece of technology did IBM develop in 1973 that they nicknamed Winchester?",
+      "answers": [
+        "A disk drive"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_44",
+      "title": "Which year was Queen Elizabeth II coronated in?",
+      "answers": [
+        "1953"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_45",
+      "title": "What \"trail\" did thousands of pioneers follow to Oregon during the 1800s?",
+      "answers": [
+        "Oregon Trail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_46",
+      "title": "Who was the first Boy Scout to be elected president of the United States?",
+      "answers": [
+        "John F. Kennedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_47",
+      "title": "Which U.S. President signed the National Aeronautics and Space Act establishing NASA?",
+      "answers": [
+        "Dwight D. Eisenhower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_48",
+      "title": "Which amendment to the US Constitution deals with Freedom of Speech?",
+      "answers": [
+        "First"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_49",
+      "title": "The USS Kearsarge is best known for sinking what Confederate vessel?",
+      "answers": [
+        "CSS Alabama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_07_50",
+      "title": "Which US president was born in Tampico, Illinois?",
+      "answers": [
+        "Ronald Reagan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

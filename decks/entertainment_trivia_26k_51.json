@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_51",
+  "name": "Entertainment Trivia 26K 51",
+  "description": "Entertainment 2501 - 2550 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_51_01",
+      "title": "What is Cat Stevens' birth name?",
+      "answers": [
+        "Steven Demetrius Georgiou"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_02",
+      "title": "What was the British equivalent to the popular American MTV show \"Jersey Shore\"?",
+      "answers": [
+        "Geordie Shore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_03",
+      "title": "Stephen King called which film the single most faithful adaptation of his work?",
+      "answers": [
+        "\"The Green Mile\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_04",
+      "title": "What instrument was played by jazz musician Glenn Miller?",
+      "answers": [
+        "The trombone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_05",
+      "title": "What Beatles song repeats the title in the lyrics forty-one times?",
+      "answers": [
+        "Let It Be"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_06",
+      "title": "What is the home planet of Hasbro's Transformers toys?",
+      "answers": [
+        "Cybertron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_07",
+      "title": "In what 1988 did film David Bowie play Pontius Pilate?",
+      "answers": [
+        "Last Temptation of Christ"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_08",
+      "title": "On what island was Jurassic Park located?",
+      "answers": [
+        "Isla Nublar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_09",
+      "title": "After his stint as Robin, what persona new did Dick Grayson adopt?",
+      "answers": [
+        "Nightwing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_10",
+      "title": "In the Harry Potter series, who sings \"I killed Sirius Black\" to infuriate Harry?",
+      "answers": [
+        "Bellatrix Lestrange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_11",
+      "title": "Who plays the coach of the German dodgeball team in the 2004 movie \"Dodgeball: A True Underdog Story\"?",
+      "answers": [
+        "David Hasselhoff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_12",
+      "title": "Before he turned to acting, what was Marky Mark's only number one song?",
+      "answers": [
+        "Good Vibrations"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_13",
+      "title": "When not fighting crime, what did Underdog do for a living?",
+      "answers": [
+        "Shoeshine boy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_14",
+      "title": "In which decade was the first electric guitar made?",
+      "answers": [
+        "1930s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_15",
+      "title": "Who played Tonto on the TV series \"The Lone Ranger\"?",
+      "answers": [
+        "Jay Silverheels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_16",
+      "title": "Which American female vocalist had a hit in 1985 with \"We Don't Need Another Hero\"?",
+      "answers": [
+        "Tina Turner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_17",
+      "title": "What screen legend made her final appearance in the movie \"Autumn Sonata\"?",
+      "answers": [
+        "Ingrid Bergman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_18",
+      "title": "The film \"Crouching Tiger, Hidden Dragon\" takes place in which dynasty?",
+      "answers": [
+        "Qing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_19",
+      "title": "How many weeks before Christmas does the 2003 film \"Love Actually\" begin?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_20",
+      "title": "What year was Anna Nicole Smith selected as a Playboy Playmate of the Year?",
+      "answers": [
+        "1993"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_21",
+      "title": "What Van Morrison song did John Mellencamp remake for a Top 5 US hit in 1994?",
+      "answers": [
+        "Wild Night"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_22",
+      "title": "What female dog is the secret object of Underdog’s affection?",
+      "answers": [
+        "Sweet Polly Purebred"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_23",
+      "title": "In the movie \"Princess Mononoke\", what affliction do the Secret Engineers in Irontown have?",
+      "answers": [
+        "Leprosy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_24",
+      "title": "What was the name of the Lone Ranger’s horse?",
+      "answers": [
+        "Silver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_25",
+      "title": "What name did B.B. King give to his guitar?",
+      "answers": [
+        "Lucille"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_26",
+      "title": "\"The Obvious Child\" was a 1990 hit for whom?",
+      "answers": [
+        "Paul Simon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_27",
+      "title": "What was Herbie the Lovebug's racing number?",
+      "answers": [
+        "53"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_28",
+      "title": "Which 1992 western starring Clint Eastwood, Morgan Freeman and Gene Hackman won the Oscar for Best Picture?",
+      "answers": [
+        "Unforgiven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_29",
+      "title": "Who played the role of Sue Ann Nivens on \"The Mary Tyler Moore Show\"?",
+      "answers": [
+        "Betty White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_30",
+      "title": "Whose first film was the documentary \"Roger & Me\"?",
+      "answers": [
+        "Michael Moore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_31",
+      "title": "What TV show did \"Fraiser\" spin off from?",
+      "answers": [
+        "Cheers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_32",
+      "title": "What actor was the narrator in the movie \"The Hitchhiker's Guide to the Galaxy\"?",
+      "answers": [
+        "Stephen Fry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_33",
+      "title": "Who played the role of Kenneth Parcell on the TV show \"30 Rock\"?",
+      "answers": [
+        "Jack McBrayer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_34",
+      "title": "Bert & Ernie from Sesame Street got their names from two policemen in what popular 1940’s Christmas movie?",
+      "answers": [
+        "It’s a Wonderful Life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_35",
+      "title": "Mort Goldman is the father of which supporting character in the TV show \"Family Guy\"?",
+      "answers": [
+        "Neil Goldman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_36",
+      "title": "Queen and Duran Duran both had drummers with what name?",
+      "answers": [
+        "Roger Taylor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_37",
+      "title": "Who directed the film \"Close Encounters of the Third Kind\"?",
+      "answers": [
+        "Steven Spielberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_38",
+      "title": "Who voices Darth Vader in the original Star Wars movies?",
+      "answers": [
+        "James Earl Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_39",
+      "title": "Who directed the 1974 film \"Chinatown\" starring Jack Nicholson?",
+      "answers": [
+        "Roman Polanski"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_40",
+      "title": "Which actress played Emma Peel in the 1960s TV show \"The Avengers\"?",
+      "answers": [
+        "Diana Rigg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_41",
+      "title": "What popular Motown group was originally known as \"The Primettes\"?",
+      "answers": [
+        "The Supremes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_42",
+      "title": "\"Run\" is a 1994 Hong Kong remake of which shoe string-budget action film by Robert Rodriguez?",
+      "answers": [
+        "El Mariachi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_43",
+      "title": "Which Bond actor won an Academy Award for his role in \"The Untouchables\"?",
+      "answers": [
+        "Sean Connery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_44",
+      "title": "Which 1976 film is about a persecuted schoolgirl with psychokinetic powers?",
+      "answers": [
+        "Carrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_45",
+      "title": "Frank Sinatra died on the exact same night as the series finale of what popular TV show?",
+      "answers": [
+        "Seinfeld"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_46",
+      "title": "What is the name of the White Stripes' drummer?",
+      "answers": [
+        "Meg White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_47",
+      "title": "In what substance is Han Solo frozen in the film \"The Empire Strikes Back\"?",
+      "answers": [
+        "Carbonite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_48",
+      "title": "Who plays Jullia Robert's best friend in the movie \"My Best Friend's Wedding\"?",
+      "answers": [
+        "Dermot Mulroney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_49",
+      "title": "Who provided the original voice for SpongeBob SquarePants?",
+      "answers": [
+        "Tom Kenny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_51_50",
+      "title": "What type of pet gets into hot water in \"Fatal Attraction\"?",
+      "answers": [
+        "Rabbit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

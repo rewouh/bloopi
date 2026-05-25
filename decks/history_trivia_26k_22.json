@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_22",
+  "name": "History Trivia 26K 22",
+  "description": "History 1051 - 1100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_22_01",
+      "title": "Which song was adopted as the national anthem of the Confederate States of America by its Congress in power?",
+      "answers": [
+        "Bonnie Blue Flag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_02",
+      "title": "During World War I how did the Germany Army make ammonia for explosives?",
+      "answers": [
+        "Using the Haber Process"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_03",
+      "title": "In 1986, a U.S. court of appeals ruled that what magic-practising movement qualifies as a religion?",
+      "answers": [
+        "Wicca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_04",
+      "title": "Which country was the first European nation to reach Japan?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_05",
+      "title": "What athlete was born in West Baden, Indiana, in December 1956?",
+      "answers": [
+        "Larry Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_06",
+      "title": "Why were Julius and Ethel Rosenberg executed in 1953?",
+      "answers": [
+        "Espionage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_07",
+      "title": "When did Mormons first settle in Utah?",
+      "answers": [
+        "1847"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_08",
+      "title": "Who was the President Kennedy's Secretary of Defense?",
+      "answers": [
+        "Robert McNamara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_09",
+      "title": "In what year did Aaron Burr kill Alexander Hamilton in a duel?",
+      "answers": [
+        "1804"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_10",
+      "title": "Who won the first Boat Race between Oxford and Cambridge?",
+      "answers": [
+        "Oxford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_11",
+      "title": "Shirley Temple Black was the US ambassador to what nation at the time of its 1989 revolution?",
+      "answers": [
+        "Czechoslovakia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_12",
+      "title": "What year did Albert Einstein die?",
+      "answers": [
+        "1955"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_13",
+      "title": "The Oregon Trail started in what city?",
+      "answers": [
+        "Independence, Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_14",
+      "title": "What conflict was instigated by Aristagoras of Miletus?",
+      "answers": [
+        "Persian War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_15",
+      "title": "How many years did Nelson Mandela spend in prison?",
+      "answers": [
+        "27 Years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_16",
+      "title": "Which \"Committee of Five\" member was the 2nd President of the United States?",
+      "answers": [
+        "John Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_17",
+      "title": "What year did the Queen Elizabeth II reign start?",
+      "answers": [
+        "1952"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_18",
+      "title": "The Demologos was the first steam powered what?",
+      "answers": [
+        "Warship"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_19",
+      "title": "Who succeeded Indira Gandhi as Prime Minister of India following her assassination in 1984?",
+      "answers": [
+        "Rajiv Gandhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_20",
+      "title": "What year saw the founding of the Michelin tire company?",
+      "answers": [
+        "1889"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_21",
+      "title": "What was Liu Bang, founder of the Han Dynasty, posthumously known as?",
+      "answers": [
+        "Emperor Gaozu of Han"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_22",
+      "title": "Joan of Arc won several victories for France in which European war?",
+      "answers": [
+        "Hundred Year's War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_23",
+      "title": "The \"CSS Hunley\" was the first of what type of vessel to sink an enemy ship?",
+      "answers": [
+        "Submarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_24",
+      "title": "What famous chemist died in 1934 from a blood disease contracted by the effects of radiation exposure?",
+      "answers": [
+        "Marie Curie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_25",
+      "title": "What was the code name for the development of the A-bomb?",
+      "answers": [
+        "The Manhattan Project"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_26",
+      "title": "Who said, \"Personally I’m always ready to learn, although I do not always like being taught.\"?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_27",
+      "title": "What year did Bangladesh declare its independence from Pakistan?",
+      "answers": [
+        "1971"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_28",
+      "title": "Who were known by GI's in World War II as \"Hit & Muss\"?",
+      "answers": [
+        "Hitler and Mussolini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_29",
+      "title": "What famous horse belonged to Caligula?",
+      "answers": [
+        "Incitatus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_30",
+      "title": "At what Ohio university were four students shot to death during a 1970 anti-war demonstration?",
+      "answers": [
+        "Kent State"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_31",
+      "title": "Who was burnt at the stake by the English at Rouen on May 30th 1431?",
+      "answers": [
+        "Joan of Arc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_32",
+      "title": "Who did Anthony Eden succeed as Prime Minister in 1955?",
+      "answers": [
+        "Winston Churchill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_33",
+      "title": "In which concentration camp did Anne Frank die?",
+      "answers": [
+        "Bergen-Belsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_34",
+      "title": "In what city did Rosa Parks refuse to move to the back of the bus?",
+      "answers": [
+        "Montgomery, Alabama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_35",
+      "title": "Which dynasty preceded the Han Dynasty ending its rule in 207 BC?",
+      "answers": [
+        "Qin Dynasty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_36",
+      "title": "Which is the world's oldest island?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_37",
+      "title": "Who is the first Prime Minister of Italy, also a leading figure in the Italian unification?",
+      "answers": [
+        "Camillo Benso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_38",
+      "title": "Which famous explorer was killed in the Hawaiian Islands in 1779?",
+      "answers": [
+        "James Cook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_39",
+      "title": "The term \"ok\" caught on during what president's campaign?",
+      "answers": [
+        "Martin Van Buren"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_40",
+      "title": "Who has held the world record in the pole vault, 6.14 m, for more than twenty years?",
+      "answers": [
+        "Sergei Bubka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_41",
+      "title": "What country's transcontinental railway was finally finished on November 7, 1885?",
+      "answers": [
+        "Canada's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_42",
+      "title": "Who was the last Nascar driver to serve jail time for running moonshine?",
+      "answers": [
+        "Buddy Arrington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_43",
+      "title": "In the U.S., what famous slogan first appeared on World War I recruiting posters?",
+      "answers": [
+        "\"I want you\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_44",
+      "title": "What was Rutherford B. Hayes' middle name?",
+      "answers": [
+        "Birchard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_45",
+      "title": "Who rode his horse Copenhagen at the Battle of Waterloo?",
+      "answers": [
+        "The Duke of Wellington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_46",
+      "title": "\"Fat Tuesday\" is another name for which riotous celebration?",
+      "answers": [
+        "Mardi Gras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_47",
+      "title": "What was the name of Paul Bunyan’s pet?",
+      "answers": [
+        "Babe the blue ox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_48",
+      "title": "What was Matthew Hopkins famous for in the 17th century?",
+      "answers": [
+        "He was a witch-finder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_49",
+      "title": "What year was Strongbow cider introduced to the market?",
+      "answers": [
+        "1962"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_22_50",
+      "title": "What treaty ended the American Revolution?",
+      "answers": [
+        "Treaty of Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

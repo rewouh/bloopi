@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_45",
+  "name": "General Trivia 26K 45",
+  "description": "General 2201 - 2250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_45_01",
+      "title": "How many players are there in a standard team handball team?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_02",
+      "title": "What does MST3K stand for?",
+      "answers": [
+        "Mystery Science Theater 3000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_03",
+      "title": "What is nori, an ingredient used in the making of sushi?",
+      "answers": [
+        "Seaweed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_04",
+      "title": "What is the steaming, bubbling bowl that a witch brews spells in?",
+      "answers": [
+        "Cauldron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_05",
+      "title": "What company created the first mass-produced portable computer?",
+      "answers": [
+        "Osborne Computers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_06",
+      "title": "Which of Santa's reindeer is named for a female fox?",
+      "answers": [
+        "Vixen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_07",
+      "title": "What are the separators on a guitar neck called?",
+      "answers": [
+        "Frets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_08",
+      "title": "What soccer team won the 2017 FIFA Club World Cup?",
+      "answers": [
+        "Real Madrid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_09",
+      "title": "Christmas caroling began as what old English custom?",
+      "answers": [
+        "Wassailing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_10",
+      "title": "Which Benedictine monk perfected the champagne method?",
+      "answers": [
+        "Dom Perignon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_11",
+      "title": "Which country gave birth to the beer Corona?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_12",
+      "title": "What democratic senator that is a cousin of actress/comedian Amy Schumer?",
+      "answers": [
+        "Charles \"Chuck\" Schumer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_13",
+      "title": "What type of pasta is usually shaped like little wagon wheels?",
+      "answers": [
+        "Rotelle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_14",
+      "title": "Where is ESPN's headquarters located?",
+      "answers": [
+        "Bristol, Connecticut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_15",
+      "title": "What was the number of Twitter’s original character limit?",
+      "answers": [
+        "140"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_16",
+      "title": "Where is Apple Inc. headquartered?",
+      "answers": [
+        "Cupertino, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_17",
+      "title": "In terms of weight, what country produces the most coffee?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_18",
+      "title": "What color are many casinos decorated in to make patrons less aware of passing time?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_19",
+      "title": "How many scoops of raisins go into each box of Kellogg's Raisin Bran?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_20",
+      "title": "What year did the Original Dungeons and Dragons box set by Gary Gygax and Dave Arneson debut?",
+      "answers": [
+        "1974"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_21",
+      "title": "Where are US coins with a \"D\" mark minted?",
+      "answers": [
+        "Denver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_22",
+      "title": "What sandwich bread takes its name from the Italian for \"carpet slipper\"?",
+      "answers": [
+        "Ciabatta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_23",
+      "title": "What was football legend Joe Namath's nickname?",
+      "answers": [
+        "Broadway Joe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_24",
+      "title": "What did Little Jack Horner pull out of his Christmas pie?",
+      "answers": [
+        "A plum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_25",
+      "title": "When do \"blue laws\" prohibit certain activities?",
+      "answers": [
+        "On Sundays"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_26",
+      "title": "What popular brand of soup was introduced in 1897?",
+      "answers": [
+        "Campbell's Soup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_27",
+      "title": "What is the NATO phonetic alphabet word for \"R\"?",
+      "answers": [
+        "Romeo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_28",
+      "title": "What type of pasta’s name mean “little tongues” in Italian?",
+      "answers": [
+        "Linguini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_29",
+      "title": "What sport is the Heisman Trophy awarded in?",
+      "answers": [
+        "American college football"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_30",
+      "title": "Nelis, Seckel, Forelle and Bosc varieties of what?",
+      "answers": [
+        "Pears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_31",
+      "title": "If one is wearing a swimsuit in Florida in public, what is illegal for one to do?",
+      "answers": [
+        "Sing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_32",
+      "title": "What popular figure was born Martha Helen Kostyra in 1941?",
+      "answers": [
+        "Martha Stewart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_33",
+      "title": "What is the better-known word for \"aubergine\"?",
+      "answers": [
+        "Eggplant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_34",
+      "title": "What game introduced the characters Raiden, Liu Kang, and Sub-Zero?",
+      "answers": [
+        "Mortal Kombat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_35",
+      "title": "This is the strongest poker hand you can get?",
+      "answers": [
+        "Royal Flush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_36",
+      "title": "What chapel do Cardinals congregate in to elect a new Pope?",
+      "answers": [
+        "Sistine Chapel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_37",
+      "title": "Wanamaker's of Philadelphia first US store to install what in 1878?",
+      "answers": [
+        "Electric illumination"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_38",
+      "title": "In chess notation, what move is indicated by \"O-O\"?",
+      "answers": [
+        "Castling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_39",
+      "title": "According to traditional rules, what color of poker chip has the highest value?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_40",
+      "title": "What animal is said to produce the world's most expensive cheese?",
+      "answers": [
+        "Donkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_41",
+      "title": "What word describes a cut of steak containing both the T-­bone and the tenderloin?",
+      "answers": [
+        "Porterhouse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_42",
+      "title": "In India, what day is observed on the 25th day of each December?",
+      "answers": [
+        "Good Governance Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_43",
+      "title": "What company was formerly named Cadabra Inc.?",
+      "answers": [
+        "Amazon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_44",
+      "title": "In France what kind of nuts are noisette?",
+      "answers": [
+        "Hazelnuts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_45",
+      "title": "What nickname was given to mafia boss Charlie Luciano?",
+      "answers": [
+        "\"Lucky\" Luciano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_46",
+      "title": "Which country were the 1992 Summer Olympic Games held in?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_47",
+      "title": "What star small forward is the father of NBA brothers Scooter, Drew, Jon, and Brent?",
+      "answers": [
+        "Rick Barry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_48",
+      "title": "What is the Blackberry bush also called?",
+      "answers": [
+        "Bramble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_49",
+      "title": "What position did Babe Ruth play when he first joined the Boston Red Sox in 1914?",
+      "answers": [
+        "Pitcher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_45_50",
+      "title": "Lockiophobia, Tokophobia, also known as Maieusiophobia and Parturiphobia, is an abnormal and persistent fear of what?",
+      "answers": [
+        "Childbirth or becoming pregnant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

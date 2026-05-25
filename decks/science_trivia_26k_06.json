@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_06",
+  "name": "Science Trivia 26K 06",
+  "description": "Science 251 - 300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_06_01",
+      "title": "What is a community of ants called?",
+      "answers": [
+        "A colony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_02",
+      "title": "What fluid was the chemical \"taurine\" first derived from?",
+      "answers": [
+        "Ox bile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_03",
+      "title": "What is the fear of glass known as?",
+      "answers": [
+        "Nelophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_04",
+      "title": "What volcanic rock floats in water?",
+      "answers": [
+        "Pumice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_05",
+      "title": "What is the largest human organ?",
+      "answers": [
+        "Skin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_06",
+      "title": "What is the sound a camel makes called?",
+      "answers": [
+        "Nuzzing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_07",
+      "title": "What range of frequencies are usually referred to as the UHF Band?",
+      "answers": [
+        "300 to 3,000 Megahertz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_08",
+      "title": "In 1939, Philo T. Farnsworth licensed his patents for what invention to RCA Victor?",
+      "answers": [
+        "The television"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_09",
+      "title": "How many continents are located entirely in the Southern Hemisphere?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_10",
+      "title": "Somnoplasty is a cosmetic procedure designed to help with what?",
+      "answers": [
+        "Snoring"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_11",
+      "title": "What kind of animal lives in a \"warren\"?",
+      "answers": [
+        "Rabbit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_12",
+      "title": "Who won the Nobel Prize in Physics in 1918 for the services he rendered to the advancement of physics by his discovery of energy quanta?",
+      "answers": [
+        "Max Planck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_13",
+      "title": "What amino acid is popularly linked to turkey's drowsiness-inducing properties?",
+      "answers": [
+        "Tryptophan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_14",
+      "title": "In what organ of the body is insulin produced?",
+      "answers": [
+        "Pancreas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_15",
+      "title": "Which chemical element is named after the Latin word for \"red\"?",
+      "answers": [
+        "Rubidium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_16",
+      "title": "How long can a snail sleep?",
+      "answers": [
+        "Three years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_17",
+      "title": "What North American mammal is also known as the prairie wolf or brush wolf?",
+      "answers": [
+        "Coyote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_18",
+      "title": "Belonephobia is the fear of what?",
+      "answers": [
+        "Pins and needles?"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_19",
+      "title": "Hydrargyrum was once the name for what element?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_20",
+      "title": "Who won a Nobel Prize for discovering inert gases?",
+      "answers": [
+        "William Ramsey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_21",
+      "title": "Which element is combined with Iron to create Steel?",
+      "answers": [
+        "Carbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_22",
+      "title": "What is the only breed of cat that does not have retractable claws?",
+      "answers": [
+        "The cheetah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_23",
+      "title": "What is the largest gland in the human body?",
+      "answers": [
+        "The liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_24",
+      "title": "What is added to copper to make bronze?",
+      "answers": [
+        "Tin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_25",
+      "title": "Which element has the lowest boiling point?",
+      "answers": [
+        "Helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_26",
+      "title": "A male duck is properly known as what?",
+      "answers": [
+        "A drake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_27",
+      "title": "What type of snake is a Sidewinder?",
+      "answers": [
+        "Rattlesnake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_28",
+      "title": "If you were infected with the variola virus, what disease did you have?",
+      "answers": [
+        "Smallpox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_29",
+      "title": "What animal is sometimes used by museums to clean skeletons for display?",
+      "answers": [
+        "Beetles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_30",
+      "title": "What large reptile was popularized by Steve Irwin and Paul Hogan?",
+      "answers": [
+        "The crocodile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_31",
+      "title": "What terms, starting with the letter \"s\" are used to refer to a group of mosquitoes?",
+      "answers": [
+        "Scourge and swarm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_32",
+      "title": "What word denotes the energy an object has because it is in motion?",
+      "answers": [
+        "Kinetic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_33",
+      "title": "What has the largest eyes in the world?",
+      "answers": [
+        "Colossal Squid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_34",
+      "title": "An imperial fathom has how many yards?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_35",
+      "title": "What name is given to a doctor who specializes in skin disorders?",
+      "answers": [
+        "Dermatologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_36",
+      "title": "What line on a weather map links all points of equal pressure?",
+      "answers": [
+        "Isobar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_37",
+      "title": "Which animal product does an ovo-vegetarian eat?",
+      "answers": [
+        "Eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_38",
+      "title": "What is a body's resistance to changes in motion or speed called?",
+      "answers": [
+        "Inertia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_39",
+      "title": "What takes exactly eight minutes and twenty seconds to reach the earth?",
+      "answers": [
+        "Sunlight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_40",
+      "title": "What is a \"jonquil\"?",
+      "answers": [
+        "Garden plant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_41",
+      "title": "Which term refers to the variability of life on Earth?",
+      "answers": [
+        "Biodiversity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_42",
+      "title": "What date did man first land on the moon?",
+      "answers": [
+        "July 20, 1969"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_43",
+      "title": "Which two features are longer on a hare than a rabbit?",
+      "answers": [
+        "Legs and Ears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_44",
+      "title": "What animal produces most of the world's wool?",
+      "answers": [
+        "Sheep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_45",
+      "title": "A skulk is a group of which animals?",
+      "answers": [
+        "Foxes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_46",
+      "title": "What is the most abundant metal in Earth's crust?",
+      "answers": [
+        "Aluminium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_47",
+      "title": "What digestive tract illness often is a manifestation of diabetes?",
+      "answers": [
+        "Gastroparesis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_48",
+      "title": "What is an erythrocyte?",
+      "answers": [
+        "Red blood cell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_49",
+      "title": "What is the chemical symbol for krypton?",
+      "answers": [
+        "Kr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_06_50",
+      "title": "What poison is found in apple seeds?",
+      "answers": [
+        "Cyanide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

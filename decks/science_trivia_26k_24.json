@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_24",
+  "name": "Science Trivia 26K 24",
+  "description": "Science 1151 - 1200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_24_01",
+      "title": "What is the common name for the animal classified as \"Ursus arctos\"?",
+      "answers": [
+        "Brown bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_02",
+      "title": "What is the scientific term for what is commonly called a \"brain freeze\"?",
+      "answers": [
+        "Sphenopalatine Ganglioneuralgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_03",
+      "title": "Which US space probe was first to orbit another planet?",
+      "answers": [
+        "Mariner 9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_04",
+      "title": "Who was the last man from the Apollo program to have walked on the Moon?",
+      "answers": [
+        "Eugene Cernan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_05",
+      "title": "Samhainophobia is the fear of what?",
+      "answers": [
+        "Halloween"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_06",
+      "title": "What number is indicated by the Roman numeral \"D\"?",
+      "answers": [
+        "500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_07",
+      "title": "What do scientists call the “belt” that is orbiting the sun between Mars and Jupiter?",
+      "answers": [
+        "Asteroid Belt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_08",
+      "title": "What is an Ishihara Test used for?",
+      "answers": [
+        "To check colour blindness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_09",
+      "title": "Ivory is made up of what substance?",
+      "answers": [
+        "Dentin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_10",
+      "title": "An orchid discovered by Charles Darwin goes by what unusual name?",
+      "answers": [
+        "Happy Alien"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_11",
+      "title": "What is Joseph Priestley credited with discovering?",
+      "answers": [
+        "Oxygen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_12",
+      "title": "What month is the Earth closest to the sun?",
+      "answers": [
+        "January"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_13",
+      "title": "When was insulin discovered?",
+      "answers": [
+        "1921"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_14",
+      "title": "Organic chemistry is centered around what two elements?",
+      "answers": [
+        "Carbon and Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_15",
+      "title": "Where is the zygomatic bone located in the human body?",
+      "answers": [
+        "The cheek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_16",
+      "title": "What is a hominid?",
+      "answers": [
+        "An Upright-Walking Primate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_17",
+      "title": "What does a decibel measure?",
+      "answers": [
+        "Sound Pressure Level"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_18",
+      "title": "What is the chemical symbol for Curium?",
+      "answers": [
+        "Cm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_19",
+      "title": "A deficiency of which vitamin can lead to night blindness?",
+      "answers": [
+        "A"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_20",
+      "title": "In what organ of the human body would you find the pleurae?",
+      "answers": [
+        "The lungs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_21",
+      "title": "What planet is named for the Roman equivalent of the Greek god Zeus?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_22",
+      "title": "In what part of the body would you find amniotic fluid?",
+      "answers": [
+        "The uterus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_23",
+      "title": "What fish has green bones?",
+      "answers": [
+        "Garfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_24",
+      "title": "Which two twin primes add up to 360?",
+      "answers": [
+        "179 and 181"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_25",
+      "title": "What artificial sweetener based on sucralose was introduced in 1999?",
+      "answers": [
+        "Splenda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_26",
+      "title": "What is a group of feral horses called?",
+      "answers": [
+        "A band"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_27",
+      "title": "What kind of an animal is the \"horny toad\"?",
+      "answers": [
+        "A lizard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_28",
+      "title": "What name for the tailbone comes from its resemblance to a cuckoo’s beak?",
+      "answers": [
+        "Coccyx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_29",
+      "title": "Something that is toward the end or away from the center of the body can also be called what?",
+      "answers": [
+        "Distal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_30",
+      "title": "Which is the densest planet in our solar system?",
+      "answers": [
+        "Earth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_31",
+      "title": "What animal has the highest blood pressure?",
+      "answers": [
+        "The giraffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_32",
+      "title": "This ancient attempt to transmute base metals into noble metals was called what?",
+      "answers": [
+        "Alchemy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_33",
+      "title": "Extending a joint beyond its normal anatomical position is called what?",
+      "answers": [
+        "Hyperextension"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_34",
+      "title": "What is a young bee fed to develop into a queen?",
+      "answers": [
+        "Royal jelly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_35",
+      "title": "What is a calorie a unit of?",
+      "answers": [
+        "Energy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_36",
+      "title": "What's the more common name for the retinal scotoma caused by the optic nerve?",
+      "answers": [
+        "Your blind spot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_37",
+      "title": "Which extinction event was caused by human activity?",
+      "answers": [
+        "Holocene extinction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_38",
+      "title": "Mt. Rainier is one of sixteen volcanoes in the world that is classified as what?",
+      "answers": [
+        "A Decade Volcano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_39",
+      "title": "Which element can’t form a solid at zero pressure?",
+      "answers": [
+        "Helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_40",
+      "title": "What country is credited with inventing the modern, self-igniting match?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_41",
+      "title": "Gray, blue, bowhead and finback are varieties of what?",
+      "answers": [
+        "Whales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_42",
+      "title": "What plant's roots are used to make tapioca?",
+      "answers": [
+        "The cassava's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_43",
+      "title": "How many pairs of ribs are there in the average human skeleton?",
+      "answers": [
+        "Twelve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_44",
+      "title": "What vitamin does E. coli produce?",
+      "answers": [
+        "K"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_45",
+      "title": "Who developed vulcanized rubber?",
+      "answers": [
+        "Charles Goodyear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_46",
+      "title": "The \"pinna\" is the outer, visible part of what?",
+      "answers": [
+        "The ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_47",
+      "title": "A free radical is an atom or molecule that has at least one what?",
+      "answers": [
+        "Unpaired valance electron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_48",
+      "title": "What is the atomic number of Antimony?",
+      "answers": [
+        "51"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_49",
+      "title": "A newton is a unit of what?",
+      "answers": [
+        "Force"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_24_50",
+      "title": "A cygnet is the name for a newly hatched or baby what?",
+      "answers": [
+        "Swan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

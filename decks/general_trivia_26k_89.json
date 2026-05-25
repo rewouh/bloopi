@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_89",
+  "name": "General Trivia 26K 89",
+  "description": "General 4401 - 4450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_89_01",
+      "title": "What flavor of schnapps is used to make the drink Fuzzy Navel?",
+      "answers": [
+        "Peach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_02",
+      "title": "What name is shared between a 2nd Earl of Pembroke and an English cider?",
+      "answers": [
+        "Strongbow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_03",
+      "title": "What type of athlete is also called a powder puff, tanker, catcher or knuckle duster?",
+      "answers": [
+        "A boxer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_04",
+      "title": "What number of Downing Street serves as the residence for the Prime Minister of the UK?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_05",
+      "title": "What meal-in-a-box is called the San Francisco treat?",
+      "answers": [
+        "Rice-a-Roni"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_06",
+      "title": "What occupation traditionally referred to its apprentices as \"devils\"?",
+      "answers": [
+        "Printers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_07",
+      "title": "Which automaker sold a car model named \"Colt\"?",
+      "answers": [
+        "Dodge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_08",
+      "title": "What do the letters S and A stand for in SAM missiles?",
+      "answers": [
+        "Surface to air"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_09",
+      "title": "What two colours make purple?",
+      "answers": [
+        "Red and Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_10",
+      "title": "In NATO's phonetic alphabet, what is the letter \"B\" referred to as?",
+      "answers": [
+        "Bravo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_11",
+      "title": "What food company produces the cereals Count Chocula, Franken Berry, and Boo Berry?",
+      "answers": [
+        "General Mills"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_12",
+      "title": "The US Army's elite 101st Airborne Division is known as the \"Screaming\" what?",
+      "answers": [
+        "Eagles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_13",
+      "title": "At a military funeral, the American flag is folded how many times?",
+      "answers": [
+        "13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_14",
+      "title": "What is the longest someone has gone without sleeping?",
+      "answers": [
+        "266 hours"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_15",
+      "title": "How many holes are there in a standard Ritz cracker?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_16",
+      "title": "What does the abbreviation DOS stand for in the operating system MS-DOS?",
+      "answers": [
+        "Disk Operating System"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_17",
+      "title": "Minnesota, it is illegal to tease what type of animal?",
+      "answers": [
+        "Skunk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_18",
+      "title": "What is the shape of a carpenter's square, found in home workshops?",
+      "answers": [
+        "L-shape"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_19",
+      "title": "How frequent are quotidian tasks?",
+      "answers": [
+        "Daily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_20",
+      "title": "What day of the year is considered National Pi Day?",
+      "answers": [
+        "March 14th"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_21",
+      "title": "What color flag indicates a fair throw in the shot put?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_22",
+      "title": "What is a group of snails referred to as?",
+      "answers": [
+        "A walk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_23",
+      "title": "Which month's name is derived from the Latin word for eight?",
+      "answers": [
+        "October"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_24",
+      "title": "What broadcasting company owns CNN?",
+      "answers": [
+        "Time Warner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_25",
+      "title": "What architect was responsible for designing the Sydney Opera House?",
+      "answers": [
+        "Jørn Utzon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_26",
+      "title": "Which professional tennis player did Andre Agassi marry in 2001?",
+      "answers": [
+        "Steffi Graf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_27",
+      "title": "What was Babe Ruth's real name?",
+      "answers": [
+        "George Herman Ruth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_28",
+      "title": "In what country did Red Bull originate as Krating Daeng?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_29",
+      "title": "How many players are there in a men's field lacrosse team?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_30",
+      "title": "How many hurdles are there in a 400 metres hurdle race?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_31",
+      "title": "What is Cap'n Crunch's rank?",
+      "answers": [
+        "Commander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_32",
+      "title": "What lobster organ is made into a delicacy known as \"tomalley\"?",
+      "answers": [
+        "Liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_33",
+      "title": "In nautical terms, what does \"Bow\" mean?",
+      "answers": [
+        "Forward"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_34",
+      "title": "What commonly used drug is also used as a natural pesticide?",
+      "answers": [
+        "Caffeine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_35",
+      "title": "What is the term for a word that is spelled the same forwards and backwards?",
+      "answers": [
+        "Palindrome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_36",
+      "title": "Who was Martha, found dead in Cincinnati on the afternoon of September 1, 1914?",
+      "answers": [
+        "The last passenger pigeon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_37",
+      "title": "Which of Santa's reindeer have names that mean \"thunder\" and \"lightning\" in German?",
+      "answers": [
+        "Donner and Blitzen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_38",
+      "title": "What is Nike's signature symbol called?",
+      "answers": [
+        "The swoosh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_39",
+      "title": "What does UFC stand for?",
+      "answers": [
+        "Ultimate Fighting Championship"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_40",
+      "title": "Nordic and Alpine are two main genres of which sport?",
+      "answers": [
+        "Skiing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_41",
+      "title": "From which country did the troll doll originate?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_42",
+      "title": "What is missing in a New England milkshake?",
+      "answers": [
+        "Ice cream"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_43",
+      "title": "What type of animal is the Japanese monster, Megalon?",
+      "answers": [
+        "Beetle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_44",
+      "title": "What is the first prime number that comes after 100?",
+      "answers": [
+        "101"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_45",
+      "title": "What was the original name of the Boston Red Sox?",
+      "answers": [
+        "Boston Americans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_46",
+      "title": "What is the name of the baby depicted on the Sacagawea dollar coin?",
+      "answers": [
+        "Pomp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_47",
+      "title": "What prayer is said ten times during each sequence of a Catholic rosary?",
+      "answers": [
+        "Hail Mary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_48",
+      "title": "What is the name of the gigantic silver sphere at EPCOT?",
+      "answers": [
+        "Spaceship Earth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_49",
+      "title": "What round-bottomed cooking vessel did China introduce to the culinary world?",
+      "answers": [
+        "The wok"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_89_50",
+      "title": "What company originally owned the name \"Saltine\" before losing it to trademark dilution?",
+      "answers": [
+        "Nabisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

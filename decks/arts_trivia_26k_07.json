@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_07",
+  "name": "Arts Trivia 26K 07",
+  "description": "Arts 301 - 350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_07_01",
+      "title": "Anne Hathaway was married to what famous English poet?",
+      "answers": [
+        "William Shakespeare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_02",
+      "title": "What book by George Orwell had a film adaption that was funded by the CIA?",
+      "answers": [
+        "Animal Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_03",
+      "title": "Humbert Humbert is the protagonist and narrator of which controversial novel?",
+      "answers": [
+        "\"Lolita\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_04",
+      "title": "In music, what is the term to gradually decrease in volume?",
+      "answers": [
+        "Decrescendo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_05",
+      "title": "Which Dickens character asked for more?",
+      "answers": [
+        "Oliver Twist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_06",
+      "title": "What country is Puccini's opera, \"Turandot\", set in?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_07",
+      "title": "What is the setting for most of John Steinbeck's novels?",
+      "answers": [
+        "Rural farms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_08",
+      "title": "Who wrote \"Brave New World\"?",
+      "answers": [
+        "Aldous Huxley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_09",
+      "title": "Who wrote, Shakespeare's Christmas in 1998?",
+      "answers": [
+        "Charlaine Harris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_10",
+      "title": "In what Agatha Christie book does Hercule Poriot die?",
+      "answers": [
+        "Curtain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_11",
+      "title": "How many strings do most guitars have?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_12",
+      "title": "The book \"Lord of Light\", was written by whom?",
+      "answers": [
+        "Roger Zelazny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_13",
+      "title": "Which University did author J. K. Rowling graduate from?",
+      "answers": [
+        "University of Exeter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_14",
+      "title": "Which book by Thomas More, published in 1516, depicts an ideal fictional island society?",
+      "answers": [
+        "\"Utopia\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_15",
+      "title": "What is the name of Lois Lane's younger sister?",
+      "answers": [
+        "Lucy Lane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_16",
+      "title": "Which writer adapted his own book for the 1989 film \"Pet Sematary\"?",
+      "answers": [
+        "Stephen King"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_17",
+      "title": "Joe Cool is an alter ego of which comic strip character?",
+      "answers": [
+        "Snoopy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_18",
+      "title": "Who created the fictional detective Nero Wolfe?",
+      "answers": [
+        "Rex Stout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_19",
+      "title": "Sarah Woodruff is the title character of what 1969 novel?",
+      "answers": [
+        "The French Lieutenant's Woman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_20",
+      "title": "What author created the characters Ponyboy and Sodapop?",
+      "answers": [
+        "S.E. Hinton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_21",
+      "title": "In which branch of the arts is Katherine Dunham famous?",
+      "answers": [
+        "Ballet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_22",
+      "title": "Natty Bumppo was the creation of which author?",
+      "answers": [
+        "James Fenimore Cooper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_23",
+      "title": "\"Philosophiae Naturalis Principia Mathematica\" was written by whom?",
+      "answers": [
+        "Isaac Newton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_24",
+      "title": "What clarinetist was nicknamed the \"King of Swing\"?",
+      "answers": [
+        "Benny Goodman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_25",
+      "title": "Who wrote the collection of science fiction stories that made up the book \"I, Robot\"?",
+      "answers": [
+        "Isaac Asimov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_26",
+      "title": "Which city staged the premier of \"Gone with the Wind\" that actress Hattie McDaniel couldn't attend due to her skin color?",
+      "answers": [
+        "Atlanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_27",
+      "title": "What eye complaint is blamed for the reddish tone of some of Monet's paintings?",
+      "answers": [
+        "Cataracts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_28",
+      "title": "In which Shakespearean play would we see the character of Aaron?",
+      "answers": [
+        "Titus Andronicus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_29",
+      "title": "What author created Lilliput?",
+      "answers": [
+        "Jonathan Swift"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_30",
+      "title": "Approximately how many lines is \"Beowulf\", the longest Old English manuscript?",
+      "answers": [
+        "Over 3,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_31",
+      "title": "In Arthurian myth, what son of Lancelot led the quest that achieved the Holy Grail?",
+      "answers": [
+        "Galahad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_32",
+      "title": "What cartoon character did artist Matt Furie decide to kill in 2017, after it became associated with white nationalism against his will?",
+      "answers": [
+        "Pepe the Frog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_33",
+      "title": "Who played Anita in the first Broadway production of West Side Story?",
+      "answers": [
+        "Chita Rivera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_34",
+      "title": "In Shakespeare's \"The Taming of the Shrew\", who is Petruchio's manservant?",
+      "answers": [
+        "Grumio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_35",
+      "title": "When did J. D. Salinger publish the novel \"The Catcher in the Rye\"?",
+      "answers": [
+        "1951"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_36",
+      "title": "In Nathaniel Hawthorne's \"The Scarlet Letter\", what was the letter and what did it stand for?",
+      "answers": [
+        "A for adultry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_37",
+      "title": "What forest was home to Robin Hood?",
+      "answers": [
+        "The Sherwood Forest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_38",
+      "title": "Who wrote the book \"Gone with the Wind\"?",
+      "answers": [
+        "Margaret Mitchell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_39",
+      "title": "Who was the faithful wife of Ulysses in Homer’s \"Odyssey\"?",
+      "answers": [
+        "Penelope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_40",
+      "title": "What author created the character of The Continental Op?",
+      "answers": [
+        "Dashiell Hammett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_41",
+      "title": "In what comic strip would you find siblings Zoe, Hammy and Wren?",
+      "answers": [
+        "Baby Blues"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_42",
+      "title": "Who painted \"The Boy in the Red Vest\"?",
+      "answers": [
+        "Paul Cézanne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_43",
+      "title": "According to the Bible, who was the first murderer?",
+      "answers": [
+        "Cain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_44",
+      "title": "The story \"The Rose and The Ring\" was written by which 19th century novelist?",
+      "answers": [
+        "William Thackeray"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_45",
+      "title": "In the series Harry Potter, what is the spell for water-making?",
+      "answers": [
+        "Aguamenti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_46",
+      "title": "Who founded Dumbledore's Army?",
+      "answers": [
+        "Hermione Granger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_47",
+      "title": "As punishment for not appreciating Apollo's music, King Midas's ears were transformed into the ears of what animal?",
+      "answers": [
+        "Donkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_48",
+      "title": "What decade was Agatha Christie's \"Murder on the Orient Express\" set in?",
+      "answers": [
+        "The 1920s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_49",
+      "title": "In what book did Rudyard Kipling introduce readers to a mongoose named Rikki Tikki Tavi?",
+      "answers": [
+        "The Jungle Book"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_07_50",
+      "title": "In the comic book series \"Strangers in Paradise\", What is the name of Francine’s daughter?",
+      "answers": [
+        "Jenny"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

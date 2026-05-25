@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_23",
+  "name": "Geography Trivia 26K 23",
+  "description": "Geography 1101 - 1150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_23_01",
+      "title": "Which Caribbean island designates two-thirds of its land to a nature park?",
+      "answers": [
+        "Martinique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_02",
+      "title": "How many US states border an ocean?",
+      "answers": [
+        "23"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_03",
+      "title": "In which country would you find the city Geneva?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_04",
+      "title": "What is the world's oldest currency still in use?",
+      "answers": [
+        "British Pound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_05",
+      "title": "What color is the bottom strip of Egypt's flag?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_06",
+      "title": "In which country is the Commandaria wine region?",
+      "answers": [
+        "Cyprus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_07",
+      "title": "Which US state is home to Crater Lake National Park?",
+      "answers": [
+        "Oregon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_08",
+      "title": "What is the capita of Greenland?",
+      "answers": [
+        "Nuuk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_09",
+      "title": "Which countries share the island of Borneo with Indonesia?",
+      "answers": [
+        "Malaysia and Brunei"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_10",
+      "title": "At what Seward Peninsula city does the Iditarod end?",
+      "answers": [
+        "Nome, Alaska"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_11",
+      "title": "What is the national dish of Ukraine?",
+      "answers": [
+        "Borscht"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_12",
+      "title": "What World Heritage Site's name translates to \"holy wisdom\"?",
+      "answers": [
+        "Hagia Sophia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_13",
+      "title": "What is the largest French speaking city outside of France?",
+      "answers": [
+        "Montreal, Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_14",
+      "title": "What is the capita of Corsica?",
+      "answers": [
+        "Ajaccio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_15",
+      "title": "Montpelier is the capital of which US state?",
+      "answers": [
+        "Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_16",
+      "title": "Where can you find a museum dedicated to the history of bread?",
+      "answers": [
+        "Ulm, Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_17",
+      "title": "Skopje is the capital of which Eastern European country?",
+      "answers": [
+        "Macedonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_18",
+      "title": "Where can you hike Hadrian’s wall?",
+      "answers": [
+        "England"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_19",
+      "title": "What is the capital of Saint Vincent and the Grenadines?",
+      "answers": [
+        "Kingstown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_20",
+      "title": "Due to its shape, which European country refers to itself as The Hexagon?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_21",
+      "title": "What is the capital of South Korea?",
+      "answers": [
+        "Seoul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_22",
+      "title": "In what country would you find the mouths of the Salween river?",
+      "answers": [
+        "Myanmar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_23",
+      "title": "What city is home to The CN Tower?",
+      "answers": [
+        "Toronto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_24",
+      "title": "Which is the longest river in the United Kingdom?",
+      "answers": [
+        "Severn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_25",
+      "title": "What country was Indonesia a former colony of?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_26",
+      "title": "Which European city is regarded as the watch making capital of the world?",
+      "answers": [
+        "Geneva"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_27",
+      "title": "What is the two letter abbreviation for Alaska?",
+      "answers": [
+        "AK"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_28",
+      "title": "The first U.S. state park was created in which state?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_29",
+      "title": "Mauritius is the only African country where the most commonly practised religion is what?",
+      "answers": [
+        "Hinduism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_30",
+      "title": "What is the capital of Togo?",
+      "answers": [
+        "Lome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_31",
+      "title": "Which African capital city is named from the Greek meaning of \"three towns\"?",
+      "answers": [
+        "Tripoli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_32",
+      "title": "Sierra Leone is located on which African coast?",
+      "answers": [
+        "West"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_33",
+      "title": "The Great Pee Dee River flows into what body of water?",
+      "answers": [
+        "Atlantic Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_34",
+      "title": "How many US state capital city’s names begin with the letter \"S\"?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_35",
+      "title": "Where in the United States is coffee grown?",
+      "answers": [
+        "Hawaii and California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_36",
+      "title": "In which hemisphere is the Tropic of Capricorn located?",
+      "answers": [
+        "Southern"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_37",
+      "title": "The Ozark Mountains are found predominantly in which two US states?",
+      "answers": [
+        "Missouri and Arkansas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_38",
+      "title": "What major river runs through Buenos Aires Province?",
+      "answers": [
+        "Rio de la Plata"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_39",
+      "title": "Which of Antigua and Barbuda’s islands is the largest by land area?",
+      "answers": [
+        "Antigua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_40",
+      "title": "Which country is known as the Land of White Elephant?",
+      "answers": [
+        "Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_41",
+      "title": "In which country is the Troi-Rivieres bridge?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_42",
+      "title": "Which U.S. city is known as \"The Emerald City\"?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_43",
+      "title": "Moraine Lake is found in which National Park?",
+      "answers": [
+        "Banff National Park, Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_44",
+      "title": "What US city is located on the shores of Puget Sound?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_45",
+      "title": "What is the name of the country that borders Spain immediately to the its west?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_46",
+      "title": "What is the oldest city in Texas?",
+      "answers": [
+        "Nacogdoches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_47",
+      "title": "What is Ethiopia's official language?",
+      "answers": [
+        "Amharic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_48",
+      "title": "What is the official state animal of Kansas?",
+      "answers": [
+        "The bison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_49",
+      "title": "What separates Madagascar from Mozambique?",
+      "answers": [
+        "Mozambique Channel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_23_50",
+      "title": "Of the US states that border Mexico, which shares the shortest border?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

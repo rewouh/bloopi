@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_15",
+  "name": "Arts Trivia 26K 15",
+  "description": "Arts 701 - 750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_15_01",
+      "title": "In which Shakespeare play would you find Constable Elbow?",
+      "answers": [
+        "Measure for Measure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_02",
+      "title": "Who wrote the children's book \"The Trumpet of the Swan\"?",
+      "answers": [
+        "E.B. White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_03",
+      "title": "Who is the author of the epic poem \"Paradise Lost\"?",
+      "answers": [
+        "John Milton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_04",
+      "title": "What ventriloquist was best known for his dummy Charlie McCarthy?",
+      "answers": [
+        "Edgar Bergen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_05",
+      "title": "What is the highest musical note on a standard 88-key piano?",
+      "answers": [
+        "C8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_06",
+      "title": "Who authored the famous poem \"The Charge of the Light Brigade\"?",
+      "answers": [
+        "Alfred, Lord Tennyson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_07",
+      "title": "Who wrote the the novel \"The Dam Busters\"?",
+      "answers": [
+        "Paul Brickhill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_08",
+      "title": "What children's classic first chapter is titled \"Mrs. Whatsit\"?",
+      "answers": [
+        "A Wrinkle in Time"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_09",
+      "title": "In Greek mythology, Jocasta is the mother of who?",
+      "answers": [
+        "Oedipus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_10",
+      "title": "What year did Daniel Defoe first publish the novel \"Robinson Crusoe\"?",
+      "answers": [
+        "1719"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_11",
+      "title": "Who completed his famous bird paintings in 1839?",
+      "answers": [
+        "John J. Audubon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_12",
+      "title": "What color is the \"Soul stone\" in the 2017 Marvel Legacy relaunch?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_13",
+      "title": "What festival was billed as \"Three Days of Peace and Music\"?",
+      "answers": [
+        "Woodstock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_14",
+      "title": "Who was the oldest person in the Bible, said to have lived 969 years?",
+      "answers": [
+        "Methuselah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_15",
+      "title": "In \"Game of Thrones\", what are the three names of Daenerys’ dragons?",
+      "answers": [
+        "Drogon, Viserion, and Rhaegal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_16",
+      "title": "In Greek mythology, into what did Athena turn Arachne?",
+      "answers": [
+        "Spider"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_17",
+      "title": "Who killed Macbeth?",
+      "answers": [
+        "Macduff"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_18",
+      "title": "What bird was used as an alias for Tom Clancy's CIA agent in the Kremlin?",
+      "answers": [
+        "The Cardinal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_19",
+      "title": "Who wrote the novel \"Slaughterhouse-Five\"?",
+      "answers": [
+        "Kurt Vonnegut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_20",
+      "title": "When subjects of \"Who's Who\" pass away, what companion volume do they move to?",
+      "answers": [
+        "Who Was Who"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_21",
+      "title": "Pan was half man, half what?",
+      "answers": [
+        "Goat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_22",
+      "title": "The novel \"Gone With the Wind\" was written by who?",
+      "answers": [
+        "Margaret Mitchell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_23",
+      "title": "During what war was the novel \"The African Queen\" set?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_24",
+      "title": "What Shakespeare work includes the line \"Friends, Romans, countrymen, lend me your ears\"?",
+      "answers": [
+        "Julius Caesar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_25",
+      "title": "In the comic book series \"Strangers in Paradise\", what brand of condoms is Francine selected to represent on the first day of her new job?",
+      "answers": [
+        "Command Purpose Condoms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_26",
+      "title": "What Canadian Island was the setting for \"Anne of Green Gables\"?",
+      "answers": [
+        "Prince Edward Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_27",
+      "title": "How does Wonder Woman control her invisible airplane?",
+      "answers": [
+        "Mental powers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_28",
+      "title": "What author's headstone includes the phrase \"Quoth the Raven, Nevermore\"?",
+      "answers": [
+        "Edgar Allen Poe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_29",
+      "title": "According to the bible, how many Horsemen of the Apocalypse were there?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_30",
+      "title": "What short novel did John Steinbeck originally call \"Something that Happened\"?",
+      "answers": [
+        "\"Of Mice and Men\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_31",
+      "title": "What author's version of the Devil calls himself \"Memnoch\"?",
+      "answers": [
+        "Anne Rice's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_32",
+      "title": "In what comic strip would you find siblings Honi and Hamlet?",
+      "answers": [
+        "Hagar the Horrible"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_33",
+      "title": "In Herman Melville's novel \"Moby Dick\", who is the voice of reason?",
+      "answers": [
+        "Starbuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_34",
+      "title": "According to the Bible, who was the strongest man on Earth?",
+      "answers": [
+        "Samson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_35",
+      "title": "What is the last name of John, Michael, and Wendy in \"Peter Pan\"?",
+      "answers": [
+        "Darling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_36",
+      "title": "What Jazz Age celebrity published a single novel \"Save Me the Waltz\", before dying in a 1948 fire?",
+      "answers": [
+        "Zelda Sayre Fitzgerald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_37",
+      "title": "Carlo Collodi created which famous children's character?",
+      "answers": [
+        "Pinocchio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_38",
+      "title": "What is Chopin's \"Piano Sonata in B flat minor\" also known as?",
+      "answers": [
+        "The Funeral March"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_39",
+      "title": "In what Irish city did Frank McCourt set his memoir \"Angela's Ashes\"?",
+      "answers": [
+        "Limerick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_40",
+      "title": "In the \"Popeye\" comics, on what day would Wimpy gladly pay you for a hamburger?",
+      "answers": [
+        "Tuesday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_41",
+      "title": "Although not entirely original, who wrote \"Auld Lang Syne\"?",
+      "answers": [
+        "Robert Burns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_42",
+      "title": "What nationality was writer Arthur C. Clarke?",
+      "answers": [
+        "British"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_43",
+      "title": "What did Benjamin Britten write the \"Young Person's Guide to\" in 1945?",
+      "answers": [
+        "The Orchestra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_44",
+      "title": "Who is Tony Chu’s partner in the comic series \"Chew\"?",
+      "answers": [
+        "John Colby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_45",
+      "title": "What is the first name of the protagonist in H. G. Wells' \"The History of Mr Polly\"?",
+      "answers": [
+        "Alfred"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_46",
+      "title": "Nut, or Neuth, was the Egyptian goddess of what?",
+      "answers": [
+        "Sky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_47",
+      "title": "Who wrote the novel, \"Dragon's Teeth\"?",
+      "answers": [
+        "Upton Sinclair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_48",
+      "title": "What novel begins in the Sandleford warren?",
+      "answers": [
+        "Watership Down"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_49",
+      "title": "Where in the Bible is the first Messianic Prophecy mentioned?",
+      "answers": [
+        "Genesis 3:15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_15_50",
+      "title": "Author J.M. Barrie is best known for creating what fictional character?",
+      "answers": [
+        "Peter Pan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

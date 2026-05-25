@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_78",
+  "name": "General Trivia 26K 78",
+  "description": "General 3851 - 3900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_78_01",
+      "title": "Who washes his hands in Matthew 27:24?",
+      "answers": [
+        "Pontius Pilate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_02",
+      "title": "What is the end opposite the nose called on a snowboard?",
+      "answers": [
+        "Tail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_03",
+      "title": "In the first Super Mario Bros. game, in which level is the first three-world secret exit?",
+      "answers": [
+        "World 1-2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_04",
+      "title": "How loud is a vuvuzela?",
+      "answers": [
+        "Approximately 127 dB"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_05",
+      "title": "What company created Mr. Pibb?",
+      "answers": [
+        "Coca-Cola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_06",
+      "title": "How many home runs did Sammy Sosa hit the year of Mark McGwire's record-breaking 70?",
+      "answers": [
+        "66"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_07",
+      "title": "\"Project Kansas\" was the name for the top secret 1985 attempt to revamp what product?",
+      "answers": [
+        "Coca-Cola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_08",
+      "title": "What was the original flavor of the cream in Twinkies?",
+      "answers": [
+        "Banana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_09",
+      "title": "How many minutes does it take to complete a 12 round boxing match?",
+      "answers": [
+        "47 minutes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_10",
+      "title": "How many points is the red inner circle on a dartboard bull's-eye worth?",
+      "answers": [
+        "Fifty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_11",
+      "title": "What is Sinology the study of?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_12",
+      "title": "What is the international radio code word for the letter ‘Y’?",
+      "answers": [
+        "Yankee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_13",
+      "title": "What kind of liquor is Cognac?",
+      "answers": [
+        "Brandy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_14",
+      "title": "What American League Baseball Coach coached the Philadelphia Athletics for 50 straight years?",
+      "answers": [
+        "Connie Mack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_15",
+      "title": "What holiday comes right before All Saints' Day?",
+      "answers": [
+        "Halloween"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_16",
+      "title": "What is the name of Nintendo's first video game console?",
+      "answers": [
+        "Color TV Game"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_17",
+      "title": "Which Pagan festival began the Christmas gift-giving tradition?",
+      "answers": [
+        "Saturnalia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_18",
+      "title": "How many regular season games are played by each team in the NFL?",
+      "answers": [
+        "16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_19",
+      "title": "What month is the Calgary Stampede held in?",
+      "answers": [
+        "July"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_20",
+      "title": "What is the term used for the science of growing an apple?",
+      "answers": [
+        "Pomology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_21",
+      "title": "What garnish makes the Gibson cocktail different from a martini?",
+      "answers": [
+        "Pearl onion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_22",
+      "title": "What city created a new beachfront when it hosted the Olympics?",
+      "answers": [
+        "Barcelona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_23",
+      "title": "Maraschino is a liqueur made from what fruit?",
+      "answers": [
+        "Marasca cherries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_24",
+      "title": "What Spanish automobile manufacturer's first model was a three-wheeled two-door car?",
+      "answers": [
+        "Kapi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_25",
+      "title": "What are you shopping for if you're sized up by a Brannock device?",
+      "answers": [
+        "Shoes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_26",
+      "title": "The Stanley Cup is played for in what sport?",
+      "answers": [
+        "Ice hockey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_27",
+      "title": "What 1990's fad involved something known as a slammer?",
+      "answers": [
+        "Pogs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_28",
+      "title": "What werewolf-themed cereal briefly joined Count Chocula on store shelves in 1974?",
+      "answers": [
+        "Fruit Brute"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_29",
+      "title": "In which Mega Man game can you acquire the Gemini Laser?",
+      "answers": [
+        "Mega Man 3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_30",
+      "title": "In England, what is governed by the FA?",
+      "answers": [
+        "Soccer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_31",
+      "title": "What is the fear of numbers known as?",
+      "answers": [
+        "Numerophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_32",
+      "title": "What is the largest item on any menu in the world?",
+      "answers": [
+        "Roasted camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_33",
+      "title": "What whiskey cocktail lands its name to the short glass also called a \"lowball\"?",
+      "answers": [
+        "The old-fashioned"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_34",
+      "title": "What is the literal translation of the word \"tofu\"?",
+      "answers": [
+        "Bean curd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_35",
+      "title": "What is the official name for the \"pound\" or \"number\" symbol on the telephone keypad?",
+      "answers": [
+        "Octothorpe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_36",
+      "title": "What kind of animal is pictured on the wrapper of a Klondike bar?",
+      "answers": [
+        "Polar bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_37",
+      "title": "What year did Frank's RedHot sauce first appear on the market?",
+      "answers": [
+        "1920"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_38",
+      "title": "What does a Collier do?",
+      "answers": [
+        "Makes charcoal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_39",
+      "title": "What relative does a Russian call \"babushka\"?",
+      "answers": [
+        "Grandmother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_40",
+      "title": "What was the first martial art to use colored belts to signify rank?",
+      "answers": [
+        "Judo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_41",
+      "title": "Alphabetically, which is the last of Santa's reindeers?",
+      "answers": [
+        "Vixen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_42",
+      "title": "How many players are in the water for each team in a water polo game?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_43",
+      "title": "What do the letters MG stand for in the British sports car?",
+      "answers": [
+        "Morris Garage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_44",
+      "title": "Before starting to produce cars in the late 1940s, what did SAAB originally manufacture?",
+      "answers": [
+        "Aircrafts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_45",
+      "title": "Which is the main substance used to make a crayon?",
+      "answers": [
+        "Wax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_46",
+      "title": "Where was the world’s first speeding ticket issued?",
+      "answers": [
+        "Dayton, Ohio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_47",
+      "title": "What is January's birthstone?",
+      "answers": [
+        "Garnet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_48",
+      "title": "What 1996 Olympic event had two US squads playing each other for the gold medal?",
+      "answers": [
+        "Beach volleyball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_49",
+      "title": "What liqueur is prepared from cumin, caraway seeds and fennel?",
+      "answers": [
+        "Kummel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_78_50",
+      "title": "What does an Apiarist do?",
+      "answers": [
+        "Keeps bees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

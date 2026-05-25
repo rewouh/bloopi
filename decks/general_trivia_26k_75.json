@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_75",
+  "name": "General Trivia 26K 75",
+  "description": "General 3701 - 3750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_75_01",
+      "title": "What shoulder should you throw spilled salt over?",
+      "answers": [
+        "The left"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_02",
+      "title": "What does the abbreviation NATO stand for?",
+      "answers": [
+        "North Atlantic Treaty Organization"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_03",
+      "title": "What is Lipton the world's biggest-selling brand of?",
+      "answers": [
+        "Tea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_04",
+      "title": "What type of sport is Birling?",
+      "answers": [
+        "Logrolling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_05",
+      "title": "What year did designer Manolo Blahnik open his first namesakes store in Hong Kong?",
+      "answers": [
+        "1991"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_06",
+      "title": "What company did Frederick W. Smith found in 1972 in Memphis?",
+      "answers": [
+        "Federal Express"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_07",
+      "title": "What NBA star made an ill-fated trip to Eagle, Colorado, in 2003 for knee surgery?",
+      "answers": [
+        "Kobe Bryant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_08",
+      "title": "When did \"Macho Man\" Randy Savage die?",
+      "answers": [
+        "2011"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_09",
+      "title": "What is the Hawaiian word for \"hello\"?",
+      "answers": [
+        "Aloha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_10",
+      "title": "What instrument do Australian Aborigines traditionally make from termite-hollowed eucalyptus trees?",
+      "answers": [
+        "The didgeridoo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_11",
+      "title": "What clothing line did a young Brad Pitt model for?",
+      "answers": [
+        "Levi's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_12",
+      "title": "What year was the Rubik's Cube invented?",
+      "answers": [
+        "1974"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_13",
+      "title": "Where did fondue originate?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_14",
+      "title": "What university's fans signal their sports nickname with the gesture called the \"shocker\"?",
+      "answers": [
+        "Wichita State"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_15",
+      "title": "Aichmophobia is the fear of what?",
+      "answers": [
+        "Needles or sharp objects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_16",
+      "title": "The pound cake got its name from the pound of what ingredients that it contains?",
+      "answers": [
+        "Butter, Flour, Sugar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_17",
+      "title": "In Japanese, what kind of common fish is \"maguro\"?",
+      "answers": [
+        "Tuna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_18",
+      "title": "Who was also known as \"Black Dahlia\"?",
+      "answers": [
+        "Elizabeth Short"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_19",
+      "title": "Vermilion is a shade of which color?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_20",
+      "title": "Which major car company owns the luxury automotive brand Lexus?",
+      "answers": [
+        "Toyota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_21",
+      "title": "What two words did Jim Henson combine to come up with the word \"muppet\"?",
+      "answers": [
+        "marionette and puppet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_22",
+      "title": "In what U.S. City was French’s mustard first produced?",
+      "answers": [
+        "Rochester, New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_23",
+      "title": "Where did the sport of curling originate?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_24",
+      "title": "What day is the Super Bowl always played on?",
+      "answers": [
+        "Sunday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_25",
+      "title": "A pike most resembles what kind of weapon?",
+      "answers": [
+        "Spear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_26",
+      "title": "What is the person who makes charcoal called?",
+      "answers": [
+        "Collier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_27",
+      "title": "Prior to getting married, Kate Middleton worked as assistant accessory buyer at what clothing chain?",
+      "answers": [
+        "Jigsaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_28",
+      "title": "What cheese's name literally means \"recooked\" in Italian?",
+      "answers": [
+        "Ricotta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_29",
+      "title": "What sport did Theodore Roosevelt propose to bad for being too violent?",
+      "answers": [
+        "Football"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_30",
+      "title": "What condiment was once sold as medicine?",
+      "answers": [
+        "Ketchup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_31",
+      "title": "How many referees in total are there in a soccer game?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_32",
+      "title": "What is the pure spirit distilled from wine?",
+      "answers": [
+        "Brandy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_33",
+      "title": "What is Canada's popular winter ice sport that is not hockey?",
+      "answers": [
+        "Curling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_34",
+      "title": "What nationality is golfer Paul Azinger?",
+      "answers": [
+        "American"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_35",
+      "title": "John the Baptist survived in the wilderness by eating locusts and what other food?",
+      "answers": [
+        "Wild honey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_36",
+      "title": "What kind of nut is used to make marzipan?",
+      "answers": [
+        "Almond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_37",
+      "title": "Phallophobia is a fear of what?",
+      "answers": [
+        "Penis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_38",
+      "title": "What does the word \"honcho\" mean in Japanese?",
+      "answers": [
+        "Squad Leader"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_39",
+      "title": "What stickers were spoofs of the Cabbage Patch Kids?",
+      "answers": [
+        "Garbage Pail Kids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_40",
+      "title": "What's the triangular Asian pastry containing spiced meat?",
+      "answers": [
+        "Samosa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_41",
+      "title": "In pool, what color is the 6-ball?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_42",
+      "title": "The Nintendo character we know as Mario first appeared in what arcade game?",
+      "answers": [
+        "Donkey Kong"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_43",
+      "title": "Swarovski is associated with what product?",
+      "answers": [
+        "Chrystal jewelry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_44",
+      "title": "What type of a tree killed Sonny Bono?",
+      "answers": [
+        "Pine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_45",
+      "title": "Who designed the Cambridge Z88 computer?",
+      "answers": [
+        "Clive Sinclair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_46",
+      "title": "At which university was the beverage Gatorade developed?",
+      "answers": [
+        "University of Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_47",
+      "title": "What sport's most famous series is played for the Ashes urn?",
+      "answers": [
+        "Cricket's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_48",
+      "title": "What wine barrel contains 126 gallons?",
+      "answers": [
+        "Pipe or butt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_49",
+      "title": "What surface are Wimbledon tennis matches played on?",
+      "answers": [
+        "Grass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_75_50",
+      "title": "Who claims to have invented the Mai Tai cocktail in 1944?",
+      "answers": [
+        "Victor J. Bergeron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

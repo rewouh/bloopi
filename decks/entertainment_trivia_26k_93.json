@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_93",
+  "name": "Entertainment Trivia 26K 93",
+  "description": "Entertainment 4601 - 4650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_93_01",
+      "title": "What 1987 movie features the \"Partridge Family\" house being firebombed?",
+      "answers": [
+        "\"Lethal Weapon\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_02",
+      "title": "What ABC Original Movie, starring Jenny McCarthy, air on December 10, 2006?",
+      "answers": [
+        "Santa Baby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_03",
+      "title": "What legendary director shot the Michael Jackson video \"Bad\"?",
+      "answers": [
+        "Martin Scorsese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_04",
+      "title": "What William Boyd character headlined TV's first western?",
+      "answers": [
+        "Hopalong Cassidy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_05",
+      "title": "Which American golfer was nicknamed \"The Joplin Ghost\"?",
+      "answers": [
+        "Horton Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_06",
+      "title": "What band performed the Bond theme song \"A View to a Kill\"?",
+      "answers": [
+        "Duran Duran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_07",
+      "title": "In the 1997 movie \"Titanic\", how did Jack get tickets to get on board of the Titanic?",
+      "answers": [
+        "Through a card game"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_08",
+      "title": "What was the first name of Martin Short's character on his TV show \"Primetime Glick\"?",
+      "answers": [
+        "Jiminy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_09",
+      "title": "What is the name of the cat in the film \"Alien\"?",
+      "answers": [
+        "Jonsey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_10",
+      "title": "What is the brewery featured in the British soap opera \"Coronation Street\"?",
+      "answers": [
+        "Newton and Ridley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_11",
+      "title": "Who played the Vice-President of the US in the 1997 movie \"Air Force One\"?",
+      "answers": [
+        "Glenn Close"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_12",
+      "title": "In Star Wars, what is the name of Han Solo's ship?",
+      "answers": [
+        "The Millenium Falcon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_13",
+      "title": "How is film star Marion Morrison better known?",
+      "answers": [
+        "John Wayne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_14",
+      "title": "What vehicle was driven by The Green Hornet?",
+      "answers": [
+        "Black Beauty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_15",
+      "title": "Which \"Mortal Kombat\" character has the ability to transform into a dragon?",
+      "answers": [
+        "Liu Kang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_16",
+      "title": "In A Charlie Brown Christmas, what does Lucy want for Christmas?",
+      "answers": [
+        "Real Estate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_17",
+      "title": "In the TV show \"The Simpsons\", what color is the Simpson's stove?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_18",
+      "title": "Who was Oscar-nominated for playing a telegraph boy in \"The Human Comedy\"?",
+      "answers": [
+        "Mickey Rooney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_19",
+      "title": "Which musical instrument was Buddy Rich best known for playing?",
+      "answers": [
+        "Drums"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_20",
+      "title": "Who created the TV show \"30 Rock\"?",
+      "answers": [
+        "Tina Fey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_21",
+      "title": "What was Joan Jett's backing band?",
+      "answers": [
+        "The Blackhearts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_22",
+      "title": "Which song did Doris Day sing in three different films?",
+      "answers": [
+        "Que Sera Sera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_23",
+      "title": "What 1998 war film was loosely based on the real-life case of the Niland brothers?",
+      "answers": [
+        "Saving Private Ryan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_24",
+      "title": "In the 1990 movie \"Pretty Woman\", Julia Roberts is payed to stay for how long with Richard Gere?",
+      "answers": [
+        "One week"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_25",
+      "title": "What duo's biggest hits are found on 1985's \"Songs from the Big Chair\" album?",
+      "answers": [
+        "Tears for Fears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_26",
+      "title": "Who played the male lead role in the 1983 movie \"Staying Alive\"?",
+      "answers": [
+        "John Travolta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_27",
+      "title": "Who played Dorothy Gale in the 1939 film \"The Wizard of Oz\"?",
+      "answers": [
+        "Judy Garland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_28",
+      "title": "In what movie does Marlon Brando utter the infamous line \"Get the butter\"?",
+      "answers": [
+        "Last Tango in Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_29",
+      "title": "What rock band is led by Michael Stripe?",
+      "answers": [
+        "R.E.M."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_30",
+      "title": "What MTV cartoon duo was created by Mike Judge?",
+      "answers": [
+        "Beavis and Butthead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_31",
+      "title": "What good little witch is Casper's friend?",
+      "answers": [
+        "Wendy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_32",
+      "title": "What blues musician's guitar is nicknamed \"Lucille\"?",
+      "answers": [
+        "B.B. King's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_33",
+      "title": "Anna Faris plays Cindy Campbell in what horror movie spoof?",
+      "answers": [
+        "Scary Movie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_34",
+      "title": "What screen legend made his final appearance in the movie \"The Thing Called Love\"?",
+      "answers": [
+        "River Phoenix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_35",
+      "title": "What was the nickname of the Ford Mustang featured in the 1974 film \"Gone in 60 Seconds\"?",
+      "answers": [
+        "Eleanor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_36",
+      "title": "What year did Marty McFly go back into in the movie \"Back to the Future\"?",
+      "answers": [
+        "1955"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_37",
+      "title": "What is the name of Kane's private estate in Citizen Kane?",
+      "answers": [
+        "Xanadu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_38",
+      "title": "What is the name of Doc Brown's very clever dog in the \"Back to the Future\" movie franchise?",
+      "answers": [
+        "Einstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_39",
+      "title": "Who recorded the album \"Immaculate Collection\"?",
+      "answers": [
+        "Madonna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_40",
+      "title": "Who recorded the song \"Ain't That A Kick In The Head\"?",
+      "answers": [
+        "Dean Martin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_41",
+      "title": "In The Simpsons, when Homer is trying to think un-sexy thoughts, he imagines who in a bikini?",
+      "answers": [
+        "Barney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_42",
+      "title": "Which album did the Bee Gees release in 1971?",
+      "answers": [
+        "Trafalgar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_43",
+      "title": "What film's title character is the only one who can see a giant demonic rabbit name Frank?",
+      "answers": [
+        "Donnie Darko"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_44",
+      "title": "What was the first commercial film to use stereophonic sound?",
+      "answers": [
+        "Disney's Fantasia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_45",
+      "title": "In the TV show \"The Simpsons\", who was Barney's high school sweetheart?",
+      "answers": [
+        "Chloe Talbot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_46",
+      "title": "Who was described by both George Blanchine and Rudolph Nureyev as the worlds greatest dancer?",
+      "answers": [
+        "Fred Astaire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_47",
+      "title": "Who played the role of Andie in the movie \"Pretty in Pink\"?",
+      "answers": [
+        "Molly Ringwald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_48",
+      "title": "Who plays Marty Byrde in the TV drama series \"Ozark?\"",
+      "answers": [
+        "Jason Bateman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_49",
+      "title": "What 1960's television series was set at the fictitious Coral Key Park & Marine Preserve?",
+      "answers": [
+        "Flipper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_93_50",
+      "title": "What does Paul McCartney reportedly do in the background of the Beach Boys song \"Vegetables\"?",
+      "answers": [
+        "Munch on a celery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

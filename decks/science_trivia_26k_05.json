@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_05",
+  "name": "Science Trivia 26K 05",
+  "description": "Science 201 - 250 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_05_01",
+      "title": "The Apgar score is used to measure the color and condition of what?",
+      "answers": [
+        "Newborns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_02",
+      "title": "What is the largest cell in the human body?",
+      "answers": [
+        "Ovum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_03",
+      "title": "How many times did John Glenn circle the earth in 1962, when he became the first American in orbit?",
+      "answers": [
+        "3"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_04",
+      "title": "In what organ of the human body would you find the fovea?",
+      "answers": [
+        "The eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_05",
+      "title": "Who invented the \"Miner's Lamp\"?",
+      "answers": [
+        "Humphry Davy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_06",
+      "title": "With what Russian spacecraft did the space shuttle Atlantis dock in 1995?",
+      "answers": [
+        "Mir"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_07",
+      "title": "How many wings does a bee have?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_08",
+      "title": "What does a herpetologist study?",
+      "answers": [
+        "Reptiles and amphibians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_09",
+      "title": "What vitamin's principal form is ascorbic acid?",
+      "answers": [
+        "Vitamin C's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_10",
+      "title": "What phylum consists of single-celled animals?",
+      "answers": [
+        "Protozoa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_11",
+      "title": "What color is an adult Bald Eagle's beak?",
+      "answers": [
+        "Yellow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_12",
+      "title": "What is nephology the study of?",
+      "answers": [
+        "Clouds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_13",
+      "title": "What is the only bird that can fly backwards?",
+      "answers": [
+        "The hummingbird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_14",
+      "title": "How many wings does a butterfly have?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_15",
+      "title": "Which planet is known as the Evening Star?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_16",
+      "title": "What number is represented by \"I\" in Roman numerals?",
+      "answers": [
+        "1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_17",
+      "title": "What is the scientific name for Earth's crust?",
+      "answers": [
+        "Lithosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_18",
+      "title": "What is the name of the first space launch facility?",
+      "answers": [
+        "Baikonur Cosmodrome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_19",
+      "title": "Hammer, anvil, and stirrup are parts of which body part?",
+      "answers": [
+        "The ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_20",
+      "title": "What is an adult male polar bear referred to as?",
+      "answers": [
+        "A boar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_21",
+      "title": "What is a baby Echidna called?",
+      "answers": [
+        "A Puggle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_22",
+      "title": "What are electrically charged atoms called?",
+      "answers": [
+        "Ions"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_23",
+      "title": "What is the longest nerve in the human body?",
+      "answers": [
+        "Sciatic nerve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_24",
+      "title": "In what modern-day country did the dog called the Rhodesian Ridgeback originate?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_25",
+      "title": "What is the Hawaiian name for yellow fin tuna?",
+      "answers": [
+        "Ahi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_26",
+      "title": "What type of wool can come from a rabbit?",
+      "answers": [
+        "Angora"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_27",
+      "title": "How many wings does a flea have?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_28",
+      "title": "What type of number has no factors other than 1 and itself?",
+      "answers": [
+        "Prime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_29",
+      "title": "Androphobia is the fear of what?",
+      "answers": [
+        "Males, or men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_30",
+      "title": "Which U.S. state has more tornadoes per square mile than any other?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_31",
+      "title": "What element that is lacking in a diet causes goitre?",
+      "answers": [
+        "Iodine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_32",
+      "title": "What bird lays its eggs in other birds' nests?",
+      "answers": [
+        "Cuckoo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_33",
+      "title": "Which Austrian psychiatrist penned \"The Interpretation of Dreams\" in 1900?",
+      "answers": [
+        "Sigmund Freud"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_34",
+      "title": "A male swan is called a what?",
+      "answers": [
+        "Cob"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_35",
+      "title": "What constellation is represented by the whale?",
+      "answers": [
+        "Cetus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_36",
+      "title": "What animal can be described as a wild pig from Africa?",
+      "answers": [
+        "Warthog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_37",
+      "title": "What does a coleopterist study?",
+      "answers": [
+        "Beetles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_38",
+      "title": "A chameleon’s tongue is up to twice the length of its what?",
+      "answers": [
+        "Body"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_39",
+      "title": "What is the more common name for Clavicle?",
+      "answers": [
+        "Collarbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_40",
+      "title": "In what decade was the very first test-tube baby born?",
+      "answers": [
+        "1970s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_41",
+      "title": "IQ tests are designed to produce what number as an average course?",
+      "answers": [
+        "100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_42",
+      "title": "What is the active ingredient in smelling salts?",
+      "answers": [
+        "Ammonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_43",
+      "title": "In 1976, Viking 1 made history after it landed where?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_44",
+      "title": "Ascorbic acid is commonly referred to as what?",
+      "answers": [
+        "Vitamin C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_45",
+      "title": "Bauxite ore is mined so it can be processed into what metal?",
+      "answers": [
+        "Aluminum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_46",
+      "title": "Pathophobia is the fear of what?",
+      "answers": [
+        "Disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_47",
+      "title": "What standard temperature in Celsius is used by the Normal Temperature and Pressure (NTP) standard?",
+      "answers": [
+        "20 C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_48",
+      "title": "What is the fungi Hydnellum peckii, also known as?",
+      "answers": [
+        "The bleeding tooth fungus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_49",
+      "title": "What element's chemical symbol are the letters \"Na\"?",
+      "answers": [
+        "Sodium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_05_50",
+      "title": "What device was Alexander Graham Bell working, which led him to the invention of the telephone?",
+      "answers": [
+        "Hearing aid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

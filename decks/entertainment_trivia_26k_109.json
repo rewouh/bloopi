@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_109",
+  "name": "Entertainment Trivia 26K 109",
+  "description": "Entertainment 5401 - 5450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_109_01",
+      "title": "Mark Hamill was a voice actor for which popular early 90's superhero cartoon?",
+      "answers": [
+        "Batman: The Animated Series"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_02",
+      "title": "What weather phenomenon swept Dorothy Gale to the Land of Oz?",
+      "answers": [
+        "A tornado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_03",
+      "title": "In the TV show \"The Simpsons\", who was the creator of the Malibu Stacy doll?",
+      "answers": [
+        "Stacy Lovell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_04",
+      "title": "What famous rapper's real name is Christopher Wallace?",
+      "answers": [
+        "The Notorious B.I.G."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_05",
+      "title": "What is the name of the legendary videogame designer who created the Mario franchise?",
+      "answers": [
+        "Shigeru Miyamoto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_06",
+      "title": "Where did Ichabod Crane reside?",
+      "answers": [
+        "Sleepy Hollow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_07",
+      "title": "What US city was singer, Diana Ross, born in?",
+      "answers": [
+        "Detroit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_08",
+      "title": "Who played the best friend of Sarah Jessica Parker in the 1985 film \"Girls Just Wanna Have Fun\"?",
+      "answers": [
+        "Helen Hunt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_09",
+      "title": "In the film \"Home Alone,\" what nickname for Harry and himself did Marv want to use?",
+      "answers": [
+        "The Wet Bandits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_10",
+      "title": "Bill Melendez directed which Christmas TV special?",
+      "answers": [
+        "A Charlie Brown Christmas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_11",
+      "title": "What word for a series of dots is a top secret code word in the Bond film \"Casino Royale\"?",
+      "answers": [
+        "Ellipsis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_12",
+      "title": "In The Simpsons, who does Homer accidentally shoot out of a torpedo tube?",
+      "answers": [
+        "Captain Tenille"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_13",
+      "title": "Sir Mix-a-Lot's song \"Baby Got Back\" is also known by what other name?",
+      "answers": [
+        "I Like Big Butts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_14",
+      "title": "What is another name for an Academy Award?",
+      "answers": [
+        "Oscar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_15",
+      "title": "What is the name of the funeral home in the TV show \"Six Feet Under\"?",
+      "answers": [
+        "Fisher & Sons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_16",
+      "title": "Who played the blind character in the movie \"Red Dragon\"?",
+      "answers": [
+        "Emily Watson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_17",
+      "title": "What movie did the villain Verbal Kint appear in?",
+      "answers": [
+        "The Usual Suspects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_18",
+      "title": "Who played the part of \"Bluebottle\" in a popular radio comedy series?",
+      "answers": [
+        "Peter Sellers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_19",
+      "title": "Comedian Jon Stewart was born in which US city?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_20",
+      "title": "Who played the role of TV's C. J. Barnes?",
+      "answers": [
+        "David Spade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_21",
+      "title": "What is the Count's full name on \"Sesame Street\"?",
+      "answers": [
+        "Count Von Count"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_22",
+      "title": "Turbo Terrific is a car featured in which cartoon?",
+      "answers": [
+        "Wacky Races"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_23",
+      "title": "In the John Cougar song \"Jack & Diane\", what are they eating outside the Tastee-Freez?",
+      "answers": [
+        "A chili dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_24",
+      "title": "What country singer is a collector of sneakers and has 40 pairs of them on the road with him for his Home Team tour?",
+      "answers": [
+        "Thomas Rhett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_25",
+      "title": "Which studio album did Elton John release in 1971?",
+      "answers": [
+        "Madman Across the Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_26",
+      "title": "Who directed the film \"Top Gun\"?",
+      "answers": [
+        "Tony Scott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_27",
+      "title": "Who played the role of Jenna Maroney on the TV show \"30 Rock\"?",
+      "answers": [
+        "Jane Krakowski"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_28",
+      "title": "What's the name of the opera that Andy plays when he barricades himself in the Warden's office in \"The Shawshank Redemption\"?",
+      "answers": [
+        "\"Canzonetta sull'aria\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_29",
+      "title": "What TV show takes place in Pawnee, Indiana?",
+      "answers": [
+        "Parks and Recreation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_30",
+      "title": "What was the name of Paul McCartney's backup group from 1971 to 1981?",
+      "answers": [
+        "Wings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_31",
+      "title": "Which famous actor and star of the TV show \"Dallas\" was born Harold Leek?",
+      "answers": [
+        "Howard Keel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_32",
+      "title": "What year was the Academy Award for “Best Animated Feature” added to the list of awards?",
+      "answers": [
+        "2002"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_33",
+      "title": "What 1980s movie soundtrack gave us the #1 hit by the band Berlin titled \"Take My Breath Away\"?",
+      "answers": [
+        "Top Gun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_34",
+      "title": "What future celebrity made an appearance as Kate in \"Mermaids\"?",
+      "answers": [
+        "Christina Ricci"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_35",
+      "title": "What character did Pamela Adlon play on the TV show \"Californication\"?",
+      "answers": [
+        "Marcy Runkle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_36",
+      "title": "In which movie did Bette Midler portray a witch?",
+      "answers": [
+        "Hocus Pocus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_37",
+      "title": "LCS is the acronym for a professional eSports league centered around which game?",
+      "answers": [
+        "League of Legends"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_38",
+      "title": "What musical, set in New York City, won 10 Academy Awards?",
+      "answers": [
+        "West Side Story"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_39",
+      "title": "Which actress played a character named Ellen Ripley in the movie \"Alien\"?",
+      "answers": [
+        "Sigourney Weaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_40",
+      "title": "Which actress was dubbed \"The Scream Queen\" after appearing in numerous horror films?",
+      "answers": [
+        "Jamie Lee Curtis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_41",
+      "title": "Which popular candy was featured prominently in the classic film \"E.T., the Extra-Terrestrial\"?",
+      "answers": [
+        "Hershey Company's Reece's Pieces"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_42",
+      "title": "In the TV show \"The Simpsons\", where do Patty and Selma live?",
+      "answers": [
+        "Spinster City Apartments"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_43",
+      "title": "Which actor voices Miles Morales in \"Into the Spider-Verse\"?",
+      "answers": [
+        "Shameik Moore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_44",
+      "title": "What was the name of the nightclub that Peter Gunn frequented?",
+      "answers": [
+        "Mothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_45",
+      "title": "\"TGS with Tracy Jordan\" is a fictional sketch-comedy show that is an integral part of which series?",
+      "answers": [
+        "\"30 Rock\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_46",
+      "title": "Which mixed drink was made famous by rapper Snoop Doggy Dogg in the 1990's?",
+      "answers": [
+        "Gin and Juice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_47",
+      "title": "Before disbanding in 2016, who was the vocalist for the band \"Gossip\"?",
+      "answers": [
+        "Beth Ditto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_48",
+      "title": "What is the name of the prequel to \"The Silence of the Lambs\"?",
+      "answers": [
+        "\"Red Dragon\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_49",
+      "title": "What is the name of Snoop Dogg's 1993 debut album?",
+      "answers": [
+        "Doggystyle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_109_50",
+      "title": "What is the most common swear word used in the TV series \"Battlestar Galactica\"?",
+      "answers": [
+        "Frak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

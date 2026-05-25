@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_42",
+  "name": "General Trivia 26K 42",
+  "description": "General 2051 - 2100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_42_01",
+      "title": "What four-letter word describes an arena for public roller-skating?",
+      "answers": [
+        "Rink"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_02",
+      "title": "In what country is Guinness Stout brewed?",
+      "answers": [
+        "Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_03",
+      "title": "What is Toronto’s Pearson International Airport code?",
+      "answers": [
+        "YYZ"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_04",
+      "title": "Who is credited with the creation of the Barbie doll?",
+      "answers": [
+        "Ruth Handler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_05",
+      "title": "How many bags of wool did \"Baa Baa Black Sheep\" have?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_06",
+      "title": "From which language did the word \"Ketchup\" come?",
+      "answers": [
+        "Chinese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_07",
+      "title": "How many squares are there on a chessboard?",
+      "answers": [
+        "64"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_08",
+      "title": "How many hole cards is each player dealt in Texas Hold 'Em?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_09",
+      "title": "What is the name of the exclusive bar above the \"Pirates of the Caribbean\" within Disneyland?",
+      "answers": [
+        "Club 33"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_10",
+      "title": "In the bible Zacharias and Elizabeth were the parents of whom?",
+      "answers": [
+        "John The Baptist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_11",
+      "title": "How many sheets of paper are there in a ream?",
+      "answers": [
+        "500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_12",
+      "title": "What was the nickname of restaurateur Dave Thomas' second daughter?",
+      "answers": [
+        "Wendy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_13",
+      "title": "The Fields Medal is an award given in what field?",
+      "answers": [
+        "Mathematics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_14",
+      "title": "How many gold medals did US swimmer Michael Phelps win at the 2016 Summer Olympics?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_15",
+      "title": "What year was National Geographic magazine first published?",
+      "answers": [
+        "1888"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_16",
+      "title": "Easter was named from what Anglo-Saxon goddess?",
+      "answers": [
+        "Eostre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_17",
+      "title": "In which city would you find Wembley stadium?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_18",
+      "title": "Which brewing company originally supplied yeast to produce Marmite?",
+      "answers": [
+        "Bass Brewery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_19",
+      "title": "What do Mc and Mac mean when used in surnames?",
+      "answers": [
+        "Son of"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_20",
+      "title": "Liquid Paper was invented by Bette Graham, the mother of which of the Monkees?",
+      "answers": [
+        "Mike Nesmith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_21",
+      "title": "What Internet portal was sued for copyright infringement in 2000 by the star of \"Young Einstein\"?",
+      "answers": [
+        "Yahoo!"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_22",
+      "title": "Bill Gates dropped out of which of educational institution?",
+      "answers": [
+        "Harvard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_23",
+      "title": "What airport has the code MME?",
+      "answers": [
+        "Durham Tees Valley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_24",
+      "title": "What part of an  airplane controls the pitch of the airplane?",
+      "answers": [
+        "Elevator"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_25",
+      "title": "What is the NATO phonetic alphabet word for \"Y\"?",
+      "answers": [
+        "Yankee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_26",
+      "title": "Which cosmetics company shares a name with Shakespeare's birthplace?",
+      "answers": [
+        "Avon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_27",
+      "title": "What is the name of the sixth expansion to the World of Warcraft game universe?",
+      "answers": [
+        "World of Warcraft: Legion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_28",
+      "title": "What nickname is printed on the official Wilson NFL football?",
+      "answers": [
+        "The Duke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_29",
+      "title": "Who invented the method he called \"rope-a-dope\"?",
+      "answers": [
+        "Muhammad Ali"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_30",
+      "title": "What term for stable, well-established stocks comes from a $10 bet in poker?",
+      "answers": [
+        "Blue chips"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_31",
+      "title": "What state is the oldest US commercial pretzel bakery located in?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_32",
+      "title": "How do you say \"Merry Christmas\" in France?",
+      "answers": [
+        "Joyeux Noel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_33",
+      "title": "What is the topmost part of a column called?",
+      "answers": [
+        "Capital"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_34",
+      "title": "The two-cent piece was the first US coin to feature which phrase?",
+      "answers": [
+        "In God We Trust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_35",
+      "title": "What is the Japanese art of flower arrangement called?",
+      "answers": [
+        "Ikebana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_36",
+      "title": "What number have you rolled in a game of craps, if you roll \"boxcars\"?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_37",
+      "title": "What cousin of the glockenspiel was named for its ethereal, \"heavenly\" sound?",
+      "answers": [
+        "The celesta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_38",
+      "title": "The eyewear brand Ray Ban was founded what year?",
+      "answers": [
+        "1937"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_39",
+      "title": "Dandelions get their name from what part of a lion?",
+      "answers": [
+        "Teeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_40",
+      "title": "What of the so-called original six teams was the NHL's first US franchise?",
+      "answers": [
+        "The Boston Bruins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_41",
+      "title": "Pro golfers rack up points as they compete for what corporate-sponsored cup that was first awarded in 2007?",
+      "answers": [
+        "The FedEx Cup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_42",
+      "title": "What four-word expression meaning \"everything\" is derived from the three main parts of a musket?",
+      "answers": [
+        "Lock, stock and barrel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_43",
+      "title": "World boxing champion, Bob Fitzsimmons, had what middle name?",
+      "answers": [
+        "Prometheus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_44",
+      "title": "What is traditionally the main fruit ingredient in a tarte tatin?",
+      "answers": [
+        "Apples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_45",
+      "title": "A \"smack\" is a group of what?",
+      "answers": [
+        "Jellyfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_46",
+      "title": "What game came bundled with the first Nintendo Game Boy in America?",
+      "answers": [
+        "Tetris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_47",
+      "title": "What number is represented in Morse code by 5 dots?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_48",
+      "title": "What sport was played by the Brooklyn Dodgers?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_49",
+      "title": "Oldest son Al was the first ringmaster of what famous circus?",
+      "answers": [
+        "Ringling Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_42_50",
+      "title": "Who is pictures on the US Purple Heart medal?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

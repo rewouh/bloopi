@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_14",
+  "name": "Arts Trivia 26K 14",
+  "description": "Arts 651 - 700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_14_01",
+      "title": "Which character killed Lennie Small?",
+      "answers": [
+        "George Milton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_02",
+      "title": "Whose sidekick was named Archie Goodwin?",
+      "answers": [
+        "Nero Wolfe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_03",
+      "title": "Which book in the Bible immediately follows the four gospels?",
+      "answers": [
+        "Acts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_04",
+      "title": "Who spent months rehearsing for \"My Fair Lady\" then had most of her singing dubbed by Marni Nixon?",
+      "answers": [
+        "Audrey Hepburn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_05",
+      "title": "During what war was the novel \"M*A*S*H\" set?",
+      "answers": [
+        "Korean War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_06",
+      "title": "What artist, who died in 1986, was famous for her Southwestern paintings?",
+      "answers": [
+        "Georgia O’Keefe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_07",
+      "title": "Who is the Greek goddess of harvest and agriculture?",
+      "answers": [
+        "Demeter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_08",
+      "title": "Who wrote the play \"Cat on a Hot Tin Roof\"?",
+      "answers": [
+        "Tennessee Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_09",
+      "title": "What did Hannibal Lecter say French people taste like?",
+      "answers": [
+        "Chicken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_10",
+      "title": "What literary work inspired The Cure \"Killing an Arab\" song?",
+      "answers": [
+        "The Stranger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_11",
+      "title": "How did Alice enter Wonderland?",
+      "answers": [
+        "Through a Rabbit Hole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_12",
+      "title": "What game was invented when Winnie-the-Pooh accidentally dropped a fir cone off a bridge?",
+      "answers": [
+        "Poohsticks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_13",
+      "title": "In the novel \"Dances with Wolves\", what is the name of the outpost Lieutenant Dunbar is assigned?",
+      "answers": [
+        "Fort Sedgwick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_14",
+      "title": "Which French artist, born in 1834 was best known for his paintings of ballet dancers?",
+      "answers": [
+        "Edgar Degas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_15",
+      "title": "What 1813 novel was turned into a movie starring Keira Knightly in 2005?",
+      "answers": [
+        "Pride and Prejudice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_16",
+      "title": "What author wrote \"The Murders in the Rue Morgue\" short story?",
+      "answers": [
+        "Edgar Allan Poe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_17",
+      "title": "What is the middle name of author H. G. Wells?",
+      "answers": [
+        "George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_18",
+      "title": "Who wrote the Christmas novel, The Lost Angel in 1971?",
+      "answers": [
+        "Elizabeth Goudge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_19",
+      "title": "Whose girlfriends are named Callie Shaw and Iola Morton?",
+      "answers": [
+        "The Hardy Boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_20",
+      "title": "Who was poet Sylvia Plath married to?",
+      "answers": [
+        "Ted Hughes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_21",
+      "title": "By what professional name is comic book writer Stanley Martin Leiber better known?",
+      "answers": [
+        "Stan Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_22",
+      "title": "Egg Fu is the enemy of what superhero?",
+      "answers": [
+        "Wonder Woman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_23",
+      "title": "What is the dot on top of the letter \"i\" called?",
+      "answers": [
+        "Tittle, or superscript dot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_24",
+      "title": "Who wrote the Opera \"The Love for Three Oranges\"?",
+      "answers": [
+        "Sergei Prokofiev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_25",
+      "title": "Who wrote the book \"Gulag Archipelago\"?",
+      "answers": [
+        "Alexandr Solzhenitsyn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_26",
+      "title": "What is the name of the family whose Dalmatians were stolen in the novel \"The Hundred and One Dalmatians\"?",
+      "answers": [
+        "The Dearly's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_27",
+      "title": "What year did Dashiell Hammett publish the novel \"The Maltese Falcon\"?",
+      "answers": [
+        "1929"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_28",
+      "title": "What year did H. G. Wells publish the novel \"The Time Machine\"?",
+      "answers": [
+        "1895"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_29",
+      "title": "What Edgar Allan Poe work launched his writing career?",
+      "answers": [
+        "\"The Raven\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_30",
+      "title": "What US state is the comics series \"Revival\" based in?",
+      "answers": [
+        "Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_31",
+      "title": "What year did E. M. Forster publish \"Howards End\"?",
+      "answers": [
+        "1910"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_32",
+      "title": "What began as a ligature of the letters \"e\" and \"t\"?",
+      "answers": [
+        "The ampersand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_33",
+      "title": "Who painted the \"Laughing Cavalier\"?",
+      "answers": [
+        "Frans Hals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_34",
+      "title": "Who wrote the novel \"The Turn of the Screw\"?",
+      "answers": [
+        "Henry James"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_35",
+      "title": "Petrarch is known as the father of what school of thought?",
+      "answers": [
+        "Humanism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_36",
+      "title": "What is the best known artificial international language?",
+      "answers": [
+        "Esperanto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_37",
+      "title": "Which detective story writer created the character Tuppence Beresford?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_38",
+      "title": "Little Red Riding Hood was called what in the original story by the Brothers Grimm?",
+      "answers": [
+        "Little Red Cap"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_39",
+      "title": "Which famous artist was shot and wounded by Valerie Solanas In 1968?",
+      "answers": [
+        "Andy Warhol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_40",
+      "title": "What Tchaikovsky ballet includes \"Dance of the Sugar-Plum Fairy\" and \"Waltz of the Flowers\"?",
+      "answers": [
+        "The Nutcracker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_41",
+      "title": "In the Bible, who is the wife of Boaz?",
+      "answers": [
+        "Ruth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_42",
+      "title": "What type of animal is Napoleon, in George Orwell’s novel “Animal Farm?”",
+      "answers": [
+        "A pig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_43",
+      "title": "What river is the setting for the novel \"The Adventures of Huckleberry Finn\"?",
+      "answers": [
+        "Mississippi River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_44",
+      "title": "Jim Rhodes is the alter ego of which Marvel comic book hero?",
+      "answers": [
+        "War Machine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_45",
+      "title": "Which creature was the Egyptian God Horus identified with?",
+      "answers": [
+        "Falcon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_46",
+      "title": "Which European town inspired Vincent van Gogh's famous “Starry Night”?",
+      "answers": [
+        "Saint-Rémy-de-Provence, France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_47",
+      "title": "In Greek mythology, the hundred-eyed Argus was honored by Hera by being transformed into what bird?",
+      "answers": [
+        "Peacock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_48",
+      "title": "From what language did English borrow the word \"tungsten\"?",
+      "answers": [
+        "Swedish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_49",
+      "title": "Who declined a Pulitzer Prize for his book \"Arrowsmith\"?",
+      "answers": [
+        "Sinclair Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_14_50",
+      "title": "From what language did English borrow the word \"lollipop\"?",
+      "answers": [
+        "Romany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

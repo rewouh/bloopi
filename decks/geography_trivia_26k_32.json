@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_32",
+  "name": "Geography Trivia 26K 32",
+  "description": "Geography 1551 - 1600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_32_01",
+      "title": "Which country's cuisine includes the dish called \"bibimbap\"?",
+      "answers": [
+        "South Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_02",
+      "title": "What is the largest city in Switzerland?",
+      "answers": [
+        "Zurich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_03",
+      "title": "In which U.S. state are the Great Sand Dunes located?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_04",
+      "title": "Hobart is the capital of which Australian state?",
+      "answers": [
+        "Tasmania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_05",
+      "title": "What UK city is served by John Lennon Airport?",
+      "answers": [
+        "Liverpool"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_06",
+      "title": "Cape May is located on which US coast?",
+      "answers": [
+        "East coast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_07",
+      "title": "Which ocean is Zanzibar located in?",
+      "answers": [
+        "Indian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_08",
+      "title": "How many US states end with the letter \"O\"?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_09",
+      "title": "What US city is serviced by O'Hare International Airport?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_10",
+      "title": "What is the lowest state high point in the U.S?",
+      "answers": [
+        "Britton Hill, Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_11",
+      "title": "What is the third largest National Park in the US?",
+      "answers": [
+        "Death Valley National Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_12",
+      "title": "Which European country replaced the Tolar with the Euro?",
+      "answers": [
+        "Slovenia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_13",
+      "title": "Which Pennsylvania town is the birthplace of \"Rolling Rock Beer\"?",
+      "answers": [
+        "Latrobe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_14",
+      "title": "Which is the southern most capital city?",
+      "answers": [
+        "Wellington, New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_15",
+      "title": "What vegetable takes its name from the capital of Belgium?",
+      "answers": [
+        "Brussel Sprouts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_16",
+      "title": "In 2022, this city was named by Condé Nast \"The best big city in the U.S.\" for the 6th year in a row.",
+      "answers": [
+        "Chicago, Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_17",
+      "title": "Which is the longest river in the Philippines?",
+      "answers": [
+        "Cagayan River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_18",
+      "title": "What year did the Republic of Guinea-Bissau declare independance from Portugal?",
+      "answers": [
+        "1973"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_19",
+      "title": "The Faroe Islands were named for the Norse word for what?",
+      "answers": [
+        "Sheep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_20",
+      "title": "The Gorbals is a district of which city?",
+      "answers": [
+        "Glasgow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_21",
+      "title": "Which European city is known as Auld Reekie?",
+      "answers": [
+        "Edinburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_22",
+      "title": "Where is the natural gas-burning \"Fire Mountain\" located?",
+      "answers": [
+        "Azerbaijan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_23",
+      "title": "What US state’s highest peak is Mt. Elbert?",
+      "answers": [
+        "Colorado's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_24",
+      "title": "Brisbane is the capital of which Australian state?",
+      "answers": [
+        "Queensland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_25",
+      "title": "What is the 25th island of Greece?",
+      "answers": [
+        "Amorgos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_26",
+      "title": "What Caribbean island is known as \"Little England\"?",
+      "answers": [
+        "Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_27",
+      "title": "On which island is the Empire State Building located?",
+      "answers": [
+        "Manhattan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_28",
+      "title": "Lake of the Ozarks is located in which US state?",
+      "answers": [
+        "Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_29",
+      "title": "What is Florida's largest lake?",
+      "answers": [
+        "Lake Okeechobee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_30",
+      "title": "What U.S. state capital city is located at the southern shores of Lake Oahe?",
+      "answers": [
+        "Pierre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_31",
+      "title": "In France, what would you buy in a Boulangerie?",
+      "answers": [
+        "Bread"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_32",
+      "title": "What is the capital city of England",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_33",
+      "title": "In which forest does the Danube River rise?",
+      "answers": [
+        "Black Forest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_34",
+      "title": "What year did Guatemala declare its independence from Spain?",
+      "answers": [
+        "1821"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_35",
+      "title": "The city of Chattanooga is located in which state?",
+      "answers": [
+        "Tennessee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_36",
+      "title": "What continent is Kyrgystan located in?",
+      "answers": [
+        "Asia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_37",
+      "title": "In what US state would you find Fort Wayne?",
+      "answers": [
+        "Indiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_38",
+      "title": "What is the nickname of The Ganges-Brahmaputra Delta, the largest delta in the world?",
+      "answers": [
+        "The Green Delta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_39",
+      "title": "What strait separates Spain from Morocco?",
+      "answers": [
+        "Strait of Gibraltar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_40",
+      "title": "What river flows through the city of Savannah?",
+      "answers": [
+        "Savannah River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_41",
+      "title": "Which city is known as Motown?",
+      "answers": [
+        "Detroit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_42",
+      "title": "What country borders Guatemala to the west?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_43",
+      "title": "In which country is May Day the only holiday workers are obliged to be given the day off yet still be paid for it?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_44",
+      "title": "According to most sources, where is the world’s tallest unclimbed unclimable mountain?",
+      "answers": [
+        "Bhutan/China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_45",
+      "title": "What nation has had its own scandals dubbed \"Muldergate\" and \"Inkathagate\"?",
+      "answers": [
+        "South Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_46",
+      "title": "What is the capital of Montenegro?",
+      "answers": [
+        "Podgorica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_47",
+      "title": "Liberty Island is located in the harbor of what US city?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_48",
+      "title": "Quito is the capital of which South American country?",
+      "answers": [
+        "Ecuador"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_49",
+      "title": "Where can you visit a museum devoted to failed inventions?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_32_50",
+      "title": "What country borders both of the world's only two nations with square flags?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

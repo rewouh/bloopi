@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_43",
+  "name": "Geography Trivia 26K 43",
+  "description": "Geography 2101 - 2150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_43_01",
+      "title": "In what city would you find Rock Creek Park?",
+      "answers": [
+        "Washington, D.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_02",
+      "title": "What city named its airport after Toussaint Louverture?",
+      "answers": [
+        "Port-au-Prince"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_03",
+      "title": "What Spanish word refers to a deep gully and precedes \"Grande\" in the name of a village in Southern California?",
+      "answers": [
+        "Arroyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_04",
+      "title": "Yellowstone National Park protects the wilderness of what mountain chain?",
+      "answers": [
+        "Rocky Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_05",
+      "title": "Including all territories, where is the first place to see the sunrise each day in the U.S.?",
+      "answers": [
+        "Peacock Point, Wake Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_06",
+      "title": "On which river does the capital of Canada lie?",
+      "answers": [
+        "Ottawa River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_07",
+      "title": "Which country is home to the Great Barrier Reef?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_08",
+      "title": "Which ocean does the African country, Burundi, has access to?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_09",
+      "title": "Where is the \"Garden of the Sleeping Giant\"?",
+      "answers": [
+        "Fiji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_10",
+      "title": "The Province of Saskatchewan shares its southern border with which two US states?",
+      "answers": [
+        "Montana and North Dakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_11",
+      "title": "What city is the capital of the US state of New Mexico?",
+      "answers": [
+        "Santa Fe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_12",
+      "title": "What US city is nicknamed \"The Big Peach\"?",
+      "answers": [
+        "Atlanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_13",
+      "title": "Where are the Guiana Highlands located?",
+      "answers": [
+        "Northeastern South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_14",
+      "title": "The town of Swords is located north of what European city?",
+      "answers": [
+        "Dublin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_15",
+      "title": "What is the capital of the Canadian province of Alberta?",
+      "answers": [
+        "Edmonton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_16",
+      "title": "What new Wonder of the World is located in Peru?",
+      "answers": [
+        "Machu Picchu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_17",
+      "title": "By what other name is Lac Leman known?",
+      "answers": [
+        "Lake Geneva"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_18",
+      "title": "Which major Australia city does the Fremantle city port serve?",
+      "answers": [
+        "Perth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_19",
+      "title": "Which US state is nicknamed the \"Crossroads of America\"?",
+      "answers": [
+        "Indiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_20",
+      "title": "What is the only waterfall on the entire length of the Mississippi River?",
+      "answers": [
+        "St. Anthony Falls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_21",
+      "title": "The Koson District is a district in the Qashqadaryo Region of which country?",
+      "answers": [
+        "Uzbekistan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_22",
+      "title": "Monterey Bay is located in what body of water?",
+      "answers": [
+        "Pacific Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_23",
+      "title": "What city is home to the Rose Tower?",
+      "answers": [
+        "Dubai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_24",
+      "title": "Which is Spain’s oldest, continually inhabited city?",
+      "answers": [
+        "Cádiz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_25",
+      "title": "In which US state would you find Twenty Lake?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_26",
+      "title": "Which US state is located between California and Utah?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_27",
+      "title": "Which country's national drink is sugarcane juice?",
+      "answers": [
+        "Pakistan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_28",
+      "title": "What mountain is the tallest point in Russia?",
+      "answers": [
+        "Elbrus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_29",
+      "title": "What country borders Albania to the south?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_30",
+      "title": "In which country was a method for making rust-resistant iron discovered in the fifth century B.C.?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_31",
+      "title": "Which country has more volcanoes than any other?",
+      "answers": [
+        "Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_32",
+      "title": "Ralph Freeman designed which Australian landmark?",
+      "answers": [
+        "Sydney harbour bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_33",
+      "title": "Which country has the most UNESCO World Heritage Sites?",
+      "answers": [
+        "Italy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_34",
+      "title": "What African country was formerly known as Northern Rhodesia?",
+      "answers": [
+        "Zambia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_35",
+      "title": "What is the largest lake lying completely inside Canada?",
+      "answers": [
+        "Great Bear Lake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_36",
+      "title": "What place does Argentina take on the list of the World’s largest countries by land area?",
+      "answers": [
+        "Eighth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_37",
+      "title": "What US State flag has a Union Jack Flag on it?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_38",
+      "title": "Which US state's name is derived from the Chippewa words for \"great water\"?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_39",
+      "title": "Which of the eight major islands in Hawaii has no permanent residents?",
+      "answers": [
+        "Kaho’olawe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_40",
+      "title": "What is the first foreign country you would reach if you go south of Detroit, Michigan?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_41",
+      "title": "What is the capital of the US state Wisconsin?",
+      "answers": [
+        "Madison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_42",
+      "title": "Which is the Earth's largest continent?",
+      "answers": [
+        "Asia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_43",
+      "title": "Which is the only French-speaking republic in the Americas?",
+      "answers": [
+        "Haiti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_44",
+      "title": "\"The Big Easy\" is the nickname for what city?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_45",
+      "title": "Sierra Leone lies along the shores of which ocean?",
+      "answers": [
+        "Atlantic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_46",
+      "title": "Which state surrounds the Australian Capital Territory?",
+      "answers": [
+        "New South Wales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_47",
+      "title": "What island in Manila Bay was the site of a famous 1942 siege?",
+      "answers": [
+        "Corregidor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_48",
+      "title": "Where would you find the Nazca Lines?",
+      "answers": [
+        "Peru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_49",
+      "title": "What western US city is dubbed “The Valley of 10,000 Buffets”?",
+      "answers": [
+        "Las Vegas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_43_50",
+      "title": "The port city of Sheboygan is located in which US state?",
+      "answers": [
+        "Wisconsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_50",
+  "name": "Science Trivia 26K 50",
+  "description": "Science 2451 - 2500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_50_01",
+      "title": "What South American animal is the world's largest rodent?",
+      "answers": [
+        "The capybara"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_02",
+      "title": "If cattle are bovine, what are sheep?",
+      "answers": [
+        "Ovine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_03",
+      "title": "How many toes do ostriches have on each foot?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_04",
+      "title": "In mathematics, which prefix refers to 10 to the power of 21?",
+      "answers": [
+        "Zetta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_05",
+      "title": "Gluten is a type of what?",
+      "answers": [
+        "Protein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_06",
+      "title": "What is the technical name for having different-colored eyes?",
+      "answers": [
+        "Heterchromia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_07",
+      "title": "In atmospheres, what is the equivalent of 760 milimeters of Mercury (mmHg)?",
+      "answers": [
+        "1 atm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_08",
+      "title": "What is a group of snipe called?",
+      "answers": [
+        "A wisp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_09",
+      "title": "What did Marie Curie name the first chemical element she discovered?",
+      "answers": [
+        "Polonium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_10",
+      "title": "In what country was margarine first patented?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_11",
+      "title": "Dendrophobia is the fear of what?",
+      "answers": [
+        "Trees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_12",
+      "title": "What kind of American desert rat can survive indefinitely without drinking water?",
+      "answers": [
+        "The kangaroo rat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_13",
+      "title": "Which element appears ninth on the periodic table?",
+      "answers": [
+        "Fluorine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_14",
+      "title": "What element on the Periodic Table is represented by the symbol \"Hg\"?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_15",
+      "title": "What fruit is packed with the most calories?",
+      "answers": [
+        "The avocado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_16",
+      "title": "Which scientist wrote the book \"A Brief History of Time\"?",
+      "answers": [
+        "Stephen Hawking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_17",
+      "title": "Optophobia is the fear of what?",
+      "answers": [
+        "Opening one's eyes?"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_18",
+      "title": "Which Salford brewer gave his name to the S.I. unit of energy?",
+      "answers": [
+        "James Prescott Joule"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_19",
+      "title": "What is the astronomical term for three celestial bodies aligning?",
+      "answers": [
+        "Syzygy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_20",
+      "title": "Catoptrophobia is the fear of what?",
+      "answers": [
+        "Mirrors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_21",
+      "title": "What is the next number in this series: 11, 13, 17, 19, 23?",
+      "answers": [
+        "29 or 25"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_22",
+      "title": "What bodily fluid surrounds a fetus?",
+      "answers": [
+        "Amniotic fluid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_23",
+      "title": "What colorful name is often applied to a sequoia?",
+      "answers": [
+        "Redwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_24",
+      "title": "What is a female chicken between the ages of eight weeks and one year old called?",
+      "answers": [
+        "Pullet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_25",
+      "title": "What is the chemical symbol for Sodium?",
+      "answers": [
+        "Na"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_26",
+      "title": "What is heliology the study of?",
+      "answers": [
+        "The Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_27",
+      "title": "In what organ of the human body would you find the pyloris?",
+      "answers": [
+        "The stomach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_28",
+      "title": "What was the name of the first human in space?",
+      "answers": [
+        "Yuri Gagarin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_29",
+      "title": "What branch of medicine has a name which literally means \"the science of women\"?",
+      "answers": [
+        "Gynecology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_30",
+      "title": "What \"L\"-word is the name for the family of plants including the peanut and soybean?",
+      "answers": [
+        "Legume"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_31",
+      "title": "What was the original designation of the Pioneer 10 space probe?",
+      "answers": [
+        "Pioneer F"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_32",
+      "title": "What metal impurity makes rubies red and emeralds green?",
+      "answers": [
+        "Chromium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_33",
+      "title": "This science deals with the behavior of projectiles?",
+      "answers": [
+        "Ballistics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_34",
+      "title": "Electrum is a natural alloy of gold and what other metal?",
+      "answers": [
+        "Silver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_35",
+      "title": "In RNA thymine from DNA is replaced by what?",
+      "answers": [
+        "Uracil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_36",
+      "title": "What is rainfall measured with?",
+      "answers": [
+        "Ombrometer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_37",
+      "title": "In science, what does the abbreviation DNA stand for?",
+      "answers": [
+        "Deoxyribonucleic acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_38",
+      "title": "What are the gases that surround the Earth called?",
+      "answers": [
+        "Atmosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_39",
+      "title": "Entomophobia is the fear of what?",
+      "answers": [
+        "Insects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_40",
+      "title": "What was invented by Chinese astronomer and mathematician Chang Heng?",
+      "answers": [
+        "The first seismograph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_41",
+      "title": "The Hawaiian landmark known as \"Diamond Head\" was formed from what?",
+      "answers": [
+        "Magma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_42",
+      "title": "What is the term for a group of pet cats?",
+      "answers": [
+        "A clowder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_43",
+      "title": "What natural biological defense system protects the body from disease and fights off germs?",
+      "answers": [
+        "Immunity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_44",
+      "title": "In what century did the Dodo bird become extinct?",
+      "answers": [
+        "17th"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_45",
+      "title": "What is the correct name for a baby mink?",
+      "answers": [
+        "Kit or Kitten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_46",
+      "title": "What poison is known for having the aroma of bitter almonds?",
+      "answers": [
+        "Cyanide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_47",
+      "title": "What is the Latin word for the beech tree?",
+      "answers": [
+        "Fagus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_48",
+      "title": "With what is charcoal and saltpeter mixed to make gunpowder?",
+      "answers": [
+        "Sulfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_49",
+      "title": "Mexican laetrile is extracted from the seeds of what fruit?",
+      "answers": [
+        "Apricots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_50_50",
+      "title": "What sign of the zodiac is the first air sign of the calender year?",
+      "answers": [
+        "Aquarius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

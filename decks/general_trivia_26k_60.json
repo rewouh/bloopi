@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_60",
+  "name": "General Trivia 26K 60",
+  "description": "General 2951 - 3000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_60_01",
+      "title": "What was the first Christmas song to focus on Santa Claus?",
+      "answers": [
+        "\"Up on the Housetop\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_02",
+      "title": "Cyanide is often said to have the bitter aroma of what?",
+      "answers": [
+        "Almonds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_03",
+      "title": "How many points are there on the maple leaf on the Canadian flag?",
+      "answers": [
+        "Eleven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_04",
+      "title": "What soccer team won the 2016 FIFA Club World Cup?",
+      "answers": [
+        "Real Madrid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_05",
+      "title": "At what age does a filly become a mare in thoroughbred horse racing?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_06",
+      "title": "In motor racing, what does a yellow flag mean?",
+      "answers": [
+        "Caution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_07",
+      "title": "What branch of the U.S. military features the Blue Angels precision flying squad?",
+      "answers": [
+        "US Navy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_08",
+      "title": "Within 3 years, either way, in what year did Lou Gehrig deliver his famous farewell speech at Yankee Stadium?",
+      "answers": [
+        "1939"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_09",
+      "title": "What name was given to EuroDisney?",
+      "answers": [
+        "Disneyland Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_10",
+      "title": "Before moving to Los Angeles in 1960, in what city were the NBA's Lakers franchise located for 13 years?",
+      "answers": [
+        "Minneapolis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_11",
+      "title": "The dance called the \"Maxixe\" is also known by what name?",
+      "answers": [
+        "Brazilian Tango"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_12",
+      "title": "Which company released the first e-reader device?",
+      "answers": [
+        "Barnes and Noble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_13",
+      "title": "What was the name of the world’s last passenger pigeon?",
+      "answers": [
+        "Martha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_14",
+      "title": "What was the Tuxedo named after?",
+      "answers": [
+        "Tuxedo Park, New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_15",
+      "title": "What is the edible part of a sea urchin?",
+      "answers": [
+        "The gonads"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_16",
+      "title": "What is the NATO phonetic alphabet word for \"F\"?",
+      "answers": [
+        "Foxtrot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_17",
+      "title": "Mace is the outer covering of which common spice?",
+      "answers": [
+        "Nutmeg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_18",
+      "title": "Which meat dish becomes particularly popular during the Super Bowl?",
+      "answers": [
+        "Chicken wings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_19",
+      "title": "How many laps must a driver survive to win the Indianapolis 500?",
+      "answers": [
+        "200"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_20",
+      "title": "Who wrote the book \"Mastering the Art of French Cooking\"?",
+      "answers": [
+        "Julia Child"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_21",
+      "title": "Which of the two reindeer are named after weather events?",
+      "answers": [
+        "Donner and Blitzen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_22",
+      "title": "What is the other name for the card game Patience?",
+      "answers": [
+        "Solitaire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_23",
+      "title": "From which plant do we get linseed oil?",
+      "answers": [
+        "Flax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_24",
+      "title": "What was the Easter Bunny's original name?",
+      "answers": [
+        "Osterhase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_25",
+      "title": "What sort of drink is Barbancourt?",
+      "answers": [
+        "Rum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_26",
+      "title": "How much wider is a tennis court during a doubles match than a singles match?",
+      "answers": [
+        "9 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_27",
+      "title": "What wine barrel size contains 10 gallons?",
+      "answers": [
+        "Anker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_28",
+      "title": "What animal is the logo used by Mack Trucks?",
+      "answers": [
+        "Bulldog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_29",
+      "title": "What date is \"Malaysia Day\"?",
+      "answers": [
+        "September 16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_30",
+      "title": "What ingredient provides the pearls in bubble tea?",
+      "answers": [
+        "Tapioca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_31",
+      "title": "What does it mean when something is like \"shooting a fish in a barrel\"?",
+      "answers": [
+        "Easy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_32",
+      "title": "What franchise team is the oldest in professional football history in the United States?",
+      "answers": [
+        "Arizona Cardinals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_33",
+      "title": "Which hockey team did Wayne Gretzky play for in the 1980s?",
+      "answers": [
+        "Edmonton Oilers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_34",
+      "title": "Who is considered to be the creator of the \"Gran Turismo\" game series?",
+      "answers": [
+        "Kazunori Yamauchi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_35",
+      "title": "The clarinet is a member of what family of instruments?",
+      "answers": [
+        "Woodwinds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_36",
+      "title": "Butter bean is another name for which type of bean?",
+      "answers": [
+        "Lima"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_37",
+      "title": "The Italian Giovanni Schiaparelli is best known today for naming most of the canals where?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_38",
+      "title": "Cha dao is the art of what?",
+      "answers": [
+        "Making tea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_39",
+      "title": "The ancient Chinese concept of harmonious design, which is a balance between humans and their environment, is called what?",
+      "answers": [
+        "Feng Shui"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_40",
+      "title": "What McDonald's item is known as \"Le Royal\" in France?",
+      "answers": [
+        "Quarter Pounder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_41",
+      "title": "What was the real last name of American folk hero Johnny Appleseed?",
+      "answers": [
+        "Chapman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_42",
+      "title": "What common animal is constitutionally protected in Florida?",
+      "answers": [
+        "Pigs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_43",
+      "title": "Which food manufacturer produces and sells Cheez Whiz?",
+      "answers": [
+        "Kraft Foods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_44",
+      "title": "The card game \"Penguin\" is a variation of what other card game?",
+      "answers": [
+        "Solitaire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_45",
+      "title": "What do Jews purge their home of during Passover?",
+      "answers": [
+        "Chametz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_46",
+      "title": "In which English city would you find The Christmas Steps?",
+      "answers": [
+        "Bristol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_47",
+      "title": "John F. Kennedy Airport was originally named what?",
+      "answers": [
+        "Idlewild Airport"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_48",
+      "title": "What is the logo used by Mack Trucks?",
+      "answers": [
+        "Bulldog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_49",
+      "title": "Who was the first coach of the Green Bay Packers?",
+      "answers": [
+        "Curly Lambeau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_60_50",
+      "title": "In what sport would you perform an Adolf?",
+      "answers": [
+        "Trampolining forward 3.5 twists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

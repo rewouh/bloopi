@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_18",
+  "name": "General Trivia 26K 18",
+  "description": "General 851 - 900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_18_01",
+      "title": "Who was the first female to be featured on the front of a Wheaties box?",
+      "answers": [
+        "Mary Lou Retton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_02",
+      "title": "Danish postmaster Einar Holboll is credited with the 1903 creation of what?",
+      "answers": [
+        "Christmas Seals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_03",
+      "title": "What type of a drum has vibrating wires across its bottom?",
+      "answers": [
+        "Snare drum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_04",
+      "title": "What early arcade game used a trackball rather than a joystick?",
+      "answers": [
+        "Missile Command"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_05",
+      "title": "Who was known as the \"Clown Prince\" of basketball?",
+      "answers": [
+        "Meadowlark Lemon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_06",
+      "title": "What route runs from Chicago to Los Angeles?",
+      "answers": [
+        "Route 66"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_07",
+      "title": "Which river is often viewed as Russia's national river?",
+      "answers": [
+        "Volga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_08",
+      "title": "What golfer is nicknamed the \"Golden Bear\"?",
+      "answers": [
+        "Jack Nicklaus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_09",
+      "title": "What is the correct plural of Keeshond?",
+      "answers": [
+        "Keeshonden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_10",
+      "title": "The Wiffle Ball was named after the slang for what",
+      "answers": [
+        "Striking out"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_11",
+      "title": "What name was given to the tropical cyclone that destroyed large parts of the Houston metropolitan area in the United States in August of 2017?",
+      "answers": [
+        "Hurricane Harvey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_12",
+      "title": "Superstar Pelé is credited with giving soccer what enduring nickname?",
+      "answers": [
+        "The beautiful game"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_13",
+      "title": "Where does Sherry wine come from?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_14",
+      "title": "What is the second sign of the Zodiac?",
+      "answers": [
+        "Taurus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_15",
+      "title": "Bubble Wrap was invented while researchers were trying to make what?",
+      "answers": [
+        "Wallpaper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_16",
+      "title": "What city is associated with Alcatraz?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_17",
+      "title": "What organization in the US was co-founded by Ballington Booth?",
+      "answers": [
+        "Volunteers of America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_18",
+      "title": "What is 2000 in Roman Numerals?",
+      "answers": [
+        "MM"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_19",
+      "title": "What is the world's largest aircraft by wingspan?",
+      "answers": [
+        "Antonov An-225 Mriya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_20",
+      "title": "Carbonade Flamande is a dish made with what beverage?",
+      "answers": [
+        "Beer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_21",
+      "title": "What baseball hall-of-famer was nicknamed \"Hammerin' Hank\"?",
+      "answers": [
+        "Hank Aaron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_22",
+      "title": "Which bird is the national bird of Iran?",
+      "answers": [
+        "Common nightingale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_23",
+      "title": "The delicacy known as fois gras traditionally comes from what part of the duck or goose?",
+      "answers": [
+        "The liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_24",
+      "title": "What did Mae Jemison, the first African-American woman to go to space, study while in medical school?",
+      "answers": [
+        "Modern dance"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_25",
+      "title": "When was Gatorade first introduced?",
+      "answers": [
+        "1965"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_26",
+      "title": "In baseball, which number references the shortstop?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_27",
+      "title": "Which musical instrument was invented by Henry Schluter?",
+      "answers": [
+        "Vibraphone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_28",
+      "title": "Vodka and orange juice make up what cocktail?",
+      "answers": [
+        "Screwdriver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_29",
+      "title": "In what US state are submarine sandwiches traditionally called \"po' boys\"?",
+      "answers": [
+        "Louisiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_30",
+      "title": "The fear of flutes is called what?",
+      "answers": [
+        "Aulophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_31",
+      "title": "What is food that is permitted to be eaten under Jewish dietary laws is known as?",
+      "answers": [
+        "Kosher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_32",
+      "title": "What US state's name is the first \"M\" of the 3M Company?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_33",
+      "title": "As of 2018, what is the best selling video game console of all time?",
+      "answers": [
+        "PlayStation 2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_34",
+      "title": "Gamophobia is the fear of what?",
+      "answers": [
+        "Commitment"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_35",
+      "title": "Who steers the shell and motivates the rowers in a crew race?",
+      "answers": [
+        "Coxswain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_36",
+      "title": "What year was \"Cirque du Soleil\" founded?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_37",
+      "title": "Is kissing under the mistletoe comes from whose customs?",
+      "answers": [
+        "Druids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_38",
+      "title": "Papaphobia is the fear of what?",
+      "answers": [
+        "The pope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_39",
+      "title": "What is podobromhidrosis?",
+      "answers": [
+        "Smelly feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_40",
+      "title": "What does a chrome-dome have a shortage of?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_41",
+      "title": "Ashtanga, Bikram, and Kundalini are all types of what?",
+      "answers": [
+        "Yoga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_42",
+      "title": "Crème de Menthe, Crème de Cacao and fresh cream are combined to make what drink?",
+      "answers": [
+        "Grasshopper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_43",
+      "title": "How many colored squares are there on a standard Rubik’s cube?",
+      "answers": [
+        "54"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_44",
+      "title": "What popular sport did James Naismith invent?",
+      "answers": [
+        "Basketball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_45",
+      "title": "The \"Eddie Murphy Rule\" banned certain kinds of insider trading in commodities markets. It was inspired by Murphy’s role in what film?",
+      "answers": [
+        "Trading Places"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_46",
+      "title": "The 1982 football game that birthed \"The Play\", was between which schools?",
+      "answers": [
+        "Stanford and Berkeley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_47",
+      "title": "What nut is hidden in Christmas rice pudding in Sweden?",
+      "answers": [
+        "Almond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_48",
+      "title": "What is the term for a bet before cards are dealt?",
+      "answers": [
+        "Ante"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_49",
+      "title": "Valentine's Day is also known as the \"Feast of...\" what?",
+      "answers": [
+        "Saint Valentine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_18_50",
+      "title": "What does an anthrophage practice?",
+      "answers": [
+        "Cannibalism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

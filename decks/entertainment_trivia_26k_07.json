@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_07",
+  "name": "Entertainment Trivia 26K 07",
+  "description": "Entertainment 301 - 350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_07_01",
+      "title": "Who played Chad Gates in the 1961 movie \"Blue Hawaii\"?",
+      "answers": [
+        "Elvis Presley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_02",
+      "title": "What movie features the four high school friends Jim, Finch, Oz and Kevin?",
+      "answers": [
+        "American Pie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_03",
+      "title": "\"He's In Town\" was a hit in 1964 for which British group?",
+      "answers": [
+        "The Rockin' Berries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_04",
+      "title": "What is the name of Angelina Jolie's father?",
+      "answers": [
+        "Jon Voight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_05",
+      "title": "Who directed the 1999 movie \"Bowfinger\"?",
+      "answers": [
+        "Frank Oz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_06",
+      "title": "Who provided the original voice for Yogi Bear?",
+      "answers": [
+        "Daws Butler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_07",
+      "title": "Where does Madeline try to commit suicide in Hitchcock's movie \"Vertigo\"?",
+      "answers": [
+        "The Golden Gate Bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_08",
+      "title": "In the TV show \"The Simpsons\", how old is Comic Book Guy?",
+      "answers": [
+        "45"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_09",
+      "title": "Who played the role of Kris Kringle in the 1947 film \"Miracle on 34th Street\"?",
+      "answers": [
+        "Edmund Gwenn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_10",
+      "title": "What genre is James Brown considered to be the grandfather of?",
+      "answers": [
+        "Soul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_11",
+      "title": "Who played the title role in the late 1990’s sitcom \"Suddenly Susan\"?",
+      "answers": [
+        "Brooke Shields"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_12",
+      "title": "What athlete had a part in the movie \"The Naked Gun\"?",
+      "answers": [
+        "O. J. Simpson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_13",
+      "title": "What comic played the lead in the 2009 movie \"Paul Blart: Mall Cop\"?",
+      "answers": [
+        "Kevin James"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_14",
+      "title": "What is the name of the Green Hornet's car?",
+      "answers": [
+        "Black Beauty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_15",
+      "title": "Who played Kate Austen on the ABC series \"Lost\"?",
+      "answers": [
+        "Evangeline Lilly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_16",
+      "title": "How much of the population has survived by 2035 in Twelve Monkeys? 1, 5 or 10 percent?",
+      "answers": [
+        "1 percent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_17",
+      "title": "The Golden Globe Awards honor excellence in which two industries?",
+      "answers": [
+        "Movie and television"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_18",
+      "title": "Where did Susie fall asleep in the Everly Brothers song \"Wake Up Little Susie\"?",
+      "answers": [
+        "At the movies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_19",
+      "title": "What is Clark planning on spending his Christmas bonus in the movie \"National Lampoon’s Christmas Vacation\"?",
+      "answers": [
+        "Swimming pool"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_20",
+      "title": "Which Disney's cartoon character's love interest is named Megara?",
+      "answers": [
+        "Hercules'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_21",
+      "title": "What British group had a hit with the song \"The House of the Rising Sun\" in 1964?",
+      "answers": [
+        "The Animals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_22",
+      "title": "Which British rock group released a 1990s album called \"Parklife\"?",
+      "answers": [
+        "Blur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_23",
+      "title": "In the movie \"Batman v Superman\" what poster can be seen in the background as the Waynes are walking out of a movie theater before their mugging?",
+      "answers": [
+        "The Mark of Zorro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_24",
+      "title": "What contestant-based reality television series aired in the United States originated in Holland?",
+      "answers": [
+        "The Voice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_25",
+      "title": "Elvis's \"A Little Less Conversation\" was remixed into a 2002 hit single by which musician?",
+      "answers": [
+        "Junkie XL"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_26",
+      "title": "What TV title character has a rat named Steve McQueen?",
+      "answers": [
+        "Dr. Gregory House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_27",
+      "title": "Who played the part of Max Cady in the 1962 thriller \"Cape Fear\"?",
+      "answers": [
+        "Robert Mitchum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_28",
+      "title": "What character did Christopher Lloyd play in the movie \"Who Framed Roger Rabbit?",
+      "answers": [
+        "Judge Doom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_29",
+      "title": "Which singer is known as the \"Empress of the Blues\"?",
+      "answers": [
+        "Bessie Smith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_30",
+      "title": "What vehicle was driven by Humbert Humbert?",
+      "answers": [
+        "Melmoth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_31",
+      "title": "What was Little Joe Cook's backing band?",
+      "answers": [
+        "The Thrillers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_32",
+      "title": "Who played the role of TV's J. J. Evans?",
+      "answers": [
+        "Jimmie Walker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_33",
+      "title": "What 1978 movie inspired toga parties on college campuses?",
+      "answers": [
+        "Animal House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_34",
+      "title": "Who was the host of \"The Tonight Show\" from 1954 to 1957?",
+      "answers": [
+        "Steve Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_35",
+      "title": "What show is \"The end of something simple. And the beginning of everything else\"?",
+      "answers": [
+        "Dawson's Creek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_36",
+      "title": "Who sings the theme song from the James Bond film \"Die Another Day\"?",
+      "answers": [
+        "Madonna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_37",
+      "title": "Who played the title role in the 1980 comedy film \"Private Benjamin\"?",
+      "answers": [
+        "Goldie Hawn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_38",
+      "title": "If music was played leggiero, how should it be done?",
+      "answers": [
+        "Lightly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_39",
+      "title": "Who played the role of Frank Rossitano on the TV show \"30 Rock\"?",
+      "answers": [
+        "Judah Friedlander"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_40",
+      "title": "What Beatles song is set \"somewhere in the Black Mountain hills of Dakota\"?",
+      "answers": [
+        "Rocky Raccoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_41",
+      "title": "What sport is the focus of the movie \"Tin Cup\"?",
+      "answers": [
+        "Golf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_42",
+      "title": "What is the name of Hopalong Cassidy's horse?",
+      "answers": [
+        "Topper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_43",
+      "title": "What TV series, which ran from 2004 thru 2008, was a spin-off from \"The Practice\"?",
+      "answers": [
+        "Boston Legal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_44",
+      "title": "How much a year does Andy get for his library construction in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "$500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_45",
+      "title": "What was the name of the store Seymour works at in the movie \"One Hour Photo\"?",
+      "answers": [
+        "SavMart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_46",
+      "title": "What disappeared from the town of South Park, forcing Randy to relocate his family to a refugee camp in California?",
+      "answers": [
+        "The Internet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_47",
+      "title": "Audrey Hepburn was born in which country?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_48",
+      "title": "Arnold Schwarzenegger is a father trying to get the must have Christmas toy in which 1996 film?",
+      "answers": [
+        "Jingle All The Way"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_49",
+      "title": "What country is the band \"Men Without Hats\" originally from?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_07_50",
+      "title": "In The Who’s rock opera \"Tommy\", what recreation was Tommy proficient at?",
+      "answers": [
+        "Pinball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

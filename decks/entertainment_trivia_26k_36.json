@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_36",
+  "name": "Entertainment Trivia 26K 36",
+  "description": "Entertainment 1751 - 1800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_36_01",
+      "title": "Which band released the tracks \"Monkey Wrench\" and \"Learn to Fly\"?",
+      "answers": [
+        "Foo Fighters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_02",
+      "title": "What year was Robert Liberman's, All I Want for Christmas released?",
+      "answers": [
+        "1991"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_03",
+      "title": "Who directed the film \"Ordinary People\"?",
+      "answers": [
+        "Robert Redford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_04",
+      "title": "What double-word song title was a hit single by Elvis Costello?",
+      "answers": [
+        "Radio Radio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_05",
+      "title": "Who voiced Pinocchio in Disney's 1940 movie by the same name?",
+      "answers": [
+        "Dickie Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_06",
+      "title": "What was the name of the middle Tanner daughter on \"Full House\"?",
+      "answers": [
+        "Stephanie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_07",
+      "title": "Who was the lead singer of the Sugarcubes?",
+      "answers": [
+        "Bjork"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_08",
+      "title": "What were the name of the two space shuttles in the 1998 film \"Armageddon\"?",
+      "answers": [
+        "Freedom and Independence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_09",
+      "title": "Einstein was the name of what character's dog in the film \"Back to the Future\"?",
+      "answers": [
+        "Emmett Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_10",
+      "title": "In the TV show \"Knight Rider\", what was the real last name of Michael Knight?",
+      "answers": [
+        "Long"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_11",
+      "title": "What is Goldfinger's first name?",
+      "answers": [
+        "Auric"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_12",
+      "title": "In season 13 of the TV show \"Big Brother\" the returning players were given what nickname?",
+      "answers": [
+        "Veterans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_13",
+      "title": "In which James Bond movie does the character Pussy Galore appear in?",
+      "answers": [
+        "Goldfinger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_14",
+      "title": "What is the name of Alan's ex-wife on the TV show \"Two and a Half Men\"?",
+      "answers": [
+        "Judith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_15",
+      "title": "Whose author's novel is the movie \"The Godfather\" based on?",
+      "answers": [
+        "Mario Puzo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_16",
+      "title": "Which actor played the role of Steve Jobs in the movie \"Pirates of Silicon Valley\"?",
+      "answers": [
+        "Noah Wyle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_17",
+      "title": "Julia Roberts and Hugh Grant were paired in what romantic comedy?",
+      "answers": [
+        "Notting Hill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_18",
+      "title": "Which song from the \"White Album\" was originally titled \"Maharishi\"?",
+      "answers": [
+        "Sexy Sadie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_19",
+      "title": "What actress shaved her head for her role in the movie \"The Passion of Joan of Arc\"?",
+      "answers": [
+        "Renee Maria Falconetti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_20",
+      "title": "What musician had a first name from Roman myth and the even more unusual middle name \"Sphere\"?",
+      "answers": [
+        "Thelonious Monk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_21",
+      "title": "Who recorded the song \"Lyin' Eyes\"?",
+      "answers": [
+        "Eagles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_22",
+      "title": "Who directed the 1995 film \"Boys on the Side\"?",
+      "answers": [
+        "Herbert Ross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_23",
+      "title": "Which band member of The Sex Pistols died of drug overdose?",
+      "answers": [
+        "Sid Vicious"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_24",
+      "title": "What double-word song title was a hit single by Paula Abdul?",
+      "answers": [
+        "Rush Rush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_25",
+      "title": "Who played the lead in \"The Last Boy Scout\"?",
+      "answers": [
+        "Bruce Willis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_26",
+      "title": "What movie did rappers Ice Cube & Ice T star in?",
+      "answers": [
+        "Tresspass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_27",
+      "title": "Who directed the 1927 movie \"Metropolis\"?",
+      "answers": [
+        "Fritz Lang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_28",
+      "title": "In what movie does Adam Sandler go back to school at age 27?",
+      "answers": [
+        "Billy Madison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_29",
+      "title": "Blues legend McKinley Morganfield was better known by what name?",
+      "answers": [
+        "Muddy Waters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_30",
+      "title": "What was the name of the train on the TV series \"Petticoat Junction\"?",
+      "answers": [
+        "Hooterville Cannonball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_31",
+      "title": "What 1996 movie features a little boy character named Ray Boyd?",
+      "answers": [
+        "Jerry Maguire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_32",
+      "title": "What Californian city was George Lucas born in?",
+      "answers": [
+        "Modesto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_33",
+      "title": "What is the name of Johnny Depp's character in \"Pirates of the Caribbean\" movie franchise?",
+      "answers": [
+        "Jack Sparrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_34",
+      "title": "What Elvis Presley film is set in England?",
+      "answers": [
+        "Double Trouble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_35",
+      "title": "Who was born as Frederick Austerlitz?",
+      "answers": [
+        "Fred Astaire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_36",
+      "title": "Which country music artist was the runner-up on the 21st season of the TV show \"Survivor\"?",
+      "answers": [
+        "Chase Rice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_37",
+      "title": "Whose \"Play-Along\" included fellow socks Charley Horse and Hush Puppy?",
+      "answers": [
+        "Lamb Chop's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_38",
+      "title": "What was Maxwell Smart’s agent number on “Get Smart”?",
+      "answers": [
+        "86"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_39",
+      "title": "What future celebrity made an appearance as Iris in \"Taxi Driver\"?",
+      "answers": [
+        "Jodie Foster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_40",
+      "title": "The original TV show \"Star Trek\" aired for how many seasons?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_41",
+      "title": "What sport is the focus of the movie \"Youngblood\"?",
+      "answers": [
+        "Ice hockey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_42",
+      "title": "In the TV Show \"Gunsmoke\", what was Festus’ occupation prior to becoming Marshall Dillon’s deputy?",
+      "answers": [
+        "Wolfer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_43",
+      "title": "What does Elwood steal from the gas station in the movie \"The Blues Brothers\"?",
+      "answers": [
+        "Wiper blades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_44",
+      "title": "What classic TV show's main family had children named Betty, Kathy, and Bud?",
+      "answers": [
+        "Father Knows Best"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_45",
+      "title": "What screen legend made his final appearance in the movie \"The Harder They Fall\"?",
+      "answers": [
+        "Humphrey Bogart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_46",
+      "title": "What rock band is led by Bob Dylan's son, Jakob?",
+      "answers": [
+        "The Wallflowers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_47",
+      "title": "What was in the jaws of the swordfish mounted on the wall in the Addams Family house?",
+      "answers": [
+        "A human leg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_48",
+      "title": "What was the well-known nickname of the American tap dancer, Bill Robinson?",
+      "answers": [
+        "Bojangles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_49",
+      "title": "What film stars Bruce Willis as a plastic surgeon Ernest Menville?",
+      "answers": [
+        "Death Becomes Her"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_36_50",
+      "title": "Who directed \"2001: A Space Odyssey\"?",
+      "answers": [
+        "Stanley Kubrik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

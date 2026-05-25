@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_26",
+  "name": "Science Trivia 26K 26",
+  "description": "Science 1251 - 1300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_26_01",
+      "title": "Wilhelm Roentgen won the first Nobel Prize in Physics for discovering what kind of radiation?",
+      "answers": [
+        "X-ray"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_02",
+      "title": "Most terms that help to identify vulcanological events come from which language?",
+      "answers": [
+        "Hawaiian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_03",
+      "title": "What disease takes its name from medieval Italian words for \"bad air\"?",
+      "answers": [
+        "Malaria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_04",
+      "title": "Chemically, what kind of acid is stomach acid?",
+      "answers": [
+        "Hydrochloric acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_05",
+      "title": "What was Mary Anning famous for in the 19th century?",
+      "answers": [
+        "Collecting fossils"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_06",
+      "title": "What is the name for the boundary around a black hole?",
+      "answers": [
+        "Event Horizon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_07",
+      "title": "A 25 to 31 mph wind on the Beaufort scale is called what?",
+      "answers": [
+        "Strong breeze"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_08",
+      "title": "Which element appears seventh on the periodic table?",
+      "answers": [
+        "Nitrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_09",
+      "title": "What is the imaginary line that runs from the North to the South Pole called?",
+      "answers": [
+        "Axis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_10",
+      "title": "What is \"bovine spongiform encephalopathy\" more commonly known as?",
+      "answers": [
+        "Mad cow disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_11",
+      "title": "Which dog is named for the German word for snout?",
+      "answers": [
+        "Schnauzer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_12",
+      "title": "How many flowers must honeybees visit to make one pound of honey?",
+      "answers": [
+        "2 Million"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_13",
+      "title": "What is another term for the sternum?",
+      "answers": [
+        "Breastbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_14",
+      "title": "What two colors are most often confused by people who are color blind?",
+      "answers": [
+        "Red and green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_15",
+      "title": "What year was the first patent for a pencil sharpener applied for?",
+      "answers": [
+        "1828"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_16",
+      "title": "The drug quinine was originally isolated from the bark of which tree?",
+      "answers": [
+        "Cinchona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_17",
+      "title": "What is Lepidopterology the study of?",
+      "answers": [
+        "Moths and butterflies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_18",
+      "title": "What is a system of circulating ocean currents referred to as?",
+      "answers": [
+        "A Gyre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_19",
+      "title": "How do pythons give birth?",
+      "answers": [
+        "They lay eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_20",
+      "title": "How long have dogs been domesticated?",
+      "answers": [
+        "15,000 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_21",
+      "title": "What is the only phase of the Moon that can produce a solar eclipse?",
+      "answers": [
+        "New Moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_22",
+      "title": "Mariner 9 was the first spacecraft to orbit what other planet?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_23",
+      "title": "The Golden Rain is the common name of what tree?",
+      "answers": [
+        "Laburnum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_24",
+      "title": "What fleshy muscular organ is joined to the hyoid bone?",
+      "answers": [
+        "Tongue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_25",
+      "title": "Thomas Edison was \"the Wizard of Menlo Park\" in what US state?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_26",
+      "title": "The insect known as the yellow jacket is a type of what?",
+      "answers": [
+        "Wasp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_27",
+      "title": "What is measured in fathoms?",
+      "answers": [
+        "Depth of water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_28",
+      "title": "A medical condition that has been caused by a physician or medical treatment is described as what?",
+      "answers": [
+        "Latrogenic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_29",
+      "title": "What is added to water to make tonic water?",
+      "answers": [
+        "Quinine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_30",
+      "title": "Which English philosopher believed that people in a state of nature are good?",
+      "answers": [
+        "John Locke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_31",
+      "title": "What mammal gains 200 pounds per day during its first year?",
+      "answers": [
+        "Blue whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_32",
+      "title": "What is the traditional term for a male falcon?",
+      "answers": [
+        "A tiercel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_33",
+      "title": "Who famously said \"Dr. Livingstone, I presume?\" in 1872?",
+      "answers": [
+        "H.M. Stanley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_34",
+      "title": "What number does the roman numeral LXXX denote?",
+      "answers": [
+        "80"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_35",
+      "title": "What kind of scientist was Linus Pauling?",
+      "answers": [
+        "Chemist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_36",
+      "title": "What is a family group of warthogs called?",
+      "answers": [
+        "Sounder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_37",
+      "title": "What is the \"Big Dipper\" known as in England?",
+      "answers": [
+        "The Plough"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_38",
+      "title": "What planet was named after the goddess of beauty?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_39",
+      "title": "What's the name of the technique for collecting measurements at a distance?",
+      "answers": [
+        "Telemetry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_40",
+      "title": "Which substance can you not eat, if you have celiac disease?",
+      "answers": [
+        "Gluten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_41",
+      "title": "Which bony structure includes the zygomatic, ethmoid, and vomer bones?",
+      "answers": [
+        "The Skull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_42",
+      "title": "What is sulphur also known as?",
+      "answers": [
+        "Brimstone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_43",
+      "title": "What is the closest star to Earth?",
+      "answers": [
+        "The Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_44",
+      "title": "Two African parrots of the genus Agapornis are better known as what?",
+      "answers": [
+        "Love Birds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_45",
+      "title": "Acceleration is the rate of change of what?",
+      "answers": [
+        "Velocity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_46",
+      "title": "Porphyrophobia is the fear of what?",
+      "answers": [
+        "The color purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_47",
+      "title": "Dry Ice is the solid form of what chemical compound?",
+      "answers": [
+        "Carbon dioxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_48",
+      "title": "What is the chemical symbol for tin?",
+      "answers": [
+        "Sn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_49",
+      "title": "What is a word for a flock of ravens?",
+      "answers": [
+        "Conspiracy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_26_50",
+      "title": "One who suffers from ablutophobia is afraid of what?",
+      "answers": [
+        "Bathing, washing, or cleaning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

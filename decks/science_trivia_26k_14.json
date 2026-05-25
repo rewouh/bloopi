@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_14",
+  "name": "Science Trivia 26K 14",
+  "description": "Science 651 - 700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_14_01",
+      "title": "Who won a Nobel Prize for discovering Radium and Polonium?",
+      "answers": [
+        "Marie Curie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_02",
+      "title": "From what bird do we get the meat known as squab?",
+      "answers": [
+        "Pigeon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_03",
+      "title": "What is Jupiter's largest moon?",
+      "answers": [
+        "Ganymede"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_04",
+      "title": "The amount of what substance in granite determines its color?",
+      "answers": [
+        "Feldspar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_05",
+      "title": "In the weasel family, which marine mammal is the heaviest member?",
+      "answers": [
+        "Sea otter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_06",
+      "title": "What type of creatures would you find living in a \"formicarium\"?",
+      "answers": [
+        "Ants"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_07",
+      "title": "Which part of the body is affected by Rhinitis?",
+      "answers": [
+        "The nose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_08",
+      "title": "What is another name for a flower's colorful corolla?",
+      "answers": [
+        "Petals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_09",
+      "title": "What is a young female horse called?",
+      "answers": [
+        "A filly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_10",
+      "title": "Which spider spins the world’s biggest web?",
+      "answers": [
+        "Darwin's bark spider"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_11",
+      "title": "What liquid is known as the \"universal solvent\".",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_12",
+      "title": "What sort of animal is a fennec?",
+      "answers": [
+        "A fox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_13",
+      "title": "What is the fear of bees known as?",
+      "answers": [
+        "Melissophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_14",
+      "title": "What is the chemical symbol for Carbon?",
+      "answers": [
+        "C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_15",
+      "title": "Barn, Burrowing, and Great Horned are species of what bird?",
+      "answers": [
+        "Owl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_16",
+      "title": "The loose skin hanging from the neck of a chicken is known as a what?",
+      "answers": [
+        "Wattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_17",
+      "title": "What do you have if you suffer from podobromhidrosis?",
+      "answers": [
+        "Smelly feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_18",
+      "title": "What term applies to space devoid of matter?",
+      "answers": [
+        "Vacuum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_19",
+      "title": "Which solar phenomenon occurs during equinoxes which causes disruptions in communications' satellites?",
+      "answers": [
+        "Sun outages"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_20",
+      "title": "Bees have 5 what?",
+      "answers": [
+        "Eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_21",
+      "title": "What layer of the skin is just below the surface?",
+      "answers": [
+        "Dermis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_22",
+      "title": "What is the technical term for an organism that eats other organisms as food?",
+      "answers": [
+        "A heterotroph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_23",
+      "title": "Which animal can cause a tularemia infection in humans while being skinned for cooking purposes?",
+      "answers": [
+        "Rabbits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_24",
+      "title": "What are the six types of quarks more generally referred to as?",
+      "answers": [
+        "Flavors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_25",
+      "title": "How long is a year on Jupiter?",
+      "answers": [
+        "11.9 Earth Years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_26",
+      "title": "What acid gives citrus fruits their distinctive sharp flavor?",
+      "answers": [
+        "Citric acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_27",
+      "title": "Which element is fourth on the periodic table?",
+      "answers": [
+        "Beryllium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_28",
+      "title": "How long ago did mammoths go extinct?",
+      "answers": [
+        "4000 years ago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_29",
+      "title": "What do websites use to remember your preferences?",
+      "answers": [
+        "Cookies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_30",
+      "title": "How many chromosomes does a cow have?",
+      "answers": [
+        "60"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_31",
+      "title": "What body part does a butterfly use for tasting?",
+      "answers": [
+        "Hind feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_32",
+      "title": "Which large animal can swim, but not jump?",
+      "answers": [
+        "The elephant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_33",
+      "title": "What is a second full moon in a month called?",
+      "answers": [
+        "A blue moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_34",
+      "title": "The discovery of which dwarf planet led to the reclassification of Pluto?",
+      "answers": [
+        "Eris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_35",
+      "title": "What is a group of whales commonly called?",
+      "answers": [
+        "Pod"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_36",
+      "title": "What is the more common name for Umbilicus?",
+      "answers": [
+        "Belly button"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_37",
+      "title": "If you suffer from Chirospasm what do you have?",
+      "answers": [
+        "Writer's Cramp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_38",
+      "title": "By what name is Sodium Chloride better known as?",
+      "answers": [
+        "Salt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_39",
+      "title": "What chemical compound causes pain in muscles after exercise?",
+      "answers": [
+        "Lactic acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_40",
+      "title": "What mathematical symbol has the proper name of a Lemniscate?",
+      "answers": [
+        "Infinity sign"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_41",
+      "title": "What is the only chemical element whose name is only three letters long?",
+      "answers": [
+        "Tin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_42",
+      "title": "What shape is the piston in a \"Wankel\" engine?",
+      "answers": [
+        "Triangular"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_43",
+      "title": "What is the molten rock magma called once it flows from a volcano?",
+      "answers": [
+        "Lava"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_44",
+      "title": "What is a dromedary?",
+      "answers": [
+        "One-humped camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_45",
+      "title": "What animals teeth were used as knife blades by Natives?",
+      "answers": [
+        "Beaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_46",
+      "title": "What is a person called who specializes in the physical structure and process of the earth?",
+      "answers": [
+        "Geologist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_47",
+      "title": "What is the young offspring of the Antelope called?",
+      "answers": [
+        "Calf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_48",
+      "title": "What is a somnambulist?",
+      "answers": [
+        "A sleepwalker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_49",
+      "title": "What color eggs do peacocks lay?",
+      "answers": [
+        "They don't lay eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_14_50",
+      "title": "What part of the scientific method tests a hypothesis?",
+      "answers": [
+        "Experiment"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_59",
+  "name": "General Trivia 26K 59",
+  "description": "General 2901 - 2950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_59_01",
+      "title": "What was described as \"the tear on the face of eternity\"?",
+      "answers": [
+        "The Taj Mahal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_02",
+      "title": "What are the small indentations on a golf ball called?",
+      "answers": [
+        "Dimples"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_03",
+      "title": "What is added to vanilla ice cream to make New Zealand’s popular hokey-pokey flavor?",
+      "answers": [
+        "Honeycomb toffee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_04",
+      "title": "Which company marketed the first digital camera, the DCS-100, in 1991?",
+      "answers": [
+        "Kodak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_05",
+      "title": "Which herb is used to make \"Pesto Sauce\"",
+      "answers": [
+        "Basil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_06",
+      "title": "What term is used in describing a situation where a golfer scores 8 on a hole?",
+      "answers": [
+        "\"Snowman\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_07",
+      "title": "Who won Chelsea's Player of the Year in 2012 and 2013?",
+      "answers": [
+        "Juan Mata"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_08",
+      "title": "What is a \"Pickelhaube\"?",
+      "answers": [
+        "A spiked German helmet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_09",
+      "title": "What year did designer Manolo Blahnik create his first collection for Bloomingdale's?",
+      "answers": [
+        "1978"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_10",
+      "title": "In the Bible, who did Matthias replace?",
+      "answers": [
+        "Judas Iscariot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_11",
+      "title": "Which snack is sold under the Spanish name \"Chicharrones\"?",
+      "answers": [
+        "Pork rinds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_12",
+      "title": "The berries of the juniper tree are used to flavour which alcoholic drink?",
+      "answers": [
+        "Gin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_13",
+      "title": "What kind of dough is usually used to make an eclair?",
+      "answers": [
+        "Choux dough"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_14",
+      "title": "What was Hawaii's main agricultural crop during the first half of the 20th century?",
+      "answers": [
+        "Sugarcane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_15",
+      "title": "In which game might you \"peg out\"?",
+      "answers": [
+        "Cribbage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_16",
+      "title": "What is the oldest active ballpark in Major League Baseball?",
+      "answers": [
+        "Fenway Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_17",
+      "title": "What Thames River town lent its name to the collarless polo shirts first worn by its rowing team?",
+      "answers": [
+        "Henley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_18",
+      "title": "The red food-coloring carmine is extracted from which source?",
+      "answers": [
+        "Crushed beetles called cochineal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_19",
+      "title": "What sports figure was known as \"The Wizard of Westwood\"?",
+      "answers": [
+        "John Wooden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_20",
+      "title": "What is the device that measures the number of steps you take when walking or running?",
+      "answers": [
+        "Pedometer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_21",
+      "title": "What is the main ingredient used to make pesto sauce?",
+      "answers": [
+        "Basil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_22",
+      "title": "What US city was the first Starbucks store opened in?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_23",
+      "title": "What is the nickname of Alcatraz Prison?",
+      "answers": [
+        "The Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_24",
+      "title": "What is added to Gin to make Pink Gin?",
+      "answers": [
+        "Angostura Bitters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_25",
+      "title": "How much does it cost to purchase Boardwalk in the standard game of Monopoly?",
+      "answers": [
+        "$400"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_26",
+      "title": "What is the common name for the Boeing 747?",
+      "answers": [
+        "Jumbo Jet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_27",
+      "title": "Which US Holiday is celebrated on October 12th?",
+      "answers": [
+        "Columbus Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_28",
+      "title": "What physical, interactive feature did Apple introduce to their MacBook Pro laptop series in the fall of 2016?",
+      "answers": [
+        "The \"Touch Bar\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_29",
+      "title": "What was Merriam-Webster's word of the year for 2019?",
+      "answers": [
+        "They"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_30",
+      "title": "What floor number is often skipped in Chinese buildings, as the thirteenth is in the West?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_31",
+      "title": "Who is the patron saint of lost causes?",
+      "answers": [
+        "St. Jude"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_32",
+      "title": "Inspired by a traffic light, what was added to the game of soccer (football) by a ref in 1970?",
+      "answers": [
+        "Yellow and red cards"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_33",
+      "title": "What can be taken \"en passant\"?",
+      "answers": [
+        "Pawns in chess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_34",
+      "title": "According to the Dewey Decimal System, library books numbered in the 500s are part of what category?",
+      "answers": [
+        "Science"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_35",
+      "title": "What was used as the first Christmas collection kettle by the Salvation Army?",
+      "answers": [
+        "A large crabpot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_36",
+      "title": "What is August's birthstone?",
+      "answers": [
+        "Peridot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_37",
+      "title": "What color is the legendary Hope Diamond?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_38",
+      "title": "What date were the opening ceremonies of the 2016 Summer Olympics held on?",
+      "answers": [
+        "August 5, 2016"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_39",
+      "title": "Where is the Basketball Hall of Fame located?",
+      "answers": [
+        "Springfield, Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_40",
+      "title": "Who said, \"Winners never quit, and quitters never win.\"?",
+      "answers": [
+        "Vince Lombardi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_41",
+      "title": "What is Hershey's most popular product?",
+      "answers": [
+        "Reeses Peanut Butter Cup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_42",
+      "title": "In soccer, how many yellow cards result in a red card?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_43",
+      "title": "What is a grouping of bananas called?",
+      "answers": [
+        "A hand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_44",
+      "title": "What was the color orange named after?",
+      "answers": [
+        "The citrus fruit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_45",
+      "title": "Who said \"You'd be surprised how much it costs to look this cheap\"?",
+      "answers": [
+        "Dolly Parton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_46",
+      "title": "Who said, \"It does not matter how slowly you go as long as you do not stop.\"?",
+      "answers": [
+        "Confucius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_47",
+      "title": "What is a Ramekin?",
+      "answers": [
+        "A small casserole dish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_48",
+      "title": "What is the five-letter term for a rabbi who performs ritual circumcisions?",
+      "answers": [
+        "Mohel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_49",
+      "title": "How many stitches are there on an official baseball used in Major League Baseball?",
+      "answers": [
+        "108"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_59_50",
+      "title": "What is the fear of one's own fears known as?",
+      "answers": [
+        "Phobophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_06",
+  "name": "Geography Trivia 26K 06",
+  "description": "Geography 251 - 300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_06_01",
+      "title": "What country is known for the art of water puppetry?",
+      "answers": [
+        "Vietnam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_02",
+      "title": "What kind of stone is the Taj Mahal made of?",
+      "answers": [
+        "Marble"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_03",
+      "title": "Which US state shares a nickname with the Australian state of Queensland?",
+      "answers": [
+        "Florida"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_04",
+      "title": "In what country is the holy city of Mecca?",
+      "answers": [
+        "Saudi Arabia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_05",
+      "title": "In what country are April Fool's jokes climaxed with the saying \"Doroughe sizdah\"?",
+      "answers": [
+        "Iran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_06",
+      "title": "In what state would you find the supposed UFO site named \"Area 51\"?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_07",
+      "title": "As what was Taiwan formerly known?",
+      "answers": [
+        "Formosa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_08",
+      "title": "Tyrol is a state located in which European country?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_09",
+      "title": "In what country would you look for the Loch Ness Monster?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_10",
+      "title": "In which continent would you find the Mackenzie river?",
+      "answers": [
+        "North America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_11",
+      "title": "Where is the world’s largest known beaver dam?",
+      "answers": [
+        "Alberta, Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_12",
+      "title": "What is the capital of Bangladesh?",
+      "answers": [
+        "Dhaka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_13",
+      "title": "Where can you drive the Road to Hana?",
+      "answers": [
+        "Maui, Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_14",
+      "title": "What is the capital of Liberia?",
+      "answers": [
+        "Monrovia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_15",
+      "title": "The US city of Mobile sites on the shores of what bay?",
+      "answers": [
+        "Mobile Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_16",
+      "title": "What body of water is between Scotland and Denmark?",
+      "answers": [
+        "The North Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_17",
+      "title": "What is the capital of Italy?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_18",
+      "title": "What major river runs through Dublin?",
+      "answers": [
+        "Liffey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_19",
+      "title": "In which U.S. city was cream cheese invented?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_20",
+      "title": "Which US city is home to Franklin Mountains State Park?",
+      "answers": [
+        "El Paso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_21",
+      "title": "What European capital celebrated its 2,000th anniversary in 1951?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_22",
+      "title": "What country is home to the Bank of Alexandria?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_23",
+      "title": "What is the most westerly capital city in mainland Europe?",
+      "answers": [
+        "Lisbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_24",
+      "title": "Easter Island is part of which South American country?",
+      "answers": [
+        "Chile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_25",
+      "title": "What fruit is grown extensively on Cape Cod?",
+      "answers": [
+        "Cranberries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_26",
+      "title": "What two states border Lake Champlain?",
+      "answers": [
+        "New York and Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_27",
+      "title": "What is the only \"road\" in London, England?",
+      "answers": [
+        "Goswell Road"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_28",
+      "title": "Bridgetown is the capital of which Caribbean island?",
+      "answers": [
+        "Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_29",
+      "title": "Vienna and Belgrade lie on the banks of which river?",
+      "answers": [
+        "The Danube"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_30",
+      "title": "What country is located immediately north of Sudan?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_31",
+      "title": "How many countries did Yugoslavia split into eventually?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_32",
+      "title": "What geographical boundary was first surveyed in 1763 by Charles Mason and Jeremiah Dixon?",
+      "answers": [
+        "The Mason-­Dixon Line"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_33",
+      "title": "Which country’s flag features an eagle eating a snake?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_34",
+      "title": "Which Asian capital used to be called Peking?",
+      "answers": [
+        "Beijing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_35",
+      "title": "What is the family name of the ruling dynasty of Monaco?",
+      "answers": [
+        "Grimaldi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_36",
+      "title": "What number of latitudinal parallel separates North and South Korea?",
+      "answers": [
+        "The 38th North"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_37",
+      "title": "What Florida city is known as the \"Winter Strawberry Capital of the World\"?",
+      "answers": [
+        "Plant City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_38",
+      "title": "The surface of what is typically 70% water and 10% ice?",
+      "answers": [
+        "Earth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_39",
+      "title": "What is the capital of Haiti?",
+      "answers": [
+        "Port-au-Prince"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_40",
+      "title": "What is the highest waterfall in Africa?",
+      "answers": [
+        "Tugela Falls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_41",
+      "title": "Which US state is home to the Catskill Mountains?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_42",
+      "title": "In what city would you find Griffith Park?",
+      "answers": [
+        "Los Angeles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_43",
+      "title": "\"Jana Gana Mana\" is the national anthem of which Asian country?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_44",
+      "title": "The Rungnado 1st of May Stadium, built in honor of the May Day holiday, exists in which country?",
+      "answers": [
+        "North Korea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_45",
+      "title": "What US city is serviced by the Hartsfield International Airport?",
+      "answers": [
+        "Atlanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_46",
+      "title": "What four US states start with the letter I?",
+      "answers": [
+        "Idaho, Illinois, Indiana, Iowa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_47",
+      "title": "Which is the largest city in Africa?",
+      "answers": [
+        "Cairo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_48",
+      "title": "In what city would you find Charles River Esplanade?",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_49",
+      "title": "Which states share a border with South Carolina?",
+      "answers": [
+        "Georgia and North Carolina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_06_50",
+      "title": "What city has the most billionaires?",
+      "answers": [
+        "Moscow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

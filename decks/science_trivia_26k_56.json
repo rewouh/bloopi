@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_56",
+  "name": "Science Trivia 26K 56",
+  "description": "Science 2751 - 2800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_56_01",
+      "title": "What describes the amount of light allowed to pass through a camera lens?",
+      "answers": [
+        "Aperture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_02",
+      "title": "What was the first man-made satellite put into orbit?",
+      "answers": [
+        "Sputnik I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_03",
+      "title": "In medical terminology, the \"voice box\" is known as what?",
+      "answers": [
+        "Larynx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_04",
+      "title": "Tonitrophobia is the fear of what?",
+      "answers": [
+        "Thunder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_05",
+      "title": "What are the bones in the fingers called?",
+      "answers": [
+        "Phalanges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_06",
+      "title": "The brain is divided into how many lobes?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_07",
+      "title": "Icthyologists study what?",
+      "answers": [
+        "Fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_08",
+      "title": "What kind of animal is a Lurcher?",
+      "answers": [
+        "Dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_09",
+      "title": "How many tentacles does a squid have?",
+      "answers": [
+        "Ten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_10",
+      "title": "What are baby sharks known as?",
+      "answers": [
+        "Pups"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_11",
+      "title": "Approximately how long does it take for the moon to revolve around the Earth?",
+      "answers": [
+        "28"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_12",
+      "title": "What umbrella term is used to describe a painful stiffness of the muscles and joints?",
+      "answers": [
+        "Rheumatism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_13",
+      "title": "What reaction takes place when food browns during cooking?",
+      "answers": [
+        "Maillard Reaction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_14",
+      "title": "Jonas Salk discovered a vaccine for what disease?",
+      "answers": [
+        "Polio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_15",
+      "title": "The Okapi is native to which country?",
+      "answers": [
+        "Congo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_16",
+      "title": "What culinary ingredient is French scientist Hippolyte Mège-Mouriès credited with inventing?",
+      "answers": [
+        "Margarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_17",
+      "title": "Pathophobia is the fear of?",
+      "answers": [
+        "Disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_18",
+      "title": "What is the name given to the invasion of warm surface waters off the Peruvian coast that has been identified with strange climactic effects in recent years?",
+      "answers": [
+        "El Niño"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_19",
+      "title": "What do scatologists study?",
+      "answers": [
+        "Feces"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_20",
+      "title": "What animal species are ninth in the twelve-year cycle of animals in the Chinese zodiac?",
+      "answers": [
+        "Monkeys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_21",
+      "title": "What is the study of soils in their natural environment called?",
+      "answers": [
+        "Pedology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_22",
+      "title": "In what organ of the human body would you find the Sertoli cells?",
+      "answers": [
+        "The testes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_23",
+      "title": "What is the only muscle in the human body not attached at both ends?",
+      "answers": [
+        "Tongue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_24",
+      "title": "The Richter scale measures what?",
+      "answers": [
+        "The strength of earthquakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_25",
+      "title": "Who developed the light bulb while working in his Menlo Park laboratory?",
+      "answers": [
+        "Thomas Edison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_26",
+      "title": "Decompression sickness, which can occur when a diver surfaces too quickly is also called what?",
+      "answers": [
+        "The bends"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_27",
+      "title": "Which elephant can't be domesticated, the African or Indian?",
+      "answers": [
+        "The African"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_28",
+      "title": "What object is theorized to lie at the center of the Milky Way?",
+      "answers": [
+        "A black hole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_29",
+      "title": "What mammal typically dies of starvation in the wild after its last set of teeth wear out?",
+      "answers": [
+        "Elephant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_30",
+      "title": "Titan orbits what planet of the solar system?",
+      "answers": [
+        "Saturn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_31",
+      "title": "Which element of the periodic table is named for Paris?",
+      "answers": [
+        "Lutetium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_32",
+      "title": "What is the fear of cosmic phenomenon known as?",
+      "answers": [
+        "Kosmikophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_33",
+      "title": "How many chromosomes does a turkey have?",
+      "answers": [
+        "80"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_34",
+      "title": "What famous 19th-century American writer was issued a patent for adjustable elastic suspenders?",
+      "answers": [
+        "Mark Twain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_35",
+      "title": "What are a group of magpies called?",
+      "answers": [
+        "A tittering"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_36",
+      "title": "What is a whale's leap out of the water called?",
+      "answers": [
+        "Breaching"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_37",
+      "title": "What small gland, attached to the brain, exerts a control over growth?",
+      "answers": [
+        "Pituitary gland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_38",
+      "title": "What is an angle whose measure is between 0 and 90 degrees referred to as?",
+      "answers": [
+        "An acute angle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_39",
+      "title": "How far can a Red Kangaroo jump?",
+      "answers": [
+        "25 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_40",
+      "title": "Hyperopia is the scientific name for what eye condition?",
+      "answers": [
+        "Farsightedness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_41",
+      "title": "What kind of tree produces prunes?",
+      "answers": [
+        "A plum tree"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_42",
+      "title": "What is the proper term for a young eel?",
+      "answers": [
+        "An elver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_43",
+      "title": "What is the minimum speed for a Category 5 hurricane?",
+      "answers": [
+        "157 mph"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_44",
+      "title": "Which metal has the chemical symbol \"W\"?",
+      "answers": [
+        "Tungsten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_45",
+      "title": "On a map, the vertical lines are called what?",
+      "answers": [
+        "Longitude"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_46",
+      "title": "If a dog is a canine, what animal is an ovine?",
+      "answers": [
+        "A sheep"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_47",
+      "title": "Dimples on golf balls help increase speed by reducing what?",
+      "answers": [
+        "Drag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_48",
+      "title": "What are people who love eating ice called?",
+      "answers": [
+        "Pagophagiacs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_49",
+      "title": "How many chromosomes does an elephant have?",
+      "answers": [
+        "56"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_56_50",
+      "title": "What is the chemical symbol for Copper?",
+      "answers": [
+        "Cu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

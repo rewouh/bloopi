@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_16",
+  "name": "Arts Trivia 26K 16",
+  "description": "Arts 751 - 800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_16_01",
+      "title": "Who authored 1883's \"The Adventures of Pinocchio\"?",
+      "answers": [
+        "Carlo Collodi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_02",
+      "title": "Who wrote The Angel Doll: A Christmas Story in 1996?",
+      "answers": [
+        "Jerry Bledsoe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_03",
+      "title": "Who wrote the novel \"Daniel Deronda\"?",
+      "answers": [
+        "George Eliot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_04",
+      "title": "Which instrument does the Leader of an orchestra play?",
+      "answers": [
+        "Violin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_05",
+      "title": "What is the name of Captain Nemo's submarine in \"Twenty Thousand Leagues Under the Sea\"?",
+      "answers": [
+        "The Nautilus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_06",
+      "title": "What is the longest one syllable word in the English language?",
+      "answers": [
+        "Screeched"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_07",
+      "title": "Nick and Nora Charles were a detective couple developed by what author?",
+      "answers": [
+        "Dashiell Hammett"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_08",
+      "title": "What George Orwell book foresees Oceania, Eurasia and Eastasia?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_09",
+      "title": "From what language did English borrow the word \"typhoon\"?",
+      "answers": [
+        "Cantonese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_10",
+      "title": "What musical character came from the easterly wind with an umbrella and carpet bag?",
+      "answers": [
+        "Mary Poppins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_11",
+      "title": "Which Beethoven symphony became associated with victory in WWII?",
+      "answers": [
+        "The Fifth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_12",
+      "title": "What Ray Bradbury novel is named for temperature at which paper catches fire?",
+      "answers": [
+        "Fahrenheit 451"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_13",
+      "title": "Who wrote the play \"A Streetcar Named Desire\"?",
+      "answers": [
+        "Tennessee Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_14",
+      "title": "What original literary work was the movie \"Gettysburg\" based on?",
+      "answers": [
+        "The Killer Angels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_15",
+      "title": "Who is the Greek equivalent of the Roman goddess Pax?",
+      "answers": [
+        "Eirene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_16",
+      "title": "What painter's mental state is revealed in 750 letters he wrote to his brother Theo?",
+      "answers": [
+        "Vincent van Gogh's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_17",
+      "title": "Who wrote \"The Rose Tattoo\"?",
+      "answers": [
+        "Tennessee Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_18",
+      "title": "Who wrote the epic poem \"Aeneid\"?",
+      "answers": [
+        "Virgil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_19",
+      "title": "Which fairytale character slept for 20 years?",
+      "answers": [
+        "Rip Van Winkle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_20",
+      "title": "What movie character was briefly known as the \"Chesapeake Ripper\"?",
+      "answers": [
+        "Hannibal Lecter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_21",
+      "title": "Since 1961, where have Margo Magee, Tommie Thompson, and Lu Ann Powers lived?",
+      "answers": [
+        "Apartment 3-G"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_22",
+      "title": "What painter popularized soup cans and Brillo soap pad boxes?",
+      "answers": [
+        "Andy Warhol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_23",
+      "title": "What fictional detective is often depicted smoking a pipe while wearing a deerstalker hat?",
+      "answers": [
+        "Sherlock Holmes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_24",
+      "title": "Who wrote the opening line, \"All children, except one, grow up\"?",
+      "answers": [
+        "J.M. Barrie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_25",
+      "title": "In the \"Revival\" comic book series, what is the family name of the brothers who try to sell parts of the revivers?",
+      "answers": [
+        "Check"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_26",
+      "title": "What is the name of Dr. Seuss's egg-hatching elephant?",
+      "answers": [
+        "Horton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_27",
+      "title": "What car model gave its name to an alien in \"The Hitchhiker's Guide to the Galaxy\"?",
+      "answers": [
+        "Ford Prefect"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_28",
+      "title": "Who wrote the Science Fiction novel \"The Left Hand of Darkness\"?",
+      "answers": [
+        "Ursula K. Le Guin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_29",
+      "title": "What year was the novel \"Who Censored Roger Rabbit?\" published?",
+      "answers": [
+        "1981"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_30",
+      "title": "From what language did English borrow the word \"chutzpah\"?",
+      "answers": [
+        "Yiddish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_31",
+      "title": "Who was the fairy in Peter Pan?",
+      "answers": [
+        "Tinkerbelle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_32",
+      "title": "What is the name of the place where Winnie-the-Pooh and his animal friends live?",
+      "answers": [
+        "The Hundred-Acre Wood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_33",
+      "title": "Who is the Roman equivalent of the Greek god Hera?",
+      "answers": [
+        "Juno"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_34",
+      "title": "According to the Bible, what was Paul's name before it was Paul?",
+      "answers": [
+        "Saul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_35",
+      "title": "Who created Jason Bourne?",
+      "answers": [
+        "Robert Ludlum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_36",
+      "title": "What country provides the setting for \"The King and I\"?",
+      "answers": [
+        "Siam (Thailand)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_37",
+      "title": "In the fable \"The Tortoise and the Hare\", what animal judges the race?",
+      "answers": [
+        "The Fox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_38",
+      "title": "Who is the tomboy main character in the book \"Little Women\"?",
+      "answers": [
+        "Josephine (Jo) March"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_39",
+      "title": "In Greek mythology, what is the name of the god of Dreams?",
+      "answers": [
+        "Morpheus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_40",
+      "title": "The title for the novel \"A Brave New World\" was derived from which Shakespearean play?",
+      "answers": [
+        "The Tempest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_41",
+      "title": "Who wrote the 1896 science fiction novel \"The Island of Doctor Moreau\"?",
+      "answers": [
+        "H. G. Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_42",
+      "title": "Who wrote the famous poem \"The Waste Land\"?",
+      "answers": [
+        "T.S. Elliot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_43",
+      "title": "Who killed the Minotaur?",
+      "answers": [
+        "Theseus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_44",
+      "title": "Who created the \"Spy vs Spy\" silent comic strip?",
+      "answers": [
+        "Antonio Prohias"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_45",
+      "title": "What author created the character of Tom Gradgrind?",
+      "answers": [
+        "Charles Dickens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_46",
+      "title": "What type of musical instrument is crafted with two parallel pipes, one known as a chanter and the other a drone?",
+      "answers": [
+        "The bagpipe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_47",
+      "title": "Whose friends included Bill Badger, Algy Pug, and Edward Trunk?",
+      "answers": [
+        "Rupert Bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_48",
+      "title": "What year did Dodie Smith publish the book \"The Hundred and One Dalmatians\"?",
+      "answers": [
+        "1956"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_49",
+      "title": "What writing system originated in Sumer around 3,000 BCE?",
+      "answers": [
+        "Cuneiform"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_16_50",
+      "title": "What breed of dog is Snoopy?",
+      "answers": [
+        "Beagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

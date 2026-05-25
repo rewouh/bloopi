@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_24",
+  "name": "Geography Trivia 26K 24",
+  "description": "Geography 1151 - 1200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_24_01",
+      "title": "In which state does the Rio Grande begin?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_02",
+      "title": "What is the capital of Peru?",
+      "answers": [
+        "Lima"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_03",
+      "title": "The Himalayas are located on which continent?",
+      "answers": [
+        "Asia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_04",
+      "title": "Moosehead Lake is the largest lake in which US state?",
+      "answers": [
+        "Maine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_05",
+      "title": "What country was ruled by General Manuel Noriega until 1989?",
+      "answers": [
+        "Panama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_06",
+      "title": "What is the second-highest mountain on Earth?",
+      "answers": [
+        "K2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_07",
+      "title": "Which Central American country's highest elevation point is Cerro Chirripo at 3,810 meters?",
+      "answers": [
+        "Costa Rica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_08",
+      "title": "Where did bungee jumping originate?",
+      "answers": [
+        "Vanuatu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_09",
+      "title": "Which US state is home to the Valley of Fire?",
+      "answers": [
+        "Nevada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_10",
+      "title": "Which country’s flag has the most colors?",
+      "answers": [
+        "Belize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_11",
+      "title": "Which is the second largest US state in surface area?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_12",
+      "title": "In what US state would you find Fort Dix?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_13",
+      "title": "What country borders Egypt to the west?",
+      "answers": [
+        "Libya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_14",
+      "title": "In what year was the former republic of Czechoslovakia formed?",
+      "answers": [
+        "1918"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_15",
+      "title": "What branch of the US military manages a white oak forest in Indiana?",
+      "answers": [
+        "US Navy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_16",
+      "title": "What country is Transilvania in?",
+      "answers": [
+        "Romania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_17",
+      "title": "Which US state is nicknamed the \"Hawkeye State\"?",
+      "answers": [
+        "Iowa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_18",
+      "title": "Which country is Great Barrier Island part of?",
+      "answers": [
+        "New Zealand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_19",
+      "title": "What tropic passes through Australia?",
+      "answers": [
+        "The Tropic of Capricorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_20",
+      "title": "Which is the smallest state in the US?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_21",
+      "title": "What is the capital of Bermuda?",
+      "answers": [
+        "Hamilton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_22",
+      "title": "In what country would you find geoglyphs known as the Nasca Lines?",
+      "answers": [
+        "Peru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_23",
+      "title": "Tunis is the capital of which country?",
+      "answers": [
+        "Tunisia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_24",
+      "title": "N'Djamena is the capital of which African country?",
+      "answers": [
+        "Chad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_25",
+      "title": "The port of Piraeus serves which European capital?",
+      "answers": [
+        "Athens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_26",
+      "title": "What is the two letter postal abbreviation for the state of Virginia?",
+      "answers": [
+        "VA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_27",
+      "title": "The State of Washington was originally going to be called what?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_28",
+      "title": "Which U.S. state claims to be the diner capital of the world?",
+      "answers": [
+        "New Jersey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_29",
+      "title": "What is the capital of Cook Islands?",
+      "answers": [
+        "Avarua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_30",
+      "title": "Malagasy is the native language of which African country?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_31",
+      "title": "What major American city is nicknamed, \"The Mile-High City?\"",
+      "answers": [
+        "Denver, Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_32",
+      "title": "Which island country's national language is Malagasy?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_33",
+      "title": "The United States shares a land border with how many countries?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_34",
+      "title": "Which mountain is depicted in Toblerone chocolate bars' logo?",
+      "answers": [
+        "The Matterhorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_35",
+      "title": "What was renamed to Ho Chi Minh City in 1975?",
+      "answers": [
+        "Saigon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_36",
+      "title": "Which country are the Plitvice Lakes located?",
+      "answers": [
+        "Croatia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_37",
+      "title": "What US city is known as the \"Biggest Little City in the World\"?",
+      "answers": [
+        "Reno"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_38",
+      "title": "In Oaxaca, Mexico, Christmas Eve is also called \"Night of\" what vegetable?",
+      "answers": [
+        "Radish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_39",
+      "title": "What country would you have to visit to see the ruins of Troy?",
+      "answers": [
+        "Turkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_40",
+      "title": "Through which continent does the Crocodile River run?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_41",
+      "title": "How many landlocked U.S. states are there?",
+      "answers": [
+        "27"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_42",
+      "title": "Which state’s name comes from the Chippewa word for \"large lake\"?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_43",
+      "title": "Christmas Island is a territory of what country?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_44",
+      "title": "In which country is the Great Sandy Desert located?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_45",
+      "title": "Ljubljana is the capital of which Central European country?",
+      "answers": [
+        "Slovenia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_46",
+      "title": "What famous \"Bay\" is Jamaica's fourth largest city?",
+      "answers": [
+        "Montego Bay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_47",
+      "title": "Bangladesh is located at the apex of which Bay?",
+      "answers": [
+        "Bay of Bengal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_48",
+      "title": "Dakar is the capital of which country?",
+      "answers": [
+        "Senegal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_49",
+      "title": "Where is the United Nations (UN) Headquarters located?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_24_50",
+      "title": "Which of the Hawaiian Islands is nicknamed the \"Garden Isle\"?",
+      "answers": [
+        "Kauai"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

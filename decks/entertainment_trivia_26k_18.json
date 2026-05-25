@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_18",
+  "name": "Entertainment Trivia 26K 18",
+  "description": "Entertainment 851 - 900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_18_01",
+      "title": "Before becoming James Bond, Pierce Brosnan starred for five years on what TV series?",
+      "answers": [
+        "Remington Steele"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_02",
+      "title": "Who wrote My Girl, the hit song performed by the Temptations?",
+      "answers": [
+        "Smokey Robinson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_03",
+      "title": "Don Henley's \"Boys of Summer\" song mentions what brand of sunglasses?",
+      "answers": [
+        "Ray-Ban"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_04",
+      "title": "What is Ace Ventura's occupation in the movies by the same name?",
+      "answers": [
+        "Pet detective"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_05",
+      "title": "Where do Rocky and Bullwinkle play football?",
+      "answers": [
+        "Wossamotta U"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_06",
+      "title": "What was Bob Dylan's first Top 10 hit?",
+      "answers": [
+        "Like a Rolling Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_07",
+      "title": "What city is the setting for the TV series \"Mad Men\"?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_08",
+      "title": "In the TV show \"The Simpsons\", what is the name of Homer's bowling team?",
+      "answers": [
+        "The Pin Pals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_09",
+      "title": "How old was Michael Jackson when he died?",
+      "answers": [
+        "50"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_10",
+      "title": "What was the name of Bob Ross' TV show?",
+      "answers": [
+        "\"The Joy of Painting\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_11",
+      "title": "Who played Inspector Clouseau in the 1964 movie \"The Pink Panther\"?",
+      "answers": [
+        "Peter Sellers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_12",
+      "title": "In The Simpsons episode, \"Bart Gets an 'F',\" what sickness does Lisa have?",
+      "answers": [
+        "Mumps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_13",
+      "title": "What 1980’s game show often featured contestants asking for \"no Whammys!\"?",
+      "answers": [
+        "Press Your Luck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_14",
+      "title": "In which film did Paul Newman play a crime boss named John Rooney?",
+      "answers": [
+        "Road to Perdition"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_15",
+      "title": "Which year did John Schlesinger receive an Academy Award for directing \"Midnight Cowboy\"?",
+      "answers": [
+        "1970"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_16",
+      "title": "What full feature movie marked Steven Spielberg's directorial debut?",
+      "answers": [
+        "Firelight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_17",
+      "title": "Who did Pat Morita play on the ABC sitcom \"Happy Days\"?",
+      "answers": [
+        "Arnold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_18",
+      "title": "What is the name of the giant mammoth-like creatures used as war animals in \"Lord of the Rings: The Return of the King\"?",
+      "answers": [
+        "Oliphaunts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_19",
+      "title": "Who played European John Blackthorne in the miniseries \"Shogun\"?",
+      "answers": [
+        "Richard Chamberlain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_20",
+      "title": "Who played Hank's love interest in the 2001 movie \"Monster's Ball\"?",
+      "answers": [
+        "Halle Berry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_21",
+      "title": "What band performed the theme song from the TV show \"Friends\"?",
+      "answers": [
+        "The Rembrandts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_22",
+      "title": "What movie's first sequel featured the subtitle \"Farewell to the Flesh\"?",
+      "answers": [
+        "Candyman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_23",
+      "title": "Who was the Castle Rock DJ in the movie \"Stand By Me\"?",
+      "answers": [
+        "Bob Cormier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_24",
+      "title": "In which country was Nicole Kidman born?",
+      "answers": [
+        "United States"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_25",
+      "title": "Who recorded the 1970s song \"Moonlight Feels Right?",
+      "answers": [
+        "Starbuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_26",
+      "title": "What 2001 film was originally supposed to feature Bruce Willis, Mark Wahlberg, Danny Glover, Luke Wilson, and Owen Wilson?",
+      "answers": [
+        "\"Ocean's Eleven\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_27",
+      "title": "What city was the setting for the TV show \"Perfect Strangers\"?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_28",
+      "title": "What was the name of Rocky Balboa's dog?",
+      "answers": [
+        "Butkus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_29",
+      "title": "In \"Deadpool\", Wade Wilson teams up with Colossus and what other member of the X-men?",
+      "answers": [
+        "Negasonic Teenage Warhead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_30",
+      "title": "The fictional town of South Park is located in which US state?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_31",
+      "title": "Which singer sang \"I Believe In Father Christmas''?",
+      "answers": [
+        "Greg Lake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_32",
+      "title": "What song begins with the words \"Betty, is that Jimmy's ring you're wearing?\"?",
+      "answers": [
+        "Leader of the Pack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_33",
+      "title": "On what date did Otis Redding die?",
+      "answers": [
+        "December 10, 1967"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_34",
+      "title": "What color were the walls on Monica's apartment on the TV show \"Friends\"?",
+      "answers": [
+        "Purple"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_35",
+      "title": "Whose idea was it to have a very loud opera song playing over the speakers in the prison in the movie \"The Shawshank Redemption\"?",
+      "answers": [
+        "Tim Robbins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_36",
+      "title": "Wesley Snipes and Woody Harrelson work as hustlers in what 1992 film?",
+      "answers": [
+        "White Men Can't Jump"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_37",
+      "title": "What does Phil do for a living in the movie \"Groundhog Day\"?",
+      "answers": [
+        "He is a weatherman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_38",
+      "title": "What breed of dog portrayed Toto in 1939's \"The Wizard of Oz\"?",
+      "answers": [
+        "Cairn terrier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_39",
+      "title": "Which Disney's cartoon character's love interest is named Jasmine?",
+      "answers": [
+        "Aladdin's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_40",
+      "title": "Who played the role of Joanna in the film \"Office Space\"?",
+      "answers": [
+        "Jennifer Aniston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_41",
+      "title": "In the TV show \"The Simpsons\", who learned medicine at \"The Hollywood Upstairs Medical School\"?",
+      "answers": [
+        "Dr. Nick Riviera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_42",
+      "title": "Who plays The Car in the TV show \"Red Dwarf\"?",
+      "answers": [
+        "Danny John-Jules"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_43",
+      "title": "What 60’s TV series featured the three Bradley daughters, Betty Jo, Billie Jo, and Bobbie Jo?",
+      "answers": [
+        "Petticoat Junction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_44",
+      "title": "How does Jack die in the movie \"The Shining\"?",
+      "answers": [
+        "He freezes to death"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_45",
+      "title": "What 1959 Dave Brubeck Quartet piece borrows its name from its unusual time signature?",
+      "answers": [
+        "Take Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_46",
+      "title": "How did Rerun get his nickname on \"What's Happening\"?",
+      "answers": [
+        "Repeating classes he failed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_47",
+      "title": "Who was the first host of \"The Tonight Show\"?",
+      "answers": [
+        "Steve Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_48",
+      "title": "What western drama series told the story of Pat Garrett and Billy the Kid?",
+      "answers": [
+        "The Tall Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_49",
+      "title": "Which major lake is near the Ponderosa Ranch in the TV show \"Bonanza\"?",
+      "answers": [
+        "Lake Tahoe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_18_50",
+      "title": "In the film \"Aliens\", what is Newt's birth name?",
+      "answers": [
+        "Rebecca"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

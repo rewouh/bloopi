@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_33",
+  "name": "Entertainment Trivia 26K 33",
+  "description": "Entertainment 1601 - 1650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_33_01",
+      "title": "What is the name of Roy Rogers' horse?",
+      "answers": [
+        "Trigger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_02",
+      "title": "What was Jefferson's last name on the TV show \"Married with Children\"?",
+      "answers": [
+        "D'Arcy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_03",
+      "title": "What sitcom star did Mt. Airy, North Carolina rename a stretch of Highway 52 after, in 2002?",
+      "answers": [
+        "Andy Griffith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_04",
+      "title": "What is Seamus' full name in the TV show \"Family Guy\"?",
+      "answers": [
+        "Seamus Lavine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_05",
+      "title": "What country’s Royal Wedding was Ike obsessed with in Season 15 of South Park?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_06",
+      "title": "What was Robyn Hitchcock's backing band?",
+      "answers": [
+        "The Egyptians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_07",
+      "title": "Who were Bobby Hatfield and Bill Medley?",
+      "answers": [
+        "The Righteous Brothers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_08",
+      "title": "Who directed the film \"Serpico\"?",
+      "answers": [
+        "Sidney Lumet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_09",
+      "title": "Who provided the original voice for Aladdin's Genie?",
+      "answers": [
+        "Robin Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_10",
+      "title": "In the movie \"Indiana Jones and the Temple of Doom\", what is the nickname of Indiana's young sidekick?",
+      "answers": [
+        "Short Round"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_11",
+      "title": "For what movie did director Fritz Lang himself dub the whistling for star Peter Lorre?",
+      "answers": [
+        "M"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_12",
+      "title": "Who played the role of Lamont Sanford in the TV show \"Sanford and Son\"?",
+      "answers": [
+        "Desmond Wilson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_13",
+      "title": "What comedian did Henry take Karen to see in the movie \"Goodfellas\"?",
+      "answers": [
+        "Henny Youngman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_14",
+      "title": "Who provided the original voice for Buzz Lightyear?",
+      "answers": [
+        "Tim Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_15",
+      "title": "In 2007, what morning network TV program expanded from three hours to four?",
+      "answers": [
+        "The Today Show"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_16",
+      "title": "What TV show featured the fictional \"The Mystic Knights of the Sea\" fraternity?",
+      "answers": [
+        "Amos 'n' Andy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_17",
+      "title": "In the TV series \"The Dukes of Hazzard\", what was painted on the top of their car?",
+      "answers": [
+        "Confederate flag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_18",
+      "title": "What are Tracy Thorn and Ben Watt collectively known as?",
+      "answers": [
+        "Everything But The Girl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_19",
+      "title": "Mr. Deeds hails from what fictional town?",
+      "answers": [
+        "Mandrake Falls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_20",
+      "title": "What old TV puppet show was hosted by \"Buffalo\" Bob Smith?",
+      "answers": [
+        "Howdy Doody"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_21",
+      "title": "What legendary record label was founded by Sam Phillips in 1952?",
+      "answers": [
+        "Sun Records"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_22",
+      "title": "Barbara Gordon is better know as what heroine?",
+      "answers": [
+        "Batgirl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_23",
+      "title": "What 1995 Kevin Costner film was the most expensive movie ever made, until \"Titanic\" came along in 1997?",
+      "answers": [
+        "Waterworld"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_24",
+      "title": "Which Smurf has a heart tattooed on each arm?",
+      "answers": [
+        "Hefty Smurf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_25",
+      "title": "What was the birth name of actress Betty Grable?",
+      "answers": [
+        "Elizabeth Ruth Grable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_26",
+      "title": "Each of the Gorillaz' first two albums has a song named in honor of what actor?",
+      "answers": [
+        "Clint Eastwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_27",
+      "title": "What are the names of the brothers in the band \"Right Said Fred\"?",
+      "answers": [
+        "Fred and Richard Fairbrass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_28",
+      "title": "Who directed the 1968 movie \"Night of the Living Dead\"?",
+      "answers": [
+        "George A. Romero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_29",
+      "title": "In 2019, singer Dua Lipa won the Grammy award in which category?",
+      "answers": [
+        "Best New Artist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_30",
+      "title": "What sport is the focus of the movie \"The Stratton Story\"?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_31",
+      "title": "Who played the role of the US president in the movie \"Mars Attacks!\"?",
+      "answers": [
+        "Jack Nicholson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_32",
+      "title": "What is the name of the British ship in the film \"Master and Commander: Far Side of the World\"?",
+      "answers": [
+        "H.M.S. Surprise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_33",
+      "title": "What stop-motion animated film by Tim Burton stars Johnny Depp and Helena Bonham Carter?",
+      "answers": [
+        "\"Corpse Bride\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_34",
+      "title": "What year did filming of the 1972 film \"The Godfather\" begin?",
+      "answers": [
+        "1971"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_35",
+      "title": "Which character did Tom Hanks play in the movie \"The Da Vinci Code\"?",
+      "answers": [
+        "Robert Langdon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_36",
+      "title": "Who directed the 1999 film \"Office Space\"?",
+      "answers": [
+        "Mike Judge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_37",
+      "title": "What was the debut album of the band \"Belle and Sebastian\"?",
+      "answers": [
+        "Tigermilk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_38",
+      "title": "According to its first line, in what city is the Band's song \"The Weight\" set?",
+      "answers": [
+        "Nazareth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_39",
+      "title": "In what two California cities did Neil Young say he looked for a \"Heart of Gold\"?",
+      "answers": [
+        "Hollywood and Redwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_40",
+      "title": "What athlete had a part in the movie \"Blazing Saddles\"?",
+      "answers": [
+        "Alex Karras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_41",
+      "title": "Who won part 1 of the final \"Head Of Household\" competition in season 14 of the TV show \"Big Brother\"?",
+      "answers": [
+        "Dan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_42",
+      "title": "Popular actress Gabrielle Union married which NBA player in 2014?",
+      "answers": [
+        "Dwayne Wade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_43",
+      "title": "What movie features the line: \"You can't handle the truth\"?",
+      "answers": [
+        "A Few Good Men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_44",
+      "title": "Who sang the song \"Beat It\"?",
+      "answers": [
+        "Michael Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_45",
+      "title": "In Star Wars, which actor voiced Darth Vader?",
+      "answers": [
+        "James Earl Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_46",
+      "title": "What brand of stapler is Milton Waddams attached to in the film \"Office Space\"?",
+      "answers": [
+        "Swingline"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_47",
+      "title": "In what year was Michael Jackson featured as the halftime entertainment during the Super Bowl?",
+      "answers": [
+        "1993 (Super Bowl XXVII)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_48",
+      "title": "Five out of six of the Village People have got what?",
+      "answers": [
+        "Moustaches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_49",
+      "title": "Which famous actor is honored with a statue in Leicester Square?",
+      "answers": [
+        "Charlie Chaplin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_33_50",
+      "title": "What did Frosty the Snow man have for a nose?",
+      "answers": [
+        "A button"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

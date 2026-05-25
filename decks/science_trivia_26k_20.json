@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_20",
+  "name": "Science Trivia 26K 20",
+  "description": "Science 951 - 1000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_20_01",
+      "title": "Macrophobia is the fear of what?",
+      "answers": [
+        "Long waits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_02",
+      "title": "What kind of star system is Algol?",
+      "answers": [
+        "A binary star system"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_03",
+      "title": "What is a characteristic of a \"nimbus\" cloud?",
+      "answers": [
+        "Rain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_04",
+      "title": "Who was the first scientist to observe live cells?",
+      "answers": [
+        "Antonie van Leeuwenhoek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_05",
+      "title": "What does Afforestation mean?",
+      "answers": [
+        "Planting of Trees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_06",
+      "title": "Cetology is the study of what?",
+      "answers": [
+        "Whales, dolphins, and porpoise"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_07",
+      "title": "What is the abbreviation for trinitrotoluene?",
+      "answers": [
+        "TNT"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_08",
+      "title": "What bird gets its pink color from the algae and shrimp it eats?",
+      "answers": [
+        "The flamingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_09",
+      "title": "What subatomic particle determines isotope?",
+      "answers": [
+        "Neutron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_10",
+      "title": "\"Chicken of the Woods\" is a type of what?",
+      "answers": [
+        "Mushroom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_11",
+      "title": "What is the most common type of rock found on Earth's surface?",
+      "answers": [
+        "Sedimentary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_12",
+      "title": "A spider typically has eight legs and eight what?",
+      "answers": [
+        "Eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_13",
+      "title": "What name is given to the full moon closest to the autumn equinox?",
+      "answers": [
+        "Harvest moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_14",
+      "title": "What name is given to a triangle with all equal sides?",
+      "answers": [
+        "Equilateral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_15",
+      "title": "Chromophobia is the fear of what?",
+      "answers": [
+        "Colors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_16",
+      "title": "What is the fastest sense?",
+      "answers": [
+        "Hearing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_17",
+      "title": "Aphyllous trees lack what?",
+      "answers": [
+        "Leaves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_18",
+      "title": "Which part of the body suffers from Microphthalmia?",
+      "answers": [
+        "The eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_19",
+      "title": "Which meteorological phenomena means \"a curl of hair\" in Latin?",
+      "answers": [
+        "Cirrus clouds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_20",
+      "title": "What has superseded Newtonian mechanics of the atomic scale?",
+      "answers": [
+        "Quantum mechanics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_21",
+      "title": "\"Absolute zero\" is equal to zero degrees on which temperature scale?",
+      "answers": [
+        "Kelvin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_22",
+      "title": "What is the correct name for a baby seal, baby shark, or baby bat?",
+      "answers": [
+        "Pup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_23",
+      "title": "What is the opening of a camera lens, which controls the amount of light?",
+      "answers": [
+        "Aperture"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_24",
+      "title": "What was the name given to the space missions that took place between the Mercury and Apollo missions?",
+      "answers": [
+        "Gemini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_25",
+      "title": "What are the four main ingredients of concrete?",
+      "answers": [
+        "Sand, water, cement, gravel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_26",
+      "title": "In what organ of the human body would you find the cochlea?",
+      "answers": [
+        "The ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_27",
+      "title": "How many times does the average heart beat each day?",
+      "answers": [
+        "100,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_28",
+      "title": "For which viral disease did Louis Pasteur develop a vaccine?",
+      "answers": [
+        "Rabies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_29",
+      "title": "What are great waves resulting from earthquakes?",
+      "answers": [
+        "Tsunami waves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_30",
+      "title": "Which animal has a gestation period of only 13 days?",
+      "answers": [
+        "Opossum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_31",
+      "title": "Which British physician developed the first effective vaccine against smallpox?",
+      "answers": [
+        "Edward Jenner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_32",
+      "title": "The study of human behaviour and mind is called what?",
+      "answers": [
+        "Psychology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_33",
+      "title": "What medical procedures do the Germans call the \"Kaiserschnitt\"?",
+      "answers": [
+        "A caesarean section"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_34",
+      "title": "What is the granular substance that bees collect called?",
+      "answers": [
+        "Pollen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_35",
+      "title": "What is the very bottom soil horizon called?",
+      "answers": [
+        "Bedrock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_36",
+      "title": "How many yards are there in an imperial fathom?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_37",
+      "title": "The only known monotremes in the animal kingdom are the echidna and which other creature?",
+      "answers": [
+        "Platypus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_38",
+      "title": "What is the tendency of Earth's rotation to turn winds called?",
+      "answers": [
+        "Coriolis Effect"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_39",
+      "title": "What kind of plant stem is soft and green?",
+      "answers": [
+        "Herbaceous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_40",
+      "title": "Approximately how many miles is an Astronomical Unit?",
+      "answers": [
+        "93 million"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_41",
+      "title": "What is the scientific name for the North Star?",
+      "answers": [
+        "Polaris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_42",
+      "title": "How deep is a fathom?",
+      "answers": [
+        "6 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_43",
+      "title": "What fruit is a cross between a blackberry and a red raspberry?",
+      "answers": [
+        "Tayberry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_44",
+      "title": "What does an ombrometer measure?",
+      "answers": [
+        "Rainfall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_45",
+      "title": "What is the maximum number of electrons possible in the 6th energy level?",
+      "answers": [
+        "72"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_46",
+      "title": "What planet's four largest moons are collectively known as the Galilean Moons?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_47",
+      "title": "What physical property of a diamond do carats measure?",
+      "answers": [
+        "Mass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_48",
+      "title": "What name is given to the speed at which airplanes produce a sonic boom?",
+      "answers": [
+        "Mach 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_49",
+      "title": "The metamorphism of what rock forms marble?",
+      "answers": [
+        "Limestone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_20_50",
+      "title": "Like the majority of reptiles and fish, monotremes are mammals that do what?",
+      "answers": [
+        "Lay eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

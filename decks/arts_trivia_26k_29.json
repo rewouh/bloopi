@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_29",
+  "name": "Arts Trivia 26K 29",
+  "description": "Arts 1401 - 1450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_29_01",
+      "title": "What French playwright wrote the play \"The Lark\"?",
+      "answers": [
+        "Jean Anouilh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_02",
+      "title": "Arthur Miller’s book “The Crucible” involves characters accused of what crime?",
+      "answers": [
+        "Witchcraft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_03",
+      "title": "The Christmas carol \"Jingle Bells\" was first published in what year?",
+      "answers": [
+        "1857"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_04",
+      "title": "Who was Anne of Green Gables' best friend?",
+      "answers": [
+        "Diana Barry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_05",
+      "title": "In \"The Farmer in the Dell\", what stands alone?",
+      "answers": [
+        "The cheese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_06",
+      "title": "What is Dame Margott Fonteyn famous for?",
+      "answers": [
+        "Ballet dancing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_07",
+      "title": "Who painted the famous work of art known as \"The Death of Socrates\"?",
+      "answers": [
+        "Jacques-Louis David"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_08",
+      "title": "Although he is from hell, what symbol does Spawn cling to?",
+      "answers": [
+        "A cross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_09",
+      "title": "Who composed \"Symphonie fantastique\"?",
+      "answers": [
+        "Hector Berlioz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_10",
+      "title": "In the novel \"Dances with Wolves,\" what Native-American nation did John J. Dunbar engage?",
+      "answers": [
+        "Lakota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_11",
+      "title": "In Shakespeare's \"The Tempest\", who is the King of Naples?",
+      "answers": [
+        "Alonso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_12",
+      "title": "Which word describing chaos first appeared in Milton's \"Paradise Lost\"?",
+      "answers": [
+        "Pandemonium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_13",
+      "title": "Which instrument did Paganini play?",
+      "answers": [
+        "Violin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_14",
+      "title": "Who created the character of Rupert Bear?",
+      "answers": [
+        "Mary Tourtel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_15",
+      "title": "\"Typo\" is short for what two-word term?",
+      "answers": [
+        "Typographical error"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_16",
+      "title": "What major musical of the 1960s was written by James Rado, Gerome Ragni and Galt MacDermot?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_17",
+      "title": "What Latin phrase actually comes from a poem, attributed to Virgil, about a salad recipe?",
+      "answers": [
+        "E Pluribus Unum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_18",
+      "title": "What folk hero is said to live in the Sherwood Forest?",
+      "answers": [
+        "Robin Hood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_19",
+      "title": "What classic novel's subtitle is \"A Novel Without a Hero\"?",
+      "answers": [
+        "Vanity Fair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_20",
+      "title": "What year was Charles Darwin's work, \"On the Origin of Species\", published?",
+      "answers": [
+        "1859"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_21",
+      "title": "What is the name of the evolutionary biologist who wrote \"The God Delusion\"?",
+      "answers": [
+        "Richard Dawkins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_22",
+      "title": "Who is the main protagonist of the 1932 novel \"Cold Comfort Farm\"?",
+      "answers": [
+        "Flora Poste"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_23",
+      "title": "What popular statue was designed by Fredric-Auguste Bartholdi?",
+      "answers": [
+        "Statue of Liberty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_24",
+      "title": "What is the name of the dog in the musical \"Annie\"?",
+      "answers": [
+        "Sandy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_25",
+      "title": "Who became famous for painting New Mexico landscapes from her Model A Ford?",
+      "answers": [
+        "Georgia O’Keeffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_26",
+      "title": "Which mythological creature is half eagle, half lion?",
+      "answers": [
+        "Griffin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_27",
+      "title": "In \"Peanuts\", how much does Lucy usually charge for psychiatric advice?",
+      "answers": [
+        "5 cents"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_28",
+      "title": "What comic strip was set in the Okeefenokee Swamp?",
+      "answers": [
+        "Pogo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_29",
+      "title": "Which deceased employee of Claudius had a parrot named Captain Kidd?",
+      "answers": [
+        "John Silver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_30",
+      "title": "Turnov, Rusty and Bobo appear in what stage musical?",
+      "answers": [
+        "Starlight Express"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_31",
+      "title": "In The Maze Runner, the \"killzone\" refers to what?",
+      "answers": [
+        "The Brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_32",
+      "title": "Who wrote the novel \"The Yearling\"?",
+      "answers": [
+        "Marjorie Kinnan Rawlings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_33",
+      "title": "What lung disease killed Paul Cezanne a week after he caught a chill and collapsed while painting in the field?",
+      "answers": [
+        "Pneumonia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_34",
+      "title": "In what year was \"Harry Potter and the Sorcerer's Stone\" published in the US?",
+      "answers": [
+        "1998"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_35",
+      "title": "What year saw the release of issue #1 of the \"Revival\" comic book series?",
+      "answers": [
+        "2012"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_36",
+      "title": "In \"The Arabian Nights\", the tale of Aladdin and his lamp is actually set in what non-Arabian country?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_37",
+      "title": "Bacchus is the Ancient Roman god of which beverage?",
+      "answers": [
+        "Wine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_38",
+      "title": "What is the literary term for a play on words?",
+      "answers": [
+        "Pun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_39",
+      "title": "What Russian-born sci-fi legend was afraid of flying and heights despite having published numerous books about space?",
+      "answers": [
+        "Isaac Asimov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_40",
+      "title": "Which Russian author wrote the classic novel \"Anna Karenina\"?",
+      "answers": [
+        "Leo Tolstoy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_41",
+      "title": "Mentu is the Egyptian god of what?",
+      "answers": [
+        "War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_42",
+      "title": "In \"The Wizard of Oz\", what was the lion in search of?",
+      "answers": [
+        "Courage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_43",
+      "title": "What year did Ray Bradbury publish the novel \"Fahrenheit 451\"?",
+      "answers": [
+        "1953"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_44",
+      "title": "What device does Harry Potter use to track the comings and goings of people at Hogwarts castle?",
+      "answers": [
+        "The Marauder's Map"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_45",
+      "title": "What is the first book in Dan Brown's \"Robert Langdon\" series?",
+      "answers": [
+        "\"Angels and Demons\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_46",
+      "title": "Who famously said \"When in doubt tell the truth.\"?",
+      "answers": [
+        "Mark Twain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_47",
+      "title": "Which Old Master signed his paintings with his full Cretan name, Doménikos Theotokópoulos?",
+      "answers": [
+        "El Greco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_48",
+      "title": "According to the Bible, who was the father of Arphaxad?",
+      "answers": [
+        "Shem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_49",
+      "title": "How many people dance a \"pas de deux\"?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_29_50",
+      "title": "What are the nicknames of the twin sisters who work as enforcers for Darcy Parker, in the \"Strangers in Paradise\" comic series?",
+      "answers": [
+        "Tambi and Bambi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

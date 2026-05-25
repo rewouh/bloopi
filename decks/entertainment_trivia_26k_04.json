@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_04",
+  "name": "Entertainment Trivia 26K 04",
+  "description": "Entertainment 151 - 200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_04_01",
+      "title": "Who played the role of TV's C. J. Cegg?",
+      "answers": [
+        "Allison Janney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_02",
+      "title": "The Jeffersons\" was a spinoff of what show?",
+      "answers": [
+        "\"All in the Family\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_03",
+      "title": "Who is the Kindergarten Cop?",
+      "answers": [
+        "Arnold Schwarzenneger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_04",
+      "title": "What character was Bela Lugosi best known for playing?",
+      "answers": [
+        "Dracula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_05",
+      "title": "Who wrote the songs for \"The Lion King\"?",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_06",
+      "title": "Roman Polanski directed which 1974 film starring Jack Nicholson?",
+      "answers": [
+        "Chinatown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_07",
+      "title": "Who is the voice behind Woody, the cowboy doll in the movie Toy Story?",
+      "answers": [
+        "Tom Hanks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_08",
+      "title": "What rock musician was known as \"The Lizard King\"?",
+      "answers": [
+        "Jim Morrison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_09",
+      "title": "What was the name of John Lennon and Cynthia Lennon's son?",
+      "answers": [
+        "Julian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_10",
+      "title": "In the TV show \"The Simpsons\", what is Lenny's last name?",
+      "answers": [
+        "Leonard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_11",
+      "title": "Who voiced Hades in the 1997 Disney movie \"Hercules\"?",
+      "answers": [
+        "James Woods"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_12",
+      "title": "What was the nickname of Gene Hackman's character in The French Connection?",
+      "answers": [
+        "Popeye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_13",
+      "title": "How tall is the Academy Award statue?",
+      "answers": [
+        "13.5 inches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_14",
+      "title": "Born in 1962, who in the world of music has the real name Stanley Kirk Burrell?",
+      "answers": [
+        "MC Hammer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_15",
+      "title": "Who directed \"Star Wars: Episode VI - Return of the Jedi\"?",
+      "answers": [
+        "Richard Marquand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_16",
+      "title": "Sozin's comet is an astrological event that occurs in which television series?",
+      "answers": [
+        "\"Avatar: the Last Airbender\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_17",
+      "title": "What former \"American Idol\" contestant won an Oscar for her role in the 2006 film version of \"Dreamgirls\"?",
+      "answers": [
+        "Jennifer Hudson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_18",
+      "title": "What legendary Hollywood cowboy was born as Leonard Slye in 1911?",
+      "answers": [
+        "Roy Rogers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_19",
+      "title": "Who played Jane Fonda's love interest in the movie \"On Golden Pond\"?",
+      "answers": [
+        "Dabney Coleman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_20",
+      "title": "Which Paul Simon album won a Grammy for album of the year in 1987?",
+      "answers": [
+        "Graceland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_21",
+      "title": "What is the name of the lively Spanish dance in triple time and typically performed with castanets or tambourines?",
+      "answers": [
+        "Fandango"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_22",
+      "title": "Which inventor developed the solid-body electric guitar that made rock 'n roll possible?",
+      "answers": [
+        "Les Paul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_23",
+      "title": "Who played the role of the US president in the movie \"Dave\"?",
+      "answers": [
+        "Kevin Kline"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_24",
+      "title": "Frank Darabont seriously contemplated selling the movie \"The Shawshank Redemption\" script to which person?",
+      "answers": [
+        "Rob Reiner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_25",
+      "title": "Which 1995 movie stars Susan Sarandon and Sean Penn?",
+      "answers": [
+        "Dead Man Walking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_26",
+      "title": "Who recorded the 1990's song \"Baby Got Back\"?",
+      "answers": [
+        "Sir Mix-a-Lot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_27",
+      "title": "In the movie \"Interview with the Vampire\", what gift does Lestat give to Claudia every year?",
+      "answers": [
+        "A doll"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_28",
+      "title": "What sci­fi series, which debuted in 1965, took place in the year 1997?",
+      "answers": [
+        "Lost in Space"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_29",
+      "title": "What are the hotel-inspired names of the two old men who heckle \"The Muppet Show\"?",
+      "answers": [
+        "Statler and Waldorf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_30",
+      "title": "What musical parodist sang the Halloween song \"Nature Trail to Hell\"?",
+      "answers": [
+        "Weird Al Yankovic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_31",
+      "title": "In the film \"Gladiator,\" Maximus hails from what country?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_32",
+      "title": "Which South African femal singer was known as Mama Africa?",
+      "answers": [
+        "Miriam Makeba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_33",
+      "title": "Who played the role of Elaine in the 1982 film \"48 Hrs.\"?",
+      "answers": [
+        "Annette O'Toole"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_34",
+      "title": "What year was the film \"Honey, I Shrunk the Kids\" released in?",
+      "answers": [
+        "1989"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_35",
+      "title": "Who originally wrote and performed the song \"Bad Case of Loving You\" that was popularized by Robert Palmer in 1979?",
+      "answers": [
+        "Moon Martin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_36",
+      "title": "In Disney's \"The Jungle Book\", what kind of animal is Mowgli raised by?",
+      "answers": [
+        "Wolves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_37",
+      "title": "What sport is the focus of the movie \"Over the Top\"?",
+      "answers": [
+        "Arm wrestling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_38",
+      "title": "Who has been played in a movie by both Kirk Douglas and Tim Roth?",
+      "answers": [
+        "Vincent van Gogh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_39",
+      "title": "Which actor was the voice of Charles Muntz in the 2009 movie \"Up\"?",
+      "answers": [
+        "Christopher Plummer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_40",
+      "title": "What is the Voight-Kampff machine in the movie \"Blade Runner\"?",
+      "answers": [
+        "A lie detector"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_41",
+      "title": "At what age did Ray Charles become totally blind?",
+      "answers": [
+        "7"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_42",
+      "title": "What 2011 comedy, starring Natalie Portman, was released in France as \"Sex Friends\"É",
+      "answers": [
+        "No Strings Attached"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_43",
+      "title": "In the TV show \"The Simpsons\", who is Springfield Elementary's music teacher?",
+      "answers": [
+        "Mr. Largo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_44",
+      "title": "What wise guys are forever linked to the phrase: \"Nyuk, nyuk, nyuk\"?",
+      "answers": [
+        "The 3 Stooges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_45",
+      "title": "Who played little Gertie in the movie \"E.T.: The Extra-Terrestrial\"?",
+      "answers": [
+        "Drew Barrymore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_46",
+      "title": "What Hollywood director had a small role in the movie \"The Blues Brothers\"?",
+      "answers": [
+        "Steven Spielberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_47",
+      "title": "What is the name of the ranch the Cartwright family operates in the TV show \"Bonanza\"?",
+      "answers": [
+        "Ponderosa Ranch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_48",
+      "title": "What is Merlin's owl name in Disney's film \"The Sword in the Stone\"?",
+      "answers": [
+        "Archimedes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_49",
+      "title": "Which year was the first Indiana Jones movie released?",
+      "answers": [
+        "1981"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_04_50",
+      "title": "What was formed by the five robot lions of the planet Arus?",
+      "answers": [
+        "Voltron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

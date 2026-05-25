@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_64",
+  "name": "General Trivia 26K 64",
+  "description": "General 3151 - 3200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_64_01",
+      "title": "How many double stitches are there on a regulation baseball ball?",
+      "answers": [
+        "108"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_02",
+      "title": "What is the name of Ronald McDonald's big purple friend who loves McDonald's milkshakes?",
+      "answers": [
+        "Grimace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_03",
+      "title": "What does a Turk call \"Turkish Delight\"?",
+      "answers": [
+        "Lokum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_04",
+      "title": "What Japanese company was responsible for publishing the game Space Invaders?",
+      "answers": [
+        "Taito"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_05",
+      "title": "What is the fear of gods or dieties known as?",
+      "answers": [
+        "Theophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_06",
+      "title": "What do sumo wrestlers throw into the ring to purify it before each bout?",
+      "answers": [
+        "Salt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_07",
+      "title": "How many rooms are there on a standard \"Clue\" game board?",
+      "answers": [
+        "Nine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_08",
+      "title": "In the standard issue game of Monopoly, each player starts the game with how much cash on hand?",
+      "answers": [
+        "$1500"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_09",
+      "title": "What is the lowest hand that beats a straight in poker?",
+      "answers": [
+        "Flush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_10",
+      "title": "In what country was ZARA established?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_11",
+      "title": "When Michael Jordan played for the Chicago Bulls, how many NBA Championships did he win?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_12",
+      "title": "What century was the model construction system \"Meccano\" created by Frank Hornby?",
+      "answers": [
+        "19th century"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_13",
+      "title": "What is the official monetary unit of the nation of Thailand?",
+      "answers": [
+        "Baht"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_14",
+      "title": "What does an Advent calendar count down to?",
+      "answers": [
+        "Christmas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_15",
+      "title": "Mile High Stadium in Denver was built in 1948 and was then known by what name?",
+      "answers": [
+        "Bears Stadium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_16",
+      "title": "What company makes the Xbox console?",
+      "answers": [
+        "Microsoft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_17",
+      "title": "Lumanche and lumaconi are shaped to look like what type of animal?",
+      "answers": [
+        "Snails"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_18",
+      "title": "What make of car appears in the left foreground of the \"Abbey Road\" cover?",
+      "answers": [
+        "Volkswagen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_19",
+      "title": "Which form of Buddhism stressed meditation as a means to enlightenment?",
+      "answers": [
+        "Zen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_20",
+      "title": "What day of the week is Mardi Gras?",
+      "answers": [
+        "Tuesday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_21",
+      "title": "What sport's lingo uses the term \"Oche\"?",
+      "answers": [
+        "Darts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_22",
+      "title": "What is the Cleveland Browns Stadium also known as?",
+      "answers": [
+        "The Dawg Pound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_23",
+      "title": "Visitors who kiss Ireland’s Blarney Stone are said to be gifted with what?",
+      "answers": [
+        "Eloquence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_24",
+      "title": "Which country does paella come from?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_25",
+      "title": "What is the only bird to have its own year on the Chinese calendar?",
+      "answers": [
+        "Rooster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_26",
+      "title": "What year did Ferdinand Porsche and his team finish the design of the VW Beetle?",
+      "answers": [
+        "1938"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_27",
+      "title": "How many players are there on a water polo team?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_28",
+      "title": "Fax is short for which word?",
+      "answers": [
+        "Facsimile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_29",
+      "title": "What did the letters in the name of the cable network HBO originally stand for?",
+      "answers": [
+        "Home Box Office"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_30",
+      "title": "The zodiac sign \"Leo\" refers to what animal?",
+      "answers": [
+        "The lion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_31",
+      "title": "What sport is Jenson Button associated with?",
+      "answers": [
+        "Formula 1"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_32",
+      "title": "What electronics company used the ad slogan \"Just Slightly Ahead of Our Time\"?",
+      "answers": [
+        "Panasonic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_33",
+      "title": "What is champagne substituted with to turn a \"Black Velvet\" cocktail into a \"Poor Man’s Black Velvet\" cocktail?",
+      "answers": [
+        "Cider"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_34",
+      "title": "In what year did Joseph Smith first organize the Mormon Church?",
+      "answers": [
+        "1830"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_35",
+      "title": "What do you get when you mix tequila, triple sec and lime juice?",
+      "answers": [
+        "A Margarita"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_36",
+      "title": "\"Benjamins\" is slang for what denomination of US currency?",
+      "answers": [
+        "$100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_37",
+      "title": "What is a group of turkeys called?",
+      "answers": [
+        "A rafter or flock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_38",
+      "title": "What does \"A.D.\" stand for, in reference to dates?",
+      "answers": [
+        "Anno Domini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_39",
+      "title": "What is a duel between three people called?",
+      "answers": [
+        "Truel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_40",
+      "title": "Apple's CEO Steve Jobs was known for wearing what color turtleneck?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_41",
+      "title": "Where is the goat-racing capital of the world?",
+      "answers": [
+        "Tobago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_42",
+      "title": "What year was the Commodore 64 first released?",
+      "answers": [
+        "1982"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_43",
+      "title": "Who is credited with creating McDonald’s’ Big Mac?",
+      "answers": [
+        "Jim Delligatti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_44",
+      "title": "The synodic month starts with a new what?",
+      "answers": [
+        "Moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_45",
+      "title": "What does the abbreviation SUV stand for?",
+      "answers": [
+        "Sport Utility Vehicle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_46",
+      "title": "What color is the saffron spice?",
+      "answers": [
+        "Yellow-orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_47",
+      "title": "What decade were golf carts introduced in the US?",
+      "answers": [
+        "1940s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_48",
+      "title": "In Tennessee, it’s illegal to hold office if you’ve done what?",
+      "answers": [
+        "Fought in a duel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_49",
+      "title": "As of 2020, which player held the longest NFL record for longest interception return?",
+      "answers": [
+        "Ed Reed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_64_50",
+      "title": "What does the legal term \"Persona non grata\" mean?",
+      "answers": [
+        "An unwelcome person"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

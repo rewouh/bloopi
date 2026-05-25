@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_07",
+  "name": "Geography Trivia 26K 07",
+  "description": "Geography 301 - 350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_07_01",
+      "title": "Which island was home to the Lighthouse of Alexandria?",
+      "answers": [
+        "Pharos, Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_02",
+      "title": "In which Brazilian city was F1 driver Ayrton Senna born?",
+      "answers": [
+        "São Paulo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_03",
+      "title": "The Great Pyramid of Cholula is located in what country?",
+      "answers": [
+        "Mexico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_04",
+      "title": "What city named its airport after Leonardo da Vinci?",
+      "answers": [
+        "Rome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_05",
+      "title": "What English city was once known to the Romans as Venta Belgarum?",
+      "answers": [
+        "Winchester"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_06",
+      "title": "What winter sport's Hall of Fame is located in Ishpeming, Michigan?",
+      "answers": [
+        "Skiing"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_07",
+      "title": "What is the largest flat-topped mountain in the world?",
+      "answers": [
+        "Grand Mesa in Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_08",
+      "title": "Hagatna is the capital of which country?",
+      "answers": [
+        "Guam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_09",
+      "title": "What is the only US state whose entire northern border is formed by a river?",
+      "answers": [
+        "Kentucky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_10",
+      "title": "The world-renowned St. Paul's Cathedral is in what European city?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_11",
+      "title": "What is the capital city of the U.S. Virgin Islands?",
+      "answers": [
+        "Charlotte Amalie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_12",
+      "title": "What mountain is the tallest point in Nepal?",
+      "answers": [
+        "Everest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_13",
+      "title": "Chicago borders which of the five Great Lakes?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_14",
+      "title": "Sleeping Bear Dunes National Park is located along the shores of what lake?",
+      "answers": [
+        "Lake Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_15",
+      "title": "In which US city can you find \"Bubblegum Alley\"?",
+      "answers": [
+        "San Luis Obispo, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_16",
+      "title": "In which continent would you find the Lena River?",
+      "answers": [
+        "Asia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_17",
+      "title": "Which US state capital is both the oldest and the highest in the country?",
+      "answers": [
+        "Santa Fe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_18",
+      "title": "Which is the largest Great Lake?",
+      "answers": [
+        "Lake Superior"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_19",
+      "title": "Which country is home to the language with the world's shortest alphabet?",
+      "answers": [
+        "Papua New Guinea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_20",
+      "title": "What island country is located east of Mozambique?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_21",
+      "title": "What is banned in public places in Florida after 6 pm on a Thursday?",
+      "answers": [
+        "Flatulence (farting)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_22",
+      "title": "What Canadian territory came into existence on April 1, 1999?",
+      "answers": [
+        "Nunavut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_23",
+      "title": "In what city would you find the infamous Alcatraz?",
+      "answers": [
+        "San Francisco"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_24",
+      "title": "On a map, what are the lines that run parallel to the equator called?",
+      "answers": [
+        "Latitude"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_25",
+      "title": "What cave found in New Mexico, is the deepest cave in the continental US?",
+      "answers": [
+        "Lechuguilla Cave"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_26",
+      "title": "What is the largest country entirely within the Southern Hemisphere?",
+      "answers": [
+        "Australia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_27",
+      "title": "In terms of land area, what are the three largest countries bordering China to the north?",
+      "answers": [
+        "Russia, Mongolia and Kazakhstan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_28",
+      "title": "Which cuisine gave us kimchi and bulgogi?",
+      "answers": [
+        "Korean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_29",
+      "title": "Which beach was featured in the movie \"The Beach\" starring Leonardo DiCaprio?",
+      "answers": [
+        "Maya Bay in Thailand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_30",
+      "title": "What is the only major port city in Alabama?",
+      "answers": [
+        "Mobile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_31",
+      "title": "Which Central American country extends farthest north?",
+      "answers": [
+        "Belize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_32",
+      "title": "The Albert Canal is located in which country?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_33",
+      "title": "Which island of Japan is just 26 miles form Russia at its closest point?",
+      "answers": [
+        "Hokkaido"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_34",
+      "title": "Which continent are the Guiana Highlands located in?",
+      "answers": [
+        "South America"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_35",
+      "title": "Suva is the capital of which country?",
+      "answers": [
+        "Fiji"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_36",
+      "title": "Lopez Island, Orcas Island and Waldron Island all belong to what archipelago?",
+      "answers": [
+        "San Juan Islands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_37",
+      "title": "Where was the first European town in the Americas built?",
+      "answers": [
+        "Dominican Republic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_38",
+      "title": "The name \"Sahara\" is derived from the Arabic word for what?",
+      "answers": [
+        "Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_39",
+      "title": "In what city would you find Stanley Park?",
+      "answers": [
+        "Vancouver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_40",
+      "title": "What major river runs through Vienna?",
+      "answers": [
+        "Danube"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_41",
+      "title": "Sucre is the capital of what country?",
+      "answers": [
+        "Bolivia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_42",
+      "title": "In which US state is it illegal to ride a horse over 10 mph?",
+      "answers": [
+        "Indiana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_43",
+      "title": "What do most tourists call the Vieux Carre?",
+      "answers": [
+        "The French Quarter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_44",
+      "title": "Above 5,000 ft, coffee beans tend to develop a high level of what?",
+      "answers": [
+        "Acidity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_45",
+      "title": "The port of Piraeus is located in which country?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_46",
+      "title": "Which state is home to Okefenokee National Wildlife Refuge?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_47",
+      "title": "How many U.S. states are there?",
+      "answers": [
+        "Fifty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_48",
+      "title": "Port Moresby is the capital of which country?",
+      "answers": [
+        "Papua New Guinea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_49",
+      "title": "The national currency of Panama is named for what Pacific explorer?",
+      "answers": [
+        "Balboa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_07_50",
+      "title": "What is Ireland’s famous Blarney Stone made of?",
+      "answers": [
+        "Limestone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

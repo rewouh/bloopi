@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_02",
+  "name": "Science Trivia 26K 02",
+  "description": "Science 51 - 100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_02_01",
+      "title": "What name did Neil Armstrong give to the spot where man first touched down on the Moon?",
+      "answers": [
+        "Tranquility Base"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_02",
+      "title": "What name is given to the fruit of an oak tree?",
+      "answers": [
+        "An acorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_03",
+      "title": "What is the second largest animal in the world?",
+      "answers": [
+        "Fin whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_04",
+      "title": "How many bones are in each finger, except the thumb, of a human hand?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_05",
+      "title": "What apparatus do monkeys use in the \"infinite monkey theorem\" thought experiment?",
+      "answers": [
+        "Typewriters"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_06",
+      "title": "What was the first planet to be discovered with a telescope?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_07",
+      "title": "What do insects do through their spiracles?",
+      "answers": [
+        "Breathe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_08",
+      "title": "What name is usually given to bananas cultivated for cooking?",
+      "answers": [
+        "Plantains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_09",
+      "title": "What is a bactrian?",
+      "answers": [
+        "Two-humped camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_10",
+      "title": "Which is the fourth planet from the Sun?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_11",
+      "title": "What is a group of Sparrows called?",
+      "answers": [
+        "Host"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_12",
+      "title": "What is the syrup drained from raw sugar?",
+      "answers": [
+        "Molasses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_13",
+      "title": "What hinged surfaces on a plane's wingtips allow the aircraft to roll?",
+      "answers": [
+        "Ailerons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_14",
+      "title": "What does the Mohs scale measure?",
+      "answers": [
+        "Mineral hardness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_15",
+      "title": "The scientific unit named for Sir Isaac Newton measures what?",
+      "answers": [
+        "Force"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_16",
+      "title": "What inventor caused an earthquake at his New York home with one of his inventions?",
+      "answers": [
+        "Nikola Tesla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_17",
+      "title": "Quinsy is the inflammation of which body organ due to abscess?",
+      "answers": [
+        "Tonsils"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_18",
+      "title": "What constellation represents a hunter with a prominent belt and sword?",
+      "answers": [
+        "Orion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_19",
+      "title": "How many pairs of chromosomes does the average human have?",
+      "answers": [
+        "23"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_20",
+      "title": "\"Fagus\" is the Latin name of what type of tree?",
+      "answers": [
+        "Beech"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_21",
+      "title": "What part of the brain deals with hearing and language?",
+      "answers": [
+        "Temporal lobe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_22",
+      "title": "How many ounces are there in a pound?",
+      "answers": [
+        "16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_23",
+      "title": "Which of the main categories of cloud forms at the highest altitudes?",
+      "answers": [
+        "Cirrus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_24",
+      "title": "Ambergris is a waxy substance that originates as a secretion from what animal?",
+      "answers": [
+        "Sperm whale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_25",
+      "title": "What bird has the biggest wingspan?",
+      "answers": [
+        "Albatross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_26",
+      "title": "How many pairs of hearts does the common garden worm have?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_27",
+      "title": "The \"miner's lamp\" is also known as what?",
+      "answers": [
+        "Davy's Lamp"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_28",
+      "title": "What is the common name for the fruit known as \"Citrus paradisi\"?",
+      "answers": [
+        "Grapefruit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_29",
+      "title": "What causes the holes in Swiss cheese?",
+      "answers": [
+        "Bacteria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_30",
+      "title": "What is a baby swan called?",
+      "answers": [
+        "A Cygnet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_31",
+      "title": "What is the opposite of nocturnal?",
+      "answers": [
+        "Diurnal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_32",
+      "title": "What gas makes up 96 percent of the atmosphere of Venus?",
+      "answers": [
+        "Carbon dioxide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_33",
+      "title": "What is the common word for a weight suspended from a pivot that can move freely?",
+      "answers": [
+        "A pendulum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_34",
+      "title": "The human heart weighs less than what?",
+      "answers": [
+        "A pound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_35",
+      "title": "Hemophobia is the fear of what?",
+      "answers": [
+        "Blood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_36",
+      "title": "Which animal is also known as the wild dog from Australia?",
+      "answers": [
+        "Dingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_37",
+      "title": "Which one of your toes is also known as your \"hallux\"?",
+      "answers": [
+        "Big toe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_38",
+      "title": "What is a \"Shoal\"?",
+      "answers": [
+        "A group of fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_39",
+      "title": "In what layer of the Earth's atmosphere is Antarctica's famed \"ozone hole\"?",
+      "answers": [
+        "Stratosphere"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_40",
+      "title": "What are the two major elements making up the sun?",
+      "answers": [
+        "Hydrogen and helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_41",
+      "title": "What does the acronym RPM stand for?",
+      "answers": [
+        "Revolutions per minute"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_42",
+      "title": "How many Earths could fit in the Sun?",
+      "answers": [
+        "1.3 million"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_43",
+      "title": "What organ of the body is particularly affected by hepatitis?",
+      "answers": [
+        "Liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_44",
+      "title": "What gas becomes a superfluid when cooled to absolute zero?",
+      "answers": [
+        "Helium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_45",
+      "title": "How many canine teeth are there in a normal set of human teeth?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_46",
+      "title": "What bird is the smallest living bird?",
+      "answers": [
+        "Bee Hummingbird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_47",
+      "title": "Edward J. Claghorn was granted the first patent for what safety device in 1885?",
+      "answers": [
+        "Safety belts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_48",
+      "title": "What animal has the highest blood pressure of any animal?",
+      "answers": [
+        "The giraffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_49",
+      "title": "Which animal's milk will never curdle?",
+      "answers": [
+        "Camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_02_50",
+      "title": "How many US gallons is in a barrel of oil?",
+      "answers": [
+        "42"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

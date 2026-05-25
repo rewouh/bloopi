@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_56",
+  "name": "Arts Trivia 26K 56",
+  "description": "Arts 2751 - 2800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_56_01",
+      "title": "What is the alternative name for the \"Mona Lisa\"?",
+      "answers": [
+        "La Gioconda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_02",
+      "title": "Who wrote the book \"Silent Spring,\" which describes the harmful effects of pesticides on the environment?",
+      "answers": [
+        "Rachel Carson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_03",
+      "title": "What was the full name of Dr. Henry Jekyll's alter ego?",
+      "answers": [
+        "Edward Hyde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_04",
+      "title": "Who was the childhood playmate of little Jackie Papers?",
+      "answers": [
+        "Puff, the Magic Dragon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_05",
+      "title": "In which Arthur Miller play does Willy Loman feature?",
+      "answers": [
+        "Death of a Salesman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_06",
+      "title": "\"The Pastoral Symphony\" is another name for which of Beethoven's symphonies?",
+      "answers": [
+        "The Sixth Symphony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_07",
+      "title": "What animal is the focus of the plot in the novel \"The Yearling\"?",
+      "answers": [
+        "A deer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_08",
+      "title": "What famous museum was once called the Musee' Napoleon?",
+      "answers": [
+        "The Louvre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_09",
+      "title": "In Greek mythology, where were lotuses eaten?",
+      "answers": [
+        "Island of Jerba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_10",
+      "title": "Military leader Napoleon also dabbled in writing what genre of book?",
+      "answers": [
+        "Romance"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_11",
+      "title": "\"Petunia, No. 2\" was the first of the giant flower canvases painted by what artist?",
+      "answers": [
+        "Georgia O'Keeffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_12",
+      "title": "Who wrote the \"Man in the Iron Mask\"?",
+      "answers": [
+        "Alexandre Dumas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_13",
+      "title": "What is the name of the protagonist CIA analyst in Tom Clancy's novels?",
+      "answers": [
+        "Jack Ryan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_14",
+      "title": "Who wrote the 1994 novel \"The Fist of God\"?",
+      "answers": [
+        "Frederick Forsyth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_15",
+      "title": "What book did William Peter Blatty write with the $10,000 he won from \"You Bet Your Life\"?",
+      "answers": [
+        "The Exorcist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_16",
+      "title": "What Broadway great's daughter wrote the book \"Freaky Friday\"?",
+      "answers": [
+        "Richard Rodgers'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_17",
+      "title": "Which Harry Potter character is part-giant?",
+      "answers": [
+        "Hagrid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_18",
+      "title": "In pulp magazines, who was referred to as \"The Man of Bronze\"?",
+      "answers": [
+        "Doc Savage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_19",
+      "title": "The poet Ogden Nash wrote \"Candy is dandy, but liquor is...\" what?",
+      "answers": [
+        "Quicker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_20",
+      "title": "Whose sidekick was named Sancho Panza?",
+      "answers": [
+        "Don Quixote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_21",
+      "title": "According to Exodus, what is the fifth plague of Egypt?",
+      "answers": [
+        "Diseased livestock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_22",
+      "title": "Who was the leader of the wolves in Kipling's \"The Jungle Book\"?",
+      "answers": [
+        "Akela"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_23",
+      "title": "What was the first book Margaret Mitchell wrote?",
+      "answers": [
+        "Gone With The Wind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_24",
+      "title": "What author created the character of Tom Hagen?",
+      "answers": [
+        "Mario Puzo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_25",
+      "title": "What year was the first half of \"The Faerie Queene\" epic poem published?",
+      "answers": [
+        "1590"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_26",
+      "title": "Baroque art was a movement which was encouraged mainly by which religion?",
+      "answers": [
+        "Catholic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_27",
+      "title": "Which Italian dramatist wrote the play \"Accidental Death of an Anarchist\"?",
+      "answers": [
+        "Dario Fo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_28",
+      "title": "Who wrote the novel \"Murder on the Orient Express\"?",
+      "answers": [
+        "Agatha Christie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_29",
+      "title": "Who wrote \"Analogy of the Cave\"?",
+      "answers": [
+        "Plato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_30",
+      "title": "Who devoured a cake with the words \"Eat Me\" written on it in currants?",
+      "answers": [
+        "Alice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_31",
+      "title": "Who wrote the ballets \"The Sleeping Beauty\" and \"The Nutcracker\"?",
+      "answers": [
+        "Pyotr Ilyich Tchaikovsky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_32",
+      "title": "In mythology, who defeated the serpent Apep every night in his solar barge?",
+      "answers": [
+        "Ra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_33",
+      "title": "What character, created by A. A. Milne, loves watercress?",
+      "answers": [
+        "Roo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_34",
+      "title": "In Rudyard Kipling's \"The Jungle Book\", what type of animal was Kaa?",
+      "answers": [
+        "A snake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_35",
+      "title": "What fictional detective was introduced in the 1931 novel \"The Strange Case of Peter the Lett\"?",
+      "answers": [
+        "Jules Maigret"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_36",
+      "title": "What is the name of Viktor Frankl's best-selling 1946 book?",
+      "answers": [
+        "Man's Search for Meaning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_37",
+      "title": "Which author wrote about the Cornish seaside boarding school Malory Towers?",
+      "answers": [
+        "Enid Blyton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_38",
+      "title": "Who painted \"Carnation, Lily, Lily, Rose\"?",
+      "answers": [
+        "John Singer Sargent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_39",
+      "title": "Sulaco is a port city in which Joseph Conrad novel?",
+      "answers": [
+        "Nostromo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_40",
+      "title": "What keyboard instrument with steam whistles was named for a mythological Greek muse?",
+      "answers": [
+        "Calliope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_41",
+      "title": "What word for a wimp comes from the title character of Harold Webster's comic strip \"The Timid Soul\"?",
+      "answers": [
+        "Milquetoast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_42",
+      "title": "What daily comic strip features occasional visits from Bob the Dinosaur, \"king of the wedgies\"?",
+      "answers": [
+        "Dilbert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_43",
+      "title": "What is the name of Argus Filch's pet cat?",
+      "answers": [
+        "Mrs. Norris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_44",
+      "title": "What quested-for treasure of Greek myth was the skin of the winged ram Chrysomallos?",
+      "answers": [
+        "The Golden Fleece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_45",
+      "title": "Who wrote the 1958 book \"Journey to Christmas\"?",
+      "answers": [
+        "B. J. Chute"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_46",
+      "title": "What vowel sports a tittle when it isn't capitalized?",
+      "answers": [
+        "I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_47",
+      "title": "What musical instrument is Antonio Stradivari most famous for making?",
+      "answers": [
+        "Violin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_48",
+      "title": "What language gave us the word \"alphabet\"?",
+      "answers": [
+        "Greek"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_49",
+      "title": "What author created the character of Dr. Gideon Fell?",
+      "answers": [
+        "John Dickson Carr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_56_50",
+      "title": "What year did Anthony Burgess publish his dystopian novel, \"A Clockwork Orange\"?",
+      "answers": [
+        "1962"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

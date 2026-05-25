@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_60",
+  "name": "Science Trivia 26K 60",
+  "description": "Science 2951 - 3000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_60_01",
+      "title": "What word describes one tenth of a nautical mile?",
+      "answers": [
+        "Cable"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_02",
+      "title": "What is the maximum current of an LASCR (Light Activated Silicon Controlled Rectifier)?",
+      "answers": [
+        "3 amps"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_03",
+      "title": "What is the bone diseases that literally translates to \"porous bones\"?",
+      "answers": [
+        "Osteoporosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_04",
+      "title": "What planet is tilted on its axis more than any other?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_05",
+      "title": "What sign of the zodiac is represented by an archer?",
+      "answers": [
+        "Sagittarius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_06",
+      "title": "Which part of the body is affected by blepharitis?",
+      "answers": [
+        "Eyelids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_07",
+      "title": "An \"atomizer\" is a device most often used to distribute what?",
+      "answers": [
+        "Perfume"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_08",
+      "title": "What is both a type of bed and a layer of the rainforest?",
+      "answers": [
+        "Canopy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_09",
+      "title": "Cinnabar is the most common source for which compound?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_10",
+      "title": "What condition refers to a low oxygen level in the blood?",
+      "answers": [
+        "Hypoxia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_11",
+      "title": "What is the longest snake in the world?",
+      "answers": [
+        "Reticulated python"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_12",
+      "title": "When did scientists Glenn T. Seaborg, Albert Ghiorso, Stanley G. Thompson and Kenneth Street, Jr. discover the element Berkelium?",
+      "answers": [
+        "December 1949"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_13",
+      "title": "In what organ of the human body would you find the medulla?",
+      "answers": [
+        "The brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_14",
+      "title": "What is a one-humped camel called?",
+      "answers": [
+        "Dromedary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_15",
+      "title": "Heliphobia is the fear of what?",
+      "answers": [
+        "Sunlight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_16",
+      "title": "To which tree family does the osier belong?",
+      "answers": [
+        "Willow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_17",
+      "title": "What branch of mathematics is named for the Latin for \"small pebble\"?",
+      "answers": [
+        "Calculus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_18",
+      "title": "What is the name of the tallest grass in the world?",
+      "answers": [
+        "Bamboo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_19",
+      "title": "What type of creature generally lives on land but starts life in the water?",
+      "answers": [
+        "Amphibian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_20",
+      "title": "What French scientist is credited with inventing margarine?",
+      "answers": [
+        "Hippolyte Mege-Mouries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_21",
+      "title": "A scientist at which company invented the pH scale?",
+      "answers": [
+        "Carlsberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_22",
+      "title": "A male horse is known as a colt until it reaches what age?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_23",
+      "title": "The offspring of a male lion and a female tiger is known by what name?",
+      "answers": [
+        "Liger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_24",
+      "title": "What is a shark's skeleton made of?",
+      "answers": [
+        "Cartilage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_25",
+      "title": "What is the common term for epinephrine?",
+      "answers": [
+        "Adrenalin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_26",
+      "title": "Agoraphobia is the fear of what?",
+      "answers": [
+        "Open spaces or crowds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_27",
+      "title": "What is the atomic number of iodine?",
+      "answers": [
+        "53"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_28",
+      "title": "What is a young eel called?",
+      "answers": [
+        "Elver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_29",
+      "title": "Which body joint includes the patella?",
+      "answers": [
+        "Knee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_30",
+      "title": "What animal can clean its ear with its tongue?",
+      "answers": [
+        "Giraffe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_31",
+      "title": "What type of animal is a Samoyed?",
+      "answers": [
+        "Dog"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_32",
+      "title": "How many kilometers are in an astronomical unit?",
+      "answers": [
+        "149.6 million"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_33",
+      "title": "What was a side effect of the prehistoric humans’ diet?",
+      "answers": [
+        "Good dental health"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_34",
+      "title": "What shapes are used in a Venn diagram?",
+      "answers": [
+        "Circles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_35",
+      "title": "In 1994, the Comet Shoemaker-Levy 9 collided with which planet?",
+      "answers": [
+        "Jupiter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_36",
+      "title": "A triangle with three equal sides is called a what?",
+      "answers": [
+        "Equilateral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_37",
+      "title": "A \"Tiny Tim\" is a variety of what fruit?",
+      "answers": [
+        "Tomato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_38",
+      "title": "What element combines with sodium to make ordinary table salt?",
+      "answers": [
+        "Chlorine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_39",
+      "title": "How many yards are there in a chain?",
+      "answers": [
+        "22"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_40",
+      "title": "What element is assigned the chemical symbol Cf?",
+      "answers": [
+        "Californium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_41",
+      "title": "Nyctophobia is the fear of what?",
+      "answers": [
+        "Darkness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_42",
+      "title": "What word describes the habit of some bears for sleeping through the winter?",
+      "answers": [
+        "Hibernation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_43",
+      "title": "Which computer scientist was largely responsible for the design of \"FLOW-MATIC\", the first English-like data processing language?",
+      "answers": [
+        "Grace Hopper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_44",
+      "title": "What was the name of the first space-ready shuttle?",
+      "answers": [
+        "Columbia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_45",
+      "title": "What is Uranus' period of revolution around the Sun?",
+      "answers": [
+        "84.02 Earth Years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_46",
+      "title": "What is a Supersonic Combustion Ramjet better known as?",
+      "answers": [
+        "Scramjet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_47",
+      "title": "What \"h\"­word is the unit of measurement used to determine the height of a horse?",
+      "answers": [
+        "Hand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_48",
+      "title": "What process involves the heating of milk to a temperature of about 70 degrees Celsius?",
+      "answers": [
+        "Pasteurisation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_49",
+      "title": "What animal builds dams across streams?",
+      "answers": [
+        "The beaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_60_50",
+      "title": "What mathematician published more papers in his lifetime than any other mathematician in history?",
+      "answers": [
+        "Paul Erdos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

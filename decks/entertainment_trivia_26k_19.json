@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_19",
+  "name": "Entertainment Trivia 26K 19",
+  "description": "Entertainment 901 - 950 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_19_01",
+      "title": "Which cartoon character has a girlfriend named Petunia?",
+      "answers": [
+        "Porky Pig"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_02",
+      "title": "Who played Mr. Blonde in the movie \"Reservoir Dogs\"?",
+      "answers": [
+        "Michael Madsen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_03",
+      "title": "Who recorded the 1983 Top 5 hit \"She Works Hard for the Money\"?",
+      "answers": [
+        "Donna Summer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_04",
+      "title": "What is Harry Potter's middle name?",
+      "answers": [
+        "James"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_05",
+      "title": "What 1999 movie features the line \"What kind of dining set defines me as a person\"?",
+      "answers": [
+        "Fight Club"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_06",
+      "title": "What cartoon character is popular in Sweden during Christmas?",
+      "answers": [
+        "Donald Duck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_07",
+      "title": "\"Take the A Train\" was the signature tune of whose band?",
+      "answers": [
+        "Duke Ellington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_08",
+      "title": "Ringo Star narrated the original episodes of which children's TV series?",
+      "answers": [
+        "Thomas the Tank Engine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_09",
+      "title": "Which Canadian singer performed the song \"(Everything I Do) I Do It for You\"?",
+      "answers": [
+        "Bryan Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_10",
+      "title": "Allan Stuart Konigsberg is more famous as who?",
+      "answers": [
+        "Woody Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_11",
+      "title": "What was the first full feature film directed by George Lucas?",
+      "answers": [
+        "THX 1138"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_12",
+      "title": "What movie concerns the search for One-Eyed Willie's pirate treasure?",
+      "answers": [
+        "The Goonies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_13",
+      "title": "What do the prisoners call the escape tunnels in the film \"The Great Escape\"?",
+      "answers": [
+        "Tom, Dick and Harry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_14",
+      "title": "What was the name of Vince Vaughn’s gymnasium in “Dodgeball: A True Underdog Story”?",
+      "answers": [
+        "Average Joe's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_15",
+      "title": "What actress played Phoebe's mother on the TV show \"Friends\"?",
+      "answers": [
+        "Teri Garr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_16",
+      "title": "Which band member of Thin Lizzy died of drug overdose?",
+      "answers": [
+        "Phil Lynott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_17",
+      "title": "What instrument was Big Band leader Bennie Goodman most associated with?",
+      "answers": [
+        "Clarinet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_18",
+      "title": "What instrument was played by jazz musician Jack Teagarden?",
+      "answers": [
+        "The trombone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_19",
+      "title": "What was Buzz Lightyear's original name?",
+      "answers": [
+        "Lunar Larry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_20",
+      "title": "Who played Willis on the sitcom \"Diff'rent Strokes\"?",
+      "answers": [
+        "Todd Bridges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_21",
+      "title": "Who was originally cast as Holly Golightly in \"Breakfast at Tiffany’s\"?",
+      "answers": [
+        "Marilyn Monroe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_22",
+      "title": "Who played the role of Alan in the \"The Hangover\" movies?",
+      "answers": [
+        "Zach Galifianakis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_23",
+      "title": "What violinist-bandleader was the first inductee into the Canadian Music Hall of Fame?",
+      "answers": [
+        "Guy Lombardo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_24",
+      "title": "What Dublin-born author won both a Nobel Prize and an Academy Award during his lifetime?",
+      "answers": [
+        "George Bernard Shaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_25",
+      "title": "On the TV show “Friends,” what was the name of Ross’ pet monkey?",
+      "answers": [
+        "Marcel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_26",
+      "title": "What other singer's death inspired Paul Simon to write \"The Late Great Johnny Ace\"?",
+      "answers": [
+        "John Lennon's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_27",
+      "title": "What movie's first sequel featured the subtitle \"The Other Side\"?",
+      "answers": [
+        "Poltergeist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_28",
+      "title": "In the TV show \"Twin Peaks\", what letter was found under Laura Palmer's fingernail?",
+      "answers": [
+        "R"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_29",
+      "title": "In the TV show \"Family Guy\", who did Peter force to become a professional boxer?",
+      "answers": [
+        "Lois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_30",
+      "title": "In the movie \"The Nightmare Before Christmas\", who wants to take over Christmas and orders the kidnapping of Santa Claus?",
+      "answers": [
+        "Jack Skellington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_31",
+      "title": "What 1980 film has a character named Lacey Underall?",
+      "answers": [
+        "\"Caddyshack\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_32",
+      "title": "Who tells Thor that Odin is dead in the movie \"Thor\"?",
+      "answers": [
+        "Loki"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_33",
+      "title": "What was the name of the blonde girl in the cartoon show \"Scooby-Doo\"?",
+      "answers": [
+        "Daphne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_34",
+      "title": "What name is given to the virus in the 2002 movie \"28 Days Later\"?",
+      "answers": [
+        "The Rage Virus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_35",
+      "title": "Whose sidekick was named Mini-Me?",
+      "answers": [
+        "Dr. Evil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_36",
+      "title": "What was Fonzie's fill name on the TV show \"Happy Days\"?",
+      "answers": [
+        "Arthur Herbert Fonzarelli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_37",
+      "title": "On what 1990s TV show did the characters sometimes hang out at a bar called Shooters?",
+      "answers": [
+        "Melrose Place"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_38",
+      "title": "What movie was hyped \"Five Criminals, One Line Up, No Coincidence\"?",
+      "answers": [
+        "The Usual Suspects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_39",
+      "title": "Who starred opposite of Madonna in the 1986 film \"Shanghai Surprise\"?",
+      "answers": [
+        "Sean Penn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_40",
+      "title": "In the Beatles song, who shot Rocky Racoon?",
+      "answers": [
+        "Dan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_41",
+      "title": "Who played the role of Kevin Arnold on \"The Wonder Years\"?",
+      "answers": [
+        "Fred Savage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_42",
+      "title": "The song \"Disco Inferno\" appeared on the soundtrack to what 1970s movie?",
+      "answers": [
+        "Saturday Night Fever"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_43",
+      "title": "What actress portrayed the title character in the 1965 big-screen Western \"Cat Ballou\"?",
+      "answers": [
+        "Jane Fonda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_44",
+      "title": "During WWII what material were the Oscars made of to conserve metal for the war effort?",
+      "answers": [
+        "Plaster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_45",
+      "title": "The line \"Greed, for a lack of better word, is good!\" can be heard in what movie?",
+      "answers": [
+        "Wall Street"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_46",
+      "title": "In which 1993 Disney movie did Bette Midler star as a witch?",
+      "answers": [
+        "Hocus Pocus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_47",
+      "title": "Which 1950s film took place in Chicago and Miami in 1929?",
+      "answers": [
+        "Some Like it Hot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_48",
+      "title": "Who won an Oscar for the soundtrack to \"Chariots of Fire\"?",
+      "answers": [
+        "Vangelis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_49",
+      "title": "What is the name of the mutant rat who serves as the mentor of the Teenage Mutant Ninja Turtles?",
+      "answers": [
+        "Splinter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_19_50",
+      "title": "What was Charlie Brown's father's profession?",
+      "answers": [
+        "Barber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

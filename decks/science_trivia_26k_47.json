@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_47",
+  "name": "Science Trivia 26K 47",
+  "description": "Science 2301 - 2350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_47_01",
+      "title": "What do SETI programs search for?",
+      "answers": [
+        "Extraterrestrial Intelligence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_02",
+      "title": "What comes in varieties freestone and clingstone?",
+      "answers": [
+        "Peaches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_03",
+      "title": "What English engineer is credited with inventing the seat belt?",
+      "answers": [
+        "George Cayley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_04",
+      "title": "During its vernal equinox, the Northern Hemisphere of the Earth tilts in which direction?",
+      "answers": [
+        "Towards the Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_05",
+      "title": "What element’s chemical symbol is the letter \"I\"?",
+      "answers": [
+        "Iodine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_06",
+      "title": "What is the name of the biggest part of the human brain?",
+      "answers": [
+        "The cerebrum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_07",
+      "title": "What name is given to a cockerel that has been castrated, and often fattened, to increase the quality of its meat?",
+      "answers": [
+        "Capon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_08",
+      "title": "Who won a Nobel Prize for discovering nuclear fission?",
+      "answers": [
+        "Otto Hahn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_09",
+      "title": "How many eyelids does a duck have?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_10",
+      "title": "The name \"Pterodactyl\" is based on a Greek phrase meaning what?",
+      "answers": [
+        "Wing finger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_11",
+      "title": "What's the largest artery in the human body?",
+      "answers": [
+        "The aorta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_12",
+      "title": "The comma bacillus causes what disease?",
+      "answers": [
+        "Cholera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_13",
+      "title": "What arctic sea whale has one long horn on its head?",
+      "answers": [
+        "Narwhal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_14",
+      "title": "Which element of the periodic table is named after the Norse god of thunder?",
+      "answers": [
+        "Thorium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_15",
+      "title": "Who is credited with building the first full-scale working steam locomotive?",
+      "answers": [
+        "Richard Trevithick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_16",
+      "title": "What is the chemical symbol for Chlorine?",
+      "answers": [
+        "Cl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_17",
+      "title": "What is the more common name for a car engine using the \"Otto\" cycle?",
+      "answers": [
+        "Four stroke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_18",
+      "title": "Who devised a method for classifying fingerprints?",
+      "answers": [
+        "Francis Galton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_19",
+      "title": "What are the twin stars in the constellation of Gemini called?",
+      "answers": [
+        "Pollux and Castor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_20",
+      "title": "What do koala bears dine on?",
+      "answers": [
+        "Eucalyptus leaves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_21",
+      "title": "In physics, what does FTL stand for?",
+      "answers": [
+        "Faster than light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_22",
+      "title": "What cosmologist formulated a heliocentric cosmology?",
+      "answers": [
+        "Nicolaus Copernicus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_23",
+      "title": "The letter \"K\" can be used to denote what type of energy meaning \"to move\" in Greek?",
+      "answers": [
+        "Kinetic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_24",
+      "title": "\"Squab\" is a name given to the young of which bird?",
+      "answers": [
+        "Pigeon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_25",
+      "title": "What is the name for a human third molar?",
+      "answers": [
+        "A wisdom tooth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_26",
+      "title": "What color is oxygen in liquid or solid form?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_27",
+      "title": "What is the shape of the Earth?",
+      "answers": [
+        "Oblate spheroid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_28",
+      "title": "What animals lives in a lodge?",
+      "answers": [
+        "The beaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_29",
+      "title": "What type of creature is a copperhead?",
+      "answers": [
+        "A snake"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_30",
+      "title": "What is the SI Unit for pressure?",
+      "answers": [
+        "Pascal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_31",
+      "title": "A male with more than two testicles is said to suffer from what disorder?",
+      "answers": [
+        "Polyorchidism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_32",
+      "title": "How many claws does a housecat have?",
+      "answers": [
+        "Eighteen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_33",
+      "title": "What does an otologist study?",
+      "answers": [
+        "Ears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_34",
+      "title": "What do you call the feeling of having experienced something before?",
+      "answers": [
+        "Deja vu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_35",
+      "title": "What are match \"heads\" made of?",
+      "answers": [
+        "A type of phosphorus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_36",
+      "title": "What phenomenon do cereologists study?",
+      "answers": [
+        "Crop circles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_37",
+      "title": "What is the oldest and most numerous class of animals?",
+      "answers": [
+        "Insects"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_38",
+      "title": "What is the inflammation of the stomach and small intestine called?",
+      "answers": [
+        "Gastroenteritis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_39",
+      "title": "What is the most abundant metal in Earth's core?",
+      "answers": [
+        "Iron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_40",
+      "title": "\"Mach One\" refers to the speed of what?",
+      "answers": [
+        "Sound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_41",
+      "title": "What do the British call gasoline?",
+      "answers": [
+        "Petrol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_42",
+      "title": "The emperor penguin is the only type of penguin to inhabit which area?",
+      "answers": [
+        "Antarctica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_43",
+      "title": "Lockjaw is another name for which disease?",
+      "answers": [
+        "Tetanus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_44",
+      "title": "What is the common name for a \"circumorbital hematoma\"?",
+      "answers": [
+        "Black eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_45",
+      "title": "What kind of animal is a chukar?",
+      "answers": [
+        "Bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_46",
+      "title": "How many ventricles does the brain have?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_47",
+      "title": "How many moons does Mars have?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_48",
+      "title": "What is the only rock that will float on water?",
+      "answers": [
+        "Pumice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_49",
+      "title": "What does the Roman numeral C represent?",
+      "answers": [
+        "100"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_47_50",
+      "title": "What color are cranberries before they turn red?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

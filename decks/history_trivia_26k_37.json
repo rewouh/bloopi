@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_37",
+  "name": "History Trivia 26K 37",
+  "description": "History 1801 - 1850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_37_01",
+      "title": "Which Edward was the first ever Prince of Wales?",
+      "answers": [
+        "Edward II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_02",
+      "title": "Who was the first king of Norway?",
+      "answers": [
+        "Harald Fairhair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_03",
+      "title": "Who was the emperor of Rome from A.D. 54 – A.D. 68?",
+      "answers": [
+        "Nero"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_04",
+      "title": "In what country was Adolf Hitler born?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_05",
+      "title": "What was the first major battle of the American Civil War?",
+      "answers": [
+        "Battle of Bull Run"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_06",
+      "title": "Who ordered the disastrous \"Great Leap Forward\" in 1958?",
+      "answers": [
+        "Mao Tse-tung"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_07",
+      "title": "Which British telephone number first came into use in 1937?",
+      "answers": [
+        "999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_08",
+      "title": "What does the French dessert Bûche de Noël represent?",
+      "answers": [
+        "Yule log"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_09",
+      "title": "What liquid did Romans use as mouth wash because of the presence of ammonia in it?",
+      "answers": [
+        "Urine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_10",
+      "title": "Who sent the Spanish Armada to invade England?",
+      "answers": [
+        "Philip II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_11",
+      "title": "What family-planning pioneer coined the phrase \"birth control\" in 1914?",
+      "answers": [
+        "Margaret Sanger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_12",
+      "title": "Mark David Chapman became famous for what in 1980?",
+      "answers": [
+        "Shooting John Lennon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_13",
+      "title": "What US president was known as \"Father of the Constitution\"?",
+      "answers": [
+        "James Madison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_14",
+      "title": "How many concentration camps did Nazi Germany operate in Occupied Poland?",
+      "answers": [
+        "457"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_15",
+      "title": "What sank the Titanic?",
+      "answers": [
+        "An iceberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_16",
+      "title": "In which war was the Charge of the Light Brigade?",
+      "answers": [
+        "Crimean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_17",
+      "title": "What infamous assassin hollered \"Sic Semper Tyrannis\" as he made his escape?",
+      "answers": [
+        "John Wilkes Booth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_18",
+      "title": "Who was the first Greek physician to keep records of his patients?",
+      "answers": [
+        "Hippocrates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_19",
+      "title": "Plato thought the Lost Island of Atlantis was linked to which ancient culture?",
+      "answers": [
+        "Minoan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_20",
+      "title": "Which New Zealand philanthropist was the first to reach the summit of Mount Everest?",
+      "answers": [
+        "Sir Edmund Hillary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_21",
+      "title": "Which South African town was severely damaged by the Boland Earthquake in September 1969?",
+      "answers": [
+        "Tulbagh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_22",
+      "title": "Who founded the city of Philadelphia?",
+      "answers": [
+        "William Penn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_23",
+      "title": "What Irish family brewed its first stout in 1820?",
+      "answers": [
+        "The Guinness Family"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_24",
+      "title": "What was Klaus Barbie’s nickname?",
+      "answers": [
+        "The Butcher of Lyon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_25",
+      "title": "Samuel Miller patented the first steam-powered what in 1806?",
+      "answers": [
+        "Drill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_26",
+      "title": "What military legend was nicknamed \"Gentleman Johnny\"?",
+      "answers": [
+        "John Burgoyne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_27",
+      "title": "Which exiled South Asian leader returned home in 2007, only to be assassinated two months later?",
+      "answers": [
+        "Benazir Bhutto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_28",
+      "title": "On Christmas Day 800 A.D., who was coronated as emperor of the Holy Roman Empire?",
+      "answers": [
+        "Charlemagne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_29",
+      "title": "What did the 1928 Kellogg-Briand Pact, signed by 62 nations, denounce?",
+      "answers": [
+        "War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_30",
+      "title": "What is the collective name for household deities worshiped by the Romans?",
+      "answers": [
+        "Lares"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_31",
+      "title": "What legendary pirate helped defend New Orleans during the War of 1812?",
+      "answers": [
+        "Jean Laffite"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_32",
+      "title": "The Gulf War occurred after Iraq invaded what country?",
+      "answers": [
+        "Kuwait"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_33",
+      "title": "On June 25, 1993, Kim Campbell became the first female prime minister of which country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_34",
+      "title": "Who won the 1990 Nobel Peace Prize?",
+      "answers": [
+        "Mikhail Gorbachev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_35",
+      "title": "What US state has been governed by Gifford Pinchot and Milton Shapp?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_36",
+      "title": "What did ancient Sumerians typically use to construct their homes?",
+      "answers": [
+        "Sun-dried clay bricks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_37",
+      "title": "In what year did the State of California officially join the United States as its 31st state?",
+      "answers": [
+        "1850"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_38",
+      "title": "Who was the first U.S. Vice President to resign?",
+      "answers": [
+        "John C. Calhoun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_39",
+      "title": "What car manufacturer was the first to mass-produce and equip a production vehicle with a V4 engine?",
+      "answers": [
+        "Lancia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_40",
+      "title": "Who had to be removed for swearing from President Andrew Jackson's funeral?",
+      "answers": [
+        "His Pet Parrot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_41",
+      "title": "What day did the Battle of the Somme end?",
+      "answers": [
+        "November 18, 1916"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_42",
+      "title": "Archbishop Makarios of Cyprus was exiled in 1956 to where?",
+      "answers": [
+        "The Seychelles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_43",
+      "title": "Who is widely credited for sewing the first American flag?",
+      "answers": [
+        "Betsy Ross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_44",
+      "title": "What great Onondaga orator persuaded five Indian nations to form the Iroquois Confederacy?",
+      "answers": [
+        "Hiawatha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_45",
+      "title": "What royal subject married Sarah Ferguson?",
+      "answers": [
+        "Prince Andrew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_46",
+      "title": "Who patented the concept of a flat engine in 1896?",
+      "answers": [
+        "Karl Benz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_47",
+      "title": "Which president had a swimming pool installed in the White House?",
+      "answers": [
+        "Franklin Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_48",
+      "title": "What is the first known form of written communication, found in the Mesopotamian Valley?",
+      "answers": [
+        "Cuneiform"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_49",
+      "title": "What year did Napoleon become the Emperor of the French?",
+      "answers": [
+        "1804"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_37_50",
+      "title": "What was the name given to the French goverment which collaborated with the Nazis?",
+      "answers": [
+        "Vichy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

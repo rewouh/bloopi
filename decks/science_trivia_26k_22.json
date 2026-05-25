@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_22",
+  "name": "Science Trivia 26K 22",
+  "description": "Science 1051 - 1100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_22_01",
+      "title": "What mammal's most common species is the bottlenose?",
+      "answers": [
+        "Dolphin's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_02",
+      "title": "What is the Fahrenheit equivalent of -40 degrees Celsius",
+      "answers": [
+        "-40 degrees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_03",
+      "title": "What ferrous alloy has a minimum of 10 percent chromium content?",
+      "answers": [
+        "Stainless steel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_04",
+      "title": "What is poliosis?",
+      "answers": [
+        "Graying of hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_05",
+      "title": "What organisms are known as the oldest fossils is what?",
+      "answers": [
+        "Blue-green algae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_06",
+      "title": "The Campbell-Stokes Recorder measures what with a glass ball?",
+      "answers": [
+        "Sunshine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_07",
+      "title": "What are categorized as the biological class \"aves\"?",
+      "answers": [
+        "Birds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_08",
+      "title": "The surface of the dwarf planet Pluto is made largely of what type of frozen gas?",
+      "answers": [
+        "Methane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_09",
+      "title": "What 2 features are longer on a hare than on a rabbit?",
+      "answers": [
+        "Ears and legs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_10",
+      "title": "Ariel is a moon of which planet in the solar system?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_11",
+      "title": "Atelophobia is the fear of what?",
+      "answers": [
+        "Imperfection"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_12",
+      "title": "What does a Scoville unit measure?",
+      "answers": [
+        "Spiciness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_13",
+      "title": "How many chromosomes does a wolf have?",
+      "answers": [
+        "78"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_14",
+      "title": "How many moons does the planet Neptune have?",
+      "answers": [
+        "14"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_15",
+      "title": "Pnigerophobia is the fear of what?",
+      "answers": [
+        "Smothering"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_16",
+      "title": "In its native habitat how high can a poinsettia grow as a flowering shrub?",
+      "answers": [
+        "10 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_17",
+      "title": "The Ishihara Test is a color perception test used to detect deficiencies for which colors?",
+      "answers": [
+        "Red and green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_18",
+      "title": "Which planet in our solar system has the highest sustained wind speed?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_19",
+      "title": "What product that takes its name from a farm animal is a step along the way from iron ore to cast iron?",
+      "answers": [
+        "Pig iron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_20",
+      "title": "On what kind of triangle are all sides unequal, and all angles are different in measure?",
+      "answers": [
+        "Scalene"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_21",
+      "title": "What type of natural perfume comes from beavers?",
+      "answers": [
+        "Castor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_22",
+      "title": "Heavy water contains what isotopic form of hydrogen?",
+      "answers": [
+        "Deuterium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_23",
+      "title": "Masses are to Newton's Gravitational Law as charges are to what?",
+      "answers": [
+        "Coulomb's Law"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_24",
+      "title": "Do sea gulls drink sea water?",
+      "answers": [
+        "Yes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_25",
+      "title": "What name is given to the crater at the top of a volcano caused by its collapse?",
+      "answers": [
+        "Caldera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_26",
+      "title": "What is the more common name for the fruit \"Citrus maxima\"?",
+      "answers": [
+        "Pomelo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_27",
+      "title": "Who is credited with designing the modern zipper as we know it and use it today?",
+      "answers": [
+        "Gideon Sundback"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_28",
+      "title": "What is the only canine that can climb trees?",
+      "answers": [
+        "Gray fox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_29",
+      "title": "What South American monkey takes its name due to its similarity in appearance to a nocturnal bird?",
+      "answers": [
+        "Owl monkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_30",
+      "title": "What is it called when the liquid vapor pressure equals to the pressure of the gas above it?",
+      "answers": [
+        "Boiling Point"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_31",
+      "title": "What vitamin deficiency causes Rickets?",
+      "answers": [
+        "Vitamin D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_32",
+      "title": "The flowers known as rhododendrons are most commonly shaped like what?",
+      "answers": [
+        "Bells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_33",
+      "title": "What is the common name for solid carbon dioxide?",
+      "answers": [
+        "Dry ice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_34",
+      "title": "What do you call an organ that produces gametes?",
+      "answers": [
+        "Gonad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_35",
+      "title": "What is an Anhinga?",
+      "answers": [
+        "A bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_36",
+      "title": "What thin yellow fluid do the mammary glands secrete before lactation begins?",
+      "answers": [
+        "Colostrum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_37",
+      "title": "What is a dried plum?",
+      "answers": [
+        "A prune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_38",
+      "title": "Aphenphosmphobia is fear of what?",
+      "answers": [
+        "Being touched"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_39",
+      "title": "Who invented the kinetoscope?",
+      "answers": [
+        "Louis Le Prince"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_40",
+      "title": "A Sone is a unit of what?",
+      "answers": [
+        "Loudness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_41",
+      "title": "Acetylsalicylic acid is the chemical name for which?",
+      "answers": [
+        "Aspirin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_42",
+      "title": "What type of rock is formed by consolidation of molten magma?",
+      "answers": [
+        "Igneous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_43",
+      "title": "The star cluster, \"Seven Sisters\", is also known as what?",
+      "answers": [
+        "Pleiades"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_44",
+      "title": "Which phobia is the most common phobia?",
+      "answers": [
+        "Arachnophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_45",
+      "title": "Which letter in the Greek alphabet is a circle with a horizontal dash through the center?",
+      "answers": [
+        "Theta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_46",
+      "title": "What \"imaginary\" number is defined as the square root of -1?",
+      "answers": [
+        "i"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_47",
+      "title": "What is the chemical symbol for Lead?",
+      "answers": [
+        "Pb"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_48",
+      "title": "What three-letter word means the smallest piece of information used by a computer?",
+      "answers": [
+        "Bit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_49",
+      "title": "\"Ships of the desert\" are what?",
+      "answers": [
+        "Camels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_22_50",
+      "title": "Which bees in a hive are there to fertilize the queen?",
+      "answers": [
+        "Drone bees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

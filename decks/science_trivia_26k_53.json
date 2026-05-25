@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_53",
+  "name": "Science Trivia 26K 53",
+  "description": "Science 2601 - 2650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_53_01",
+      "title": "How many planets are between Earth and the Sun?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_02",
+      "title": "How many throwing events are there in a decathlon?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_03",
+      "title": "What is the leaf of a fern called?",
+      "answers": [
+        "Frond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_04",
+      "title": "What is measured in Poise?",
+      "answers": [
+        "Viscosity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_05",
+      "title": "What element must be burned out of pig iron to make steel?",
+      "answers": [
+        "Carbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_06",
+      "title": "What class includes the scorpions and spiders?",
+      "answers": [
+        "Arachnid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_07",
+      "title": "What is the largest fish living today?",
+      "answers": [
+        "The Whale shark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_08",
+      "title": "The \"Bodansky Unit\", now an obsolete unit, used to measure the concentration of what in the blood stream?",
+      "answers": [
+        "Alkaline phosphatase"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_09",
+      "title": "The Moon's name is derived from the Latin word meaning what?",
+      "answers": [
+        "Month"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_10",
+      "title": "Which natural phenomenon can be measured on the Mercalli scale?",
+      "answers": [
+        "Earthquakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_11",
+      "title": "Which middle layer of a tooth contains the root canals?",
+      "answers": [
+        "The dentin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_12",
+      "title": "What is a group of mosquito eggs called?",
+      "answers": [
+        "Pallia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_13",
+      "title": "What is the technical term for armpit?",
+      "answers": [
+        "Axilla"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_14",
+      "title": "What does the \"CAT\" in \"CAT scan\" stand for?",
+      "answers": [
+        "Computerized Axial Tomography"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_15",
+      "title": "Insect bodies have how many major divisions?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_16",
+      "title": "Who discovered the planet Uranus?",
+      "answers": [
+        "Sir William Herschel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_17",
+      "title": "What year did the US issue a patent on the production of margarine?",
+      "answers": [
+        "1871"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_18",
+      "title": "In what part of the body would you find cowper's fluid?",
+      "answers": [
+        "The penis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_19",
+      "title": "How many feet make a mile?",
+      "answers": [
+        "5,280"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_20",
+      "title": "What is the sum of the angles of a triangle?",
+      "answers": [
+        "180 degrees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_21",
+      "title": "Where are a quarter of a human body's bones located?",
+      "answers": [
+        "The feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_22",
+      "title": "Who oversaw the design and assembly of the first atomic bomb?",
+      "answers": [
+        "J. Robert Oppenheimer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_23",
+      "title": "What animal is part of the eternal dilemma of what came first?",
+      "answers": [
+        "The chicken"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_24",
+      "title": "What breed of domestic cat is known for swimming?",
+      "answers": [
+        "Turkish Van"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_25",
+      "title": "What tree gives us prunes?",
+      "answers": [
+        "The plum tree"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_26",
+      "title": "What is the only metal that is liquid at room temperature?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_27",
+      "title": "What color of star has the hottest surface temperature?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_28",
+      "title": "What does a man suffering from \"diphallic terata\" have?",
+      "answers": [
+        "Two penises"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_29",
+      "title": "What astrological chart takes its name from a Greek word meaning \"circle of little animals\"?",
+      "answers": [
+        "Zodiac"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_30",
+      "title": "What is the only mammal native to Iceland?",
+      "answers": [
+        "Artic fox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_31",
+      "title": "What extinct subspecies of zebra had stripes in front but a plain brown hindquarters?",
+      "answers": [
+        "The quagga"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_32",
+      "title": "How many teats does a cow have?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_33",
+      "title": "In which part of the body are your metatarsals located?",
+      "answers": [
+        "Foot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_34",
+      "title": "What is measured in Amperes?",
+      "answers": [
+        "Electric current"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_35",
+      "title": "What variety of bananas is the most commonly sold in stores?",
+      "answers": [
+        "Cavendish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_36",
+      "title": "From which language does the name \"coyote\" originate?",
+      "answers": [
+        "Aztec"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_37",
+      "title": "The Kelvin scale is used to measure what?",
+      "answers": [
+        "Temperature"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_38",
+      "title": "What drug is obtained from the cinchona tree?",
+      "answers": [
+        "Quinine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_39",
+      "title": "Arithmophobia is the fear of what?",
+      "answers": [
+        "Numbers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_40",
+      "title": "What method of underwater detection is short of \"sound navigation and ranging\"?",
+      "answers": [
+        "Sonar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_41",
+      "title": "Which plant has the most genes of any living plant or animal?",
+      "answers": [
+        "Paris Japonica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_42",
+      "title": "What is the only dog rated above the Basset Hound for its sense of smell?",
+      "answers": [
+        "Bloodhound"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_43",
+      "title": "Filbert is an alternative name for which nut?",
+      "answers": [
+        "Hazelnut"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_44",
+      "title": "Ouranophobia is a fear of what?",
+      "answers": [
+        "Heaven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_45",
+      "title": "Copper gets its name from which Mediterranean country?",
+      "answers": [
+        "Cyprus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_46",
+      "title": "Which planet spins on a nearly horizontal axis, as opposed to all the others which  spin on a vertical axis?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_47",
+      "title": "How many plates comprise the surface of the Earth?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_48",
+      "title": "In what part of the body would you find aqueous humour?",
+      "answers": [
+        "The eye"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_49",
+      "title": "Due to getting sick, which astronaut was replaced in the Apollo XIII mission?",
+      "answers": [
+        "Ken Mattingly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_53_50",
+      "title": "What does a phobophobe fear?",
+      "answers": [
+        "Fear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

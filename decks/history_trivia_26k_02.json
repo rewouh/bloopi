@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_02",
+  "name": "History Trivia 26K 02",
+  "description": "History 51 - 100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_02_01",
+      "title": "What is the oldest continuously inhabited city in the world?",
+      "answers": [
+        "Damascus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_02",
+      "title": "What was Susan B. Anthony and Elizabeth Cady Stanton’s newspaper named?",
+      "answers": [
+        "\"The Revolution\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_03",
+      "title": "Who was the first man to appear on the cover of Playboy Magazine?",
+      "answers": [
+        "Peter Sellers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_04",
+      "title": "Who succeeded Jimmy Carter as the 40th President of the United States?",
+      "answers": [
+        "Ronald Reagan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_05",
+      "title": "What nationality was Christopher Columbus?",
+      "answers": [
+        "Italian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_06",
+      "title": "What war gave the US its freedom from Britain?",
+      "answers": [
+        "American Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_07",
+      "title": "Who is the mother of the Roman god Cupid?",
+      "answers": [
+        "Venus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_08",
+      "title": "What organisation was founded in 1961 by British lawyer Peter Benenson?",
+      "answers": [
+        "Amnesty International"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_09",
+      "title": "On what date did Abraham Lincoln die?",
+      "answers": [
+        "April 15, 1865"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_10",
+      "title": "Who was US president when the stock market crashed in 1929?",
+      "answers": [
+        "Herbert Hoover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_11",
+      "title": "Which World War II General said \"I came through and I shall return\"?",
+      "answers": [
+        "Douglas MacArthur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_12",
+      "title": "What tribe was Pocahontas from?",
+      "answers": [
+        "Powhatan tribal nation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_13",
+      "title": "What name was given to Britain’s policy of avoiding strict enforcement of parliamentary laws on early American colonies?",
+      "answers": [
+        "Salutary neglect"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_14",
+      "title": "When Christopher Columbus sailed to America, what was the first region he arrived in?",
+      "answers": [
+        "The Bahamas Archipelago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_15",
+      "title": "What was Typhoid Mary's job?",
+      "answers": [
+        "Cook"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_16",
+      "title": "What city held the world’s first major modern cat show in 1871?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_17",
+      "title": "What was the subject of the first color photograph?",
+      "answers": [
+        "A tartan ribbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_18",
+      "title": "Who succeeded Ronald Reagan as the 41st President of the United States?",
+      "answers": [
+        "George H.W. Bush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_19",
+      "title": "What year did Volkswagen debut the Golf?",
+      "answers": [
+        "1974"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_20",
+      "title": "Who is Temujin better known as?",
+      "answers": [
+        "Genghis Khan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_21",
+      "title": "Who was the first documented user of an alarm clock?",
+      "answers": [
+        "Plato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_22",
+      "title": "Who was the 20th President of the US?",
+      "answers": [
+        "James Garfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_23",
+      "title": "What ships did Vikings sail in?",
+      "answers": [
+        "Longboats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_24",
+      "title": "Where did President Franklin D. Roosevelt die?",
+      "answers": [
+        "Warm Springs, Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_25",
+      "title": "What's the longest running TV show of all time?",
+      "answers": [
+        "Guiding Light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_26",
+      "title": "Which Italian city was buried, along with Herculaneum, when Vesuvius erupted in AD. 79?",
+      "answers": [
+        "Pompeii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_27",
+      "title": "What ship was commanded by William Bligh?",
+      "answers": [
+        "Bounty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_28",
+      "title": "What documents were responsible for establishing the 17th Parallel as the line that separated Vietnam during the Vietnam War?",
+      "answers": [
+        "Geneva Accords"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_29",
+      "title": "What famous diplomat represented France at the Congress of Vienna in 1814?",
+      "answers": [
+        "Talleyrand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_30",
+      "title": "George III of the United Kingdom was given what nickname?",
+      "answers": [
+        "Farmer George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_31",
+      "title": "How did Socrates commit suicide?",
+      "answers": [
+        "By drinking poison hemlock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_32",
+      "title": "How long did it take Sir Francis Drake to sail around the world in 1580?",
+      "answers": [
+        "3 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_33",
+      "title": "What was Joseph Stalin's nationality?",
+      "answers": [
+        "Georgian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_34",
+      "title": "Who was the youngest Chief Justice appointed to the U.S. Supreme Court?",
+      "answers": [
+        "John Jay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_35",
+      "title": "What year did Amazon.com make its first sale?",
+      "answers": [
+        "1995"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_36",
+      "title": "What was Che Guevara's real first name?",
+      "answers": [
+        "Ernesto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_37",
+      "title": "How many former US presidents died during the 1990's?",
+      "answers": [
+        "1 - Richard Nixon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_38",
+      "title": "What year did the Chernobyl disaster occur?",
+      "answers": [
+        "1986"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_39",
+      "title": "What did David Stirling form in 1941?",
+      "answers": [
+        "SAS (Special Air Service)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_40",
+      "title": "When was Cable News Network, or CNN, launched?",
+      "answers": [
+        "June 1, 1980"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_41",
+      "title": "Who became prime minister of Cuba in 1959?",
+      "answers": [
+        "Fidel Castro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_42",
+      "title": "The Protestant Reformation was started by whom?",
+      "answers": [
+        "Martin Luther"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_43",
+      "title": "When did the Battle of the Plains of Abraham take place?",
+      "answers": [
+        "1759"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_44",
+      "title": "What was the original Dutch name of New York City?",
+      "answers": [
+        "New Amsterdam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_45",
+      "title": "Who gave the first known diamond engagement ring?",
+      "answers": [
+        "Archduke Maximilian of Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_46",
+      "title": "How were Teddy Roosevelt and Franklin Delano Roosevelt related?",
+      "answers": [
+        "Fifth cousins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_47",
+      "title": "In what country is the grave of the famous German philosopher Immanuel Kant located?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_48",
+      "title": "What 1990's Russian president had quintuple bypass surgery while in office?",
+      "answers": [
+        "Boris Yeltsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_49",
+      "title": "What year was Prince Charles invested as Prince of Wales at Caernarvon Castle?",
+      "answers": [
+        "1969"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_02_50",
+      "title": "Seretse Khama was the first President of which African country?",
+      "answers": [
+        "Botswana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

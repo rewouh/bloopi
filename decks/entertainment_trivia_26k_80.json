@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_80",
+  "name": "Entertainment Trivia 26K 80",
+  "description": "Entertainment 3951 - 4000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_80_01",
+      "title": "On what American network were you able to watch the TV show “The Beatles” from 1965 until 1969?",
+      "answers": [
+        "ABC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_02",
+      "title": "What popular musician's last name is Ciccone?",
+      "answers": [
+        "Madonna"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_03",
+      "title": "What weapon was so powerful that Epic Games pulled it from \"Fortnite\" after only four days in December 2018?",
+      "answers": [
+        "Infinity Blade"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_04",
+      "title": "Who played Vincent Vega in \"Pulp Fiction\"?",
+      "answers": [
+        "John Travolta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_05",
+      "title": "What actor was the narrator in the movie \"Alive\"?",
+      "answers": [
+        "John Malkovich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_06",
+      "title": "In the movie \"Four Weddings and a Funeral\", which character dies?",
+      "answers": [
+        "Gareth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_07",
+      "title": "What male actor plays the lead role in the 2005 movie \"The Island\"?",
+      "answers": [
+        "Ewen McGregor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_08",
+      "title": "Which 1980's sitcom featured Tom Hanks in drag on a regular basis?",
+      "answers": [
+        "Bosom Buddies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_09",
+      "title": "From which bridge did Barry Miller fall from in the 1977 movie \"Saturday Night Fever\"?",
+      "answers": [
+        "The Verrazano-Narrows Bridge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_10",
+      "title": "What year did actor Heath Ledger die?",
+      "answers": [
+        "2008"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_11",
+      "title": "What TV show takes place in the fictional city of Quahog, Rhode Island?",
+      "answers": [
+        "The Family Guy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_12",
+      "title": "Jennifer Lopez started her career on which television show?",
+      "answers": [
+        "\"In Living Color\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_13",
+      "title": "Lady Gaga derived her stage name from a song performed by which legendary band?",
+      "answers": [
+        "Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_14",
+      "title": "What band, formed in 1977, was fronted by singer/guitarist Mark Knopfler?",
+      "answers": [
+        "Dire Straits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_15",
+      "title": "Which famous actress was born Vera Jane Palmer?",
+      "answers": [
+        "Jayne Mansfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_16",
+      "title": "What actress earned an Oscar nomination for her first screen appearance in \"Funny Girl\"?",
+      "answers": [
+        "Barbra Streisand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_17",
+      "title": "What was Billy Joel’s first Top 40 hit?",
+      "answers": [
+        "Piano Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_18",
+      "title": "In the TV show \"The Simpsons\", what is the name of Springfield's comic book store?",
+      "answers": [
+        "Android's Dungeon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_19",
+      "title": "Who was the commander of the Starship Enterprise?",
+      "answers": [
+        "Captain James T. Kirk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_20",
+      "title": "What is Ringo Starr's birth name?",
+      "answers": [
+        "Richard Starkey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_21",
+      "title": "In The Simpsons, what kind of footwear does Grampa usually sport?",
+      "answers": [
+        "Slippers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_22",
+      "title": "In The Simpsons, who sings to Homer and the other astronauts in space?",
+      "answers": [
+        "James Taylor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_23",
+      "title": "Which band member of The Byrds died of drug overdose?",
+      "answers": [
+        "Gram Parsons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_24",
+      "title": "In which UNESCO World Heritage site was \"Mortal Kombat: Annihilation\" filmed?",
+      "answers": [
+        "Petra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_25",
+      "title": "What late Texas blues rocker was backed by a group called Double Trouble?",
+      "answers": [
+        "Stevie Ray Vaughan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_26",
+      "title": "Who made his directorial debut with the 1966 movie \"Who's Afraid of Virginia Woolf\"?",
+      "answers": [
+        "Mike Nichols"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_27",
+      "title": "What was comedian Redd Foxx's real last name?",
+      "answers": [
+        "Sanford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_28",
+      "title": "Who is Metallica's drummer?",
+      "answers": [
+        "Lars Ulrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_29",
+      "title": "What city is the TV show \"Sex and the City\" based in?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_30",
+      "title": "What show's slogan is \"Gentlemen, start your engines! And may the best Woman win!\"?",
+      "answers": [
+        "RuPaul's Drag Race"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_31",
+      "title": "Who directed the 1973 movie \"American Graffiti\"",
+      "answers": [
+        "George Lucas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_32",
+      "title": "Who dramatically kissed Halle Berry on stage when he won Best Actor?",
+      "answers": [
+        "Adrien Brody"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_33",
+      "title": "What movie was Sean Penn's directorial debut?",
+      "answers": [
+        "Indian Runner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_34",
+      "title": "In the TV show \"The Simpsons\", how many children do Apu and Manjula have?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_35",
+      "title": "Who is the youngest member of the band Boyzone?",
+      "answers": [
+        "Ronan Keating"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_36",
+      "title": "Which character did Stephen Boyd play in the 1966 science fiction film \"Fantastic Voyage\"?",
+      "answers": [
+        "Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_37",
+      "title": "What did Billy Batson have to shout in order to turn into Captain Marvel?",
+      "answers": [
+        "Shazam!"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_38",
+      "title": "In \"The Legend of Zelda: Ocarina of Time\", how many races are there?",
+      "answers": [
+        "6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_39",
+      "title": "The TV mini-series \"Rich Man, Poor Man\" was based on the lives of what family?",
+      "answers": [
+        "The Jordache Family"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_40",
+      "title": "In 2000, the Black Crowes released a live album recorded with what legendary guitar player?",
+      "answers": [
+        "Jimmy Page"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_41",
+      "title": "What was Popeye's favorite food?",
+      "answers": [
+        "Spinach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_42",
+      "title": "What 1995 film was Robert Rodriguez's big-budget follow-up to the low-budget hit \"El Mariachi\"?",
+      "answers": [
+        "Desperado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_43",
+      "title": "What was the name of Dr. Evil’s cat in the \"Austin Powers\" movies series?",
+      "answers": [
+        "Mr. Bigglesworth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_44",
+      "title": "Who wrote and directed the 1973 film \"Westworld\" that was used as the basis for the 2016 HBO TV series by the same name?",
+      "answers": [
+        "Michael Crichton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_45",
+      "title": "What rockstar's ashes were scattered both in the Ganges River and San Francisco in 1996?",
+      "answers": [
+        "Jerry Garcia's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_46",
+      "title": "All of the clocks in Pulp Fiction are stuck at what time?",
+      "answers": [
+        "4:20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_47",
+      "title": "Who made the song \"A Boy Named Sue\" popular in 1969?",
+      "answers": [
+        "Johnny Cash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_48",
+      "title": "What genre is Neil Young considered to be the grandfather of?",
+      "answers": [
+        "Grunge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_49",
+      "title": "What short-lived 1970s TV series was set on Moonbase Alpha?",
+      "answers": [
+        "Space: 1999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_80_50",
+      "title": "Who has been played in a movie by both Willem Defoe and James Caviezel?",
+      "answers": [
+        "Jesus Christ"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

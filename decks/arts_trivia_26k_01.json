@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_01",
+  "name": "Arts Trivia 26K 01",
+  "description": "Arts 1 - 50 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_01_01",
+      "title": "What original literary work was the movie \"A Place in the Sun\" based on?",
+      "answers": [
+        "An American Tragedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_02",
+      "title": "How did Scarlett and Rhett’s daughter die, in \"Gone with the Wind\"?",
+      "answers": [
+        "Fell off a horse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_03",
+      "title": "Who titled his 1989 autobiography \"Holy Cow!\"?",
+      "answers": [
+        "Harry Caray"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_04",
+      "title": "In Greek mythology, Atlas was a member of what group?",
+      "answers": [
+        "The Titans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_05",
+      "title": "Which DC Comics character is Joe Shuster best known for co-creating?",
+      "answers": [
+        "Superman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_06",
+      "title": "According to one popular interpretation, what does \"Pinocchio\" mean in Italian?",
+      "answers": [
+        "Pine eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_07",
+      "title": "In which play does Dame Pliant appear?",
+      "answers": [
+        "The Alchemist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_08",
+      "title": "Which detective dies in the short story, \"The Final Problem\"?",
+      "answers": [
+        "Sherlock Holmes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_09",
+      "title": "In the novel \"Don Quixote\", what swiveling structures are mistaken for giants?",
+      "answers": [
+        "Windmills"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_10",
+      "title": "What city's opera house does \"The Phantom of the Opera\" prowl?",
+      "answers": [
+        "Paris'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_11",
+      "title": "What is the 6th Book of the New Testament?",
+      "answers": [
+        "Romans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_12",
+      "title": "In the Harry Potter books, the entrance to Gryffindor Tower is hidden behind a painting of whom?",
+      "answers": [
+        "The Fat Lady"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_13",
+      "title": "Andy Warhol's \"Factory\" was located in what large eastern American city?",
+      "answers": [
+        "New York City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_14",
+      "title": "What species are mingled to produce a Chimera?",
+      "answers": [
+        "Lion, goat and serpent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_15",
+      "title": "What is the name of Batman's Butler?",
+      "answers": [
+        "Alfred"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_16",
+      "title": "What classic novel's subtitle is \"The Whale\"?",
+      "answers": [
+        "Moby-Dick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_17",
+      "title": "In Greek mythology, what is the name of the staff carried by Hermes?",
+      "answers": [
+        "The Caduceus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_18",
+      "title": "What musical instrument does Sherlock Holmes play for relaxation?",
+      "answers": [
+        "Violin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_19",
+      "title": "What Saturday Evening Post artist was known for his whimsical pictures of Santa Claus?",
+      "answers": [
+        "Norman Rockwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_20",
+      "title": "What is Mozart's full name?",
+      "answers": [
+        "Wolfgang Amadeus Mozart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_21",
+      "title": "An adventurous penguin Tennessee Tuxedo had a sidekick named what?",
+      "answers": [
+        "Chumley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_22",
+      "title": "Which characters appear first in \"Harry Potter and the Sorcerer's Stone\"?",
+      "answers": [
+        "Mr. and Mrs. Dursley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_23",
+      "title": "Whose Romantic odes include \"Ode to Melancholy\" and \"Ode on a Grecian Urn\"?",
+      "answers": [
+        "John Keats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_24",
+      "title": "Who composed the music for the opera \"The Tales of Hoffman\"?",
+      "answers": [
+        "Jacques Offenbach"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_25",
+      "title": "Which year was the first book in the Harry Potter series published?",
+      "answers": [
+        "1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_26",
+      "title": "What original literary work was the movie \"Die Hard 2\" based on?",
+      "answers": [
+        "58 Minutes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_27",
+      "title": "In which comic book did Batman make his first appearance?",
+      "answers": [
+        "Detective Comics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_28",
+      "title": "In the comic book series \"Strangers in Paradise\", what is the name of the advertising company Francine interviews for and gets mocked at in the elevator?",
+      "answers": [
+        "RBK&S"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_29",
+      "title": "In \"The Farmer in the Dell\", what does the child take?",
+      "answers": [
+        "A nurse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_30",
+      "title": "What is Shakespeare’s shortest tragedy?",
+      "answers": [
+        "Macbeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_31",
+      "title": "The Semper Opera House is located where?",
+      "answers": [
+        "Dresden, Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_32",
+      "title": "In the nursery rhyme \"This Little Piggy\", what meat did the third little piggy eat?",
+      "answers": [
+        "Roast beef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_33",
+      "title": "What pieces of fruit contain three princesses in Sergei Prokofiev's most famous opera?",
+      "answers": [
+        "Oranges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_34",
+      "title": "Which writers works include \"The Dark Eyes of London\", \"Four Just Men\" and \"Sanders of the River\"?",
+      "answers": [
+        "Edgar Wallace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_35",
+      "title": "What term for elaborate, decorative lettering comes from the Greek meaning \"beautiful writing\"?",
+      "answers": [
+        "Calligraphy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_36",
+      "title": "Who painted \"The Blue Boy\"?",
+      "answers": [
+        "Thomas Gainsborough"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_37",
+      "title": "In Greek mythology, who did Melanion defeat in a footrace?",
+      "answers": [
+        "Atalanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_38",
+      "title": "What classic novel's subtitle is \"A Tale of the Christ\"?",
+      "answers": [
+        "Ben-Hur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_39",
+      "title": "Which classic novel's subtitle is \"The Modern Prometheus\"?",
+      "answers": [
+        "Frankenstein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_40",
+      "title": "According to Exodus, what is the tenth plague of Egypt?",
+      "answers": [
+        "Death of a firstborn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_41",
+      "title": "What year did Camille Saint-Saens' opera \"Samson and Delilah\" debut?",
+      "answers": [
+        "1877"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_42",
+      "title": "Who hosted the \"Mad Tea Party\" in \"Alice of Wonderland\"?",
+      "answers": [
+        "The March Hare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_43",
+      "title": "Who wrote the play, \"A Streetcar Named Desire\"?",
+      "answers": [
+        "Tennessee Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_44",
+      "title": "What Shakesperian play involves love between a Roman Soldier and the Queen of Egypt?",
+      "answers": [
+        "Antony and Cleopatra"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_45",
+      "title": "Which sportsman's autobiography is titled \"You Cannot Be Serious\"?",
+      "answers": [
+        "John McEnroe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_46",
+      "title": "What was Winnie the Pooh's original name?",
+      "answers": [
+        "Winnipeg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_47",
+      "title": "In Greek mythology, who did Hippomenes defeat in a footrace?",
+      "answers": [
+        "Atalanta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_48",
+      "title": "Which Shakespearean character has the most lines?",
+      "answers": [
+        "Hamlet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_49",
+      "title": "What H. G. Wells title would become a Ralph Ellison novel without the initial \"the\"?",
+      "answers": [
+        "The Invisible Man"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_01_50",
+      "title": "In the book \"Percy Jackson & the Olympians\" series, who is Percy's father?",
+      "answers": [
+        "Poseidon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

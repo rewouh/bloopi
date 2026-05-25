@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_44",
+  "name": "Science Trivia 26K 44",
+  "description": "Science 2151 - 2200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_44_01",
+      "title": "What type of cloud can form a tornado?",
+      "answers": [
+        "Cumulonimbus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_02",
+      "title": "What are the young of seals called?",
+      "answers": [
+        "Pups"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_03",
+      "title": "What is a group of deer called?",
+      "answers": [
+        "A Herd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_04",
+      "title": "What did Pieter van Musschenbroek create at a namesake Dutch university in 1746 by lining a glass jar with silver foil?",
+      "answers": [
+        "The Leyden jar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_05",
+      "title": "What is a group of parrots called?",
+      "answers": [
+        "A pandemonium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_06",
+      "title": "Which land mammal is the manatee most closely related to?",
+      "answers": [
+        "Elephant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_07",
+      "title": "What is a group of clams called?",
+      "answers": [
+        "A Bed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_08",
+      "title": "Hepatitis is the inflammation of which of the body's organs?",
+      "answers": [
+        "Liver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_09",
+      "title": "What fruit comes in Chubby Gray and Jubilee variety?",
+      "answers": [
+        "Watermelons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_10",
+      "title": "What name is given to a smooth, oval hill created by glacial drift?",
+      "answers": [
+        "Drumlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_11",
+      "title": "What is an onychophagist?",
+      "answers": [
+        "A nail biter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_12",
+      "title": "What zone of radiation was first detected by \"Explorer\", the first US satellite?",
+      "answers": [
+        "The Van Allen belt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_13",
+      "title": "What culinary ingredient did Hippolyte Mège-Mouriès invent?",
+      "answers": [
+        "Margarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_14",
+      "title": "What is a rhino horn made of?",
+      "answers": [
+        "Keratin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_15",
+      "title": "Cacophobia is the fear of what?",
+      "answers": [
+        "Ugliness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_16",
+      "title": "The visible spectrum of light ranges from red to what other color?",
+      "answers": [
+        "Violet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_17",
+      "title": "What bird lays the smallest egg in relation to its size?",
+      "answers": [
+        "Ostrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_18",
+      "title": "The transition of a substance directly from the solid state to the gas state, without passing through the liquid state is called?",
+      "answers": [
+        "Sublimation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_19",
+      "title": "Where does vanilla come from?",
+      "answers": [
+        "Orchids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_20",
+      "title": "What is the common name for iron oxide, which appears after iron has been exposed to air and water?",
+      "answers": [
+        "Rust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_21",
+      "title": "What is a Kissing gourami?",
+      "answers": [
+        "Tropical fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_22",
+      "title": "What element makes your pee smell after you eat asparagus?",
+      "answers": [
+        "Sulfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_23",
+      "title": "What was the first vitamin to be discovered and named?",
+      "answers": [
+        "Vitamin A"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_24",
+      "title": "How many teeth does an aardvark have?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_25",
+      "title": "What are plants that grow, reproduce and die all in one season called?",
+      "answers": [
+        "Annuals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_26",
+      "title": "At what speed do massless particles travel in vacuum?",
+      "answers": [
+        "Speed of light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_27",
+      "title": "What color has the longest wavelength in the visible spectrum?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_28",
+      "title": "Selenophobia is the fear of what?",
+      "answers": [
+        "The Moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_29",
+      "title": "What is the point at which two lines meet to form an angle?",
+      "answers": [
+        "Vertex"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_30",
+      "title": "What invention is French scientist Hippolyte Mège-Mouriès associated with?",
+      "answers": [
+        "Margarine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_31",
+      "title": "What is the ninety-ninth element in the standard periodic table?",
+      "answers": [
+        "Einsteinium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_32",
+      "title": "What chemical element is symbolized with Sn?",
+      "answers": [
+        "Tin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_33",
+      "title": "An infectious particle that can only reproduce inside a living cell is called what?",
+      "answers": [
+        "Virus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_34",
+      "title": "What's the more common name for \"vertical banded gastroplasty\"?",
+      "answers": [
+        "Stomach stapling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_35",
+      "title": "What is the atomic number of tin?",
+      "answers": [
+        "50"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_36",
+      "title": "What is the hardest known naturally occurring mineral?",
+      "answers": [
+        "Diamond"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_37",
+      "title": "What is the only part of the skull that can move?",
+      "answers": [
+        "Jawbone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_38",
+      "title": "The MMR vaccine immunizes against what three illnesses?",
+      "answers": [
+        "Measles, mumps, rubella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_39",
+      "title": "What was the name of the IBM supercomputer which defeated chess champion Garry Kasparov in a 1997 match?",
+      "answers": [
+        "Deep Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_40",
+      "title": "Which planet was originally known as the Georgian Star?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_41",
+      "title": "What color is human blood that isn't oxygenated?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_42",
+      "title": "At least 21 fragments of which comet smashed into Jupiter in July of 1994?",
+      "answers": [
+        "Shoemaker-Levy 9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_43",
+      "title": "Sodium Hydroxide is more commonly known as what?",
+      "answers": [
+        "Lye, or caustic soda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_44",
+      "title": "What is the more common name for Axilla?",
+      "answers": [
+        "Armpit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_45",
+      "title": "Snails are members of the class \"Gastropoda\", which literally means what?",
+      "answers": [
+        "Stomach foot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_46",
+      "title": "What was the name of the first manned mission to land on the Moon?",
+      "answers": [
+        "Apollo 11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_47",
+      "title": "Which chemical element has the highest boiling point?",
+      "answers": [
+        "Tungsten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_48",
+      "title": "What technology company submitted a patent for a vibrating tattoo?",
+      "answers": [
+        "Nokia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_49",
+      "title": "In which constellation are the Seven Sisters located?",
+      "answers": [
+        "Taurus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_44_50",
+      "title": "What period did the Tyrannosaurus Rex live during?",
+      "answers": [
+        "Cretaceous"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_30",
+  "name": "Science Trivia 26K 30",
+  "description": "Science 1451 - 1500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_30_01",
+      "title": "The Planting Moon is found in which month?",
+      "answers": [
+        "May"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_02",
+      "title": "What is the term for the physical disintegration of a nuclear reactor's core?",
+      "answers": [
+        "Meltdown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_03",
+      "title": "Which planet is orbited by the moon Charon?",
+      "answers": [
+        "Pluto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_04",
+      "title": "What unusual feature does a polydactyl cat have?",
+      "answers": [
+        "Extra toes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_05",
+      "title": "Which gland is enlarged in the condition known as \"goitre\"?",
+      "answers": [
+        "The Thyroid gland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_06",
+      "title": "What is the largest rodent in the US?",
+      "answers": [
+        "The Beaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_07",
+      "title": "In the UK, what is called a \"courgette\"?",
+      "answers": [
+        "A zucchini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_08",
+      "title": "What is a group of apes called?",
+      "answers": [
+        "A shrewdness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_09",
+      "title": "What does an Enigma machine do?",
+      "answers": [
+        "Ciphers and deciphers messages"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_10",
+      "title": "Which type of camel has two humps?",
+      "answers": [
+        "Bactrian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_11",
+      "title": "What hormone allows the cells in your body to absorb sugar from your blood?",
+      "answers": [
+        "Insulin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_12",
+      "title": "Phlebitis is the inflimation of what?",
+      "answers": [
+        "A vein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_13",
+      "title": "What percentage of air is composed of oxygen?",
+      "answers": [
+        "21%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_14",
+      "title": "What is Eisoptrophobia?",
+      "answers": [
+        "The fear of mirrors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_15",
+      "title": "What shape is the milky way?",
+      "answers": [
+        "Spiral"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_16",
+      "title": "How many millimeters are in an inch?",
+      "answers": [
+        "25.4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_17",
+      "title": "How many horns does the average African black rhino have?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_18",
+      "title": "What does a Maillard reaction refer to?",
+      "answers": [
+        "Browning food while cooking"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_19",
+      "title": "Which fresh water fish has the Latin name \"Esox Lucius\"?",
+      "answers": [
+        "Northern Pike"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_20",
+      "title": "How many chromosomes does a goat have?",
+      "answers": [
+        "60"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_21",
+      "title": "What name is given to rain with a particularly low pH?",
+      "answers": [
+        "Acid rain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_22",
+      "title": "What continent has the highest native population of cheetahs?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_23",
+      "title": "Which planet in our solar system is named after the Roman God of the sea?",
+      "answers": [
+        "Neptune"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_24",
+      "title": "What does a nephologist study?",
+      "answers": [
+        "Clouds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_25",
+      "title": "What nation is home to the Komodo dragon?",
+      "answers": [
+        "Indonesia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_26",
+      "title": "What does an androphobic maiden fear?",
+      "answers": [
+        "Men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_27",
+      "title": "Mariner IV sent the first pictures of which planet back to Earth?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_28",
+      "title": "What was the name of the Earth's first artificial satellite?",
+      "answers": [
+        "Sputnik I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_29",
+      "title": "What is dendrochronology?",
+      "answers": [
+        "Tree ring dating"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_30",
+      "title": "Which of the following materials is used along with iron ore and limestone to produce iron in a modern blast furnace: coal, bauxite, coke or cementite?",
+      "answers": [
+        "Coke (not the drink)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_31",
+      "title": "What color diamond is produced if it contains traces of boron?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_32",
+      "title": "A computer opponent's ability to adaptively challenge a player is known as what?",
+      "answers": [
+        "Artificial intelligence (AI)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_33",
+      "title": "Polaris is also referred to as what?",
+      "answers": [
+        "The North Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_34",
+      "title": "What is a theodolite used for?",
+      "answers": [
+        "Surveys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_35",
+      "title": "What must a mole do every four hours or it will die?",
+      "answers": [
+        "Eat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_36",
+      "title": "The kingfish is actually the largest species of what type of fish?",
+      "answers": [
+        "Mackerel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_37",
+      "title": "Cherry, plum and grape are all varieties of which fruit?",
+      "answers": [
+        "Tomato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_38",
+      "title": "What is the only moon in the solar system that has an atmosphere?",
+      "answers": [
+        "Titan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_39",
+      "title": "What name is given to the fraction part of a logarithm number?",
+      "answers": [
+        "Mantissa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_40",
+      "title": "Where in your body would you find your hippocampus?",
+      "answers": [
+        "Brain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_41",
+      "title": "In what organ of the human body would you find the loops of Henle?",
+      "answers": [
+        "The kidneys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_42",
+      "title": "What color is a giraffe's tongue?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_43",
+      "title": "What is an EKG?",
+      "answers": [
+        "An electrocardiogram"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_44",
+      "title": "What element has the chemical symbol Au?",
+      "answers": [
+        "Gold"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_45",
+      "title": "What organ in the human body produces insulin?",
+      "answers": [
+        "Pancreas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_46",
+      "title": "Which planet is named for the Roman God who was the son of Juno and Jupiter?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_47",
+      "title": "How long does it take a human blood cell to make a complete circuit of the human body?",
+      "answers": [
+        "One minute"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_48",
+      "title": "How many eggs does a queen bee lay per day?",
+      "answers": [
+        "2000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_49",
+      "title": "What US company invented fiberglass in 1938?",
+      "answers": [
+        "Owens-Corning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_30_50",
+      "title": "What part of the plant gets water and nutrients to the rest of the plant?",
+      "answers": [
+        "Stem"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

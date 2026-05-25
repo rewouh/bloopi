@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_61",
+  "name": "History Trivia 26K 61",
+  "description": "History 3001 - 3050 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_61_01",
+      "title": "What was first presented at Hollywood’s Roosevelt Hotel on May 16, 1929?",
+      "answers": [
+        "The Academy Awards (Oscars)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_02",
+      "title": "When did Princess Diana die in a car accident?",
+      "answers": [
+        "August 31, 1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_03",
+      "title": "Who was killed in 1804 in a duel with Vice President Aaron Burr?",
+      "answers": [
+        "Alexander Hamilton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_04",
+      "title": "Excluding identical U.S. President surnames, which 2 are similar enough to have their first 4 letters in common?",
+      "answers": [
+        "Truman and Trump"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_05",
+      "title": "What year was Julius Caeser assassinated",
+      "answers": [
+        "44 BC"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_06",
+      "title": "What city hosted the Winter Olympics in 1932?",
+      "answers": [
+        "Lake Placid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_07",
+      "title": "Where did the concept of \"rolling out the red carpet\" originate?",
+      "answers": [
+        "Greece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_08",
+      "title": "In Nazi concentration camps, a pink triangle signified the prisoner as what?",
+      "answers": [
+        "Homosexual"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_09",
+      "title": "What film was inspired by \"The Battle of Cowpens\"?",
+      "answers": [
+        "The Patriot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_10",
+      "title": "Who took the throne in the \"Glorious Revolution\" of 1688?",
+      "answers": [
+        "William and Mary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_11",
+      "title": "What year did Porsche introduce the 911?",
+      "answers": [
+        "1963"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_12",
+      "title": "What city was Anton Cermak killed in?",
+      "answers": [
+        "Miami"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_13",
+      "title": "What royal subject married Amenhotep IV?",
+      "answers": [
+        "Nefertiti"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_14",
+      "title": "How long did China's one-child policy last?",
+      "answers": [
+        "35 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_15",
+      "title": "Which constitutional amendment gives US citizens the right to bear arms?",
+      "answers": [
+        "Second"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_16",
+      "title": "What country has hosted the most Olympics?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_17",
+      "title": "What famous American was nicknamed \"The Lone Eagle\"?",
+      "answers": [
+        "Charles Lindbergh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_18",
+      "title": "What sport did Gerald Ford play at the University of Michigan?",
+      "answers": [
+        "Football"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_19",
+      "title": "How many official copies of the Bill of Rights were originally made?",
+      "answers": [
+        "14"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_20",
+      "title": "Where was the French surrender to Germany signed?",
+      "answers": [
+        "In a railway car"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_21",
+      "title": "Who ordered the construction of the Palace of Versailles?",
+      "answers": [
+        "King Louis XIII"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_22",
+      "title": "Who shot Lee Harvey Oswald?",
+      "answers": [
+        "Jack Ruby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_23",
+      "title": "What country did french fries come from?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_24",
+      "title": "Jeans are named for what European city?",
+      "answers": [
+        "Genoa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_25",
+      "title": "What state was Robert F. Kennedy a senator for?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_26",
+      "title": "Which US state was the first to ratify the 13th Amendment to abolish slavery?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_27",
+      "title": "What was The City of Gold sought by Spanish explorers?",
+      "answers": [
+        "El Dorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_28",
+      "title": "Which coffee innovation was developed by German housewife Melitta Bentz?",
+      "answers": [
+        "Coffee filter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_29",
+      "title": "During the 1700s, what was the main industry on Nantucket Island?",
+      "answers": [
+        "Whaling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_30",
+      "title": "In what city was Bruce Lee born in?",
+      "answers": [
+        "San Francisco, California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_31",
+      "title": "What age followed the Bronze Age?",
+      "answers": [
+        "The Iron Age"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_32",
+      "title": "What prison held Rudolf Hess after World War II?",
+      "answers": [
+        "Spandau Prison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_33",
+      "title": "What was the name of the political police in Nazi Germany?",
+      "answers": [
+        "Gestapo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_34",
+      "title": "Who assassinated John Lennon?",
+      "answers": [
+        "Mark David Chapman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_35",
+      "title": "How many people were killed in the Boston Massacre?",
+      "answers": [
+        "Five"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_36",
+      "title": "How many instruments could Richard Nixon play?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_37",
+      "title": "In which city was Leonardo da Vinci born?",
+      "answers": [
+        "Vinci"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_38",
+      "title": "What year was Queen Elizabeth II born?",
+      "answers": [
+        "1926"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_39",
+      "title": "Who read the poem \"On the Pulse of Morning\" at Bill Clinton's first inauguration?",
+      "answers": [
+        "Maya Angelou"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_40",
+      "title": "Who was the first woman to circumnavigate the globe?",
+      "answers": [
+        "Jeanne Baret"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_41",
+      "title": "What scandal forced US President Richard Nixon to resign in 1974?",
+      "answers": [
+        "Watergate Scandal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_42",
+      "title": "Who served as the head of the Soviet Union from 1922 to 1924?",
+      "answers": [
+        "Vladimir Lenin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_43",
+      "title": "What architectural firm helped design the Empire State Building?",
+      "answers": [
+        "Shreve, Lamb and Harmon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_44",
+      "title": "Paul Revere became a hero after acting as a messenger during what war?",
+      "answers": [
+        "American Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_45",
+      "title": "What organization was formed at the Bretton Woods Conference in 1944",
+      "answers": [
+        "The International Monetary Fund"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_46",
+      "title": "The Battle of Midway occurred in the Pacific Ocean during what war?",
+      "answers": [
+        "World War II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_47",
+      "title": "What was the U.S. population in 1900?",
+      "answers": [
+        "76,094,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_48",
+      "title": "What year did Joseph Merrick die?",
+      "answers": [
+        "1890"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_49",
+      "title": "What country held its first democratic elections on January 30, 2005?",
+      "answers": [
+        "Iraq"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_61_50",
+      "title": "\"The 10 days that shook the world\" refers to what country’s revolution?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

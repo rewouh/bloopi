@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_08",
+  "name": "Arts Trivia 26K 08",
+  "description": "Arts 351 - 400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_08_01",
+      "title": "According to the nursery rhyme, Winken, Blinken and Nod sailed in a \"what\"?",
+      "answers": [
+        "Wooden shoe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_02",
+      "title": "What name is shared by an 1849 painting by Asher Durand, and a sculpture situated in Bailick Park in Midleton, Ireland?",
+      "answers": [
+        "Kindred Spirits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_03",
+      "title": "In what key is Johann Pachelbel's famous \"Canon\"?",
+      "answers": [
+        "D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_04",
+      "title": "In Greek Mythology, what hung from an oak tree in the grove of Ares in Colchis, guarded by a dragon?",
+      "answers": [
+        "The Golden Fleece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_05",
+      "title": "Who was Huck's Black friend in the novel \"The Adventures of Huckleberry Finn\"?",
+      "answers": [
+        "Jim"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_06",
+      "title": "Who, according to the Bible, led the Israelites into The Promised Land?",
+      "answers": [
+        "Joshua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_07",
+      "title": "In \"The Wizard of Oz\", what was Dorothy's uncle's name?",
+      "answers": [
+        "Henry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_08",
+      "title": "Which Disney character is named after Ebenezer from Charles Dickens’ novel \"A Christmas Carol\"?",
+      "answers": [
+        "Scrooge McDuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_09",
+      "title": "Who first published \"Little Red Riding Hood\"?",
+      "answers": [
+        "Charles Perrault"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_10",
+      "title": "Which character killed Laius?",
+      "answers": [
+        "Oedipus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_11",
+      "title": "What was writer and war hero T.E. Lawrence popularly known as?",
+      "answers": [
+        "Lawrence of Arabia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_12",
+      "title": "Which French term literally means \"Fat Tuesday\"?",
+      "answers": [
+        "Mardi Gras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_13",
+      "title": "Who flew from England to America in a giant peach carried by seagulls?",
+      "answers": [
+        "James"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_14",
+      "title": "To raise money for charities, who handwrote an 800-word prequel to her bestselling book series?",
+      "answers": [
+        "J.K. Rowling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_15",
+      "title": "What Broadway musical featured the song \"Santa Fe\"?",
+      "answers": [
+        "Rent"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_16",
+      "title": "What type of artwork depicts human characteristics that are modified or exaggerated in a humorous fashion?",
+      "answers": [
+        "A caricature"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_17",
+      "title": "Who is the Roman equivalent of the Greek goddess Eirene?",
+      "answers": [
+        "Pax"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_18",
+      "title": "The character Lieutenant Pinkerton appears in what work?",
+      "answers": [
+        "Madama Butterfly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_19",
+      "title": "What Shakespeare play begins with a meeting of the Weird Sisters?",
+      "answers": [
+        "Macbeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_20",
+      "title": "Which planet in the Solar System has moons named after characters from Shakespeare's plays?",
+      "answers": [
+        "Uranus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_21",
+      "title": "Flora Poste is the main protagonist in which novel?",
+      "answers": [
+        "Cold Comfort Farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_22",
+      "title": "What were the first names of the Hardy Boys?",
+      "answers": [
+        "Frank and Joe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_23",
+      "title": "What is the technical name of the pound sign?",
+      "answers": [
+        "Octothorpe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_24",
+      "title": "In the book \"Harry Potter and the Deathly Hallows\" what does the acronym RAB stand for?",
+      "answers": [
+        "Regulus A. Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_25",
+      "title": "Who wrote about Willie Wonka and the Chocolate Factory?",
+      "answers": [
+        "Roald Dahl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_26",
+      "title": "Author Daniel Handler is best known for his children’s books published under which pseudonym?",
+      "answers": [
+        "Lemony Snicket"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_27",
+      "title": "Which Shakespeare play tells a love story between a Capulet and a Montague?",
+      "answers": [
+        "Romeo and Juliet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_28",
+      "title": "In \"Ready Player One\" by Ernest Cline, who must the player defeat in order to obtain the copper key?",
+      "answers": [
+        "Acererak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_29",
+      "title": "Who was the author of the novel \"War and Peace\"?",
+      "answers": [
+        "Leo Tolstoy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_30",
+      "title": "In the children's toe-counting rhyme, what did the third little piggy have?",
+      "answers": [
+        "Roast Beef"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_31",
+      "title": "What four evangelists wrote the Gospels?",
+      "answers": [
+        "Matthew, Mark, Luke, John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_32",
+      "title": "Whose wife could eat no lean?",
+      "answers": [
+        "Jack Sprat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_33",
+      "title": "What year did Jean Anouilh write the play \"The Lark\"?",
+      "answers": [
+        "1952"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_34",
+      "title": "What year did Frans Hals finish painting the \"Laughing Cavalier\"?",
+      "answers": [
+        "1624"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_35",
+      "title": "Which comic strip character is the owner of a dog named Otto?",
+      "answers": [
+        "Sgt. Snorkel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_36",
+      "title": "What does \"Alma mater\" translate to in English?",
+      "answers": [
+        "Bountiful mother"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_37",
+      "title": "What is the real identity of Aquaman?",
+      "answers": [
+        "Arthur Curry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_38",
+      "title": "In German myth, what river hides the treasure of the Nibelung?",
+      "answers": [
+        "The Rhine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_39",
+      "title": "What fruit was referred to as \"Golden Apple\" in Greek myth?",
+      "answers": [
+        "Apricot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_40",
+      "title": "John Downland was an English Renaissance composer for which instrument?",
+      "answers": [
+        "The Lute"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_41",
+      "title": "Who wrote the book \"The Red and the Green\"?",
+      "answers": [
+        "Iris Murdoch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_42",
+      "title": "Shu was an Egyptian God of what?",
+      "answers": [
+        "The Air"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_43",
+      "title": "Who painted the \"Rockeby Venus\"?",
+      "answers": [
+        "Diego Velazquez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_44",
+      "title": "What popular comic book character was created by Jerry Siegel and Joe Shuster?",
+      "answers": [
+        "Superman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_45",
+      "title": "Whose military textbook \"Infantry Attacks\" was read, famously by George Patton?",
+      "answers": [
+        "Erwin Rommel's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_46",
+      "title": "What children's classic first chapter is titled \"Mowgli's Brothers\"?",
+      "answers": [
+        "The Jungle Book"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_47",
+      "title": "\"Whistler’s Mother\" was the first painting by an American to be displayed at what museum?",
+      "answers": [
+        "The Louvre"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_48",
+      "title": "What Broadway musical featured the song \"Buenos Aires\"?",
+      "answers": [
+        "Evita"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_49",
+      "title": "What does the Latin \"circa\" before a date mean?",
+      "answers": [
+        "About"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_08_50",
+      "title": "Who wrote \"Mein Kampf\" while in prison?",
+      "answers": [
+        "Adolf Hitler"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

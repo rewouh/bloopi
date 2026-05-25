@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_44",
+  "name": "Entertainment Trivia 26K 44",
+  "description": "Entertainment 2151 - 2200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_44_01",
+      "title": "Who played the role of Dot Com on the TV show \"30 Rock\"?",
+      "answers": [
+        "Kevin Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_02",
+      "title": "Who stars as Rick Santoro in the 1998 movie \"Snake Eyes\"?",
+      "answers": [
+        "Nicholas Cage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_03",
+      "title": "In what year did the Jerry Lewis Labor Day Telethon debut?",
+      "answers": [
+        "1966"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_04",
+      "title": "What year did Disney release a 3D motion-capture adaptation of \"A Christmas Carol\"?",
+      "answers": [
+        "2009"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_05",
+      "title": "Who is The Friendly Ghost?",
+      "answers": [
+        "Casper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_06",
+      "title": "In \"Minority Report\", what part of Tom Cruise's anatomy does his character replace to help him avoid authorities?",
+      "answers": [
+        "His eyes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_07",
+      "title": "Which Andrew Lloyd Webber musical is set in the \"Troubles Of Belfast\"?",
+      "answers": [
+        "The Beautiful Game"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_08",
+      "title": "In 2006, David Bowie was awarded a Grammy award for what?",
+      "answers": [
+        "Lifetime Achievement"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_09",
+      "title": "Who played Franz Liszt in the 1975 film \"Lisztomania\"?",
+      "answers": [
+        "Roger Daltrey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_10",
+      "title": "Who is known as Lady Soul?",
+      "answers": [
+        "Aretha Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_11",
+      "title": "What 1984 hit repeats the phrase \"Come on, shine your heavenly body tonight\"?",
+      "answers": [
+        "Lucky Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_12",
+      "title": "The Dude from \"The Big Lebowski\" liked to drink what?",
+      "answers": [
+        "White Russians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_13",
+      "title": "Rupert Giles was the librarian-mentor on what popular TV show?",
+      "answers": [
+        "Buffy the Vampire Slayer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_14",
+      "title": "What TV sitcom's final episode revealed that the previous seasons had all been a dream?",
+      "answers": [
+        "Newhart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_15",
+      "title": "Who played the role of TV's D. J. Tanner?",
+      "answers": [
+        "Candace Cameron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_16",
+      "title": "What \"Family Feud\" actor ended up committing suicide?",
+      "answers": [
+        "Ray Combs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_17",
+      "title": "What TV series has produced episodes called \"...And Found\" and \"...In Translation\"?",
+      "answers": [
+        "Lost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_18",
+      "title": "Who has been played in a movie by both Rosemary Murphy and Jennifer Jason Leigh?",
+      "answers": [
+        "Dorothy Parker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_19",
+      "title": "What kick does Daniel use to win the tournament in \"The Karate Kid\"?",
+      "answers": [
+        "Crane kick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_20",
+      "title": "What is the name of Natalie Merchant's debut solo album after leaving 10000 Maniacs?",
+      "answers": [
+        "Tigerlily"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_21",
+      "title": "Who lived in Seattle's fictional Elliott Bay Towers?",
+      "answers": [
+        "Frasier Crane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_22",
+      "title": "What alien comes from the planet Melmac?",
+      "answers": [
+        "Alf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_23",
+      "title": "Who played the title role in the 2013 film \"The Great Gatsby\"?",
+      "answers": [
+        "Leonardo DiCaprio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_24",
+      "title": "Taylor Swift grew up on what type of farm?",
+      "answers": [
+        "Christmas tree farm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_25",
+      "title": "Who played the role of Karen on the TV show \"Californication\"?",
+      "answers": [
+        "Natascha McElhone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_26",
+      "title": "Who directed the highly anticipated film \"Blade Runner 2049\"?",
+      "answers": [
+        "Denis Villeneuve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_27",
+      "title": "Which more successful group did Mick Abrahams leave in 1969 to form Blodwyn Pig?",
+      "answers": [
+        "Jethro Tull"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_28",
+      "title": "In which US state does the movie \"Night of the Living Dead\" take place?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_29",
+      "title": "In what film did a character named Pumpkin rob a restaurant while Vincent Vega was dining nearby?",
+      "answers": [
+        "Pulp Fiction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_30",
+      "title": "What famous comedian played the vicar at the second wedding in the movie \"Four Weddings and a Funeral\"?",
+      "answers": [
+        "Rowan Atkinson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_31",
+      "title": "In which TV show did a Mr. Hogg own a place called the \"Boar's Nest\"?",
+      "answers": [
+        "The Dukes of Hazzard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_32",
+      "title": "What year was Barbra Streisand born in?",
+      "answers": [
+        "1942"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_33",
+      "title": "Which high school movie’s tagline is \"One man's struggle to take it easy\"?",
+      "answers": [
+        "\"Ferris Bueller's Day Off\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_34",
+      "title": "Who is Carrie Fisher's mother?",
+      "answers": [
+        "Debbie Reynolds"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_35",
+      "title": "In \"Toy Story\", who receives Buzz Lightyear for his seventh birthday and a puppy for his eighth?",
+      "answers": [
+        "Andy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_36",
+      "title": "Which 1993 Disney movie starred Bette Midler as a witch?",
+      "answers": [
+        "Hocus Pocus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_37",
+      "title": "What movie character said the line \"Go ahead, make my day\"?",
+      "answers": [
+        "Harry Callahan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_38",
+      "title": "Who was the original voice of Mickey Mouse?",
+      "answers": [
+        "Walt Disney"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_39",
+      "title": "In which 2001 movie did Tim Roth play the character General Thade?",
+      "answers": [
+        "\"Planet of the Apes\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_40",
+      "title": "What is Rambo's first name?",
+      "answers": [
+        "John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_41",
+      "title": "How many Oscars did the movie \"American Beauty\" win?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_42",
+      "title": "From which musical did \"One Night in Bangkok Makes a Hard Man Humble\" and \"I Know Him So Well\" come?",
+      "answers": [
+        "Chess"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_43",
+      "title": "What year did actor Anthony Hopkins become a naturalized citizen of the US?",
+      "answers": [
+        "2000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_44",
+      "title": "Whose tombstone, in Siler City, North Carolina, bears the inscription \"Aunt Bee\"?",
+      "answers": [
+        "Frances Bavier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_45",
+      "title": "Gene Siskel owned the iconic white suit from what movie?",
+      "answers": [
+        "Saturday Night Fever"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_46",
+      "title": "The character Travis Bickle is from what movie?",
+      "answers": [
+        "\"Taxi Driver\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_47",
+      "title": "What is the profession of Jon Cryer's character on the TV show \"Two and a Half Men\"?",
+      "answers": [
+        "Chiropractor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_48",
+      "title": "\"Love Bites\" was the only song to reach number one on the Billboard Hot 100 for which rock band?",
+      "answers": [
+        "Def Leppard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_49",
+      "title": "For what movie did Dan Aykroyd receive an Oscar nomination?",
+      "answers": [
+        "Driving Miss Daisy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_44_50",
+      "title": "What show debuted on September 7, 1979, with George Grande anchoring?",
+      "answers": [
+        "SportsCenter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

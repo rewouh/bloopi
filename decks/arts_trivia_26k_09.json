@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_09",
+  "name": "Arts Trivia 26K 09",
+  "description": "Arts 401 - 450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_09_01",
+      "title": "What is the name of the little people in \"The Wonderful Wizard of Oz\"?",
+      "answers": [
+        "Munchkins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_02",
+      "title": "Who is the author of the novel \"Jude the Obscure\"?",
+      "answers": [
+        "Thomas Hardy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_03",
+      "title": "Which classical composer wrote the Hungarian Rhapsodies?",
+      "answers": [
+        "Franz Liszt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_04",
+      "title": "What is considered the sister language of English?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_05",
+      "title": "What word do we derive from the Salish Indian word for \"wild man\"?",
+      "answers": [
+        "Sasquatch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_06",
+      "title": "What author created the character of Perry Mason?",
+      "answers": [
+        "Erle Stanley Gardner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_07",
+      "title": "In the Bible in the book of Job, who begins the first discourse to Job?",
+      "answers": [
+        "Eliphaz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_08",
+      "title": "What is the name of the thousand-year-old secret society depicted in \"The Da Vinci Code\"?",
+      "answers": [
+        "Priory Of Sion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_09",
+      "title": "In Herman Melville’s novel \"Moby Dick\", who was the loyal, reasonable first mate?",
+      "answers": [
+        "Starbuck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_10",
+      "title": "What humorist often reminisces about his high school rock band, the Federal Duck?",
+      "answers": [
+        "Dave Barry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_11",
+      "title": "In mythology which giant made of bronze guarded Europa of Crete?",
+      "answers": [
+        "Talos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_12",
+      "title": "What 7th century Homerian epic tells the story of the Trojan War?",
+      "answers": [
+        "The Iliad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_13",
+      "title": "In the Bible, Jesus referred to the disciples James and John as Sons of whom?",
+      "answers": [
+        "Thunder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_14",
+      "title": "In the manga series \"Bleach\", what is the name of Toshiro Hitsugaya's zanpakuto?",
+      "answers": [
+        "Hyorinmaru"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_15",
+      "title": "\"Songbird\" is a book about what jazz singer's remarkable posthumous career?",
+      "answers": [
+        "Eva Cassidy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_16",
+      "title": "What is the name of the fishing boat that is featured in the book \"The Perfect Storm\"?",
+      "answers": [
+        "The Andrea Gail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_17",
+      "title": "Whose death is a result of the souring of her relationship with her lover Count Vronsky?",
+      "answers": [
+        "Anna Karenina's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_18",
+      "title": "What is the name of Captain Ahab's ship?",
+      "answers": [
+        "The Pequod"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_19",
+      "title": "What country is the setting for Shakespeare's Macbeth?",
+      "answers": [
+        "Scotland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_20",
+      "title": "What war is the Tribe fighting against conscription into in the musical \"Hair\"?",
+      "answers": [
+        "Vietnam"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_21",
+      "title": "What style did Vincent Van Gogh most commonly paint in?",
+      "answers": [
+        "Post-Impressionist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_22",
+      "title": "In which Shakespeare play does Antonio owe Shylock a pound of flesh?",
+      "answers": [
+        "The Merchant of Venice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_23",
+      "title": "\"Les Fauves\" was a name given to a group of artists that also included Matisse. What is its literal meaning of \"Les Fauves\"?",
+      "answers": [
+        "The Wild Beasts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_24",
+      "title": "What famous historical figure turns out to be the disguised Black Knight in Sir Walter Scott's \"Ivanhoe\"?",
+      "answers": [
+        "Richard the Lion-hearted"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_25",
+      "title": "In the Bible, which chemical element is referred to as brimstone?",
+      "answers": [
+        "Sulfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_26",
+      "title": "Who wrote the 1981 novel \"Who Censored Roger Rabbit?\"?",
+      "answers": [
+        "Gary K. Wolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_27",
+      "title": "Under which pseudonym did J. K. Rowling publish \"The Cuckoo's Calling\" in 2013?",
+      "answers": [
+        "Robert Galbraith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_28",
+      "title": "What children's book hero did the cruel Dursleys bring up after an evil wizard killed his parents?",
+      "answers": [
+        "Harry Potter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_29",
+      "title": "Who created the character of Winnie-the-Pooh?",
+      "answers": [
+        "A. A. Milne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_30",
+      "title": "Who composed \"Peter and the Wolf\"?",
+      "answers": [
+        "Sergei Prokofiev"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_31",
+      "title": "What screenplay won George Bernard Shaw a 1938 Oscar?",
+      "answers": [
+        "Pygmalion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_32",
+      "title": "What does a ventriloquist typically hold on their lap?",
+      "answers": [
+        "A puppet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_33",
+      "title": "Who took Oliver Twist into his home even though he had been accused of picking his pockets?",
+      "answers": [
+        "Mr. Brownlow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_34",
+      "title": "Jack Ryan is the name of the CIA analyst in author Tom Clancy's novels.  What is Jack's birth name?",
+      "answers": [
+        "John Patrick Ryan, Sr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_35",
+      "title": "What artist composed the opera \"Tannhauser\"?",
+      "answers": [
+        "Richard Wagner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_36",
+      "title": "Who met Cyclops on his third voyage?",
+      "answers": [
+        "Sinbad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_37",
+      "title": "What did Jack Horner pull from his pie?",
+      "answers": [
+        "A plum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_38",
+      "title": "Which Parisian venue host the debut of the 1875 opera \"Carmen\"?",
+      "answers": [
+        "Opera-Comique"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_39",
+      "title": "Under what name is Thomas Lanier Williams better known?",
+      "answers": [
+        "Tennessee Williams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_40",
+      "title": "In 2001, David McCullough published a biography of which US Founding Father president?",
+      "answers": [
+        "John Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_41",
+      "title": "In Greek mythology, what did Medusa have on her head instead of hair?",
+      "answers": [
+        "Snakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_42",
+      "title": "What movie is loosely based on Philip K. Dick's novel \"Do Androids Dream of Electric Sheep\"?",
+      "answers": [
+        "Blade Runner"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_43",
+      "title": "What American city did Edgar Allen Poe consider to be his home?",
+      "answers": [
+        "Baltimore"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_44",
+      "title": "What author created the character of Tom Brown?",
+      "answers": [
+        "Thomas Hughes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_45",
+      "title": "Which Dutch artist painted \"Girl with a Pearl Earring\"?",
+      "answers": [
+        "Vermeer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_46",
+      "title": "Which of the Three Tenors lived in Mexico from the age of eight?",
+      "answers": [
+        "Placido Domingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_47",
+      "title": "Who wrote the operas \"The Magic Flute\" and \"The Marriage of Figaro\"?",
+      "answers": [
+        "Wolfgang Amadeus Mozart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_48",
+      "title": "What cartoonist of \"Maus\" also created \"Topps Garbage Pail Kids\"?",
+      "answers": [
+        "Art Spiegelman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_49",
+      "title": "What composer wrote the \"Pomp and Circumstance\" marches?",
+      "answers": [
+        "Edward Elgar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_09_50",
+      "title": "Who wrote the book \"Chitty-Chitty-Bang-Bang: The Magical Car\"?",
+      "answers": [
+        "Ian Fleming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_56",
+  "name": "History Trivia 26K 56",
+  "description": "History 2751 - 2800 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_56_01",
+      "title": "The Huguenots in France had their rights taken away by the revocation of what document?",
+      "answers": [
+        "Edict Of Nantes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_02",
+      "title": "How many countries were a part of the Soviet Union?",
+      "answers": [
+        "15"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_03",
+      "title": "Herbert Hoover became well known when he organized relief efforts for what country after World War I?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_04",
+      "title": "In what year did the BBC debut the “Top Gear” TV series?",
+      "answers": [
+        "1977"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_05",
+      "title": "Which of Henry VIII's wives was married four times herself?",
+      "answers": [
+        "Catherine Parr"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_06",
+      "title": "What year did The Gambia gain its independence from the United Kingdom?",
+      "answers": [
+        "1965"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_07",
+      "title": "Who designed the famous collection of buildings in Oak Park, Illinois?",
+      "answers": [
+        "Frank Lloyd Wright"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_08",
+      "title": "US President Woodrow Wilson was a member of what political party?",
+      "answers": [
+        "Democratic Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_09",
+      "title": "Which German Nazi was known as the butcher of Lyon?",
+      "answers": [
+        "Klaus Barbie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_10",
+      "title": "What U.S. president was considered the world authority on U.S. game animals?",
+      "answers": [
+        "Theodore \"Teddy\" Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_11",
+      "title": "What Egyptian pharaoh was known as \"The Boy King\"?",
+      "answers": [
+        "Tutankhamen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_12",
+      "title": "What was the first American city to host the Summer Olympics?",
+      "answers": [
+        "St. Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_13",
+      "title": "What US state has been governed by Evan Mecham and Bruce Babbitt?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_14",
+      "title": "The Ottoman Turks captured Constantinople in what year?",
+      "answers": [
+        "1453"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_15",
+      "title": "What Benedictine monk invented champagne?",
+      "answers": [
+        "Dom Pierre Pérignon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_16",
+      "title": "Which US President served the shortest term in office?",
+      "answers": [
+        "William Henry Harrison"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_17",
+      "title": "When did the American Revolutionary War end?",
+      "answers": [
+        "1783"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_18",
+      "title": "The \"Althing\" is the national parliament of which country?",
+      "answers": [
+        "Iceland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_19",
+      "title": "When did Napoleon Bonaparte begin his reign as Emperor of the French?",
+      "answers": [
+        "1804"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_20",
+      "title": "In ancient Japan, all people who gave massages had to be what?",
+      "answers": [
+        "Blind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_21",
+      "title": "What country’s air force was destroyed on the ground on June 5, 1967?",
+      "answers": [
+        "Egypt’s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_22",
+      "title": "What country's liberation was the purpose of the 1991 Gulf War?",
+      "answers": [
+        "Kuwait's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_23",
+      "title": "President Franklin D. Roosevelt was afflicted with what illness?",
+      "answers": [
+        "Polio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_24",
+      "title": "Who made the first popsicle?",
+      "answers": [
+        "Frank Epperson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_25",
+      "title": "What year was the Gettysburg Address delivered?",
+      "answers": [
+        "1863"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_26",
+      "title": "Whose head was given to Herod's wife on a plate?",
+      "answers": [
+        "John the Baptist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_27",
+      "title": "Who was assassinated by James Earl Ray?",
+      "answers": [
+        "Martin Luther King, Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_28",
+      "title": "Which country created the official marathon length of 26.2 miles?",
+      "answers": [
+        "United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_29",
+      "title": "Where did the Battle of the Bulge take place?",
+      "answers": [
+        "The Ardennes Forest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_30",
+      "title": "What year did the \"Turbot War\" fishing dispute end?",
+      "answers": [
+        "1996"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_31",
+      "title": "What was the last name of husband and wife Julius and Ethel, executed for treason in 1953?",
+      "answers": [
+        "Rosenberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_32",
+      "title": "Which US state was an independent nation for ten years during the 19th century?",
+      "answers": [
+        "Texas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_33",
+      "title": "How many US states were admitted to the union during the twentieth century?",
+      "answers": [
+        "5"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_34",
+      "title": "Which U.S. President said, \"Mr. Gorbachev, tear down this wall\"?",
+      "answers": [
+        "Ronald Reagan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_35",
+      "title": "Who was Jimmy Carter's vice president?",
+      "answers": [
+        "Walter (Fritz) Mondale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_36",
+      "title": "In the 1890's, what type of cheese did a California man named David Jacks introduce?",
+      "answers": [
+        "Monterey Jack"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_37",
+      "title": "The first action of which war took place at Lexington?",
+      "answers": [
+        "American Revolution"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_38",
+      "title": "What is the first name of Fidel Castro's brother, who became Cuba's acting president when Fidel fell ill?",
+      "answers": [
+        "Raul"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_39",
+      "title": "Approximately how many US marines fought at the Battle of Guadalcanal?",
+      "answers": [
+        "19,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_40",
+      "title": "How many main islands make up the state of Hawaii?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_41",
+      "title": "Who was shot as he left the Washington Hilton in 1981?",
+      "answers": [
+        "Ronald Reagan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_42",
+      "title": "In 1626, what island was purchased by Peter Minuit from the natives for goods valued at $24?",
+      "answers": [
+        "Manhattan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_43",
+      "title": "What did John Wilkes Booth trip on as he jumped on the stage of Ford's Theater?",
+      "answers": [
+        "Bunting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_44",
+      "title": "Which US president asked the US congress to declare war on Japan in 1941?",
+      "answers": [
+        "Franklin D. Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_45",
+      "title": "In what country did the concept of Easter bunny originate?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_46",
+      "title": "General John J. Pershing was in command of the American troops during what war?",
+      "answers": [
+        "World War I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_47",
+      "title": "Who became president after William McKinley was assassinated?",
+      "answers": [
+        "Theodore Roosevelt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_48",
+      "title": "What event started the Great Depression?",
+      "answers": [
+        "Black Tuesday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_49",
+      "title": "What 19th-century engineer devised an internal combustion engine which works without a spark plug?",
+      "answers": [
+        "Rudolf Diesel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_56_50",
+      "title": "What was Ghandi's profession?",
+      "answers": [
+        "Lawyer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

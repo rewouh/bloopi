@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_40",
+  "name": "History Trivia 26K 40",
+  "description": "History 1951 - 2000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_40_01",
+      "title": "Who co-­founded Microsoft with Bill Gates?",
+      "answers": [
+        "Paul Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_02",
+      "title": "What did the US Federal Reserve system do a record seventeen consecutive times between 2004 and 2006?",
+      "answers": [
+        "Raise interest rates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_03",
+      "title": "Who discovered the island of Tierra del Fuego?",
+      "answers": [
+        "Ferdinand Magellan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_04",
+      "title": "Who was British Prime Minister at the outbreak of WWI?",
+      "answers": [
+        "Herbert Henry Asquith"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_05",
+      "title": "Which Roman Emperor’s \"Edict of Milan\" made Christianity legal?",
+      "answers": [
+        "Constantine I"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_06",
+      "title": "What was the two-word code name for Woodward and Bernstein's secret Watergate source?",
+      "answers": [
+        "Deep Throat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_07",
+      "title": "At the time the US was celebrating its bi-centennial who was the President?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_08",
+      "title": "What state elected a former pro wrestler as its governor?",
+      "answers": [
+        "Minnesota"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_09",
+      "title": "London's Trafalgar Square Christmas tree is traditionally given by which country?",
+      "answers": [
+        "Norway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_10",
+      "title": "Who was CIA Director from 1976 to 1977?",
+      "answers": [
+        "George H.W. Bush"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_11",
+      "title": "What name was attached to Germany's World War II submarines?",
+      "answers": [
+        "U-boats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_12",
+      "title": "What 14th century poem contains the earliest reference to Robin Hood?",
+      "answers": [
+        "Piers Plowman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_13",
+      "title": "In which country did Che Guevara die?",
+      "answers": [
+        "Bolivia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_14",
+      "title": "Who said, \"The hottest love has the coldest end\"?",
+      "answers": [
+        "Socrates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_15",
+      "title": "Where was paper first produced?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_16",
+      "title": "The ancient Mayan civilization developed in the entirety of which modern-day country?",
+      "answers": [
+        "Guatemala"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_17",
+      "title": "What was the name of Alexander the Great's famous horse?",
+      "answers": [
+        "Bucephalas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_18",
+      "title": "Which US amendment to the Constitution limits the president to two terms?",
+      "answers": [
+        "22nd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_19",
+      "title": "What is the largest pyramid?",
+      "answers": [
+        "Pyramid of Cholula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_20",
+      "title": "What were American patriots protesting when they dumped tea into Boston Harbor?",
+      "answers": [
+        "Taxation without representation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_21",
+      "title": "Who was the first person to receive an artificial heart implant?",
+      "answers": [
+        "Barney Clark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_22",
+      "title": "With which war is Florence Nightingale associated?",
+      "answers": [
+        "Crimean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_23",
+      "title": "Which emperor built the Taj Mahal?",
+      "answers": [
+        "Shah Jahan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_24",
+      "title": "Avian flu in China led to 2006 price hikes in what piece of sporting equipment?",
+      "answers": [
+        "Badminton birdies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_25",
+      "title": "What is considered the turning point of World War II in Europe?",
+      "answers": [
+        "Battle of Stalingrad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_26",
+      "title": "What year was Canadian politician Pierre Trudeau born in?",
+      "answers": [
+        "1919"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_27",
+      "title": "What year did Napoleon Bonaparte die?",
+      "answers": [
+        "1821"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_28",
+      "title": "Which prominent Kurd, born in Tikrit, united Muslim forces against the crusaders in the 12th century?",
+      "answers": [
+        "Saladin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_29",
+      "title": "Who became vice president of the U.S. after President Nixon resigned?",
+      "answers": [
+        "Nelson Aldrich Rockefeller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_30",
+      "title": "What does the letter F stand for in JFK's name?",
+      "answers": [
+        "Fitzgerald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_31",
+      "title": "What decade saw the completion of the Empire State Building?",
+      "answers": [
+        "1930's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_32",
+      "title": "What country gave the Statue of Liberty to the US?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_33",
+      "title": "What US state was \"Steak 'n Shake\" founded in?",
+      "answers": [
+        "Illinois"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_34",
+      "title": "Molotov cocktails were first used by what country after the Soviets invaded it in 1939?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_35",
+      "title": "During the 1920s, gangster Al Capone ruled over what city?",
+      "answers": [
+        "Chicago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_36",
+      "title": "Which Soviet leader died in 1953 from a cerebral hemorrhage?",
+      "answers": [
+        "Joseph Stalin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_37",
+      "title": "What is James Naismith best known for?",
+      "answers": [
+        "Inventing Basketball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_38",
+      "title": "In 1948, which NBA basketball team did the Harlem Globetrotters defeat which eventually helped break the NBA's color barrier?",
+      "answers": [
+        "Minneapolis Lakers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_39",
+      "title": "What year did the Battle of the Plains of Abraham take place?",
+      "answers": [
+        "1759"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_40",
+      "title": "Which American statistician founded the institute of Public Opinion in 1935?",
+      "answers": [
+        "Gallup"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_41",
+      "title": "The \"Era of Good Feelings\" is associated with the administration of which president?",
+      "answers": [
+        "James Monroe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_42",
+      "title": "When did the \"Eighty Years War\" start?",
+      "answers": [
+        "1568"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_43",
+      "title": "What in Paris was erected to celebrate the anniversary of the French Revolution?",
+      "answers": [
+        "The Eiffel Tower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_44",
+      "title": "What's the most common first name among the First Ladies of the United States?",
+      "answers": [
+        "Elizabeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_45",
+      "title": "Who traditionally occupied the Peacock Throne?",
+      "answers": [
+        "The shah of Iran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_46",
+      "title": "In 1947, what pilot first broke the supersonic barrier?",
+      "answers": [
+        "Chuck Yeager"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_47",
+      "title": "What was the first US city to have a public school system?",
+      "answers": [
+        "Boston"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_48",
+      "title": "In what year did Cassius Clay win an Olympic gold medal for boxing in the light heavyweight division?",
+      "answers": [
+        "1960"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_49",
+      "title": "How was the Scottish outlaw Robert MacGregor better known?",
+      "answers": [
+        "Rob Roy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_40_50",
+      "title": "The British passed the Intolerable Acts as punishment for what act by the American colonists?",
+      "answers": [
+        "The Boston Tea Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

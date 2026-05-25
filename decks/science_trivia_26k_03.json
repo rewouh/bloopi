@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_03",
+  "name": "Science Trivia 26K 03",
+  "description": "Science 101 - 150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_03_01",
+      "title": "What fruit comes in Hass and Florida variety?",
+      "answers": [
+        "Avocados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_02",
+      "title": "Chocolate's addictive properties are due to what alkaloid?",
+      "answers": [
+        "Theobromine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_03",
+      "title": "What's the word for when you can't remember a word?",
+      "answers": [
+        "Lethologica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_04",
+      "title": "What is a male beaver called?",
+      "answers": [
+        "A buck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_05",
+      "title": "How many chromosomes does a chicken have?",
+      "answers": [
+        "78"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_06",
+      "title": "Where would you find your Glabella?",
+      "answers": [
+        "Between your eyebrows"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_07",
+      "title": "Aviatophobia is a fear of what?",
+      "answers": [
+        "Flying"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_08",
+      "title": "What French scientist discovered that many diseases are caused by germs?",
+      "answers": [
+        "Louis Pasteur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_09",
+      "title": "A group of rhinos is called a what?",
+      "answers": [
+        "A crash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_10",
+      "title": "If a doctor told you there was fluid entering your lungs, what term might he use to describe this?",
+      "answers": [
+        "Aspiration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_11",
+      "title": "What is the acronym for Thomas A. Swift's Electric Rifle?",
+      "answers": [
+        "Taser"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_12",
+      "title": "What did Henry Shrapnel invent?",
+      "answers": [
+        "Exploding shell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_13",
+      "title": "What does the human lacrimal gland produce?",
+      "answers": [
+        "Tears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_14",
+      "title": "What is an Otoscope used to look at?",
+      "answers": [
+        "The Ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_15",
+      "title": "What is a male cat if a female is a queen?",
+      "answers": [
+        "Tom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_16",
+      "title": "What is the heaviest breed of bear?",
+      "answers": [
+        "Polar bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_17",
+      "title": "What does a sphygmomanometer measure?",
+      "answers": [
+        "Blood pressure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_18",
+      "title": "Nyala are a type of antelope that are indigenous to which continent?",
+      "answers": [
+        "Africa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_19",
+      "title": "Automatonophobia is the fear of what?",
+      "answers": [
+        "Human-like figures"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_20",
+      "title": "What color does litmus paper turn if a solution is acidic?",
+      "answers": [
+        "Pink or red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_21",
+      "title": "Which Apollo space mission put the first men on the moon?",
+      "answers": [
+        "Apollo 11"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_22",
+      "title": "What type of fish is a dangerous delicacy for sushi eaters if not correctly prepared?",
+      "answers": [
+        "Blowfish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_23",
+      "title": "What constellation represents a hunter with a club a shield?",
+      "answers": [
+        "Orion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_24",
+      "title": "Ketchup was sold in the 1830’s as what?",
+      "answers": [
+        "Medicine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_25",
+      "title": "What metals is Bell metal an alloy of?",
+      "answers": [
+        "Tin and copper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_26",
+      "title": "In 1998, John Glenn returned to space aboard which space shuttle?",
+      "answers": [
+        "Discovery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_27",
+      "title": "Poison Ivy is a relative to what plant?",
+      "answers": [
+        "Cashew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_28",
+      "title": "The \"K\" in vitamin K stands for the Danish spelling of what eleven-letter word?",
+      "answers": [
+        "Coagulation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_29",
+      "title": "What is the study of moths and butterflies called?",
+      "answers": [
+        "Lepidopterology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_30",
+      "title": "What were the 5th generation iPods the first to offer?",
+      "answers": [
+        "Video"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_31",
+      "title": "What bird was the first to be domesticated by man?",
+      "answers": [
+        "Goose"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_32",
+      "title": "Which Apollo mission was launched on April 11, 1970?",
+      "answers": [
+        "Apollo 13"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_33",
+      "title": "What percentage of the cucumber is water?",
+      "answers": [
+        "96"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_34",
+      "title": "What is the common name for hydrogen hydroxide?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_35",
+      "title": "If you suffer from pyrexia what do you have?",
+      "answers": [
+        "Fever"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_36",
+      "title": "What disorder often leads to sufferers eating odd items such as dirt or metal?",
+      "answers": [
+        "Pica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_37",
+      "title": "The duck-billed platypus is one of only three mammals in the world that can do what?",
+      "answers": [
+        "Lay eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_38",
+      "title": "Kr is the chemical symbol for which element?",
+      "answers": [
+        "Krypton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_39",
+      "title": "When blood becomes more acid than normal, what it is the condition called?",
+      "answers": [
+        "Acidosis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_40",
+      "title": "What does the \"c\" in the equation \"e=mc2\" stand for?",
+      "answers": [
+        "Speed of light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_41",
+      "title": "What fruit is believed to be the oldest cultivated in the world?",
+      "answers": [
+        "Figs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_42",
+      "title": "What is the Latin word for poison?",
+      "answers": [
+        "Virus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_43",
+      "title": "What is the Latin name for the atmospheric glow also called the \"southern lights\"?",
+      "answers": [
+        "Aurora australis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_44",
+      "title": "What is the chemical symbol for Californium?",
+      "answers": [
+        "Cf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_45",
+      "title": "What was the name of the Apollo 11 lunar module?",
+      "answers": [
+        "Eagle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_46",
+      "title": "What term refers to a group of frogs?",
+      "answers": [
+        "Army"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_47",
+      "title": "What metal is the essential ingredient in a dental amalgam filling?",
+      "answers": [
+        "Mercury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_48",
+      "title": "Who founded Microsoft with Bill Gates in 1975?",
+      "answers": [
+        "Paul Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_49",
+      "title": "Hydraulics is the study of what?",
+      "answers": [
+        "Fluids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_03_50",
+      "title": "During a tornado, what happens to air pressure?",
+      "answers": [
+        "It drops"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

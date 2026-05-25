@@ -1,0 +1,58 @@
+{
+  "id": "science_trivia_26k_66",
+  "name": "Science Trivia 26K 66",
+  "description": "Science 3251 - 3255 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_66_01",
+      "title": "What plant does the Colorado beetle attack?",
+      "answers": [
+        "Potato"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_66_02",
+      "title": "What plant is the most common cause of hay fever?",
+      "answers": [
+        "Ragweed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_66_03",
+      "title": "In the eye, what is the more common name for the condition also known as \"lens opacity\"?",
+      "answers": [
+        "Cataract"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_66_04",
+      "title": "How often are brain cells replaced?",
+      "answers": [
+        "Never"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_66_05",
+      "title": "What is the number 3.14 known as?",
+      "answers": [
+        "Pi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_97",
+  "name": "Entertainment Trivia 26K 97",
+  "description": "Entertainment 4801 - 4850 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_97_01",
+      "title": "In the film \"Fargo\", Frances McDormand plays the pregnant police chief of what town?",
+      "answers": [
+        "Bernard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_02",
+      "title": "Which African country was the setting for the TV serial \"The Flame Trees of Thika\"?",
+      "answers": [
+        "Kenya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_03",
+      "title": "What athlete had a part in the movie \"The Dirty Dozen\"?",
+      "answers": [
+        "Jim Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_04",
+      "title": "\"Rebecca\" was whose director's first American project?",
+      "answers": [
+        "Alfred Hitchcock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_05",
+      "title": "In the movie \"Days of Thunder\", what car is Cole told to hit in his first race?",
+      "answers": [
+        "The pace car"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_06",
+      "title": "What was Balki's home island on TV's \"Perfect Strangers\"?",
+      "answers": [
+        "Mypos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_07",
+      "title": "What athlete had a part in the movie \"Harvard Man\"?",
+      "answers": [
+        "Ray Allen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_08",
+      "title": "Which rock star was \"The Man Who Fell on Earth\"?",
+      "answers": [
+        "David Bowie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_09",
+      "title": "What 1984 comedy is credited with the popularity of the girl's name, Madison?",
+      "answers": [
+        "Splash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_10",
+      "title": "What rock musician got his stage name from the yellow and black jerseys he used to wear?",
+      "answers": [
+        "Sting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_11",
+      "title": "Who was The Black Adder?",
+      "answers": [
+        "Rowan Atkinson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_12",
+      "title": "Who released the albums \"At Folsom Prison\" and \"At San Quentin\"?",
+      "answers": [
+        "Johnny Cash"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_13",
+      "title": "Jason Voorhees first appeared in the nightmare of which \"Friday the 13th\" character?",
+      "answers": [
+        "Alice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_14",
+      "title": "What double-word song title was a hit single by Run-D.M.C.?",
+      "answers": [
+        "Mary, Mary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_15",
+      "title": "What 1971 film was partially set in the Korova Milk Bar?",
+      "answers": [
+        "A Clockwork Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_16",
+      "title": "What guards the Ark of the Covenant in \"Raiders of the Lost Ark\"?",
+      "answers": [
+        "Snakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_17",
+      "title": "What actor played Bill the Butcher in the 2002 movie \"Gangs of New York\"?",
+      "answers": [
+        "Daniel Day Lewis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_18",
+      "title": "What kind of dog is Pluto's girlfriend, Fifi?",
+      "answers": [
+        "Pekingese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_19",
+      "title": "Beyonce's 2011 hit \"Party\" features which founding member of OutKast?",
+      "answers": [
+        "Andre 3000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_20",
+      "title": "What member of Fleetwood Mac released a 1981 solo hit single titled \"Trouble\"?",
+      "answers": [
+        "Lindsey Buckingham"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_21",
+      "title": "What was the name of Roy Scheider's character in All That Jazz?",
+      "answers": [
+        "Joe Gideon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_22",
+      "title": "Who plays the role of Neville Flynn in the movie \"Snakes on a Plane\"?",
+      "answers": [
+        "Samuel L. Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_23",
+      "title": "What is artist Beck's birth name?",
+      "answers": [
+        "Bek David Campbell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_24",
+      "title": "What is the last name of the three brothers part of the original Beach Boys?",
+      "answers": [
+        "Wilson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_25",
+      "title": "Who played the role of the US president in the movie \"Absolute Power\"?",
+      "answers": [
+        "Gene Hackman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_26",
+      "title": "In the TV Show \"Gunsmoke\", who portrayed deputy Chester Goode?",
+      "answers": [
+        "Dennis Weaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_27",
+      "title": "What sport was featured in the 1985 movie \"Vision Quest\"?",
+      "answers": [
+        "Wrestling"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_28",
+      "title": "What album track was the first song the Beatles ever performed on their Ed Sullivan Show debut?",
+      "answers": [
+        "All My Loving"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_29",
+      "title": "What was Karen Allen's character's name in \"Raiders of the Lost Ark\"?",
+      "answers": [
+        "Marion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_30",
+      "title": "The film \"Casablanca\" takes place during which war?",
+      "answers": [
+        "World War II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_31",
+      "title": "Which band member of Milli Vanilli died of drug overdose?",
+      "answers": [
+        "Rob Pilatus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_32",
+      "title": "Who is the assistant to Mr. Burns in \"The Simpsons?\"",
+      "answers": [
+        "Waylon Smithers, Jr."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_33",
+      "title": "What cartoon duo gave us the \"Happy Happy Joy Joy\" song?",
+      "answers": [
+        "Ren & Stimpy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_34",
+      "title": "Which Disney's cartoon character's love interest is named John Smith?",
+      "answers": [
+        "Pocahontas'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_35",
+      "title": "Who played the villain Howard Payne in the 1994 movie \"Speed\"?",
+      "answers": [
+        "Dennis Hopper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_36",
+      "title": "Who hosted the TV show \"This Old House\" for the first ten seasons?",
+      "answers": [
+        "Bob Vila"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_37",
+      "title": "Which pop singer’s reissued Christmas album was subtitled \"Snow Queen Edition\"?",
+      "answers": [
+        "Kylie Minogue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_38",
+      "title": "In the 2008 movie \"Step Brothers\", what is the name of Huff and Doback's entertainment company?",
+      "answers": [
+        "Prestige Worldwide"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_39",
+      "title": "Who's responsible for \"The Ballad of Reading Gaol\"?",
+      "answers": [
+        "Oscar Wilde"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_40",
+      "title": "Who was known as the King of Pop?",
+      "answers": [
+        "Michael Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_41",
+      "title": "In \"Gone With the Wind\", what gift does Rhett bring back from New Orleans for Mammy?",
+      "answers": [
+        "A petticoat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_42",
+      "title": "What Kansas song does Keanu Reeves use to wow Socrates in \"Bill & Ted's Excellent Adventure\"?",
+      "answers": [
+        "Dust in the Wind"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_43",
+      "title": "Who won an Oscar as Best Supporting actor in the 1993 film \"The Fugitive\"?",
+      "answers": [
+        "Tommy Lee Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_44",
+      "title": "In The Flintstones, what is the name of Barney Rubble's pet?",
+      "answers": [
+        "Hoppy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_45",
+      "title": "What was the name of the album the band TLC released in 2013?",
+      "answers": [
+        "20"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_46",
+      "title": "What classic novel did TV's \"Big Brother\" get its name from?",
+      "answers": [
+        "1984"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_47",
+      "title": "What show debuted in 1963 and became the longest running sci-fi series?",
+      "answers": [
+        "Doctor Who"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_48",
+      "title": "Who played the role of Norman Bates in the 1998 remake of \"Psycho\"?",
+      "answers": [
+        "Vince Vaughn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_49",
+      "title": "Which singer played a fashion model in the 1975 movie \"Mahogany\"?",
+      "answers": [
+        "Diana Ross"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_97_50",
+      "title": "What US state is home to the Sundance Film Festival?",
+      "answers": [
+        "Utah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_34",
+  "name": "General Trivia 26K 34",
+  "description": "General 1651 - 1700 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_34_01",
+      "title": "Listed alphabetically, what would be the first property on a Monopoly game board?",
+      "answers": [
+        "Atlantic Ave."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_02",
+      "title": "How is rockstar Vincent Furnier better known?",
+      "answers": [
+        "Alice Cooper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_03",
+      "title": "In underwater diving, what does SCUBA stand for?",
+      "answers": [
+        "Self-Contained Underwater Breathing Apparatus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_04",
+      "title": "What part of a piano's action permits the keys to be struck in quick repetition?",
+      "answers": [
+        "Escapement"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_05",
+      "title": "What year did tennis player Roger Federer turn professional?",
+      "answers": [
+        "1998"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_06",
+      "title": "How many gallons does a Hogshead barrel typically hold?",
+      "answers": [
+        "63"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_07",
+      "title": "What religious day follows Halloween?",
+      "answers": [
+        "All Saint's Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_08",
+      "title": "Where is the last remaining Blockbuster store?",
+      "answers": [
+        "Bend, Oregon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_09",
+      "title": "How many lanes does an Olympic swimming pool have?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_10",
+      "title": "Clinophobia is the fear of what?",
+      "answers": [
+        "Going to bed"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_11",
+      "title": "In 1991, who erected three thousand blue and yellow umbrellas on the coasts of California and Japan?",
+      "answers": [
+        "Christo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_12",
+      "title": "The 1919 World Series \"Black Sox\" scandal involved players doing what?",
+      "answers": [
+        "Throwing the game"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_13",
+      "title": "What would you be served in a Japanese restaurant if you ordered \"Takenoko\"?",
+      "answers": [
+        "Bamboo shoots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_14",
+      "title": "In musical terms, what does \"Da capo\" mean?",
+      "answers": [
+        "From the beginning"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_15",
+      "title": "Vermicelli pasta literally translates as what in Italian?",
+      "answers": [
+        "Little worms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_16",
+      "title": "A group of wild cats are called what?",
+      "answers": [
+        "A destruction"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_17",
+      "title": "In 1917 a bakery in Chattanooga, Tennessee introduced what popular Southern treat?",
+      "answers": [
+        "MoonPie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_18",
+      "title": "What was the first NBA team named after a car part?",
+      "answers": [
+        "The Detroit Pistons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_19",
+      "title": "Elvis Stojko was an ice skating champion hailing from what?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_20",
+      "title": "Which pasta is shaped like a seashell?",
+      "answers": [
+        "Conchiglie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_21",
+      "title": "What brand of melty cheese was first introduced to the mass market in 1928?",
+      "answers": [
+        "Velveeta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_22",
+      "title": "In 2009 what did the \"Sears Tower\" had its name changed to?",
+      "answers": [
+        "Willis Tower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_23",
+      "title": "What phrase appears on the ribbon in the bald eagle's beak on a one-dollar bill?",
+      "answers": [
+        "E Pluribus Unum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_24",
+      "title": "The first hockey pucks used in early outdoor hockey games were made of what?",
+      "answers": [
+        "Frozen cow dung"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_25",
+      "title": "What whirling Italian folk dance was said to cure the bite of the large local wolf spider?",
+      "answers": [
+        "The tarantella"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_26",
+      "title": "The year 2016 was the 2016th year of what Civil calendar?",
+      "answers": [
+        "Gregorian calendar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_27",
+      "title": "For how many years was the first generation Volkswagen Golf in production?",
+      "answers": [
+        "9 years"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_28",
+      "title": "What city is home to Amazon.com's headquarters?",
+      "answers": [
+        "Seattle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_29",
+      "title": "Which food can be called \"marrowfat\"?",
+      "answers": [
+        "Processed peas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_30",
+      "title": "What year was the Intel Pentium processor introduced?",
+      "answers": [
+        "1993"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_31",
+      "title": "Which vegetable is used if a dish is described as \"a la Crecy\"?",
+      "answers": [
+        "Carrots"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_32",
+      "title": "When is Orthodox Christmas Day?",
+      "answers": [
+        "January 7th"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_33",
+      "title": "Who designed Madonna's infamous cone-bra?",
+      "answers": [
+        "Jean Paul Gaultier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_34",
+      "title": "What is the Christmas dinner of choice for families in Burgundy, France?",
+      "answers": [
+        "Turkey and chestnuts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_35",
+      "title": "What onetime NBA Finals MVP was the last owner of the CBA before its 2001 bankruptcy?",
+      "answers": [
+        "Isiah Thomas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_36",
+      "title": "Which U.S. federal agency provides protection for the federal judiciary?",
+      "answers": [
+        "United States Marshals Service"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_37",
+      "title": "What did the \"Itsy Bitsy Spider\" climb up?",
+      "answers": [
+        "Water spout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_38",
+      "title": "What is the traditional gift for a 40th wedding anniversary?",
+      "answers": [
+        "Ruby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_39",
+      "title": "Which country hosted the 1982 FIFA World Cup?",
+      "answers": [
+        "Spain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_40",
+      "title": "Which bird is the national bird of Belgium?",
+      "answers": [
+        "Common kestrel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_41",
+      "title": "Pubs are said to have evolved from what Anglo-Saxon establishment that started to appear in the 5th century?",
+      "answers": [
+        "Alehouses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_42",
+      "title": "What team won the 2011 NBA Championship?",
+      "answers": [
+        "Dallas Mavericks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_43",
+      "title": "Because of his butterfly tattoo, what was Henri Cherriere's nickname at Devil's Island prison?",
+      "answers": [
+        "Papillon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_44",
+      "title": "Is the cucumber a fruit or a vegetable?",
+      "answers": [
+        "Fruit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_45",
+      "title": "In which country did the cheese Emmental originate?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_46",
+      "title": "What sport's lingo uses the term \"Mulligan\"?",
+      "answers": [
+        "Golf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_47",
+      "title": "Sapporo beer was first brewed in which country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_48",
+      "title": "What party game involves a shifting shortage of seats?",
+      "answers": [
+        "Musical chairs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_49",
+      "title": "Pony, Shot and Jigger are all units to measure what?",
+      "answers": [
+        "Spirits"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_34_50",
+      "title": "The military training center of Fort Sill is located in which US state?",
+      "answers": [
+        "Oklahoma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

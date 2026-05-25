@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_35",
+  "name": "Science Trivia 26K 35",
+  "description": "Science 1701 - 1750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_35_01",
+      "title": "What is measured using a Richter scale?",
+      "answers": [
+        "Earthquakes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_02",
+      "title": "Based on Kepler's first law, the path of a planet is defined as what shape?",
+      "answers": [
+        "Ellipse"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_03",
+      "title": "The red supergiant star, Betelgeuse, belongs to which constellation?",
+      "answers": [
+        "Orion the Hunter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_04",
+      "title": "Hydrophobia is the fear of what?",
+      "answers": [
+        "Water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_05",
+      "title": "What household device uses the rare synthetic element americium?",
+      "answers": [
+        "Smoke detectors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_06",
+      "title": "What status did astronomers downgrade Pluto to in 2006?",
+      "answers": [
+        "Dwarf Planet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_07",
+      "title": "What doctor invented a device called the Mercitron?",
+      "answers": [
+        "Dr. Jack Kevorkian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_08",
+      "title": "Coprastastaphobia is the fear of what?",
+      "answers": [
+        "Constipation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_09",
+      "title": "What is the name for the narrow part in the middle of a standard hour glass?",
+      "answers": [
+        "Waist"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_10",
+      "title": "Approximately how many inches are in a meter?",
+      "answers": [
+        "39"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_11",
+      "title": "Chondromalacia is the medical term for what?",
+      "answers": [
+        "Runner's knee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_12",
+      "title": "What are baby Koalas called?",
+      "answers": [
+        "Joeys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_13",
+      "title": "What is a natural Christmas tree a good source of?",
+      "answers": [
+        "Vitamin C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_14",
+      "title": "What does the Kelvin scale measure?",
+      "answers": [
+        "Temperature"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_15",
+      "title": "What's the term for 100,000 BTUs?",
+      "answers": [
+        "Therm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_16",
+      "title": "How many minutes does it take sunlight to reach Earth?",
+      "answers": [
+        "8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_17",
+      "title": "In Newton's second law of motion force is equal to mass times what?",
+      "answers": [
+        "Acceleration"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_18",
+      "title": "What are the fastest and strongest global winds called?",
+      "answers": [
+        "Jet streams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_19",
+      "title": "Is it true that there is more vitamin C in a sweet red pepper than in a Valencia orange?",
+      "answers": [
+        "Yes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_20",
+      "title": "What is the study of rocks and their formation called?",
+      "answers": [
+        "Petrology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_21",
+      "title": "Who originated the Uncertainty Principle?",
+      "answers": [
+        "Werner Heisenberg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_22",
+      "title": "What process does milk undergo to become yogurt?",
+      "answers": [
+        "Bacterial fermentation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_23",
+      "title": "What is glass mainly made up of?",
+      "answers": [
+        "Sand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_24",
+      "title": "What is the only mammal to have oval rather than circular blood corpuscles?",
+      "answers": [
+        "Camel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_25",
+      "title": "What would be scored by the Apgar score?",
+      "answers": [
+        "Health of newborns"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_26",
+      "title": "What type of dog is known as the \"King of the Terriers\"?",
+      "answers": [
+        "Airedale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_27",
+      "title": "A photic sneeze is often caused by what stimuli?",
+      "answers": [
+        "Sunlight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_28",
+      "title": "What is measured in Newtons?",
+      "answers": [
+        "Force"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_29",
+      "title": "What is the largest moon in our solar system?",
+      "answers": [
+        "Ganymede"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_30",
+      "title": "What breed of cat is tailless?",
+      "answers": [
+        "Manx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_31",
+      "title": "What is the Latin name for a guinea pig?",
+      "answers": [
+        "Caviaprocellus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_32",
+      "title": "Where are the pig's sweat glands?",
+      "answers": [
+        "They don't have any"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_33",
+      "title": "Lilapsophobia is the fear of what?",
+      "answers": [
+        "Tornadoes and hurricanes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_34",
+      "title": "What is the largest living bird on Earth?",
+      "answers": [
+        "The ostrich"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_35",
+      "title": "What is a unit that measures force?",
+      "answers": [
+        "Newtons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_36",
+      "title": "An astronomical unit is the standard measurement taken from the Earth to where?",
+      "answers": [
+        "The Sun"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_37",
+      "title": "What type of animal is a wahoo?",
+      "answers": [
+        "Fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_38",
+      "title": "Melissophobia is the fear of what?",
+      "answers": [
+        "Bees"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_39",
+      "title": "What is the medical term for labored breathing which is derived from the Greek for \"bad breath\"?",
+      "answers": [
+        "Dyspnoea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_40",
+      "title": "What is the name of the largest known satellite of Pluto?",
+      "answers": [
+        "Charon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_41",
+      "title": "Who invented the barometer in 1643?",
+      "answers": [
+        "Evangelista Torricelli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_42",
+      "title": "Cheetahs are native to what two continents?",
+      "answers": [
+        "Africa and Asia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_43",
+      "title": "How many stars does Aries consist of?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_44",
+      "title": "What popular computer language shares its name with the vitamin formerly known as ascorbic acid?",
+      "answers": [
+        "C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_45",
+      "title": "What element has the atomic number 98?",
+      "answers": [
+        "Californium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_46",
+      "title": "What is the study of production of materials at low temperatures called?",
+      "answers": [
+        "Cryogenics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_47",
+      "title": "What is the shadow-casting pointer on a sundial called?",
+      "answers": [
+        "Gnomon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_48",
+      "title": "How old was astronaut Neil Armstrong when he passed away in 2012?",
+      "answers": [
+        "82"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_49",
+      "title": "What element are diamonds made of?",
+      "answers": [
+        "Carbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_35_50",
+      "title": "What is the fear of microbes known as?",
+      "answers": [
+        "Microbiophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

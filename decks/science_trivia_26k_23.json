@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_23",
+  "name": "Science Trivia 26K 23",
+  "description": "Science 1101 - 1150 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_23_01",
+      "title": "What is the most common form of stalactites?",
+      "answers": [
+        "Speleothems"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_02",
+      "title": "Sailors from years past suffered from scurvy due to a lack of what?",
+      "answers": [
+        "Vitamin C"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_03",
+      "title": "What is a tanager?",
+      "answers": [
+        "A bird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_04",
+      "title": "What do ladybugs feed on during hibernation?",
+      "answers": [
+        "Stored fat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_05",
+      "title": "What is the more common term for odontalgia?",
+      "answers": [
+        "Toothache"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_06",
+      "title": "How many furlongs to a mile?",
+      "answers": [
+        "8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_07",
+      "title": "How many zeroes are in the number one trillion?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_08",
+      "title": "What chemical element is added to rubber to \"vulcanize\" it?",
+      "answers": [
+        "Sulfur"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_09",
+      "title": "What sort of a creature is a Boto?",
+      "answers": [
+        "Dolphin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_10",
+      "title": "What is the main source of food for the Bald Eagle?",
+      "answers": [
+        "Fish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_11",
+      "title": "In relation to location, what does the abbreviation GPS stand for?",
+      "answers": [
+        "Global Positioning System"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_12",
+      "title": "What is pruritus?",
+      "answers": [
+        "Itching"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_13",
+      "title": "In mathematics which prefix refers to 10 to the power of minus 12?",
+      "answers": [
+        "Pico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_14",
+      "title": "What species of poisonous spider has an hourglass pattern on its abdomen?",
+      "answers": [
+        "Black Widow Spider"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_15",
+      "title": "What kind of milk is used in chevre cheese?",
+      "answers": [
+        "Goat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_16",
+      "title": "Which organ is responsible for creating urine?",
+      "answers": [
+        "The kidneys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_17",
+      "title": "What fruit comes in Bing and Rainier variety?",
+      "answers": [
+        "Cherries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_18",
+      "title": "In science, what does a skull and bones represent?",
+      "answers": [
+        "Toxic chemical"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_19",
+      "title": "What important crop is the Rhine Valley in Germany known for growing?",
+      "answers": [
+        "Grapes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_20",
+      "title": "In electronics, what is the term that refers to the process of changing alternating current (AC) to direct current (DC)?",
+      "answers": [
+        "Rectification"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_21",
+      "title": "Which of the four bases of DNA isn't found in RNA?",
+      "answers": [
+        "Thymine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_22",
+      "title": "What constant is equivalent to 96,485 coulombs per mole of electrons?",
+      "answers": [
+        "Faraday"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_23",
+      "title": "What is a sudden violent explosion on the sun called?",
+      "answers": [
+        "Solar flare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_24",
+      "title": "How many days can a cockroach live up to without its head?",
+      "answers": [
+        "9"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_25",
+      "title": "Acrophobia is more commonly known as the fear of what?",
+      "answers": [
+        "Heights"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_26",
+      "title": "What can’t a cheetah do that a tiger and a puma can do?",
+      "answers": [
+        "Retract its claws"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_27",
+      "title": "What color is soapstone when it is first mined?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_28",
+      "title": "What term describes the amount of light a planetary body reflects?",
+      "answers": [
+        "Albedo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_29",
+      "title": "What causes the phenomenon of red \"watermelon snow\"?",
+      "answers": [
+        "Algae"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_30",
+      "title": "What is the \"bole\" of a tree?",
+      "answers": [
+        "The trunk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_31",
+      "title": "What would you get if you combined all light colors?",
+      "answers": [
+        "White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_32",
+      "title": "What is the most commonly broken human bone?",
+      "answers": [
+        "Clavicle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_33",
+      "title": "What 's the largest bird in North America?",
+      "answers": [
+        "California condor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_34",
+      "title": "What type of animal are flying foxes?",
+      "answers": [
+        "Bats"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_35",
+      "title": "What scientist discovered X-rays?",
+      "answers": [
+        "Wilhelm Röntgen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_36",
+      "title": "What is another name for the starfruit?",
+      "answers": [
+        "Carambola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_37",
+      "title": "A \"crepuscular\" animal becomes active at what time?",
+      "answers": [
+        "Dusk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_38",
+      "title": "How many watts is one horsepower?",
+      "answers": [
+        "746"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_39",
+      "title": "What powdery substance contains the male sex cells of a flower?",
+      "answers": [
+        "Pollen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_40",
+      "title": "What is the branch of medicine that deals with the care of infants and children?",
+      "answers": [
+        "Pediatrics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_41",
+      "title": "What do antioxidants neutralize?",
+      "answers": [
+        "Free radicals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_42",
+      "title": "Which element of the periodic table is named after the seventh planet from the sun?",
+      "answers": [
+        "Uranium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_43",
+      "title": "What is the chemical symbol for potassium?",
+      "answers": [
+        "K"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_44",
+      "title": "What fruit comes in Navel and Blood variety?",
+      "answers": [
+        "Oranges"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_45",
+      "title": "What vitamin group is mostly required for blood coagulation?",
+      "answers": [
+        "Vitamin K"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_46",
+      "title": "What does the term \"scramjet\" stand for?",
+      "answers": [
+        "Supersonic Combustion Ramjet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_47",
+      "title": "What group of chemicals is responsible for the heat in chili peppers?",
+      "answers": [
+        "Capsaicinoids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_48",
+      "title": "What reptile's image is the logo of a popular French sportswear company?",
+      "answers": [
+        "The crocodile's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_49",
+      "title": "What is the alligator pear better known as?",
+      "answers": [
+        "An avocado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_23_50",
+      "title": "What element of the periodic table is named for a Jewish woman?",
+      "answers": [
+        "Meitnerium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_58",
+  "name": "History Trivia 26K 58",
+  "description": "History 2851 - 2900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_58_01",
+      "title": "World War II is generally considered to have begun on what date?",
+      "answers": [
+        "September 1, 1939"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_02",
+      "title": "What name was given to a group of colonial militia during the American Revolution?",
+      "answers": [
+        "Minutemen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_03",
+      "title": "Who gave the \"Cross of Gold\" speech at the 1896 Democratic National Convention?",
+      "answers": [
+        "William Jennings Bryan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_04",
+      "title": "Which country were the 1948 Winter Olympic Games?",
+      "answers": [
+        "Switzerland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_05",
+      "title": "What did the Romans call the city now known as London?",
+      "answers": [
+        "Londinium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_06",
+      "title": "What year did the Franco-Prussian War end?",
+      "answers": [
+        "1871"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_07",
+      "title": "What year was margarine first patented?",
+      "answers": [
+        "1869"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_08",
+      "title": "Along with Karl Marx, who wrote \"The Communist Manifesto\" in 1848?",
+      "answers": [
+        "Frederich Engels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_09",
+      "title": "What legendary chief's death in December 1890, led directly to the famous massacre at Wounded Knee?",
+      "answers": [
+        "Sitting Bull's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_10",
+      "title": "In 1983, the first Disney theme park built outside the US opened in what country?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_11",
+      "title": "What ousted Eastern European leader was executed on Christmas Day in 1989?",
+      "answers": [
+        "Nicolae Ceausescu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_12",
+      "title": "What year did World War II end?",
+      "answers": [
+        "1945"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_13",
+      "title": "What year did Oliver Cromwell die?",
+      "answers": [
+        "1658"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_14",
+      "title": "What nation saw thousands of forced disappearances during the \"Dirty War\" of 1976 to 1983?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_15",
+      "title": "Which of America's original 13 states took its name from Elizabeth I?",
+      "answers": [
+        "Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_16",
+      "title": "A golden apple sparked which famous war?",
+      "answers": [
+        "The Trojan War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_17",
+      "title": "Against which country did Hitler launch “Operation Barbarossa”?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_18",
+      "title": "Rome was founded in which year?",
+      "answers": [
+        "753 B.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_19",
+      "title": "What was the middle name of US Civil War Union General William T. Sherman?",
+      "answers": [
+        "Tecumseh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_20",
+      "title": "What decade introduced barcode scanners to supermarkets?",
+      "answers": [
+        "1970s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_21",
+      "title": "Which U.S. President started the tradition of having a national Christmas tree on the White House lawn?",
+      "answers": [
+        "Calvin Coolidge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_22",
+      "title": "In what year did the Spanish Civil War begin?",
+      "answers": [
+        "1936"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_23",
+      "title": "Who was Araminta Ross known as?",
+      "answers": [
+        "Harriet Tubman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_24",
+      "title": "In what year did Mother Teresa die?",
+      "answers": [
+        "1997"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_25",
+      "title": "Where was Anne Frank born?",
+      "answers": [
+        "Frankfurt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_26",
+      "title": "What state did Gerald Ford represent in Congress before being promoted to Richard Nixon's Vice-President?",
+      "answers": [
+        "Michigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_27",
+      "title": "How do historians refer to the time period between the 1730s and 1740s when colonists began embracing rationalism over religion?",
+      "answers": [
+        "The Great Awakening"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_28",
+      "title": "What frontiersman led the party that cut the Wilderness Road through the Cumberland Gap?",
+      "answers": [
+        "Daniel Boone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_29",
+      "title": "US President James Garfield died of what cause?",
+      "answers": [
+        "He was shot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_30",
+      "title": "In 1929, what did Clarence Birdseye introduce?",
+      "answers": [
+        "Frozen food"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_31",
+      "title": "Which confectioner invented the heart-shaped Valentine's Day candy box?",
+      "answers": [
+        "Richard Cadbury"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_32",
+      "title": "Which gulf gave its name to the 1991 Gulf War?",
+      "answers": [
+        "The Persian Gulf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_33",
+      "title": "Who was the Bolshevik leader that was exiled by Joseph Stalin after Vladimir Lenin’s death?",
+      "answers": [
+        "Leon Trotsky"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_34",
+      "title": "What nation was led by Rameses the Great?",
+      "answers": [
+        "Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_35",
+      "title": "The Treaty of Ghent was signed in what country?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_36",
+      "title": "In which year did the Japanese attack Pearl Harbor?",
+      "answers": [
+        "1941"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_37",
+      "title": "What 1953 model of Chevrolet was first commemorated on a US postage stamp in 2005?",
+      "answers": [
+        "The Corvette"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_38",
+      "title": "Who was the principal author of the United States' \"Declaration Of Independence\"?",
+      "answers": [
+        "Thomas Jefferson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_39",
+      "title": "What was the last imperial dynasty of China?",
+      "answers": [
+        "Qing Dynasty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_40",
+      "title": "What was the name for the military trials held in 1945 and 1946 to prosecute Nazi leaders?",
+      "answers": [
+        "Nuremberg Trials"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_41",
+      "title": "What year did the Invasion of Normandy take place?",
+      "answers": [
+        "1944"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_42",
+      "title": "Who was the father of American naval nuclear propulsion?",
+      "answers": [
+        "Admiral Hyman G. Rickover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_43",
+      "title": "According to legend, Napoleon’s troops disfigured which ancient wonder?",
+      "answers": [
+        "The Sphinx"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_44",
+      "title": "What U.S. president was nicknamed \"Napoleon of the Stump?\"",
+      "answers": [
+        "James K. Polk"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_45",
+      "title": "What was Ned Kelly's way of death?",
+      "answers": [
+        "By rope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_46",
+      "title": "Construction of the Tower of Pisa was completed in what year?",
+      "answers": [
+        "1372"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_47",
+      "title": "Which Western nation underwent the Quiet Revolution in the 1960s?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_48",
+      "title": "Xerxes the Great was the king of what empire?",
+      "answers": [
+        "Achaemenid Empire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_49",
+      "title": "In which year of the 1900's did the Japanese army invade Manchuria?",
+      "answers": [
+        "1931"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_58_50",
+      "title": "Who is last in succession for president of the U.S.?",
+      "answers": [
+        "Secretary of Homeland Security"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

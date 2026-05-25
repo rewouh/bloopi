@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_69",
+  "name": "General Trivia 26K 69",
+  "description": "General 3401 - 3450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_69_01",
+      "title": "From which country did the smorgasbord originate?",
+      "answers": [
+        "Sweden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_02",
+      "title": "In the traditional modern deck of cards, which is the only king without a moustache?",
+      "answers": [
+        "King of Hearts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_03",
+      "title": "What is Jimmy Carter's middle name?",
+      "answers": [
+        "Earl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_04",
+      "title": "What was the first soft drink to be consumed in outer space?",
+      "answers": [
+        "Coca-Cola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_05",
+      "title": "Feijoada, the national dish of Brazil, originates from which European country?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_06",
+      "title": "In which sport are banderillas used?",
+      "answers": [
+        "Bullfighting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_07",
+      "title": "What was Lego’s first licensed product?",
+      "answers": [
+        "Wooden Pluto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_08",
+      "title": "What badge number was retired by the LAPD when Jack \"Joe Friday\" Webb died in 1982?",
+      "answers": [
+        "714"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_09",
+      "title": "Which Kellogg's cereal was advertised by Tusk Tusk the Elephant?",
+      "answers": [
+        "Choco Krispis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_10",
+      "title": "How many pieces of bun are in a Mcdonald's Big Mac?",
+      "answers": [
+        "Three"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_11",
+      "title": "Which building has been nicknamed \"30 Rock\"?",
+      "answers": [
+        "GE Building"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_12",
+      "title": "What is the colour of mourning in Turkey?",
+      "answers": [
+        "Violet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_13",
+      "title": "What does the Latin word \"Verbatim\"  means?",
+      "answers": [
+        "Word for word"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_14",
+      "title": "What social network started everyone with a friend named Tom?",
+      "answers": [
+        "MySpace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_15",
+      "title": "What is a Dubbel?",
+      "answers": [
+        "A Belgian beer style"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_16",
+      "title": "Which country hosted the first Winter Olympic Games?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_17",
+      "title": "What is the target area in Olympic fencing?",
+      "answers": [
+        "The torso"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_18",
+      "title": "Hockey player Wayne Gretzky was born in what Canadian city?",
+      "answers": [
+        "Brantford, Ontario"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_19",
+      "title": "The name for PEZ candy came from the German word for what?",
+      "answers": [
+        "Peppermint"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_20",
+      "title": "How many players are in a Polo team?",
+      "answers": [
+        "4"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_21",
+      "title": "What \"C\" word is the name for a two-hulled boat?",
+      "answers": [
+        "Catamaran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_22",
+      "title": "Talking to people who agree with you is like doing what?",
+      "answers": [
+        "Preaching to the choir"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_23",
+      "title": "Bananas Foster originated in what city?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_24",
+      "title": "What were the Portsmouth Spartans renamed after the team was moved to Detroit?",
+      "answers": [
+        "Detroit Lions"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_25",
+      "title": "What is the \"Bishop's Stone\"?",
+      "answers": [
+        "Amethyst"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_26",
+      "title": "On which date is Epiphany celebrated in the traditional Western calendar?",
+      "answers": [
+        "January 6"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_27",
+      "title": "What is the technical name of the \"#\" sign?",
+      "answers": [
+        "Octothorpe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_28",
+      "title": "What constellation do some people consider the 13th zodiac sign?",
+      "answers": [
+        "Ophiuchus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_29",
+      "title": "What was the only nation to qualify for all 16 soccer World Cups in the 20th century?",
+      "answers": [
+        "Brazil"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_30",
+      "title": "What Hindu god is known as \"The Destroyer\"?",
+      "answers": [
+        "Shiva"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_31",
+      "title": "What chain introduced \"the Blizzard\" in 1985?",
+      "answers": [
+        "Dairy Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_32",
+      "title": "Where in the UK would you go to celebrate \"Uphelia'' shortly after Christmas?",
+      "answers": [
+        "Shetland Isles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_33",
+      "title": "What kind of fruit juice is used to mix a Bronx Cocktail?",
+      "answers": [
+        "Orange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_34",
+      "title": "What types of beer are usually used in the making of a Black and Tan?",
+      "answers": [
+        "Pale lager and stout"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_35",
+      "title": "What was the first flavor of the malt beverage named \"Zima\"?",
+      "answers": [
+        "Lemon-Lime"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_36",
+      "title": "What is the only birthstone that is not a mineral?",
+      "answers": [
+        "Pearl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_37",
+      "title": "In Skamania County, Washington, it’s illegal to kill what creature?",
+      "answers": [
+        "Bigfoot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_38",
+      "title": "Transom, poop and keel are all parts of a what?",
+      "answers": [
+        "Boat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_39",
+      "title": "What was the second country to be featured in the \"Michelin Guide\" in 1904?",
+      "answers": [
+        "Belgium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_40",
+      "title": "What was William Fox Talbot a pioneer of?",
+      "answers": [
+        "Photography"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_41",
+      "title": "What safety-minded European automaker pioneered side airbags in the 1990’s?",
+      "answers": [
+        "Volvo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_42",
+      "title": "What made-up Bible verse is the catchphrase of wrestler \"Stone Cold\" Steve Austin?",
+      "answers": [
+        "Austin 3:16"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_43",
+      "title": "How many events are there in a heptathalon?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_44",
+      "title": "What year did tennis player Martina Navratilova turn pro?",
+      "answers": [
+        "1975"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_45",
+      "title": "What is the first sign of the Zodiac?",
+      "answers": [
+        "Aries"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_46",
+      "title": "How many characters are in the Korean alphabet/Hangul",
+      "answers": [
+        "24"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_47",
+      "title": "Cricket stars Clyde Walcott, Everton Weekes and Frank Worrell were all born in which city within 18 months of each other?",
+      "answers": [
+        "Bridgetown, Barbados"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_48",
+      "title": "The 2016 Cavaliers defeated which NBA team to win Cleveland’s first title?",
+      "answers": [
+        "Golden State Warriors"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_49",
+      "title": "What word is used to describe one and a half ounces of liquor?",
+      "answers": [
+        "Jigger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_69_50",
+      "title": "Which English soccer team's mascot is a canary?",
+      "answers": [
+        "Norwich City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

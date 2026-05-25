@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_49",
+  "name": "History Trivia 26K 49",
+  "description": "History 2401 - 2450 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_49_01",
+      "title": "Who did Richard Nixon run against in the 1968 US Presidential Election?",
+      "answers": [
+        "Hubert Humphrey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_02",
+      "title": "What year did Napoleon become King of Italy?",
+      "answers": [
+        "1805"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_03",
+      "title": "Which Canadian Prime Minister was born on December 25, 1971?",
+      "answers": [
+        "Justin Trudeau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_04",
+      "title": "What was the name of the Argentine cruiser sunk after a British attack during the Falklands War in 1982?",
+      "answers": [
+        "General Belgrano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_05",
+      "title": "Who was the only president to serve in both World Wars?",
+      "answers": [
+        "Dwight D Eisenhower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_06",
+      "title": "In which battle was Nelson killed?",
+      "answers": [
+        "Battle of Trafalgar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_07",
+      "title": "Who received the third most popular votes in the 1992 US Presidential election?",
+      "answers": [
+        "Ross Perot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_08",
+      "title": "Which country was split into zones by the 'Yalta Agreement'?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_09",
+      "title": "What photojournalist's work made the first cover of \"Life\" magazine?",
+      "answers": [
+        "Margaret Bourke-White"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_10",
+      "title": "What military legend was nicknamed \"The Little Corporal\"?",
+      "answers": [
+        "Napoleon Bonaparte"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_11",
+      "title": "During what war did thousands of Americans invade the shores of Normandy?",
+      "answers": [
+        "World War II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_12",
+      "title": "Where was the U.S.-backed Panama Canal originally supposed to be built?",
+      "answers": [
+        "Nicaragua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_13",
+      "title": "Who is the inventor of the cash register?",
+      "answers": [
+        "James Ritty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_14",
+      "title": "Who was the first British monarch to live in Buckingham Palace?",
+      "answers": [
+        "Queen Victoria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_15",
+      "title": "What is the name of the slab that became the key for deciphering ancient Egyptian hieroglyphics?",
+      "answers": [
+        "The Rosetta Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_16",
+      "title": "In what year did the Berlin Wall come down?",
+      "answers": [
+        "1989"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_17",
+      "title": "The Three Mile Island accident occurred in which US state?",
+      "answers": [
+        "Pennsylvania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_18",
+      "title": "What age preceded the Iron Age?",
+      "answers": [
+        "The Bronze Age"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_19",
+      "title": "Who was the first Roman Catholic to be President of the United States?",
+      "answers": [
+        "John F. Kennedy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_20",
+      "title": "What peace activist was the emcee at Woodstock?",
+      "answers": [
+        "Wavy Gravy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_21",
+      "title": "President Abraham Lincoln was a member of which political party?",
+      "answers": [
+        "Republican Party"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_22",
+      "title": "Which ancient people first mined and smelted copper?",
+      "answers": [
+        "Egyptians"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_23",
+      "title": "In which Indian city did 43 people die in the notorious Black Hole?",
+      "answers": [
+        "Calcutta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_24",
+      "title": "Which medieval queen was married to both Louis VII of France and Henry II of England?",
+      "answers": [
+        "Eleanor of Aquitaine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_25",
+      "title": "What month in 1912 saw the Titanic go down?",
+      "answers": [
+        "April"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_26",
+      "title": "Who was appointed the first leader of the Tuskegee Institute in 1881?",
+      "answers": [
+        "Booker T. Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_27",
+      "title": "How many soldiers are shown raising the flag over Iwo Jima in the famous photograph and statue?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_28",
+      "title": "Which US president resided at the Hermitage, a plantation in Tennessee?",
+      "answers": [
+        "Andrew Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_29",
+      "title": "What military legend was nicknamed \"Old Fuss and Feathers\"?",
+      "answers": [
+        "Winfield Scott"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_30",
+      "title": "Who was the first President to use the Oval Office?",
+      "answers": [
+        "William Howard Taft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_31",
+      "title": "What ocean liner was retired in 1967 and became a hotel at Long Beach?",
+      "answers": [
+        "The Queen Mary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_32",
+      "title": "In what country were Trabant cars made?",
+      "answers": [
+        "East Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_33",
+      "title": "Who was assassinated by Yigal Amir?",
+      "answers": [
+        "Yitzhak Rabin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_34",
+      "title": "Who commanded the English Fleet against the Spanish Armada in 1588?",
+      "answers": [
+        "Admiral Charles Howard"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_35",
+      "title": "Where were dinosaurs first discovered?",
+      "answers": [
+        "The United Kingdom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_36",
+      "title": "Which Canadian Prime Minister introduced the Maple Leaf national flag?",
+      "answers": [
+        "Lester B. Pearson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_37",
+      "title": "Who was the Roman guardian of entrances and exits?",
+      "answers": [
+        "Janus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_38",
+      "title": "The word \"salary\" was inspired by people getting paid with what?",
+      "answers": [
+        "Salt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_39",
+      "title": "In which country were the first St. Patrick's Day parades held?",
+      "answers": [
+        "USA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_40",
+      "title": "Where was US President James Garfield shot and killed?",
+      "answers": [
+        "Washington, D.C."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_41",
+      "title": "What country did King Hussein rule?",
+      "answers": [
+        "Jordan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_42",
+      "title": "What month, in 2016, did the World Trade Organization announce an outbreak of the Zika virus?",
+      "answers": [
+        "January"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_43",
+      "title": "What airline owned the 747 blown up by a terrorist bomb over Lockerbie, Scotland in 1988?",
+      "answers": [
+        "PanAm"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_44",
+      "title": "What nickname did Thomas Jonathan Jackson earn during the American Civil War?",
+      "answers": [
+        "Stonewall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_45",
+      "title": "What city hosted the 2010 Winter Olympics?",
+      "answers": [
+        "Vancouver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_46",
+      "title": "What was the term for the official policy of racial segregation in South Africa until 1994?",
+      "answers": [
+        "Apartheid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_47",
+      "title": "Which US President had the first phone installed at the White House?",
+      "answers": [
+        "Rutherford Hayes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_48",
+      "title": "What was President John F. Kennedy's middle name?",
+      "answers": [
+        "Fitzgerald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_49",
+      "title": "What European leader was also known as \"Charles the Great\"?",
+      "answers": [
+        "Charlemagne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_49_50",
+      "title": "What position was first held by David Ben-Gurion?",
+      "answers": [
+        "Prime Minister of Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

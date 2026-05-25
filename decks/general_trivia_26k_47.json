@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_47",
+  "name": "General Trivia 26K 47",
+  "description": "General 2301 - 2350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_47_01",
+      "title": "What media personality was once a speechwriter for Richard Nixon?",
+      "answers": [
+        "Ben Stein"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_02",
+      "title": "Originally, Jack-O'-lanterns were made from which type of vegetable?",
+      "answers": [
+        "Turnip"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_03",
+      "title": "What is the most valuable stock exchange in the world?",
+      "answers": [
+        "New York Stock Exchange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_04",
+      "title": "The world's longest tunnel, that is also used to supply water to New York City, is called what?",
+      "answers": [
+        "The Delaware Aqueduct"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_05",
+      "title": "Which theory depends on how much happiness is produced for all people?",
+      "answers": [
+        "Utilitarianism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_06",
+      "title": "Who says, \"Only you can prevent wildfires\"?",
+      "answers": [
+        "Smokey the Bear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_07",
+      "title": "\"Cohen\" is Hebrew for what?",
+      "answers": [
+        "Priest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_08",
+      "title": "Which country did ices or sorbets originate in?",
+      "answers": [
+        "China"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_09",
+      "title": "What year was the character of Betty Crocker first introduced?",
+      "answers": [
+        "1921"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_10",
+      "title": "Which letter stands for the Roman number 50?",
+      "answers": [
+        "L"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_11",
+      "title": "What does a dowser do?",
+      "answers": [
+        "Find water"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_12",
+      "title": "What gives Tonic Water its flavour?",
+      "answers": [
+        "Quinine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_13",
+      "title": "A \"brigantine\" is a type of what?",
+      "answers": [
+        "Sailing ship"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_14",
+      "title": "What are the official flowers of the Kentucky Derby?",
+      "answers": [
+        "Roses"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_15",
+      "title": "Which 1980s wrestling superstar once played baseball in the St. Louis Cardinals' minor league system?",
+      "answers": [
+        "\"Macho Man\" Randy Savage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_16",
+      "title": "How many dots are on a Pac-Man board?",
+      "answers": [
+        "240"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_17",
+      "title": "The name \"gastropub\" is derived from what two words?",
+      "answers": [
+        "Gastronomy and pub"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_18",
+      "title": "The original recipe for \"pound cake\" called for a pound of which ingredients?",
+      "answers": [
+        "Flour, butter, sugar, eggs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_19",
+      "title": "What Hebrew word means \"so be it\"?",
+      "answers": [
+        "Amen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_20",
+      "title": "What board game was invented by Charles B. Darrow during the Great Depression?",
+      "answers": [
+        "Monopoly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_21",
+      "title": "According to flight logs how may times did Bill Clinton travel on Jeffrey Epstein's \"Lolita Express\" aircraft?",
+      "answers": [
+        "27"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_22",
+      "title": "What were clocks missing before 1577?",
+      "answers": [
+        "Minute hands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_23",
+      "title": "What type of animal is the Japanese monster, Kumonga?",
+      "answers": [
+        "Spider"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_24",
+      "title": "What trademark is used in public relations to refer to phony grassroots campaigns?",
+      "answers": [
+        "AstroTurf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_25",
+      "title": "Which pasta is shaped like a \"wagon wheel\"?",
+      "answers": [
+        "Rotelle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_26",
+      "title": "In a game of Hearts, what term describes winning every heart and the queen of spades?",
+      "answers": [
+        "Shooting the Moon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_27",
+      "title": "What does the energiser bunny wear on his feet?",
+      "answers": [
+        "Flip flops"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_28",
+      "title": "What are trammels and seines?",
+      "answers": [
+        "Fishing nets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_29",
+      "title": "What Cajun dish is a mixture of rice, sausage, chicken, shrimp, oysters, spices and more?",
+      "answers": [
+        "Jambalaya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_30",
+      "title": "What is the fear of knowledge known as?",
+      "answers": [
+        "Epistemophobia or gnosiophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_31",
+      "title": "How many dice are used in a standard game of backgammon by each player?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_32",
+      "title": "What magazine darkened O.J. Simpson's mug shot before placing it on its cover in 1994?",
+      "answers": [
+        "Time"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_33",
+      "title": "What is a fairy ring made of?",
+      "answers": [
+        "Mushrooms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_34",
+      "title": "What position did Cy Young play with the Cleveland Spiders?",
+      "answers": [
+        "Pitcher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_35",
+      "title": "What is the best-selling beer in the U.S.?",
+      "answers": [
+        "Bud Light"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_36",
+      "title": "Which bird is the national bird of Italy?",
+      "answers": [
+        "Italian sparrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_37",
+      "title": "What brand of breakfast cereal has the phrase \"Two Scoops!\" emblazoned on its box?",
+      "answers": [
+        "Kellogg's Raisin Bran"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_38",
+      "title": "What company makes Reese's Peanut Butter Cups?",
+      "answers": [
+        "The Hershey Company"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_39",
+      "title": "Which Saint is said to have carried his own head for six miles after his death?",
+      "answers": [
+        "Saint Denis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_40",
+      "title": "How many white stripes are there on the American flag?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_41",
+      "title": "What was Ash Ketchums first Pokemon?",
+      "answers": [
+        "Pikachu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_42",
+      "title": "What is the better known name of cosmetics queen born Josephine Esther Mentzer?",
+      "answers": [
+        "Estee Lauder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_43",
+      "title": "What is the eighth month of the year?",
+      "answers": [
+        "August"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_44",
+      "title": "What year was the Amazon Kindle Fire first introduced?",
+      "answers": [
+        "2011"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_45",
+      "title": "Who was known as \"The Sultan of Swat\"?",
+      "answers": [
+        "Babe Ruth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_46",
+      "title": "What city is signified by the letter \"O\" on U.S. coins minted in the 1800s?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_47",
+      "title": "What dish do the Japanese traditionally eat on New Year’s Eve?",
+      "answers": [
+        "Buckwheat noodles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_48",
+      "title": "On a standard computer keyboard, what letter is to the right of the letter K?",
+      "answers": [
+        "L"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_49",
+      "title": "How many sheets of paper are there in a quire?",
+      "answers": [
+        "25"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_47_50",
+      "title": "How many suspects are there in a game of \"Clue\"?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

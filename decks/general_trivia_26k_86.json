@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_86",
+  "name": "General Trivia 26K 86",
+  "description": "General 4251 - 4300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_86_01",
+      "title": "In modern badminton, how many points typically win a singles game?",
+      "answers": [
+        "21"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_02",
+      "title": "What do James Arness, Michael Crichton, John Kenneth Galbraith, Krist Novoselic and Peter the Great have in common?",
+      "answers": [
+        "They are very tall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_03",
+      "title": "With which sport would you associate Colin Montgomerie?",
+      "answers": [
+        "Golf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_04",
+      "title": "What is the fear of politicians known as?",
+      "answers": [
+        "Politicophobia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_05",
+      "title": "What did Bob Ross specialize in doing?",
+      "answers": [
+        "Painting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_06",
+      "title": "What toy company launched the Barbie doll in 1959?",
+      "answers": [
+        "Mattel Inc."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_07",
+      "title": "What device controlled the air/fuel mixture in automobile engines before the advent of Fuel Injection",
+      "answers": [
+        "The Carburetor"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_08",
+      "title": "The Sam Maguire Cup is played for in which sport?",
+      "answers": [
+        "Gaelic Football"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_09",
+      "title": "\"Entry of the Gladiators\" is best known as the song that is heard when/where?",
+      "answers": [
+        "At the circus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_10",
+      "title": "In chess, which piece only moves diagonally?",
+      "answers": [
+        "The bishop"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_11",
+      "title": "What color is known as \"vert\" on a coat of arms?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_12",
+      "title": "Before being sold, to which country did the web suffix \".me\" belong to?",
+      "answers": [
+        "Montenegro"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_13",
+      "title": "Someone who is called a \"flash in the pan\" could also be described as what?",
+      "answers": [
+        "A one-hit wonder"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_14",
+      "title": "A \"Panatela\" is a type of what?",
+      "answers": [
+        "Cigar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_15",
+      "title": "Where did the first Dunkin' Donuts open?",
+      "answers": [
+        "Quincy, Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_16",
+      "title": "How many Bits are in one Byte?",
+      "answers": [
+        "8"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_17",
+      "title": "What is the ability to shift from two-wheel drive to four-wheel drive while the vehicle is moving called?",
+      "answers": [
+        "Shift-On-The-Fly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_18",
+      "title": "What ice cream chain once sold a ketchup-flavored ice cream?",
+      "answers": [
+        "Baskin-Robbins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_19",
+      "title": "Many Bothan spies died to ensure the destruction of what?",
+      "answers": [
+        "The Second Death Star"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_20",
+      "title": "In the healthcare field, what does the abbreviation EMT stand for?",
+      "answers": [
+        "Emergency Medical Technician"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_21",
+      "title": "How many points is a bullseye worth in darts?",
+      "answers": [
+        "50"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_22",
+      "title": "Which US state's two letter postal abbreviation is \"HI\"?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_23",
+      "title": "What two-sport athlete didn't speak in his early 1990's Nike commercials because of his bad stutter?",
+      "answers": [
+        "Bo Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_24",
+      "title": "Who coined the phrase \"slam dunk\"?",
+      "answers": [
+        "Chick Hearn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_25",
+      "title": "If you are a pupaphobe, what are you afraid of?",
+      "answers": [
+        "Puppets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_26",
+      "title": "How many points did LeBron James score in his very first NBA game?",
+      "answers": [
+        "25"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_27",
+      "title": "Ham was one of the sons of what Biblical patriarch?",
+      "answers": [
+        "Noah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_28",
+      "title": "Where is the sunniest place in the world?",
+      "answers": [
+        "Yuma, Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_29",
+      "title": "What plant does the Boll Weevil destroy?",
+      "answers": [
+        "Cotton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_30",
+      "title": "Who is the only founding member of both the International Surfing and Swimming Halls of Fame?",
+      "answers": [
+        "Duke Kahanamoku"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_31",
+      "title": "What candy bar originally came in three pieces and had three different flavors?",
+      "answers": [
+        "3 Musketeers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_32",
+      "title": "From 1916 to 1938, what US coin featured a buffalo on its back side?",
+      "answers": [
+        "The nickel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_33",
+      "title": "The servant of the mosque who calls Muslims to prayer from the minaret of a mosque is called what?",
+      "answers": [
+        "Muezzin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_34",
+      "title": "In 1997, who became the first racecar driver to be featured on the front of a Wheaties box?",
+      "answers": [
+        "Dale Earnhardt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_35",
+      "title": "What organization grew out of the Hubbard Dianetic Research Foundation?",
+      "answers": [
+        "The Church of Scientology"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_36",
+      "title": "Who was Andre Agassi's greatest tennis rival in the 1990s?",
+      "answers": [
+        "Pete Sampras"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_37",
+      "title": "What food company is listed on the New York Stock Exchange with the single letter \"K\"?",
+      "answers": [
+        "Kellogg's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_38",
+      "title": "What annual event originated from the tradition of Candlemas?",
+      "answers": [
+        "Groundhog Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_39",
+      "title": "What did Lorraine Chase famously advertise on TV?",
+      "answers": [
+        "Campari"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_40",
+      "title": "\"Cirque du Soleil\" hails from what country?",
+      "answers": [
+        "Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_41",
+      "title": "What drink is made from fermented honey, yeast and water?",
+      "answers": [
+        "Mead"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_42",
+      "title": "Who invented the lint roller?",
+      "answers": [
+        "Nicholas McKay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_43",
+      "title": "Which snooker player ended Stephen Hendry's five-year unbeaten run at The Crucible?",
+      "answers": [
+        "Ken Doherty"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_44",
+      "title": "The candy PEZ was first sold in which country?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_45",
+      "title": "Which ingredient provides the red color in a Tequila Sunrise?",
+      "answers": [
+        "Grenadine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_46",
+      "title": "What model was married to musician Nikki Sixx?",
+      "answers": [
+        "Donna D'Errico"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_47",
+      "title": "In what year did Babe Ruth reach 500 career home runs?",
+      "answers": [
+        "1929"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_48",
+      "title": "What is the usual ounce capacity of a jigger?",
+      "answers": [
+        "1.5 ounces"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_49",
+      "title": "What is Ronald McDonald called in Japan?",
+      "answers": [
+        "Donald McDonald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_86_50",
+      "title": "What rare economic condition results when rising prices and recession occur at once?",
+      "answers": [
+        "Stagflation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

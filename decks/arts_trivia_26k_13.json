@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_13",
+  "name": "Arts Trivia 26K 13",
+  "description": "Arts 601 - 650 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_13_01",
+      "title": "What nursery rhyme character \"kissed the girls and made them cry\"?",
+      "answers": [
+        "Georgy Porgy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_02",
+      "title": "What spice is the most essential and valuable commodity in the \"Dune\" universe?",
+      "answers": [
+        "Melange"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_03",
+      "title": "What is the name of Christopher Lee's autobiography?",
+      "answers": [
+        "Tall, Dark and Gruesome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_04",
+      "title": "Which famous composer produced his first operas at age 12?",
+      "answers": [
+        "Wolfgang Amadeus Mozart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_05",
+      "title": "How many specific commandments regulating aspects of people's lives are there in the Bible in the Mosaic Law?",
+      "answers": [
+        "613"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_06",
+      "title": "What current-day country was writer, neurologist and psychiatrist Viktor Frankl born in?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_07",
+      "title": "\"Leaves of Grass\", first published in 1855, is a poetry collection by which American poet?",
+      "answers": [
+        "Walt Whitman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_08",
+      "title": "Which novel was first published in October 1847 under the pen name \"Currer Bell\"?",
+      "answers": [
+        "\"Jane Eyre\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_09",
+      "title": "What city provides the setting for \"The Phantom of the Opera\"?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_10",
+      "title": "Who was dipped by the heel in the River Styx to give him invulnerability?",
+      "answers": [
+        "Achilles"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_11",
+      "title": "What Agatha Christie novel was made up of two parts - England and Egypt?",
+      "answers": [
+        "Death on the Nile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_12",
+      "title": "Who was the title character in Shakespeare's \"The Merchant of Venice\"?",
+      "answers": [
+        "Antonio"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_13",
+      "title": "What is Charlie Brown's sister's name?",
+      "answers": [
+        "Sally"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_14",
+      "title": "Who owned a chimp called Chee-Chee?",
+      "answers": [
+        "Doctor Dolittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_15",
+      "title": "Who was the first rapper to win the Pulitzer Prize in the music category?",
+      "answers": [
+        "Kendrick Lamar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_16",
+      "title": "El Greco painted a famous View of what Spanish city?",
+      "answers": [
+        "Toledo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_17",
+      "title": "What year did Frederick Forsyth publish the novel \"The Fist of God\"?",
+      "answers": [
+        "1994"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_18",
+      "title": "Whose paintings include \"Two Half-Naked Women Seen from Behind in the Rue des Moulins Brothel\"?",
+      "answers": [
+        "Henri de Toulouse-Lautrec's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_19",
+      "title": "What do \"Peter Pan\" author J.M. Barrie's initials stand for?",
+      "answers": [
+        "James Matthew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_20",
+      "title": "What was meant to happen to anyone who drank from the river Lethe?",
+      "answers": [
+        "Lost their memory"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_21",
+      "title": "What was Dutch painter Rembrandt's full name?",
+      "answers": [
+        "Rembrandt Harmenszoon van Rijn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_22",
+      "title": "Which of her own characters did Agatha Christie call \"a detestable, bombastic, tiresome, egocentric little creep\"?",
+      "answers": [
+        "Hercule Poirot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_23",
+      "title": "What term is used to describe the art of folding paper sculptures?",
+      "answers": [
+        "Origami"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_24",
+      "title": "Which famous composer wrote the opera \"Carmen\"?",
+      "answers": [
+        "Georges Bizet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_25",
+      "title": "In Greek mythology, who did Zeus place in the heavens as the constellation Ursa Major?",
+      "answers": [
+        "Callisto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_26",
+      "title": "What year did Robert Burns write the poem \"Auld Lange Syne\"?",
+      "answers": [
+        "1788"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_27",
+      "title": "Who wrote the opera \"Turandot\"?",
+      "answers": [
+        "Giacomo Puccini"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_28",
+      "title": "What war is taking place in the novel \"Lord of the Flies\"?",
+      "answers": [
+        "World War II"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_29",
+      "title": "Who employs Alfred Pennyworth as a butler?",
+      "answers": [
+        "Bruce Wayne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_30",
+      "title": "What Broadway musical featured the song \"New York, New York\"?",
+      "answers": [
+        "On the Town"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_31",
+      "title": "What novel's long-promised sequel is called \"Buttercup's Baby\"?",
+      "answers": [
+        "The Princess Bride"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_32",
+      "title": "Who beheaded Medusa?",
+      "answers": [
+        "Perseus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_33",
+      "title": "What year did J. D. Salinger publish the novel \"The Catcher in the Rye\"?",
+      "answers": [
+        "1951"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_34",
+      "title": "What Shakespearean king was actually king of Scotland for 17 years?",
+      "answers": [
+        "Macbeth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_35",
+      "title": "Who is Johnny Storm better known as in the comic book series \"Fantastic Four\"?",
+      "answers": [
+        "Human Torch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_36",
+      "title": "What disease is Mitch Albom's professor dying of in his best-seller \"Tuesday with Morrie\"?",
+      "answers": [
+        "Lou Gehrig's disease"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_37",
+      "title": "What was the last name of Dennis the Menace's older neighbor that Dennis would consistently bother?",
+      "answers": [
+        "Wilson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_38",
+      "title": "Whose operas include \"Tannhauser\" and \"Tristan und Isolde\"?",
+      "answers": [
+        "Wagner's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_39",
+      "title": "The character Lieutenant Pinkerton appears in what opera?",
+      "answers": [
+        "Madama Butterfly"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_40",
+      "title": "In Greek mythology what is the place of ideal happiness called?",
+      "answers": [
+        "Elysium"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_41",
+      "title": "Who wrote \"The Invisible Man\"?",
+      "answers": [
+        "H.G. Wells"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_42",
+      "title": "In biblical etiology, which animal became extinct because it was thrown off the ark and drowned?",
+      "answers": [
+        "The unicorn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_43",
+      "title": "Who, in 1874, painted the picture \"La Loge\"?",
+      "answers": [
+        "Pierre-Auguste Renoir"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_44",
+      "title": "What year did Charles Dickens publish a novella entitled \"A Christmas Carol\"?",
+      "answers": [
+        "1843"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_45",
+      "title": "What year did George Eliot publish her novel \"Daniel Deronda\"?",
+      "answers": [
+        "1876"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_46",
+      "title": "In the novel and movie \"Hitchhikers Guide to The Galaxy,\" what is the most important thing a hitchhiker can carry?",
+      "answers": [
+        "A towel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_47",
+      "title": "What museum, designed by Frank Lloyd Wright, was opened in 1959?",
+      "answers": [
+        "Guggenheim Museum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_48",
+      "title": "Who wrote the novel \"Valley of the Dolls\"?",
+      "answers": [
+        "Jacqueline Susann"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_49",
+      "title": "What is the name of the son of the witch Sycorax?",
+      "answers": [
+        "Caliban in The Tempest"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_13_50",
+      "title": "Which French novelist wrote the seven-volume novel \"In Search of Lost Time\" (often translated as \"Remembrance of Times Past\")?",
+      "answers": [
+        "Marcel Proust"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

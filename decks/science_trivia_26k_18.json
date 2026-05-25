@@ -1,0 +1,463 @@
+{
+  "id": "science_trivia_26k_18",
+  "name": "Science Trivia 26K 18",
+  "description": "Science 851 - 900 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "science"
+  ],
+  "items": [
+    {
+      "id": "science_trivia_26k_18_01",
+      "title": "What fruit comes in Redhaven and Harmony variety?",
+      "answers": [
+        "Peaches"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_02",
+      "title": "What color does a chameleon turn when its trying to warm up?",
+      "answers": [
+        "Black"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_03",
+      "title": "What number on the Beaufort wind scale corresponds to hurricane force?",
+      "answers": [
+        "12"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_04",
+      "title": "What mineral is known as the softest mineral?",
+      "answers": [
+        "Talc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_05",
+      "title": "Poinephobia is the fear of what?",
+      "answers": [
+        "Punishment"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_06",
+      "title": "Which metal, in its purest form, has the highest melting point?",
+      "answers": [
+        "Tungsten"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_07",
+      "title": "What gland found at the base of the brain is known as the \"Master Gland\" of the endocrine system?",
+      "answers": [
+        "Pituitary gland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_08",
+      "title": "Which Russian scientist used dogs to study conditioned reflexes?",
+      "answers": [
+        "Ivan Pavlov"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_09",
+      "title": "What is a term in Physics for a fundamental constituent of matter?",
+      "answers": [
+        "Particle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_10",
+      "title": "A camel's hump contains mostly what?",
+      "answers": [
+        "Fat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_11",
+      "title": "What year did the programming language \"COBOL\" first appear, before being standardized in 1968?",
+      "answers": [
+        "1959"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_12",
+      "title": "On which part of the body is an angioplasty performed?",
+      "answers": [
+        "Blood vessel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_13",
+      "title": "Cushat, Rock and Stock all types of which creature?",
+      "answers": [
+        "Doves"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_14",
+      "title": "How many feet do snails have?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_15",
+      "title": "How many diagonals does a triangle have?",
+      "answers": [
+        "None"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_16",
+      "title": "What bird can swim but cannot fly?",
+      "answers": [
+        "The Penguin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_17",
+      "title": "What is the common name for a \"nitrous oxide\"?",
+      "answers": [
+        "Laughing gas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_18",
+      "title": "What is the only dwarf planet in the asteroid belt between Mars and Jupiter?",
+      "answers": [
+        "Ceres"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_19",
+      "title": "What tiny vessel connects an artery with a vein?",
+      "answers": [
+        "Capillary"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_20",
+      "title": "Mysophobia is the fear of what?",
+      "answers": [
+        "Dirt and germs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_21",
+      "title": "How many pounds are there in a standard US ton?",
+      "answers": [
+        "2,000"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_22",
+      "title": "A 1 to 3 mph wind on the Beaufort scale is called what?",
+      "answers": [
+        "Light air"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_23",
+      "title": "A nanosecond is what fraction of a second?",
+      "answers": [
+        "One billionth"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_24",
+      "title": "A group of hippopotamuses is called what?",
+      "answers": [
+        "A bloat"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_25",
+      "title": "What is the lightest element on the periodic table?",
+      "answers": [
+        "Hydrogen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_26",
+      "title": "Hypochondria is the fear of what?",
+      "answers": [
+        "Illness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_27",
+      "title": "What meteorological phenomenon causes a warm current of water to appear every three to seven years in the eastern Pacific Ocean, causing unusual weather conditions all over the world?",
+      "answers": [
+        "El Niño"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_28",
+      "title": "What is the surgical knife called an \"izmel\" used for?",
+      "answers": [
+        "Circumcision at a bris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_29",
+      "title": "What is the condition resulting from prolonged muscular or mental activity?",
+      "answers": [
+        "Fatigue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_30",
+      "title": "What is an atom that has more electrons than normal referred to as?",
+      "answers": [
+        "Negative ion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_31",
+      "title": "What chemical substance is the opposite of a base?",
+      "answers": [
+        "Acid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_32",
+      "title": "What color appears in the middle of a rainbow?",
+      "answers": [
+        "Green"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_33",
+      "title": "The material nylon is named after which 2 cities?",
+      "answers": [
+        "New York and London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_34",
+      "title": "What is the only bone in the human body that doesn't connect with any other?",
+      "answers": [
+        "Hyoid"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_35",
+      "title": "Where in the body are the adenoids?",
+      "answers": [
+        "Nasal cavity"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_36",
+      "title": "The first four of Jupiter's Moons that were discovered, are referred to as what?",
+      "answers": [
+        "The Galilean Moons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_37",
+      "title": "\"Cardice\" is another term for what?",
+      "answers": [
+        "Dry ice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_38",
+      "title": "What are baby owls called?",
+      "answers": [
+        "Owlets or nestlings"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_39",
+      "title": "According to Galileo's biographer, what tower did he climb to prove his \"Law of Falling Objects\" theory?",
+      "answers": [
+        "Tower of Pisa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_40",
+      "title": "What is the technical term for a 20-sided die?",
+      "answers": [
+        "Icosahedron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_41",
+      "title": "In mathematics which prefix refers to 10 to the power of minus 18?",
+      "answers": [
+        "Atto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_42",
+      "title": "What year was the element Berkelium discovered?",
+      "answers": [
+        "1949"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_43",
+      "title": "What is emitted from a nuclear reaction that can cause another fission?",
+      "answers": [
+        "A Neutron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_44",
+      "title": "What are the two species of coffee plants used to make coffee?",
+      "answers": [
+        "Arabica and Robusta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_45",
+      "title": "What vitamin is milk fortified with in the US to combat rickets?",
+      "answers": [
+        "Vitamin D"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_46",
+      "title": "Syncope is the medical term for what?",
+      "answers": [
+        "Fainting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_47",
+      "title": "What's the common name for the foot ailment also called verrucas?",
+      "answers": [
+        "Plantar warts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_48",
+      "title": "Which mole-like mammal has given its name to a mean spirited or bad tempered woman?",
+      "answers": [
+        "Shrew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_49",
+      "title": "What two metals form the alloy white gold?",
+      "answers": [
+        "Gold and silver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "science_trivia_26k_18_50",
+      "title": "What is made by white blood cells to help fight off infection?",
+      "answers": [
+        "Antibodies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_52",
+  "name": "History Trivia 26K 52",
+  "description": "History 2551 - 2600 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_52_01",
+      "title": "What year was John Beckley appointed as the first librarian of the US Library of Congress?",
+      "answers": [
+        "1802"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_02",
+      "title": "What year was Indira Gandhi born?",
+      "answers": [
+        "1917"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_03",
+      "title": "What state saw the start of the American Revolution?",
+      "answers": [
+        "Massachusetts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_04",
+      "title": "What was the first American space station to be launched into space?",
+      "answers": [
+        "Skylab"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_05",
+      "title": "Who was the US's first postmaster general?",
+      "answers": [
+        "Benjamin Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_06",
+      "title": "Which country was the scene of the Mau Mau rebellion in the 1950s?",
+      "answers": [
+        "Kenya"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_07",
+      "title": "In which year did the Mongols first conquer China?",
+      "answers": [
+        "1205"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_08",
+      "title": "How old was Evel Knievel when he died?",
+      "answers": [
+        "69"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_09",
+      "title": "Where was the first lighthouse built?",
+      "answers": [
+        "Alexandria, Egypt"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_10",
+      "title": "How old was John F. Kennedy when he was assassinated?",
+      "answers": [
+        "46"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_11",
+      "title": "The ocean liner RMS Carpathia played a role in what historical event?",
+      "answers": [
+        "Sinking of the Titanic"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_12",
+      "title": "Which general's father led the investigation of the Lindbergh baby kidnapping?",
+      "answers": [
+        "Norman Schwarzkopf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_13",
+      "title": "What was the first country to legalize same-sex marriage?",
+      "answers": [
+        "The Netherlands"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_14",
+      "title": "In which decade did the Wall Street crash lead to the Great Depression?",
+      "answers": [
+        "1920s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_15",
+      "title": "Which two countries signed the treaty of Tordesillas in 1494 which divided the new world between them?",
+      "answers": [
+        "Spain and Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_16",
+      "title": "On a pirate ship, whose job included maintenance of the ship's hull?",
+      "answers": [
+        "Boatswain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_17",
+      "title": "Who was the first Chairman of the US Joint Chiefs of Staff?",
+      "answers": [
+        "General Omar Bradley"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_18",
+      "title": "What city was Rafael Trujillo killed in?",
+      "answers": [
+        "Santo Domingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_19",
+      "title": "In 1967, what company introduced the first consumer model of microwave oven designed for home use?",
+      "answers": [
+        "Amana"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_20",
+      "title": "Which organization manages Stonehenge?",
+      "answers": [
+        "English Heritage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_21",
+      "title": "Which country was known as British Honduras prior to 1973?",
+      "answers": [
+        "Belize"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_22",
+      "title": "What taboo topic did Benjamin Franklin once write to the Royal Academy about?",
+      "answers": [
+        "Flatulence"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_23",
+      "title": "What is the oldest of the Seven Wonders of the Ancient World?",
+      "answers": [
+        "Great Pyramid of Giza"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_24",
+      "title": "Johann Schober was the first president of what modern-day organization in 1923?",
+      "answers": [
+        "Interpol"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_25",
+      "title": "What New York building, completed in 1931, was at the time the world's tallest?",
+      "answers": [
+        "Empire State Building"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_26",
+      "title": "What was the final battle of the Vietnam War?",
+      "answers": [
+        "The Mayaguez Incident"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_27",
+      "title": "Where were the 1940 Summer Olympics scheduled to be held when they were cancelled due to the outbreak of World War II?",
+      "answers": [
+        "Tokyo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_28",
+      "title": "What duo first published the \"Michelin Guide\" in 1900?",
+      "answers": [
+        "Andre and Edouard Michelin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_29",
+      "title": "What concert hall was opened in New York in 1891?",
+      "answers": [
+        "Carnegie Hall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_30",
+      "title": "What charter did a group of English barons force King John to sign in 1215 at Runnymede?",
+      "answers": [
+        "Magna Carta"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_31",
+      "title": "What Harvard dropout held 535 US patents upon his death in 1991, second only to Thomas Edison?",
+      "answers": [
+        "Edwin Land"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_32",
+      "title": "Which war was said to be largely responsible for reviving Samuel Colt's firearms business?",
+      "answers": [
+        "The Mexican-American War"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_33",
+      "title": "What was Mercator's profession?",
+      "answers": [
+        "Cartographer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_34",
+      "title": "Who said, “Worthless people love only to eat and drink; people of worth eat and drink only to live\"?",
+      "answers": [
+        "Socrates"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_35",
+      "title": "What country did the Romans call Hibernia?",
+      "answers": [
+        "Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_36",
+      "title": "Which philosophical movement defined the Renaissance?",
+      "answers": [
+        "Humanism"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_37",
+      "title": "Facebook co-founder Sean Parker was also the co-founder of which company?",
+      "answers": [
+        "Napster"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_38",
+      "title": "What woman followed her husband into battle during the American Revolutionary War and took his post when he was killed?",
+      "answers": [
+        "Margaret Cochran Corbin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_39",
+      "title": "What large amphitheater in Rome was opened to showcase gladiator combat?",
+      "answers": [
+        "The Colosseum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_40",
+      "title": "What is the largest surviving Roman triumphal arch in the world?",
+      "answers": [
+        "Arch of Constantine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_41",
+      "title": "In 1901, Guglielmo Marconi received the first transatlantic wireless signal from atop Signal Hill in which city?",
+      "answers": [
+        "St. John's Newfoundland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_42",
+      "title": "What name was given to the west wind by the Greeks?",
+      "answers": [
+        "Zephyrus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_43",
+      "title": "In what year was Billy the Kid born?",
+      "answers": [
+        "1859"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_44",
+      "title": "When did World War I begin?",
+      "answers": [
+        "1914"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_45",
+      "title": "Who was the first democratically elected president of Russia?",
+      "answers": [
+        "Boris Yeltsin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_46",
+      "title": "What two-time US presidential hopeful was born in the Panama Canal Zone?",
+      "answers": [
+        "John McCain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_47",
+      "title": "What nation was led by Casimir the Great?",
+      "answers": [
+        "Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_48",
+      "title": "Which country's subway system was paralyzed by a deadly nerve gas attack in 1995?",
+      "answers": [
+        "Japan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_49",
+      "title": "Mikhail Gorbachev informally agreed to help Ronald Reagan and the U.S. in the event of what situation?",
+      "answers": [
+        "UFO invasion"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_52_50",
+      "title": "In what year did Soviet Russia finally declare war on Japan?",
+      "answers": [
+        "1945"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

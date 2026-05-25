@@ -1,0 +1,463 @@
+{
+  "id": "history_trivia_26k_64",
+  "name": "History Trivia 26K 64",
+  "description": "History 3151 - 3200 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "history"
+  ],
+  "items": [
+    {
+      "id": "history_trivia_26k_64_01",
+      "title": "The image of Uncle Sam was first used during what war?",
+      "answers": [
+        "War of 1812"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_02",
+      "title": "Which number King Louis was king of France when the storming of the Bastille took place?",
+      "answers": [
+        "XVI"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_03",
+      "title": "Who was assassinated by Gavrilo Princip?",
+      "answers": [
+        "Archduke Ferdinand"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_04",
+      "title": "Which was the first US city to host the Summer Olympic Games?",
+      "answers": [
+        "St. Louis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_05",
+      "title": "The goddess Artemis was known as the Mistress of what?",
+      "answers": [
+        "Animals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_06",
+      "title": "Who was UK Labour cabinet minister and social reformer Frank Pakenham better known as?",
+      "answers": [
+        "Lord Longford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_07",
+      "title": "Which Nazi fugitive did the Israelis capture in Argentina in 1960?",
+      "answers": [
+        "Adolf Eichmann"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_08",
+      "title": "What serial killer struck in London in 1888?",
+      "answers": [
+        "Jack the Ripper"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_09",
+      "title": "What happened on September 1, 1939 that led to Britain and France declaring war on Germany?",
+      "answers": [
+        "Invasion of Poland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_10",
+      "title": "What US vice president referred to his critics as \"nattering nabobs of negativism\"?",
+      "answers": [
+        "Spiro Agnew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_11",
+      "title": "Who was the first director of the FBI?",
+      "answers": [
+        "J. Edgar Hoover"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_12",
+      "title": "In 1935, what American celebrity, tired of years of hounding by the press, moved his entire family to England?",
+      "answers": [
+        "Charles Lindbergh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_13",
+      "title": "In what country was the first electro mobile produced?",
+      "answers": [
+        "Austria"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_14",
+      "title": "Frank Wathernam was the last inmate to leave what infamous prison?",
+      "answers": [
+        "Alcatraz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_15",
+      "title": "October 22, 1692 marked the last time a person in America was hanged for what crime?",
+      "answers": [
+        "Witchcraft"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_16",
+      "title": "Who changed her name to Rebecca Rolfe, after marrying John Rolfe?",
+      "answers": [
+        "Pocahontas"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_17",
+      "title": "What city was Wild Bill Hickok killed in?",
+      "answers": [
+        "Deadwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_18",
+      "title": "After his trial, Michael Jackson fled Neverland Ranch for what island nation?",
+      "answers": [
+        "Bahrain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_19",
+      "title": "During the Gallic Wars, who was the victor in the Battle of Alesia?",
+      "answers": [
+        "Julius Caesar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_20",
+      "title": "Which American female flyer disappeared without a trace over the Pacific in 1937?",
+      "answers": [
+        "Amelia Earhart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_21",
+      "title": "In American history, what 20th century decade is often described as \"Roaring\"?",
+      "answers": [
+        "1920's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_22",
+      "title": "In 1915, what steamship was torpedoed by a German submarine, killing over 1000 passengers?",
+      "answers": [
+        "Lusitania"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_23",
+      "title": "What percent of the casualties in World War II were civilians?",
+      "answers": [
+        "60%"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_24",
+      "title": "Who was the second man to set foot on the moon?",
+      "answers": [
+        "Edwin \"Buzz\" Aldrin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_25",
+      "title": "Where was Albert Einstein born?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_26",
+      "title": "What country were cars invented in?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_27",
+      "title": "Which building became the world's tallest when it opened in 1973?",
+      "answers": [
+        "Sears Tower (formerly)"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_28",
+      "title": "Who created the centigrade scale?",
+      "answers": [
+        "Anders Celsius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_29",
+      "title": "What were acorns used to create during the Civil War?",
+      "answers": [
+        "Coffee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_30",
+      "title": "What was Memorial Day originally known as?",
+      "answers": [
+        "Decoration Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_31",
+      "title": "Whom did Vietnam gain independence from in 1954?",
+      "answers": [
+        "France"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_32",
+      "title": "Who was the first Chancellor of West Germany?",
+      "answers": [
+        "Konrad Adenauer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_33",
+      "title": "Which US President was known as \"The American Cincinnatus\"?",
+      "answers": [
+        "George Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_34",
+      "title": "Which former British Prime Minister secured the release of 3 hostages held in Iraq?",
+      "answers": [
+        "Sir Edward Heath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_35",
+      "title": "To what tribe did Chief Tecumseh belong?",
+      "answers": [
+        "Shawnee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_36",
+      "title": "Who was the first person to sign the Declaration of Independence?",
+      "answers": [
+        "John Hancock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_37",
+      "title": "Which side did Britain support in the US Civil War?",
+      "answers": [
+        "The Confederacy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_38",
+      "title": "Which U.S. president received offers to play in the NFL?",
+      "answers": [
+        "Gerald Ford"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_39",
+      "title": "What was New York's Liberty Island called before its name was changed in 1956?",
+      "answers": [
+        "Bedloe's Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_40",
+      "title": "What legendary bank robber did the \"Lady in Red\" betray to federal agents?",
+      "answers": [
+        "John Dillinger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_41",
+      "title": "What chain did Ray Kroc build?",
+      "answers": [
+        "McDonald's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_42",
+      "title": "Which President approved the creation of the Interstate Highway System in the US?",
+      "answers": [
+        "Dwight D Eisenhower"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_43",
+      "title": "What animal is said to have nurtured the founders of Rome, Romulus and Remus?",
+      "answers": [
+        "Wolf"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_44",
+      "title": "Whose death resulted in Elizabeth I becoming Queen?",
+      "answers": [
+        "Mary I's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_45",
+      "title": "Who was the second Pope (the first Pope after St. Peter)?",
+      "answers": [
+        "Pope Linus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_46",
+      "title": "In what part of London was Jack the Ripper active?",
+      "answers": [
+        "Whitechapel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_47",
+      "title": "Which US president lived in Ash Lawn-Highland?",
+      "answers": [
+        "James Monroe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_48",
+      "title": "During the mid-1800’s, what was the principal cargo aboard Mississippi River Steamboats?",
+      "answers": [
+        "Cotton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_49",
+      "title": "What US president was a personal friend of Sam Houston?",
+      "answers": [
+        "Andrew Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "history_trivia_26k_64_50",
+      "title": "Which US state was once governed by the star of \"Conan the Barbarian\"?",
+      "answers": [
+        "California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

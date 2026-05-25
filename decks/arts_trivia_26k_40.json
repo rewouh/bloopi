@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_40",
+  "name": "Arts Trivia 26K 40",
+  "description": "Arts 1951 - 2000 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_40_01",
+      "title": "Who runs the orphanage in the musical \"Annie\"?",
+      "answers": [
+        "Miss Hannigan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_02",
+      "title": "What is the name of the hero in most of Tom Clancy's novels?",
+      "answers": [
+        "Jack Ryan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_03",
+      "title": "What Presidential medal did Helen Keller win?",
+      "answers": [
+        "Presidential Medal of Freedom"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_04",
+      "title": "In the novel by Cervantes, what is the name of the simple farmer who Don Quixote recruits to be his squire?",
+      "answers": [
+        "Sancho Panza"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_05",
+      "title": "Andy Warhol was born in what US city?",
+      "answers": [
+        "Pittsburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_06",
+      "title": "Who wrote the novel \"The Bridge Over the River Kwai\"?",
+      "answers": [
+        "Pierre Boulle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_07",
+      "title": "Who wrote the novel \"To Kill a Mockingbird\"?",
+      "answers": [
+        "Harper Lee"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_08",
+      "title": "According to Erma Bombeck's best seller, where is the grass always greener?",
+      "answers": [
+        "Over the septic tank"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_09",
+      "title": "Who said, \"Buy more land, they aren't making it anymore.\"?",
+      "answers": [
+        "Mark Twain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_10",
+      "title": "From what language did English borrow the word \"bangle\"?",
+      "answers": [
+        "Hindi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_11",
+      "title": "Edna St. Vincent Millay is best known for writing what genre of literature?",
+      "answers": [
+        "Poetry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_12",
+      "title": "What is the name of Olive Oyl’s sister-in-law?",
+      "answers": [
+        "Cylinda Oyl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_13",
+      "title": "Despite being referred to as Francine throughout the \"Strangers in Paradise\" comic book series, what is this character’s real first name?",
+      "answers": [
+        "Helen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_14",
+      "title": "What author's books include \"Call of the Wild\" and \"White Fang\"?",
+      "answers": [
+        "Jack London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_15",
+      "title": "Which German painter was sometimes court painter to King Henry VIII of England after 1536?",
+      "answers": [
+        "Hans Holbein The Younger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_16",
+      "title": "According to Greek mythology, what were Jason and the Argonauts searching for?",
+      "answers": [
+        "The Golden Fleece"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_17",
+      "title": "The character Smike appears in which Dickens novel?",
+      "answers": [
+        "Nicholas Nickleby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_18",
+      "title": "Who is the Greek god of shepherds and flocks?",
+      "answers": [
+        "Pan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_19",
+      "title": "To which group of artists does Vincent van Gogh belong?",
+      "answers": [
+        "Post-Impressionists"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_20",
+      "title": "Who composed the opera \"A Village Romeo and Juliet\"?",
+      "answers": [
+        "Frederick Delius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_21",
+      "title": "Which modern artist created the \"Mother and Child Divided\"?",
+      "answers": [
+        "Damien Hirst"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_22",
+      "title": "In which of Charles Dickens' novels would you find the character Dora Spenlow?",
+      "answers": [
+        "David Copperfield"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_23",
+      "title": "In nautical folklore, which ship is condemned to sail the seas for all eternity?",
+      "answers": [
+        "The Flying Dutchman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_24",
+      "title": "Who was the first novelist to present a typed manuscript to his publisher?",
+      "answers": [
+        "Mark Twain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_25",
+      "title": "Who is the subject of Jean Anouilh's play \"L'Alouette\"?",
+      "answers": [
+        "Joan of Arc"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_26",
+      "title": "Franglais is a blend of French and what other language?",
+      "answers": [
+        "English"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_27",
+      "title": "Which character killed Cock Robin?",
+      "answers": [
+        "The Sparrow"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_28",
+      "title": "What popular children's character was used to write a book to explain Taoism?",
+      "answers": [
+        "Winnie the Pooh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_29",
+      "title": "In the comic book series \"Strangers in Paradise\", which employee of Mrs. Parker was framed with stealing $850,000 from Senator Chalmers?",
+      "answers": [
+        "Samantha"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_30",
+      "title": "From what language did English borrow the word \"yacht\"?",
+      "answers": [
+        "Dutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_31",
+      "title": "Ray Bradbury's novel \"Fahrenheit 451\" was serialized in the March, April and May issues of what popular magazine?",
+      "answers": [
+        "Playboy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_32",
+      "title": "What melting food provided the inspiration for Dali's melting clocks?",
+      "answers": [
+        "Cheese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_33",
+      "title": "What street gang rumbles with the Sharks in \"West Side Story\"?",
+      "answers": [
+        "The Jets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_34",
+      "title": "Who was the only woman to hold the title office in the \"Book of Judges\"?",
+      "answers": [
+        "Deborah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_35",
+      "title": "Eric Arthur Blair was the real name of which author?",
+      "answers": [
+        "George Orwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_36",
+      "title": "What Beatrix Potter character was rescued by a collie and two foxhounds?",
+      "answers": [
+        "Jemima Puddleduck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_37",
+      "title": "Who painted \"The Birth of Venus\"?",
+      "answers": [
+        "Sandro Botticelli"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_38",
+      "title": "Who wrote the 1952 novel \"Giant\"?",
+      "answers": [
+        "Edna Ferber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_39",
+      "title": "What musical is the sequel to \"The Phantom of the Opera\"?",
+      "answers": [
+        "Love Never Dies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_40",
+      "title": "The comic strip \"Spy vs Spy\" debuted in which year?",
+      "answers": [
+        "1961"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_41",
+      "title": "What Verdi opera includes the popular \"La donna e mobile\"?",
+      "answers": [
+        "Rigoletto"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_42",
+      "title": "The Art Nouveau designer Rene Lalique worked with what material?",
+      "answers": [
+        "Glass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_43",
+      "title": "What country did writer Arthur C. Clarke die in?",
+      "answers": [
+        "Sri Lanka"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_44",
+      "title": "What mythological demigod defeated Procrustes?",
+      "answers": [
+        "Theseus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_45",
+      "title": "The Golden Fleece was a treasure sought by who?",
+      "answers": [
+        "Jason and the Argonauts"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_46",
+      "title": "What nationality was Rembrandt?",
+      "answers": [
+        "Dutch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_47",
+      "title": "Which novel by Michael Crichton was a best selling paperback in 1993?",
+      "answers": [
+        "Jurassic Park"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_48",
+      "title": "Who is the author of the book \"The Life-changing Magic of Tidying Up\"?",
+      "answers": [
+        "Marie Kondo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_49",
+      "title": "Who was the beautiful youth loved by the Greek goddess Aphrodite?",
+      "answers": [
+        "Adonis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_40_50",
+      "title": "Who painted the world famous \"Mona Lisa\"?",
+      "answers": [
+        "Leonardo da Vinci"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_22",
+  "name": "Arts Trivia 26K 22",
+  "description": "Arts 1051 - 1100 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_22_01",
+      "title": "In the nursery rhyme what is Friday's child?",
+      "answers": [
+        "Loving and Giving"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_02",
+      "title": "What is the name of the dead court jester in Shakespeare’s \"Hamlet\"?",
+      "answers": [
+        "Yorick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_03",
+      "title": "From what language did English borrow the word \"dollar\"?",
+      "answers": [
+        "German"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_04",
+      "title": "In what country was Zubin Mehta born?",
+      "answers": [
+        "India"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_05",
+      "title": "What is the Roman name of the Greek god Ares?",
+      "answers": [
+        "Mars"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_06",
+      "title": "What did Becky Thatcher's father do for a living in \"The Adventures of Tom Sawyer\"?",
+      "answers": [
+        "He was a judge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_07",
+      "title": "What Greek god, killed by a wild boar, inspired Percy Shelley's elegy for his friend Keats?",
+      "answers": [
+        "Adonis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_08",
+      "title": "Whose first novel was titled \"This Side of Paradise\"?",
+      "answers": [
+        "F. Scott Fitzgerald"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_09",
+      "title": "In the title of a George Bernard Shaw play, what's John Bull's Other Island?",
+      "answers": [
+        "Ireland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_10",
+      "title": "Which 18-year-old married 26-year-old Anne Hathaway in November 1582?",
+      "answers": [
+        "William Shakespeare"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_11",
+      "title": "In Greek Mythology, the Oneiroi, were various gods and demigods that ruled over what?",
+      "answers": [
+        "Dreams and nightmares"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_12",
+      "title": "Who wrote the book \"One Fish, Two Fish, Red Fish, Blue Fish\"?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_13",
+      "title": "What is the third letter of the Greek alphabet?",
+      "answers": [
+        "Gamma"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_14",
+      "title": "Which literary work's title character is named Offred?",
+      "answers": [
+        "The Handmaid's Tale"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_15",
+      "title": "Patty Duke won an Oscar in 1963 for portraying what popular author?",
+      "answers": [
+        "Helen Keller"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_16",
+      "title": "Where did the Yellow Brick Road lead to?",
+      "answers": [
+        "Emerald City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_17",
+      "title": "The opener of \"Fahrenheit 451\" says it’s a pleasure to what?",
+      "answers": [
+        "Burn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_18",
+      "title": "Who wrote \"Charlie and the Chocolate Factory\"?",
+      "answers": [
+        "Roald Dahl"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_19",
+      "title": "By what name is the author Theodor Geisel better known?",
+      "answers": [
+        "Dr. Seuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_20",
+      "title": "What character, created by Hugh Lofting, could talk to animals?",
+      "answers": [
+        "Dr. Dolittle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_21",
+      "title": "What do ghouls typically feast on?",
+      "answers": [
+        "Human flesh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_22",
+      "title": "The Christmas carol \"Jingle Bells\" was first published under what title?",
+      "answers": [
+        "One Horse Open Sleigh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_23",
+      "title": "What author's Jamaican estate was called \"Goldeneye\"?",
+      "answers": [
+        "Ian Fleming's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_24",
+      "title": "What is the name of the train station that services Hogwarts School?",
+      "answers": [
+        "Hogsmeade Station"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_25",
+      "title": "What Mozart opera focuses on fiancee swapping as its theme?",
+      "answers": [
+        "Cosi fan tutte"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_26",
+      "title": "Hamlet was the prince of which European kingdom?",
+      "answers": [
+        "Denmark"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_27",
+      "title": "In the Book of Esther, which adviser to the King of Persia suggests exiling Queen Vashti?",
+      "answers": [
+        "Memukan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_28",
+      "title": "The novel \"Kiss of the Spider Woman\" is set in what country?",
+      "answers": [
+        "Argentina"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_29",
+      "title": "What object did photographer Andres Serrano place in a glass of his own urine in 1989?",
+      "answers": [
+        "A crucifix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_30",
+      "title": "Sancho Panza was the sidekick of what literary title character?",
+      "answers": [
+        "Don Quixote"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_31",
+      "title": "What does \"quid pro quo\" mean in English?",
+      "answers": [
+        "Something for something"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_32",
+      "title": "What year did J. R. R. Tolkien publish \"The Hobbit\"?",
+      "answers": [
+        "1937"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_33",
+      "title": "Who designed the logo for Old Dutch Cleanser?",
+      "answers": [
+        "Georgia O'Keefe"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_34",
+      "title": "What is by far the most famous painting in the Louvre?",
+      "answers": [
+        "The Mona Lisa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_35",
+      "title": "What novel, written by E.B. White, tells the story of an adopted mouse?",
+      "answers": [
+        "Stuart Little"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_36",
+      "title": "What literary character lived at 221B Baker Street?",
+      "answers": [
+        "Sherlock Holmes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_37",
+      "title": "What is the name of the real-life hotel that inspired the Overlook Hotel in Stephen King's \"The Shining\"?",
+      "answers": [
+        "The Stanley Hotel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_38",
+      "title": "Which Paul McCartney and Wings album includes \"Picasso's Last Words\"?",
+      "answers": [
+        "Band on the Run"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_39",
+      "title": "What author created the character of Roderick Alleyn?",
+      "answers": [
+        "Ngaio Marsh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_40",
+      "title": "In which European city did composer Richard Wagner die in 1883?",
+      "answers": [
+        "Venice"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_41",
+      "title": "What was Gatsby's first name in the book \"The Great Gatsby’s\"?",
+      "answers": [
+        "Jay"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_42",
+      "title": "What word means ?dance writing? in Greek?",
+      "answers": [
+        "Choreography"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_43",
+      "title": "According to mythology, who gifted olives to the Greeks?",
+      "answers": [
+        "Athena"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_44",
+      "title": "What musical was shut down by the government and its cast forced to leave the country when it opened?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_45",
+      "title": "What book starts with the line \"Call me Ishmael.\"?",
+      "answers": [
+        "Moby-Dick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_46",
+      "title": "What author created the land of Pellucidar?",
+      "answers": [
+        "Edgar Rice Burroughs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_47",
+      "title": "Whose still-life painting, \"Rideau Cruchon et Compotier\", sold for $60.5 million in 1999?",
+      "answers": [
+        "Paul Cezanne's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_48",
+      "title": "In Greek mythology Cronus and Rhea were the parents of who?",
+      "answers": [
+        "Zeus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_49",
+      "title": "Who wrote \"Around the World in Eighty Days\"?",
+      "answers": [
+        "Jules Verne"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_22_50",
+      "title": "Whose military autobiography was titled \"Crusade in Europe\"?",
+      "answers": [
+        "Dwight D. Eisenhower's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

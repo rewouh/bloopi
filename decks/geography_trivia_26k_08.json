@@ -1,0 +1,463 @@
+{
+  "id": "geography_trivia_26k_08",
+  "name": "Geography Trivia 26K 08",
+  "description": "Geography 351 - 400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "geography"
+  ],
+  "items": [
+    {
+      "id": "geography_trivia_26k_08_01",
+      "title": "In which country is Angel Falls located?",
+      "answers": [
+        "Venezuela"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_02",
+      "title": "The Khyber pass joins which two countries?",
+      "answers": [
+        "Afghanistan and Pakistan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_03",
+      "title": "The town of Pisa lies in which Italian region?",
+      "answers": [
+        "Tuscany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_04",
+      "title": "What is the capital of Sao Tome and Principe?",
+      "answers": [
+        "Sao Tome"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_05",
+      "title": "According to its former minister of tourism, which country is known abroad for its three Rs: reggae, romance and running?",
+      "answers": [
+        "Jamaica"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_06",
+      "title": "What is the oldest major city in the Philippines?",
+      "answers": [
+        "Cebu"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_07",
+      "title": "What Cape will you find at the tip of Africa?",
+      "answers": [
+        "Cape of Good Hope"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_08",
+      "title": "What nation's legislative body is named The Knesset?",
+      "answers": [
+        "Israel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_09",
+      "title": "What separates the twin cities of Minneapolis and Saint Paul?",
+      "answers": [
+        "Mississippi River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_10",
+      "title": "Managua is the capital of which country?",
+      "answers": [
+        "Nicaragua"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_11",
+      "title": "The city of Albuquerque is located in what desert?",
+      "answers": [
+        "Chihuahua Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_12",
+      "title": "What island in California was once called Pelican Island?",
+      "answers": [
+        "Alcatraz Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_13",
+      "title": "What is the capital of Dominica?",
+      "answers": [
+        "Roseau"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_14",
+      "title": "What is the capital of India",
+      "answers": [
+        "New Delhi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_15",
+      "title": "The Colorado River flows into what body of water?",
+      "answers": [
+        "Gulf of California"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_16",
+      "title": "Pago Pago is the capital of which country",
+      "answers": [
+        "American Samoa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_17",
+      "title": "Banjul is the capital of which African country?",
+      "answers": [
+        "The Gambia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_18",
+      "title": "Which US state's name is derived from the French words for \"green mountains\"?",
+      "answers": [
+        "Vermont"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_19",
+      "title": "Which country has hosted the Wife Carrying World Championships since the competition’s founding in 1992?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_20",
+      "title": "What desert is located just north of the Sonoran Desert?",
+      "answers": [
+        "Mojave Desert"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_21",
+      "title": "How many time zones does the state of Florida span?",
+      "answers": [
+        "2"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_22",
+      "title": "What redbrick complex lies between the Alexander Garden and Red Square?",
+      "answers": [
+        "The Kremlin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_23",
+      "title": "Which is the world's northernmost capital city?",
+      "answers": [
+        "Reykjavik"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_24",
+      "title": "A statue of Lady Godiva stands in the centre which English city?",
+      "answers": [
+        "Coventry"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_25",
+      "title": "Which state is home to the Fort Apache Indian Reservation?",
+      "answers": [
+        "Arizona"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_26",
+      "title": "What two countries have square flags?",
+      "answers": [
+        "Switzerland and Vatican City"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_27",
+      "title": "Which African country was formerly known as Abyssinia?",
+      "answers": [
+        "Ethiopia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_28",
+      "title": "Lombard Street in London is the equivalent to which famous street in the US?",
+      "answers": [
+        "Wall Street"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_29",
+      "title": "Which US state is home to Great Sand Dunes National Monument?",
+      "answers": [
+        "Colorado"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_30",
+      "title": "What city was Russia's capital before Moscow?",
+      "answers": [
+        "St. Petersburg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_31",
+      "title": "Which river's water is controlled by the Aswan Dam?",
+      "answers": [
+        "Nile"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_32",
+      "title": "Which US state gets the most rainfall?",
+      "answers": [
+        "Hawaii"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_33",
+      "title": "What is the largest island in the Indian Ocean?",
+      "answers": [
+        "Madagascar"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_34",
+      "title": "How many states are there in Australia?",
+      "answers": [
+        "Six"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_35",
+      "title": "What southern city is located on the shores of Lake Pontchartrain?",
+      "answers": [
+        "New Orleans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_36",
+      "title": "What does Mount Snowdon roughly translate to from Old English?",
+      "answers": [
+        "Snow hill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_37",
+      "title": "What sea lies between Greece and Turkey?",
+      "answers": [
+        "Aegean Sea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_38",
+      "title": "Where is the Tomb of the Unknown Soldier located?",
+      "answers": [
+        "Arlington National Cemetery, Virginia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_39",
+      "title": "In what Caribbean country did steel drums originate?",
+      "answers": [
+        "Trinidad and Tobago"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_40",
+      "title": "What is the capital of the Australian state, Queensland?",
+      "answers": [
+        "Brisbane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_41",
+      "title": "What California peak, which erupted in 1915, is the world's largest lava dome?",
+      "answers": [
+        "Lassen Peak"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_42",
+      "title": "In which mountain range is the highest continuous paved road in the U.S.?",
+      "answers": [
+        "Rocky Mountains"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_43",
+      "title": "Lederhosen would be seen on legs in which country?",
+      "answers": [
+        "Germany"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_44",
+      "title": "Crystal Palace Park is located in which city?",
+      "answers": [
+        "London"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_45",
+      "title": "Explorers named Rhode Island after resemblance to which part of the world?",
+      "answers": [
+        "The Greek island, Rhodes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_46",
+      "title": "Which country is the largest in the World?",
+      "answers": [
+        "Russia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_47",
+      "title": "What European city is nicknamed \"Auld Reekie\"?",
+      "answers": [
+        "Edinburgh"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_48",
+      "title": "What country is nicknamed \"the land of a thousand lakes\"?",
+      "answers": [
+        "Finland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_49",
+      "title": "What US state is nicknamed \"Little Rhody\"?",
+      "answers": [
+        "Rhode Island"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "geography_trivia_26k_08_50",
+      "title": "Where is the Museum of Pop Culture?",
+      "answers": [
+        "Seattle, Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

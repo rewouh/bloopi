@@ -1,0 +1,463 @@
+{
+  "id": "arts_trivia_26k_47",
+  "name": "Arts Trivia 26K 47",
+  "description": "Arts 2301 - 2350 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "arts"
+  ],
+  "items": [
+    {
+      "id": "arts_trivia_26k_47_01",
+      "title": "What was subtitled \"The American Tribal Love/Rock Musical\"?",
+      "answers": [
+        "Hair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_02",
+      "title": "What was the name of Ashley Wilkes' plantation in \"Gone With the Wind\"?",
+      "answers": [
+        "Twelve Oaks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_03",
+      "title": "In the \"Book of Malachi\", God says that he has left the kingdom of Esau to which animals?",
+      "answers": [
+        "Jackals"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_04",
+      "title": "Who wrote the book \"Computer Power and Human Reason\"?",
+      "answers": [
+        "Joseph Weizenbaum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_05",
+      "title": "What was the name of the cat in Walt Disney's movie \"Cinderella\"?",
+      "answers": [
+        "Lucifer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_06",
+      "title": "By what collective name are Medusa, Stheno and Euryale usually known?",
+      "answers": [
+        "Gorgons"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_07",
+      "title": "Who is the Greek equivalent of the Roman god Juno?",
+      "answers": [
+        "Hera"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_08",
+      "title": "What German composer wrote \"Ode to Joy\"?",
+      "answers": [
+        "Beethoven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_09",
+      "title": "What year was author J. K. Rowling born in?",
+      "answers": [
+        "1965"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_10",
+      "title": "What year did poet Sylvia Plath die?",
+      "answers": [
+        "1963"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_11",
+      "title": "What French composer wrote the opera \"Samson and Delilah\"?",
+      "answers": [
+        "Camille Saint-Saens"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_12",
+      "title": "In Greek mythology, who were Hera's parents?",
+      "answers": [
+        "Cronus and Rhea"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_13",
+      "title": "In the 1530s, Michelangelo began work on what fresco on the wall of the Sistine Chapel?",
+      "answers": [
+        "The Last Judgement"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_14",
+      "title": "Who is the author of the \"Bourne Trilogy\" novel series?",
+      "answers": [
+        "Robert Ludlum"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_15",
+      "title": "What US state was author J. D. Salinger born in?",
+      "answers": [
+        "New York"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_16",
+      "title": "How many children does Tony have in the comic series \"Chew\"?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_17",
+      "title": "By display area, what is the largest art museum in the US?",
+      "answers": [
+        "Metropolitan Museum of Art"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_18",
+      "title": "What superteam includes Angel, Beast, Cyclops, Iceman and Marvel Girl?",
+      "answers": [
+        "The X-Men"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_19",
+      "title": "In what city did d'Artagnan meet The Three Musketeers in the Alexander Dumas story?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_20",
+      "title": "What is the name of Alice's pet cat?",
+      "answers": [
+        "Dinah"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_21",
+      "title": "Which Biblical figure by Michelangelo has been called \"the most recognizable statue in the history of sculpture\"?",
+      "answers": [
+        "David"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_22",
+      "title": "Which Greek god inspired the Baby New Year?",
+      "answers": [
+        "Dionysus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_23",
+      "title": "Whose sidekick was named Passepartout?",
+      "answers": [
+        "Phileas Fogg"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_24",
+      "title": "Which Irish town gives its name to a five-line humorous verse?",
+      "answers": [
+        "Limerick"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_25",
+      "title": "What year was the first book of the \"Bourne Trilogy\" series first published?",
+      "answers": [
+        "1980"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_26",
+      "title": "Giovanni Boccaccio's collection of novellas are known as what?",
+      "answers": [
+        "The Decameron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_27",
+      "title": "Who wrote the play \"Heartbreak House: A Fantasia in the Russian Manner on English Themes\"?",
+      "answers": [
+        "George Bernard Shaw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_28",
+      "title": "Which American writer and poet’s only novel was \"The Bell Jar\"?",
+      "answers": [
+        "Sylvia Plath"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_29",
+      "title": "From what language did English borrow the word \"tsunami\"?",
+      "answers": [
+        "Japanese"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_30",
+      "title": "Who wrote \"Memoirs of a Geisha\"?",
+      "answers": [
+        "Arthur Golden"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_31",
+      "title": "What comic features Billy, Dolly, Jeffy, and PJ?",
+      "answers": [
+        "Family Circus"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_32",
+      "title": "In what comic strip would you find siblings Hans and Fritz?",
+      "answers": [
+        "The Katzenjammer Kids"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_33",
+      "title": "Who was William Shakespeare's wife?",
+      "answers": [
+        "Anne Hathaway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_34",
+      "title": "What does the comic book character Galactus eat?",
+      "answers": [
+        "Planets"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_35",
+      "title": "What was the only children's story published by Ian Fleming?",
+      "answers": [
+        "Chitty Chitty Bang Bang"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_36",
+      "title": "Athos, Porthos and Aramis were collectively known as whom?",
+      "answers": [
+        "The Three Musketeers"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_37",
+      "title": "The novel \"Life of Pi\" takes place in which ocean?",
+      "answers": [
+        "The Pacific Ocean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_38",
+      "title": "Who wrote \"The Consolation of Philosophy\" while in prison?",
+      "answers": [
+        "Boethius"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_39",
+      "title": "Who is the son of Sycorax in Shakespeare's \"The Tempest\"?",
+      "answers": [
+        "Caliban"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_40",
+      "title": "Who was the mother of the Minotaur?",
+      "answers": [
+        "Pasiphaë"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_41",
+      "title": "Who is the main character in Joseph Heller's novel \"Catch-22\"?",
+      "answers": [
+        "Yossarian"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_42",
+      "title": "Chopin played what instrument as a child?",
+      "answers": [
+        "The piano"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_43",
+      "title": "What artist was best known for his covers of \"The Saturday Evening Post\"?",
+      "answers": [
+        "Norman Rockwell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_44",
+      "title": "From what language did English borrow the word \"glitch\"?",
+      "answers": [
+        "Yiddish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_45",
+      "title": "Which author built a home called Goldeneye in Jamaica?",
+      "answers": [
+        "Ian Fleming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_46",
+      "title": "Whose novel \"Sweet Thursday\" formed the basis for the 1955 Rodgers & Hammerstein musical \"Pipe Dream\"?",
+      "answers": [
+        "John Steinbeck"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_47",
+      "title": "According to the old rhyme, Monday's child is fair of face. What is Tuesday's child full of?",
+      "answers": [
+        "Grace"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_48",
+      "title": "What color is the little engine in the children's book \"The Little Engine That Could\"?",
+      "answers": [
+        "Blue"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_49",
+      "title": "What writer is called \"el manco de Lepanto\" for his injury from a 1571 battle?",
+      "answers": [
+        "Miguel de Cervantes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "arts_trivia_26k_47_50",
+      "title": "What year was writer Arthur C. Clarke born?",
+      "answers": [
+        "1917"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_48",
+  "name": "Entertainment Trivia 26K 48",
+  "description": "Entertainment 2351 - 2400 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_48_01",
+      "title": "What singer was born in Havana in 1957, the daughter of a bodyguard employed by dictator Fulgencio Batista?",
+      "answers": [
+        "Gloria Estefan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_02",
+      "title": "What year did Tom Hanks win the Best Actor Oscar for his role in the film \"Philadelphia\"?",
+      "answers": [
+        "1993"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_03",
+      "title": "Who created Bugs Bunny?",
+      "answers": [
+        "Tex Avery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_04",
+      "title": "On what street do TV's \"Desperate Housewives\" live?",
+      "answers": [
+        "Wisteria Lane"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_05",
+      "title": "The show \"Ugly Betty\" is based on the telenovela \"Yo soy Betty la fea\" from what Latin American country?",
+      "answers": [
+        "Venezuela"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_06",
+      "title": "What movie is credited with popularizing the \"little black dress\"?",
+      "answers": [
+        "Breakfast at Tiffany's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_07",
+      "title": "Which Hollywood legend did the film \"The Good, the Bad and the Ugly\" help catapult into stardom?",
+      "answers": [
+        "Clint Eastwood"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_08",
+      "title": "What book did Jesse Eisenberg purchase during rehearsals for \"The Social Network\"?",
+      "answers": [
+        "\"C ++ For Dummies\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_09",
+      "title": "What kind of animal's kidnapping is solved in \"Ace Ventura: Pet Detective\"?",
+      "answers": [
+        "A dolphin's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_10",
+      "title": "What beer-centric movie begins with the MGM lion belching rather than roaring?",
+      "answers": [
+        "Strange Brew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_11",
+      "title": "What was Urkel’s first name on the TV show “Family Matters”?",
+      "answers": [
+        "Steve"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_12",
+      "title": "Michael Stipe was the lead singer of which band?",
+      "answers": [
+        "R.E.M."
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_13",
+      "title": "What movie did the villain Henry F. Potter appear in?",
+      "answers": [
+        "It's a Wonderful Life"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_14",
+      "title": "What decade is the TV show \"Bonanza\" set in?",
+      "answers": [
+        "1860s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_15",
+      "title": "What famous athlete starred in the film \"Dirty Dozen\"?",
+      "answers": [
+        "Jim Brown"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_16",
+      "title": "In which decade was Elvis Presley born?",
+      "answers": [
+        "1930s"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_17",
+      "title": "What movie did Michael J. Fox learn to skateboard for?",
+      "answers": [
+        "Back to the Future"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_18",
+      "title": "Which one of opera’s \"Three Tenor’s\" names translates in English as \"Quiet Sunday\"?",
+      "answers": [
+        "Placido Domingo"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_19",
+      "title": "How many sisters does Lincoln Loud have on the animated show \"The Loud House\"?",
+      "answers": [
+        "10"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_20",
+      "title": "The film \"Room 237\" is a documentary about which horror film?",
+      "answers": [
+        "The Shining"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_21",
+      "title": "In which movie did Humphrey Bogart play Charlie Allnut?",
+      "answers": [
+        "African Queen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_22",
+      "title": "What TV show takes place in the fictional city of Bedrock?",
+      "answers": [
+        "The Flintstones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_23",
+      "title": "What is Michael J. Fox's middle name?",
+      "answers": [
+        "Andrew"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_24",
+      "title": "What year did Cher release the single \"Believe\"?",
+      "answers": [
+        "1999"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_25",
+      "title": "What year was the first Academy Award awarded?",
+      "answers": [
+        "1929"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_26",
+      "title": "What composer founded the \"Barking Pumpkin\" record label?",
+      "answers": [
+        "Frank Zappa"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_27",
+      "title": "In season 14 of the TV show \"Big Brother\" what 2 competitors did Ashley date while in the house?",
+      "answers": [
+        "Ian and Frank"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_28",
+      "title": "Whose debut solo album was entitled \"Schizophonic\"?",
+      "answers": [
+        "Geri Halliwell's"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_29",
+      "title": "What is comedian Jon Stewart's full birth name?",
+      "answers": [
+        "Jonathan Stuart Leibowitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_30",
+      "title": "What character in \"Monty Python and the Holy Grail\" insists that \"It's just a flesh wound\"?",
+      "answers": [
+        "Black Knight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_31",
+      "title": "Who played the dusty innkeeper in the Christmas play in A Charlie Brown Christmas?",
+      "answers": [
+        "Pigpen"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_32",
+      "title": "Who was the lead singer for the band called the Police?",
+      "answers": [
+        "Sting"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_33",
+      "title": "Who narrated the 1995 film \"Judge Dredd\"?",
+      "answers": [
+        "James Earl Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_34",
+      "title": "Whose massively popular photo led to the creation of Google Images?",
+      "answers": [
+        "Jennifer Lopez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_35",
+      "title": "What is Ben Stiller's character's last name in the movie \"Meet the Parents\"?",
+      "answers": [
+        "Focker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_36",
+      "title": "\"Back to Us\" is the name of what band's 10th studio album?",
+      "answers": [
+        "Rascal Flatts'"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_37",
+      "title": "Who began his long TV career in 1969 as the weekend weatherman on WLWI?",
+      "answers": [
+        "David Letterman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_38",
+      "title": "What group's 1979 debut album was entitled \"Reproduction\"?",
+      "answers": [
+        "Human League"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_39",
+      "title": "Who is \"The Fastest Mouse in all Mexico\"?",
+      "answers": [
+        "Speedy Gonzales"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_40",
+      "title": "The character of Mike Myers features heavily in which series of horror movies?",
+      "answers": [
+        "Halloween"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_41",
+      "title": "Which actress keeps her Oscar in her bathroom so guests can hold it and make speeches in the mirror shame-free?",
+      "answers": [
+        "Kate Winslet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_42",
+      "title": "What won an Emmy for outstanding music direction in 1985?",
+      "answers": [
+        "Christmas In Washington"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_43",
+      "title": "Under what name did Eric Cartman appear as a calculus teacher in an inner-city school in season 12?",
+      "answers": [
+        "Eric Cartmenez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_44",
+      "title": "In \"The Matrix\", what color pill did Neo take?",
+      "answers": [
+        "The red pill"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_45",
+      "title": "The 2006 Mel Gibson movie \"Apocalypto\" concerns the demise of what ancient empire?",
+      "answers": [
+        "The Mayan Empire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_46",
+      "title": "Which character from The Simpsons tries to kill Bart Simpson on many occasions?",
+      "answers": [
+        "Sideshow Bob"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_47",
+      "title": "What did George Harrison's dentist do in April 1965 that changed the face of rock?",
+      "answers": [
+        "Gave the Beatles LSD"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_48",
+      "title": "Who directed the 1979 movie \"Apocalypse Now\"?",
+      "answers": [
+        "Francis Ford Coppola"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_49",
+      "title": "What film has the quote, \"What we've got here is...failure to communicate\"?",
+      "answers": [
+        "Cool Hand Luke"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_48_50",
+      "title": "What song by Don McLean talks about the day Buddy Holly died?",
+      "answers": [
+        "American Pie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

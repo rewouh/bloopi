@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_95",
+  "name": "Entertainment Trivia 26K 95",
+  "description": "Entertainment 4701 - 4750 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_95_01",
+      "title": "Charlie Brown's father was a what?",
+      "answers": [
+        "Barber"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_02",
+      "title": "Kathy Bates won the best actress Oscar in 1990 for what movie?",
+      "answers": [
+        "Misery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_03",
+      "title": "Who provided the original voice for Hank Hill?",
+      "answers": [
+        "Mike Judge"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_04",
+      "title": "Who received an Oscar for directing the 1986 movie \"Platoon\"?",
+      "answers": [
+        "Oliver Stone"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_05",
+      "title": "Who directed the 1978 film \"Halloween\"?",
+      "answers": [
+        "John Carpenter"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_06",
+      "title": "What occupation did Mary Richards have on \"The Mary Tyler Moore Show\"?",
+      "answers": [
+        "Assistant producer"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_07",
+      "title": "What actress shaved her head for her role in the movie \"Alien 3\"?",
+      "answers": [
+        "Sigourney Weaver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_08",
+      "title": "What film had Jack Nicholson's character in the Overlook Hotel for the winter?",
+      "answers": [
+        "The Shining"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_09",
+      "title": "What position was first held by John A. McDonald?",
+      "answers": [
+        "Prime Minister of Canada"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_10",
+      "title": "What singer was the first Latin-American actress to be paid $1 million for a movie role?",
+      "answers": [
+        "Jennifer Lopez"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_11",
+      "title": "What Beatles' song title character \"wears a face which she keeps in a jar by the door\"?",
+      "answers": [
+        "Eleanor Rigby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_12",
+      "title": "Which Spice girl was the only one named after a spice?",
+      "answers": [
+        "Ginger"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_13",
+      "title": "What is the name of the fishing boat that is featured in the film \"The Perfect Storm\"?",
+      "answers": [
+        "Andrea Gail"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_14",
+      "title": "What actress shaved her head for her role in the movie \"V for Vendetta\"?",
+      "answers": [
+        "Natalie Portman"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_15",
+      "title": "In the film \"Dragnet,\" who played Sgt. Joe Friday?",
+      "answers": [
+        "Dan Aykroyd"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_16",
+      "title": "Who played the role of the private investigator in the 1988 film \"Who Framed Roger Rabbit\"?",
+      "answers": [
+        "Bob Hoskins"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_17",
+      "title": "Who played the role of Hannibal Lector in the film \"Manhunter\"?",
+      "answers": [
+        "Brian Cox"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_18",
+      "title": "Which Hitchcock film starred Margaret Lockwood and Michael Redgrave?",
+      "answers": [
+        "The Lady Vanishes"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_19",
+      "title": "What actress shaved her head for her role in the movie \"THX 1138\"?",
+      "answers": [
+        "Maggie McOmie"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_20",
+      "title": "Who directed the Michael Jackson music videos for \"Thriller\" and \"Black and White\"?",
+      "answers": [
+        "John Landis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_21",
+      "title": "Who played the role of TV's B. J. Poteet?",
+      "answers": [
+        "Judith Ivey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_22",
+      "title": "What 90's TV show had characters who liked hanging out at the \"Peach Pit\"?",
+      "answers": [
+        "Beverly Hills 90210"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_23",
+      "title": "Who sang in a pop duo alongside Melanie Appleby?",
+      "answers": [
+        "Kim Appleby"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_24",
+      "title": "What was the name of Phoebe’s twin sister on \"Friends\"?",
+      "answers": [
+        "Ursula"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_25",
+      "title": "What is the name of the first videogame in the \"Warcraft\" series?",
+      "answers": [
+        "\"Orcs & Humans\""
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_26",
+      "title": "What 1975 #1 song by Van McCoy spawned a dance craze of the same name?",
+      "answers": [
+        "The Hustle"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_27",
+      "title": "Orlando Bloom portrayed what character in the 2004 film \"Troy\"?",
+      "answers": [
+        "Paris"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_28",
+      "title": "What is Homer Simpson's middle initial?",
+      "answers": [
+        "J"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_29",
+      "title": "What was the title of the Kirstie Alley TV show in which her character ran a lingerie company?",
+      "answers": [
+        "Veronica's Closet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_30",
+      "title": "What group wrote the 1979 hit single \"In the Navy\"?",
+      "answers": [
+        "The Village People"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_31",
+      "title": "What is baby Superman called on the planet Krypton?",
+      "answers": [
+        "Kal-El"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_32",
+      "title": "What character said, \"I may not be a smart man, but I know what love is\"?",
+      "answers": [
+        "Forrest Gump"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_33",
+      "title": "Who was the first female to be inducted into the Rock and Roll Hall Of Fame?",
+      "answers": [
+        "Aretha Franklin"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_34",
+      "title": "Who directed the classic horror film \"The Birds\"?",
+      "answers": [
+        "Alfred Hitchcock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_35",
+      "title": "What was the first Super Bowl to use Roman numerals in its title?",
+      "answers": [
+        "Super Bowl V"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_36",
+      "title": "Who played the role of Aileen in the 2003 movie \"Monster\"?",
+      "answers": [
+        "Charlize Theron"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_37",
+      "title": "Sean Penn won his first Academy Award for his role in which movie?",
+      "answers": [
+        "Mystic River"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_38",
+      "title": "In film, who is the alter ego of Daniel Hillard?",
+      "answers": [
+        "Mrs. Doubtfire"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_39",
+      "title": "What are the names of Brian Wilson’s two brothers in the original lineup of the Beach Boys.",
+      "answers": [
+        "Carl and Dennis"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_40",
+      "title": "What \"couple\" would be known as Fischbacher and Horn if they went by their last names?",
+      "answers": [
+        "Siegfried & Roy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_41",
+      "title": "In the 1939 film \"The Wizard of Oz\", what was used to simulate snow during the poppy scene?",
+      "answers": [
+        "Asbestos"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_42",
+      "title": "Who plays the role of Kissy Suzuki in the movie \"You Only Live Twice\"?",
+      "answers": [
+        "Mie Hama"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_43",
+      "title": "What popular designer was responsible for the wardrobe of \"The Fifth Element\"?",
+      "answers": [
+        "Jean Paul Gaultier"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_44",
+      "title": "What TV show featured the fictional band \"Drive Shaft\"?",
+      "answers": [
+        "Lost"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_45",
+      "title": "What is Jack's \"usual\" drink in the movie \"The Shining\"?",
+      "answers": [
+        "Bourbon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_46",
+      "title": "Who is the lead singer of the band Blur?",
+      "answers": [
+        "Damon Albarn"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_47",
+      "title": "What animated trio is made up of Master Shake, Frylock, and Meatwad?",
+      "answers": [
+        "Aqua Teen Hunger Force"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_48",
+      "title": "Who created Gomez, Mortia and Uncle Fester as a cartoon?",
+      "answers": [
+        "Charles Addams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_49",
+      "title": "What Hanna-Barbera cartoon character was known for the catchphrase \"Exit, Stage Left\" when dashing off?",
+      "answers": [
+        "Snagglepuss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_95_50",
+      "title": "Who had a 1990's hit with \"Them Girls Them Girls\"?",
+      "answers": [
+        "Zig and Zag"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

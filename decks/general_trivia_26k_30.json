@@ -1,0 +1,463 @@
+{
+  "id": "general_trivia_26k_30",
+  "name": "General Trivia 26K 30",
+  "description": "General 1451 - 1500 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "general"
+  ],
+  "items": [
+    {
+      "id": "general_trivia_26k_30_01",
+      "title": "Which US state is home to CNN?",
+      "answers": [
+        "Georgia"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_02",
+      "title": "What did Harry Houdini die from on Halloween in 1926?",
+      "answers": [
+        "Ruptured appendix"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_03",
+      "title": "What is Falaka?",
+      "answers": [
+        "Feet beating"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_04",
+      "title": "What theme park was opened in 2001 next to Disneyland?",
+      "answers": [
+        "Disney's California Adventure"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_05",
+      "title": "What is the name for what an archer carries his arrows in?",
+      "answers": [
+        "Quiver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_06",
+      "title": "What is Nelophobia the fear of?",
+      "answers": [
+        "Glass"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_07",
+      "title": "How many different railroads can be bought in the game of Monopoly?",
+      "answers": [
+        "Four"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_08",
+      "title": "What does it mean to \"86\" something?",
+      "answers": [
+        "Get rid of it"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_09",
+      "title": "Roger Bannister, the first athlete in history to run one mile in less than four minutes, was a native of what country?",
+      "answers": [
+        "Great Britain"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_10",
+      "title": "What was the original brand of cereal pitched by Snap, Crackle and Pop?",
+      "answers": [
+        "Rice Krispies"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_11",
+      "title": "What was Wayne Gretzky's jersey number during his professional hockey career?",
+      "answers": [
+        "99"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_12",
+      "title": "What breakfast favorite, with a hole in the middle, is equal to 4 slices of bread?",
+      "answers": [
+        "A bagel"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_13",
+      "title": "What is the legal term for a voluntary written statement made under oath?",
+      "answers": [
+        "Affidavit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_14",
+      "title": "In NATO's phonetic alphabet, what is the letter \"F\" referred to as?",
+      "answers": [
+        "Foxtrot"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_15",
+      "title": "What does an archer carry his arrows in?",
+      "answers": [
+        "A Quiver"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_16",
+      "title": "Who has been the pole sitter at a record six Indy 500s, from 1979 to 1991?",
+      "answers": [
+        "Rick Mears"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_17",
+      "title": "The bulk of the wine industry's corks come from what country?",
+      "answers": [
+        "Portugal"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_18",
+      "title": "Who said, \"I don't like to pay for the same real estate twice\"?",
+      "answers": [
+        "General George S Patton"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_19",
+      "title": "In the original \"Oregon Trail\" game, made in 1971, what were the four infectious diseases that could kill members of your party?",
+      "answers": [
+        "Typhoid, Cholera, Measles, Dysentery"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_20",
+      "title": "Which two books of the New Testament have names that begin with letter \"R\"?",
+      "answers": [
+        "Romans and Revelation"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_21",
+      "title": "Approximately 7.5 million of what can be created from a cord of wood?",
+      "answers": [
+        "Toothpicks"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_22",
+      "title": "The Clio Award is an award given in what field?",
+      "answers": [
+        "Advertising"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_23",
+      "title": "What English word has the most definitions/meanings?",
+      "answers": [
+        "Run"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_24",
+      "title": "Citizens of what empire are credited with starting the tradition of gift giving?",
+      "answers": [
+        "Romans"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_25",
+      "title": "What magazine ran the famous cover of a very pregnant Demi Moore in the buff?",
+      "answers": [
+        "Vanity Fair"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_26",
+      "title": "The \"Curse of the Bambino\" was a popular superstition in which sport?",
+      "answers": [
+        "Baseball"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_27",
+      "title": "What word describes the dominance of one state over a group of other states?",
+      "answers": [
+        "Hegemony"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_28",
+      "title": "The official Spalding NBA basketball is divided into how many segments?",
+      "answers": [
+        "Eight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_29",
+      "title": "Who was sued in 1999 by Rosa Parks after they used her name to title a hit song?",
+      "answers": [
+        "OutKast"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_30",
+      "title": "What goes up and down but remains in the same place?",
+      "answers": [
+        "Stairs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_31",
+      "title": "What beer brand shares a name with one of the Founding Father of the United States?",
+      "answers": [
+        "Samuel Adams"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_32",
+      "title": "At bingo, which number is two fat ladies?",
+      "answers": [
+        "88"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_33",
+      "title": "What is the process called by which people set out to amass large amounts of in-game currency to sell in the real world?",
+      "answers": [
+        "Gold farming"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_34",
+      "title": "What year was the restaurant chain \"Steak 'n Shake\" founded in?",
+      "answers": [
+        "1934"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_35",
+      "title": "What is the cap on the fire hydrant called?",
+      "answers": [
+        "Bonnet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_36",
+      "title": "What type of salad was invented by the owner of the Hollywood eatery the Brown Derby?",
+      "answers": [
+        "The Cobb Salad"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_37",
+      "title": "What kind of bird is the mascot for Fruit Loops?",
+      "answers": [
+        "Toucan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_38",
+      "title": "When was Nescafe's instant coffee first launched?",
+      "answers": [
+        "1938"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_39",
+      "title": "How tall are the Hollywood sign letters?",
+      "answers": [
+        "45 feet"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_40",
+      "title": "Which character in the movie \"The Shawshank Redemption\" bets Andy would be the first to crack on his first night in the prison?",
+      "answers": [
+        "Red"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_41",
+      "title": "Which one word can go before \"ache\", \"ring\" and \"wig\"?",
+      "answers": [
+        "Ear"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_42",
+      "title": "What is the traditional decorative sash worn around the middle of a Japanese kimono called?",
+      "answers": [
+        "Obi"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_43",
+      "title": "How many total candles do you need to light a menorah properly for the entire eight nights of Hanukkah?",
+      "answers": [
+        "44"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_44",
+      "title": "What company, founded by Jack Ma, shares its name with Arabian folktale hero?",
+      "answers": [
+        "Alibaba"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_45",
+      "title": "Where does the color sepia come from?",
+      "answers": [
+        "The ink of cuttlefish"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_46",
+      "title": "In computing, what is \"Hypertext Transfer Protocol\" typically abbreviated to?",
+      "answers": [
+        "HTTP"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_47",
+      "title": "What type of tea is flavored with oil from the bergamot orange?",
+      "answers": [
+        "Earl Grey"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_48",
+      "title": "Including macrons, the original Hawaiian alphabet has how many letters?",
+      "answers": [
+        "17"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_49",
+      "title": "How many segments are there for the number 8 on a digital clock?",
+      "answers": [
+        "Seven"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "general_trivia_26k_30_50",
+      "title": "What international event is celebrated every April 22nd?",
+      "answers": [
+        "Earth Day"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}

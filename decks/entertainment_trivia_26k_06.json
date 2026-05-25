@@ -1,0 +1,463 @@
+{
+  "id": "entertainment_trivia_26k_06",
+  "name": "Entertainment Trivia 26K 06",
+  "description": "Entertainment 251 - 300 from Anki Trivia 26k.",
+  "author": "ricardofig016",
+  "language": "us",
+  "tags": [
+    "trivia",
+    "entertainment"
+  ],
+  "items": [
+    {
+      "id": "entertainment_trivia_26k_06_01",
+      "title": "Who is Liza Minnelli's mother?",
+      "answers": [
+        "Judy Garland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_02",
+      "title": "In the movie \"Rambo:First Blood\", how many people did John Rambo kill?",
+      "answers": [
+        "One"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_03",
+      "title": "What model car did Thelma and Louise drive?",
+      "answers": [
+        "Ford Thunderbird"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_04",
+      "title": "Who won an Oscar for his role in the film 'The Fugitive\"?",
+      "answers": [
+        "Tommy Lee Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_05",
+      "title": "What Sesame Street Muppet was bright orange during the show's first season?",
+      "answers": [
+        "Oscar the Grouch"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_06",
+      "title": "What's the preferred screening time for cult showings of The Rocky Horror Picture Show?",
+      "answers": [
+        "Midnight"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_07",
+      "title": "Which Jackson family member had a role in the TV show \"Good Times\"?",
+      "answers": [
+        "Janet Jackson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_08",
+      "title": "Who was the chief photographer for \"Rolling Stone\" magazine from 1970 to 1983?",
+      "answers": [
+        "Annie Leibowitz"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_09",
+      "title": "How was Mark Feld better known in the 1970s?",
+      "answers": [
+        "Marc Bolan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_10",
+      "title": "In the TV series \"Leave It To Beaver\", what was Wally's best friend's name?",
+      "answers": [
+        "Eddie Haskell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_11",
+      "title": "Who portrayed Marshal Matt Dillon in the TV show \"Gunsmoke\"?",
+      "answers": [
+        "James Arness"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_12",
+      "title": "What 1985 movie takes place at the Sunny Shores retirement home?",
+      "answers": [
+        "Cocoon"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_13",
+      "title": "Which famous actress began her career playing Dorothy in the \"Wizard of Oz\"?",
+      "answers": [
+        "Judy Garland"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_14",
+      "title": "What TV show was set mainly at the Stratford Inn in rural Vermont?",
+      "answers": [
+        "Newhart"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_15",
+      "title": "Who was Boy George's love interest when his band Culture Club was active in the 1980s?",
+      "answers": [
+        "Bandmate Jon Moss"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_16",
+      "title": "According to Elton John, what were we hopping and bopping to?",
+      "answers": [
+        "Crocodile Rock"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_17",
+      "title": "What was the title of Eddie Murphy's first movie?",
+      "answers": [
+        "48 Hrs"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_18",
+      "title": "In \"The Wizard of Oz\", what was the lion looking for?",
+      "answers": [
+        "Courage"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_19",
+      "title": "\"Three's Company\" is an American remake of which British sitcom?",
+      "answers": [
+        "Man about the House"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_20",
+      "title": "What movie won the 2012 Best Picture Golden Globe Award for a Drama?",
+      "answers": [
+        "The Descendents"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_21",
+      "title": "What flamboyant British rockstar performed \"Wake Up Wendy\" for South Park's Chef Aid?",
+      "answers": [
+        "Elton John"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_22",
+      "title": "What animal guards the cave of Caerbannog in \"Monty Python and the Holy Grail\"?",
+      "answers": [
+        "Rabbit"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_23",
+      "title": "In which city was the 2000 movie \"Gladiator\" filmed?",
+      "answers": [
+        "Ouarzazate"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_24",
+      "title": "What screen legend made his final appearance in the movie \"Walk, Don't Run\"?",
+      "answers": [
+        "Cary Grant"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_25",
+      "title": "Which James Bond theme was a hit for Sheena Easton?",
+      "answers": [
+        "For Your Eyes Only"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_26",
+      "title": "In 1997, what country singer formed the band, The Ranch, with two fellow Australian musicians?",
+      "answers": [
+        "Keith Urban"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_27",
+      "title": "Lulu Roman was an original cast member of what long-running television series?",
+      "answers": [
+        "Hee Haw"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_28",
+      "title": "In the TV show \"The Simpsons\", Marge decided to sell what snack food?",
+      "answers": [
+        "Pretzels"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_29",
+      "title": "What elderly TV detective came out of retirement after his son, Hal, was killed?",
+      "answers": [
+        "Barnaby Jones"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_30",
+      "title": "Who was the front for the British band \"Culture Club\"?",
+      "answers": [
+        "Boy George"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_31",
+      "title": "Which actress, famous for her fruit hats, was the inspiration for the Chiquita banana logo?",
+      "answers": [
+        "Carmen Miranda"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_32",
+      "title": "In what 1929 film was John Wayne given on-screen credit at Duke Morrison?",
+      "answers": [
+        "Words and Music"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_33",
+      "title": "How many women speak in the film \"The Shawshank Redemption\"?",
+      "answers": [
+        "Two"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_34",
+      "title": "What princess was traditionally called Badr al-Budur (or Badroulbadour) before Disney renamed her?",
+      "answers": [
+        "Jasmine"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_35",
+      "title": "In \"Legally Blonde\", what magazine does Elle Woods refer to as \"the Bible\"?",
+      "answers": [
+        "Cosmopolitan"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_36",
+      "title": "Which professional sport in the United States commonly has multiple games on Christmas Day?",
+      "answers": [
+        "NBA"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_37",
+      "title": "Eric Carmen's hit song \"Hungry Eyes\" has been used in a popular TV ad campaign for what snack food?",
+      "answers": [
+        "M&Ms"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_38",
+      "title": "Which film won an Oscar for Best Visual Effects in 1990?",
+      "answers": [
+        "Total Recall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_39",
+      "title": "What pop duo recorded \"Sweet Dreams (Are Made of This)\"?",
+      "answers": [
+        "Eurythmics"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_40",
+      "title": "In \"Goodfellas\", what character did Robert De Niro portray?",
+      "answers": [
+        "Jimmy Conway"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_41",
+      "title": "In what town does the 1946 movie \"It's a Wonderful Life\" take place?",
+      "answers": [
+        "Bedford Falls"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_42",
+      "title": "What athlete's late-night talk show was cancelled after only 8 weeks, in 1998?",
+      "answers": [
+        "Magic Johnson"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_43",
+      "title": "What movie's first sequel featured the subtitle \"The Adventure Home\"?",
+      "answers": [
+        "Free Willy"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_44",
+      "title": "Who played the role of Jim Stark in the movie \"Rebel Without a Cause\"?",
+      "answers": [
+        "James Dean"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_45",
+      "title": "Mort Goldman from the TV show \"Family Guy\", is based on a character from what comedy duo?",
+      "answers": [
+        "The Jerky Boys"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_46",
+      "title": "In which US state was rapper \"Eminem\" born?",
+      "answers": [
+        "Missouri"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_47",
+      "title": "Which house only became one of the Great Houses of Westeros after Aegon Targaryen’s invasion?",
+      "answers": [
+        "House Tyrell"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_48",
+      "title": "Kyle Korver is frequently mistaken for which famous actor?",
+      "answers": [
+        "Ashton Kutcher"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_49",
+      "title": "What British TV series featured Eddie \"Fitz\" Fitzgerald and Jane \"Panhandle\" Penhaligon?",
+      "answers": [
+        "Cracker"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    },
+    {
+      "id": "entertainment_trivia_26k_06_50",
+      "title": "What other late-night veteran succeeded Ed McMahon as the host of \"Star Search\" in a 2003 revival?",
+      "answers": [
+        "Arsenio Hall"
+      ],
+      "mnemonic": "",
+      "notes": ""
+    }
+  ]
+}
