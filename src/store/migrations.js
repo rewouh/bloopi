@@ -23,6 +23,7 @@ export function defaultProgress() {
     userNotes: {},
     reviewStreak: 0,
     lastReviewDate: null,
+    lastModified: null,
     welcomed: false,
   };
 }

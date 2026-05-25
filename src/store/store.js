@@ -14,10 +14,14 @@ export function getState() {
   return { ...state };
 }
 
-export function setState(partial) {
+// fromSync: true skips lastModified update so imported/synced timestamps are preserved
+export function setState(partial, { fromSync = false } = {}) {
   Object.assign(state, partial);
   if (partial.progress !== undefined) {
-    save(partial.progress);
+    if (!fromSync) {
+      state.progress.lastModified = new Date().toISOString();
+    }
+    save(state.progress);
   }
   const snapshot = { ...state };
   listeners.forEach(fn => fn(snapshot));

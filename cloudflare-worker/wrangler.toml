@@ -1,0 +1,7 @@
+name = "bloopi-sync"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "60aa7b41f9054d77bf000f6082f6f2d3"

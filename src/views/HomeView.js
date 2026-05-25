@@ -3,6 +3,8 @@ import { useState, useEffect } from 'https://esm.sh/preact/hooks';
 import { getState, setState, subscribe } from '../store/store.js';
 import { getSessionItems } from '../logic/scheduler.js';
 import { DataPorter } from '../components/DataPorter.js';
+import { SyncPanel } from '../components/SyncPanel.js';
+import { getSyncConfig, saveSyncConfig, fetchRemote, pushToRemote } from '../logic/sync.js';
 
 function formatCountdown(ms) {
   if (ms <= 0) return null;
@@ -48,7 +50,6 @@ function buildCalendar(progress) {
 
     const label = i === 0 ? 'Today' : dayStart.toLocaleDateString('en', { weekday: 'short' });
 
-    // Today: overdue + due later today. Future days: scheduled for that day.
     const count = items.filter(it => {
       if (!it.nextReview || it.stage < 1 || it.stage >= 9) return false;
       const nr = new Date(it.nextReview);
@@ -70,10 +71,10 @@ function getDayBreakdown(progress, dayStart, dayEnd, isToday) {
     if (nr >= dayEnd) continue;
 
     if (isToday) {
-      if (nr < dayStart) { overdueCount++; continue; } // overdue from a previous day
-      if (nr <= now) { overdueCount++; continue; }     // due earlier today
+      if (nr < dayStart) { overdueCount++; continue; }
+      if (nr <= now) { overdueCount++; continue; }
       const h = nr.getHours();
-      byHour[h] = (byHour[h] || 0) + 1;               // due later today
+      byHour[h] = (byHour[h] || 0) + 1;
     } else {
       if (nr < dayStart) continue;
       const h = nr.getHours();
@@ -89,14 +90,22 @@ function getDayBreakdown(progress, dayStart, dayEnd, isToday) {
   );
 }
 
+function formatDate(iso) {
+  if (!iso) return 'unknown date';
+  return new Date(iso).toLocaleString();
+}
+
 export function HomeView() {
-  const [state, setLocalState] = useState(getState());
+  const [state,        setLocalState]  = useState(getState());
   const [selectedDayIdx, setSelectedDayIdx] = useState(null);
-  const [, setTick] = useState(0);
+  const [,             setTick]        = useState(0);
+  const [syncConfig,   setSyncConfig]  = useState(() => getSyncConfig());
+  const [syncing,      setSyncing]     = useState(false);
+  const [syncMsg,      setSyncMsg]     = useState(null); // { type: 'ok'|'error', text }
+  const [conflict,     setConflict]    = useState(null); // { remote }
 
   useEffect(() => subscribe(setLocalState), []);
 
-  // Re-evaluate due items every minute so the UI updates when a review window opens
   useEffect(() => {
     const id = setInterval(() => setTick(t => t + 1), 60_000);
     return () => clearInterval(id);
@@ -136,8 +145,98 @@ export function HomeView() {
     setSelectedDayIdx(prev => prev === i ? null : i);
   }
 
+  async function handleSync() {
+    if (!syncConfig?.enabled) return;
+    setSyncing(true);
+    setSyncMsg(null);
+    try {
+      const remote = await fetchRemote(syncConfig.keyHash);
+      const local  = getState().progress;
+
+      if (!remote) {
+        // Nothing in the cloud yet — push local
+        await pushToRemote(syncConfig.keyHash, local);
+        const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
+        saveSyncConfig(updated);
+        setSyncConfig(updated);
+        setSyncMsg({ type: 'ok', text: 'Saved to cloud.' });
+        return;
+      }
+
+      const localEmpty  = !local.lastModified && Object.keys(local.items || {}).length === 0;
+      const remoteNewer = remote.lastModified && (!local.lastModified || remote.lastModified > local.lastModified);
+
+      if (localEmpty || remoteNewer) {
+        // Ask the user what to do — unless local is completely empty (auto-pull)
+        if (localEmpty) {
+          applyRemote(remote);
+        } else {
+          setConflict({ remote });
+        }
+        return;
+      }
+
+      // Local is newer — push
+      await pushToRemote(syncConfig.keyHash, local);
+      const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
+      saveSyncConfig(updated);
+      setSyncConfig(updated);
+      setSyncMsg({ type: 'ok', text: 'Cloud updated.' });
+    } catch (err) {
+      setSyncMsg({ type: 'error', text: err.message || 'Sync failed.' });
+    } finally {
+      setSyncing(false);
+    }
+  }
+
+  async function applyRemote(remote) {
+    setSyncing(true);
+    try {
+      setState({ progress: remote }, { fromSync: true });
+      const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
+      saveSyncConfig(updated);
+      setSyncConfig(updated);
+      setSyncMsg({ type: 'ok', text: 'Progress loaded from cloud.' });
+    } finally {
+      setConflict(null);
+      setSyncing(false);
+    }
+  }
+
+  async function keepLocal() {
+    setSyncing(true);
+    try {
+      const local = getState().progress;
+      await pushToRemote(syncConfig.keyHash, local);
+      const updated = { ...syncConfig, lastSynced: new Date().toISOString() };
+      saveSyncConfig(updated);
+      setSyncConfig(updated);
+      setSyncMsg({ type: 'ok', text: 'Local data kept and saved to cloud.' });
+    } catch (err) {
+      setSyncMsg({ type: 'error', text: err.message || 'Sync failed.' });
+    } finally {
+      setConflict(null);
+      setSyncing(false);
+    }
+  }
+
   return html`
     <div class="home-view">
+      ${conflict && html`
+        <div class="sync-conflict-backdrop">
+          <div class="sync-conflict-modal">
+            <h3>☁ Cloud has newer data</h3>
+            <p>Cloud saved: <strong>${formatDate(conflict.remote.lastModified)}</strong></p>
+            <p>Local saved: <strong>${formatDate(getState().progress.lastModified)}</strong></p>
+            <p class="sync-conflict-hint">Which version do you want to keep?</p>
+            <div class="sync-conflict-actions">
+              <button type="button" class="outline secondary" onClick=${keepLocal}>Keep local</button>
+              <button type="button" onClick=${() => applyRemote(conflict.remote)}>Use cloud</button>
+            </div>
+          </div>
+        </div>
+      `}
+
       <h1 class="app-title">Bloopi</h1>
       <p class="home-subtitle">Let your memory blob.</p>
 
@@ -160,6 +259,22 @@ export function HomeView() {
           Start lessons
         </button>
       </div>
+
+      ${syncConfig?.enabled && html`
+        <div class="sync-bar">
+          <button
+            type="button"
+            class="outline secondary sync-btn"
+            onClick=${handleSync}
+            disabled=${syncing}
+          >
+            ${syncing ? '⟳ Syncing…' : '☁ Sync'}
+          </button>
+          ${syncMsg && html`
+            <span class="sync-msg sync-msg--${syncMsg.type}">${syncMsg.text}</span>
+          `}
+        </div>
+      `}
 
       <div class="calendar-section">
         <div class="calendar-header">
@@ -204,8 +319,13 @@ export function HomeView() {
       `}
 
       <details class="porter-details">
-        <summary>💾 Import / Export data</summary>
+        <summary>💾 Import / Export / Sync</summary>
         <${DataPorter} />
+        <hr class="porter-divider" />
+        <${SyncPanel}
+          config=${syncConfig}
+          onConfigChange=${cfg => { setSyncConfig(cfg); setSyncMsg(null); }}
+        />
       </details>
     </div>
   `;
